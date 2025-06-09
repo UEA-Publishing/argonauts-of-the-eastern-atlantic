@@ -1,23 +1,18 @@
 ---
 title: About
 layout: page
-order: 503
+order: 7
 outputs:
   - html
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+While 2022 marks the centenary of the publication of Malinowski’s Argonauts of the Western Pacific, for me it also marks ten years since I completed my by PhD thesis, and twenty since I submitted my MPhil thesis. Both were produced digitally in the age of the internet, yet submission necessitated printing and binding of endless sheets of paper. Both theses have had far more readers in their digital form on Academia.edu.
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own.
+Pandemic conditions since 2020 have witnessed a shift in University life, with dissertations increasingly submitted and examined exclusively in digital form.
 
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
+Encouraged by academic colleagues to generate a scholarly monograph on the museum and collection of the London Missionary Society, on which I have been working since 2006, whenever I sat down to do this, I struggled with the constraints and process of paper-based publication.
 
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
+This is my attempt to give my research a form that makes sense.
 
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
-
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+Chris Wingfield
+12 January 2022
