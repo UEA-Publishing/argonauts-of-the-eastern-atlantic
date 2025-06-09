@@ -13,7 +13,7 @@ figure_list:
     alt: "Cover of Argonauts of the Western Pacific by Bronislaw Malinowski, featuring a silhouette of a canoe and tropical scenery."
 
   - id: "fig-intro-part-1-2"
-    src: figures/introduction/intro-part-1-2.png
+    src: figures/introduction/intro-part-1-2.jpg
     label: "The Golden Bough"
     caption: "The Golden Bough by James Frazer, published in 12 volumes between 1905 and 1915"
     credit: ""
