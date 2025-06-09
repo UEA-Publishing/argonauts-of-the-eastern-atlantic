@@ -61,8 +61,8 @@ figure_list:
     credit: ""
     alt: "Colorful braided rope featuring intertwining red, blue, and green strands, creating a vibrant decorative pattern."
 
-  - id: "fig-cintro-part-1-9"
-    src: figures/part-1/1/c1-1.png
+  - id: "fig-intro-part-1-9"
+    src: figures/introduction/intro-part-1-9.jpg
     label: ""
     caption: "Things Fall Apart by Chinua Achebe - cover for first edition, published in 1958"
     credit: ""
