@@ -6,10 +6,10 @@ figure_list:
     credit: "Library of Congress Prints and Photographs Division"
 
   - id: "fig-intro-part-1-1"
-    src: figures/introduction/intro-part-1-1.png
+    src: figures/introduction/intro-part-1-1.jpg
     label: "Argonauts of the Western Pacific"
     caption: "Argonauts of the Western Pacific by Bronislaw Malinowski, originally published in 1922" 
-    credit: "..."
+    credit: ""
     alt: "Cover of Argonauts of the Western Pacific by Bronislaw Malinowski, featuring a silhouette of a canoe and tropical scenery."
 
   - id: "fig-intro-part-1-2"
