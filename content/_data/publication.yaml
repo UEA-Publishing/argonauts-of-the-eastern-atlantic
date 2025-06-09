@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'http://localhost:8000/'
+url: 'https://argonauts-of-the-eastern-atlantic.netlify.app'
 
 # ------------------------------------------------------------------------------
 # Title & Description
