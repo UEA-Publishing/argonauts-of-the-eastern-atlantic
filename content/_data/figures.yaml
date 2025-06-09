@@ -6,56 +6,56 @@ figure_list:
     credit: "Library of Congress Prints and Photographs Division"
 
   - id: "fig-intro-part-1-1"
-    src: figures/introduction/intro-part-1-2.jpg
+    src: figures/introduction/intro-part-1-2
     label: "Argonauts of the Western Pacific"
     caption: "Argonauts of the Western Pacific by Bronislaw Malinowski, originally published in 1922" 
     credit: "..."
     alt: "Cover of Argonauts of the Western Pacific by Bronislaw Malinowski, featuring a silhouette of a canoe and tropical scenery."
 
   - id: "fig-intro-part-1-2"
-    src: figures/introduction/intro-part-1-3.png
+    src: figures/introduction/intro-part-1-3
     label: "The Golden Bough"
     caption: "The Golden Bough by James Frazer, published in 12 volumes between 1905 and 1915"
     credit: ""
     alt: "A collection of twelve hardcover volumes of The Golden Bough by Sir James George Frazer, featuring a cream-colored dust jacket."
 
   - id: "fig-intro-part-1-3"
-    src: figures/introduction/intro-part-1-4.jpg
+    src: figures/introduction/intro-part-1-4
     label: ""
     caption: "Ulysses by James Joyce, first edition published in 1922"
     credit: ""
     alt: "A worn copy of Ulysses by James Joyce, featuring a blue cover with white lettering, resting on a flat surface."
 
   - id: "fig-intro-part-1-4"
-    src: figures/introduction/intro-part-1-5.jpg
+    src: figures/introduction/intro-part-1-5
     label: ""
     caption: "Bronislaw Malinowski in his tent in the Trobriands"
     credit: ""
     alt: "A dark, historical image captures a group of individuals seated inside a tent, with figures standing outside amidst tropical vegetation."
 
   - id: "fig-intro-part-1-5"
-    src: figures/introduction/intro-part-1-6.jpg
+    src: figures/introduction/intro-part-1-6
     label: ""
     caption: "Malinowski's tent on the beach in the Trobriands"
     credit: ""
     alt: "A coastal settlement with huts among palm trees, set against a lush jungle backdrop. A person stands beside a tent."
 
   - id: "fig-intro-part-1-6"
-    src: figures/introduction/intro-part-1-7.jpg
+    src: figures/introduction/intro-part-1-7
     label: ""
     caption: "Trobriand Cricket (cover for 1973 film). the missionary Gilmour is remembered for introducting the game as a substitute for warfare"
     credit: ""
     alt: "Cover of Trobriand Cricket. Depicting Trobriand Islanders playing cricket, showcasing cultural adaptation and colonial influences, with vivid greenery in the background."
   
   - id: "fig-intro-part-1-7"
-    src: figures/introduction/intro-part-1-8.jpg
+    src: figures/introduction/intro-part-1-8
     label: ""
     caption: "Soulava kula valuable, collected by Bronislaw Malinowski in the Trobriand Islands"
     credit: "British Museum 20122037.1"
     alt: "Close-up of a decorative textile featuring circular coral and shell beads, strung together with dark thread on a blue fabric base."
 
   - id: "fig-intro-part-1-8"
-    src: figures/introduction/intro-part-1-9.png
+    src: figures/introduction/intro-part-1-9
     label: ""
     caption: "Three stranded cord"
     credit: ""
