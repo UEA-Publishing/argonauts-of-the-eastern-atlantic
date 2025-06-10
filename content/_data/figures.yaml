@@ -675,7 +675,112 @@ figure_list:
     label: ""
     caption: "Execution of rebels on the parade ground in CummingsburghPlate 11 in Joshua Bryant’s 1824 Account of an insurrection of the negro slaves in the colony of Demerara, which broke out on the 18th of August, 1823."
     credit: "John Carter Brown Library 05684-9"
-    alt: "A historic image depicting a large gathering in a field with spectators, horse riders, and buildings in the background under a cloudy sky."
+    alt: "An historic image depicting a large gathering in a field with spectators, horse riders, and buildings in the background under a cloudy sky."
+
+  - id: "fig-c6-1"
+    src: figures/part-1/6/c6-1.jpg
+    label: ""
+    caption: "HINDOO IDOLS, Copied from Models, sent by the Rev. H. Townley, from the Bengal Auxiliary society. Missionary Sketches, No. VII, October 1819."
+    credit: "Archive.org"
+    alt: "Illustration of various Hindu idols labeled with names like Vishnu, Ganesha, and Shiva, showcasing traditional artistry and cultural significance."
+  
+  - id: "fig-c6-2"
+    src: figures/part-1/6/c6-2.jpg
+    label: ""
+    caption: "William Ward baptising a Hindoo in the Ganges at Serampore1821 stipple engraving on paper by Henry Meyer, based on painting by John Jackson."
+    credit: "Scottish National Portrait Gallery (CC BY NC). EPL 98.1."
+    alt: "A missionary baptizes an individual in the Ganges River, surrounded by a landscape featuring palm trees and distant buildings."
+  
+  - id: "fig-c6-3"
+    src: figures/part-1/6/c6-3.png
+    label: ""
+    caption: "Representation of the Indian Idol, Ganesa. Published in Evangelical Magazine, volume 26, March 1818, p. 125."
+    credit: "Hathi Trust"
+    alt: "An illustration of the Indian deity Ganesa, depicted with an elephant head, four arms, and various symbolic objects, surrounded by text."
+  
+  - id: "fig-c6-4"
+    src: figures/part-1/6/c6-4.jpg
+    label: ""
+    caption: Representations of One of the Native Schools at Chinsurah In the East Indies. Missionary Sketches, No. XI, October 1820."
+    credit: "Archive.org"
+    alt: "Illustration of a native school in Chinsurah, East Indies, featuring an exterior view and interior classroom setup with students and furniture."
+  
+  - id: "fig-c6-5"
+    src: figures/part-1/6/c6-5.jpg
+    label: ""
+    caption: "HINDOO IDOLS, Copied from Models, sent by the Rev. H. Townley, from the Bengal Auxiliary societyMissionary Sketches, No. VII, October 1819."
+    credit: "Archive.org"
+    alt: "Illustration of various Hindu idols labeled with names like Vishnu, Ganesha, and Shiva, showcasing traditional artistry and cultural significance."
+  
+  - id: "fig-c6-6"
+    src: figures/part-1/6/c6-6.jpg
+    label: ""
+    caption: "Kalee, the Black Goddess of IndiaMissionary Sketches, No. X, July 1820."
+    credit: "Archive.org"
+    alt: "An illustration of Kalee, the Black Goddess of India, depicted with multiple arms, adorned with skulls and a fierce expression and holding a human head."
+  
+  - id: "fig-c6-7"
+    src: figures/part-1/6/c6-7.png
+    label: ""
+    caption: "Front View of Union Chapel, Calcutta. Missionary Sketches, No. XIX, October 1822."
+    credit: "Archive.org"
+    alt: ""
+  
+  - id: "fig-c6-8"
+    src: figures/part-1/6/c6-8.jpg
+    label: ""
+    caption: "Representation of Doorgá, A principal Goddess of the HindoosMissionary Sketches, No. XII, January 1821."
+    credit: "Archive.org"
+    alt: "An illustration depicting the goddess Doorgá, with multiple arms, standing on a lion, surrounded by symbolic elements and creatures."
+  
+  - id: "fig-c6-9"
+    src: figures/part-1/6/c6-9.jpg
+    label: ""
+    caption: "Fabulous History of the Temple of Juggernaut, in the Province of Orissa, in the East IndiesMissionary Sketches, No. XVII, April 1822."
+    credit: "Archive.org"
+    alt: "An illustration features the figure of Juggernaut and his siblings, Boloram and Subattra, with text about the temple's history."
+  
+  - id: "fig-c6-10"
+    src: figures/part-1/6/c6-10.jpg
+    label: ""
+    caption: "Car of the Idol JuggernautMissionary Sketches, No. XVIII, July 1822."
+    credit: "Archive.org"
+    alt: "Illustration of the Juggernaut idol's car, surrounded by a crowd, from the July 1822 edition of Missionary Sketches."
+  
+  - id: "fig-c6-11"
+    src: figures/part-1/6/c6-11.jpg
+    label: ""
+    caption: "Front View of Union Chapel, CalcuttaMissionary Sketches, No. XIX, October 1822."
+    credit: "Archive.org"
+    alt: "Illustration of the Union Chapel in Calcutta, featuring detailed architecture and columns, published in October 1822 for a missionary society."
+  
+  - id: "fig-c6-12"
+    src: figures/part-1/6/c6-12.jpg
+    label: ""
+    caption: "The Rev. W. Carey, D.D. and his Brahmin Pundit (Mrityunjaya Vidyalankar)1832 line engraving by Joseph John Jenkins after painting by Robert Home (now at Regent’s Park College, University of Oxford)."
+    credit: "National Portrait Gallery (CC BY NC ND). NPG D2180."
+    alt: "Two gentlemen seated at a table, engaged in discussion, surrounded by books and writing tools, indicating a scholarly atmosphere."
+  
+  - id: "fig-c6-13"
+    src: figures/part-1/6/c6-13.jpg
+    label: ""
+    caption: "Case of Indian IdolsPublished in ‘The Missionary Museum No. V’. 1860. Juvenile Missionary Magazine, 17, p.161, Author’s Personal Collection."
+    credit: "Chris Wingfield Personal Collection"
+    alt: "An intricate illustration featuring human figures, sculptures, and a seated figure on a lion, set against a backdrop of art."
+  
+  - id: "fig-c6-14"
+    src: figures/part-1/6/c6-14.jpg
+    label: ""
+    caption: "The Buddhist and Other IdolsPublished in ‘The Missionary Museum No. XI’. 1861. Juvenile Missionary Magazine, 18, p.60, Author’s Personal Collection."
+    credit: "Chris Wingfield Personal Collection"
+    alt: "Illustration of various Buddhist statues and idols, arranged in a display with intricate details, showcasing religious art and symbolism."
+  
+  - id: "fig-c6-15"
+    src: figures/part-1/6/c6-15.jpg
+    label: ""
+    caption: "A Model of the Famous Juggernaut CarPhotograph published in Helen C. Gordon. 1899. ‘Lesser Known Museums. The London Missionary Society’s Museum. By Helen C. Gordon’ in English Illustrated Magazine, XXI, pp. 81-84. Hathi Trust (Public Domain, Google-digitized).https.//babel.hathitrust.org/cgi/pt?id=mdp.39015056060018&view=1up&seq=102"
+    credit: "Hathi Trust (Public Domain, Google-digitized)"
+    alt: "A black and white image of a decorative wooden figure covered in textures, flanked by two distinct carved figures with facial features."
 
   - id: "evans"
     src: figures/evans.jpg

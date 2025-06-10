@@ -93,6 +93,7 @@ In the years that followed, the front cover of Missionary Sketches featured furt
 
 In January 1821, the cover featured a representation of “Doorga, a principal goddess of the Hindoos” based on a drawing made and purchased at Chinsurah along with a number of others, distinctive in that:
 
+{% figure "fig-c6-7" %}
 {% figure "fig-c6-8" %}
 
 
