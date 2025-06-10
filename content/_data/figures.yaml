@@ -187,6 +187,139 @@ figure_list:
     credit: "Published in 1799 as an illustration in: A missionary voyage to the southern Pacific Ocean, performed in the years 1796, 1797, 1798, in the ship Duff, commanded by Captain James Wilson. Compiled from journals of the officers and the missionaries [chiefly by W. Wilson]. And illustrated with maps, charts, and views, drawn by Mr. William Wilson, and engraved by the most eminent artists : with a preliminary discourse on the geography and history of the South Sea Islands, and an appendix, including details never before published, of the natural and civil state of Otaheite."
     alt: "Engraving of Rio de Janeiro's harbor showcasing the Benedictine Monastery, ships, and surrounding mountains under a cloudy sky."
 
+  - id: "fig-c2-1"
+    src: figures/part-1/2/c2-1.jpg
+    label: ""
+    caption: "The Revd. Mr Kicherer, Mary, John, Martha. published by T. Williams, Stationer’s Court, 1 Jan 1804."
+    credit: "From the Schomburg Center for Research in Black Culture, Manuscripts, Archives and Rare Books Division"
+    alt: "A sketch depicting a man in a suit discussing with three seated individuals, each wearing simple clothing, set in a historical context."
+
+  - id: "fig-c2-2"
+    src: figures/part-1/2/c2-2.png
+    label: ""
+    caption: "Screenshot of title page from the Evangelical Magazine 1804"
+    credit: "Google Books"
+    alt: "An 1804 page from The Evangelical Magazine featuring illustrations of three individuals in traditional attire alongside text about charitable contributions."
+
+  - id: "fig-c2-3"
+    src: figures/part-1/2/c2-3.jpg
+    label: ""
+    caption: "Temoteitei of the Marquesas print at the British Museum. 1872,0810.662. Originally published in January 1800 in the Evangelical Magazine"
+    credit: "print at the British Museum. 1872,0810.662. Originally published in January 1800 in the Evangelical Magazine "
+    alt: "An illustration of Temoteitei, a Marquesan, featured in the Evangelical Magazine, highlighting his upper body in an oval frame."
+
+  - id: "fig-c2-4"
+    src: figures/part-1/2/c2-4.jpg
+    label: ""
+    caption: "The Revd. Mr Kicherer, Mary, John & Martha. published by the Ephemera Society as item of the Month in April 2012"
+    credit: "published by the Ephemera Society as item of the Month in April 2012"
+    alt: "A historical illustration depicting a man in formal attire reading from a book to three seated individuals, labeled with their names."
+
+  - id: "fig-c2-5"
+    src: figures/part-1/2/c2-5.png
+    label: ""
+    caption: "Captain James Wilson and First Mate William Wilson (his nephew) cover page of The Converted HottentotsTract XVI in the Cottage Library of Christian KnowledgeGoogle Books"
+    credit: ""
+    alt: ""
+
+  - id: "fig-c2-6"
+    src: figures/part-1/2/c2-6.jpg
+    label: ""
+    caption: "View from the Castle at Cape Town. painted by Lady Anne Barnard shortly after the British invasion, 1797"
+    credit: "With thanks to Culture Connect"
+    alt: "A historic watercolor depiction of a coastal town surrounded by mountains, featuring British flags and early 19th-century architecture."
+
+  - id: "fig-c2-7"
+    src: figures/part-1/2/c2-7.png
+    label: ""
+    caption: "Portrait of Rev. J. T. Van der Kemp published in the Evangelical Magazine, April 1799"
+    credit: "Google Books"
+    alt: "A historical page from the April 1799 Evangelical Magazine, featuring an engraved portrait and text about missionary work in Africa."
+
+  - id: "fig-c2-8"
+    src: figures/part-1/2/c2-8.jpg
+    label: ""
+    caption: "South African Sendinggestig Museum. missionary meeting house established in Long Street, Cape Town in 1801 by the South African Missionary Society"
+    credit: "Wikimedia"
+    alt: "Historic building with a beige facade, prominent columns, arched windows, and a decorative gable, featuring people walking by."
+
+  - id: "fig-c2-9"
+    src: figures/part-1/2/c2-9.jpg
+    label: ""
+    caption: "Bushman Hottentots armed for an expedition. published by Samuel Daniell January 1st 1804. Based on drawings made during the 1801-2 Truter Somerville expedition into the southern African interior"
+    credit: "© The Trustees of the British Museum: 1913, 0129.1-30"
+    alt: "Three indigenous hunters stand on a rocky outcrop, adorned in traditional attire, with mountainous terrain behind them."
+
+  - id: "fig-c2-10"
+    src: figures/part-1/2/c2-10.jpg
+    label: ""
+    caption: "Boors Returning from Hunting. engraving published by Samuel Daniell November 20th 1804. Based on drawings made during the 1801-2 Truter Somerville expedition into the southern African expedition"
+    credit: "© The Trustees of the British Museum: 1913, 0129.1-30"
+    alt: "A colorful scene depicting horsemen returning from hunting, with a dog and figures along a hillside near a house."
+
+  - id: "fig-c2-11"
+    src: figures/part-1/2/c2-11.jpg
+    label: ""
+    caption: "Kaptein Koopman's staff from Genadendal in 1814, showing the British coat of arms"
+    credit: "Held at the Genadendal Mission Museum"
+    alt: "A hand grips a polished brass-handled cane adorned with a crest, set against a lush green lawn background."
+
+  - id: "fig-c2-12"
+    src: figures/part-1/2/c2-12.jpg
+    label: ""
+    caption: "Map showing geographical features of the Western Cape. locations of CapeTown, Stellenbosch and the Roggeveld Mountains marked"
+    credit: "FreeWorldMaps"
+    alt: "Map of the Western Cape province in South Africa, showcasing geographical features, cities, and neighboring provinces."
+  
+  - id: "fig-c2-13"
+    src: figures/part-1/2/c2-13.jpg
+    label: ""
+    caption: "Portrait of J.J. Kicherer 'Missionary to the Boscheman' published in the Evanglelical Magazine"
+    credit: "British Museum: 1872,0810.570"
+    alt: "An engraving depicting J.J. Kicherer, a missionary to the Boschemen, featured in the Evangelical Magazine."
+
+  - id: "fig-c2-14"
+    src: figures/part-1/2/c2-14.png
+    label: ""
+    caption: "A Bosjesman in Armour by Samuel Daniell. Published in Travels Into the Interior of Southern Africa by John Barrow in 1806"
+    credit: "Google Books"
+    alt: "An individual dressed in traditional attire, holding a curved staff and adorned with ornamental headgear and a cape."
+
+  - id: "fig-c2-15"
+    src: figures/part-1/2/c2-15.png
+    label: ""
+    caption: "Title page to Transactions of the Missionary Society. Volume II, published in 1804"
+    credit: "Hathi Trust"
+    alt: "Title page of Transactions of the Missionary Society, detailing Rev. Mr. Kicherer's narrative on South African missions, published 1804."
+
+  - id: "fig-c2-16"
+    src: figures/part-1/2/c2-16.jpg
+    label: ""
+    caption: "Residence of Rev. Mr Kicherer on the Zak River. published in 1804 opposite the title page of Transactions of the Missionary, volume II"
+    credit: "Council for World Mission Archive, SOAS Library"
+    alt: "A detailed illustrated map of the Rev. Kicherer's residence on the Zak River, showing buildings, gardens, and surrounding landscape."
+
+  - id: "fig-c2-17"
+    src: figures/part-1/2/c2-17.png
+    label: ""
+    caption: "Mantis, the Soothsayer. Published in Missionary Sketches, 1820"
+    credit: "Archive.org"
+    alt: "An illustration of a Mantis, labeled Mantis, the Soothsayer, featuring detailed descriptions and context about the insect."
+
+  - id: "fig-c2-18"
+    src: figures/part-1/2/c2-18.jpg
+    label: ""
+    caption: "Kicherer's Missionary Institute at the Sack-rivers gatepublished in Hinrich Lichtenstein’s 1812 Travels in Southern Africa in the Years, 1803, 1804, 1805 and 1806."
+    credit: "New York Public Library"
+    alt: "Historical illustration of Kicherer's Missionary Institute, featuring tents, livestock, and figures engaged in various activities."
+
+  - id: "fig-c2-19"
+    src: figures/part-1/2/c2-19.jpeg
+    label: ""
+    caption: "Reinet House, the Old Pastornow a Museum, built as a parsonage for Kicherer by the Cape government, using the labour of enslaved people."
+    credit: "Wikimedia"
+    alt: "White colonial-style building with green doors, featuring a grand staircase and an arched entrance framed by trees."
+
   - id: "evans"
     src: figures/evans.jpg
     caption: "*Walker Evans, profile, hand up to face*, 1937."
