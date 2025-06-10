@@ -551,6 +551,132 @@ figure_list:
     credit: "Google Books"
     alt: "An excerpt of a poem reflecting on the relinquished idols of Otaheite in a Missionary Museum, exploring themes of faith and enlightenment."
 
+  - id: "fig-c5-1"
+    src: figures/part-1/5/c5-1.jpg
+    label: ""
+    caption: "RattleIdentified as that described in the Missionary Museum Catalogue, 1826."
+    credit: "© The Trustees of the British Museum. Am1981,Q.330"
+    alt: "A traditional rattle from Guiana, featuring a round wooden body, a thick handle, and decorated with colorful feathers."
+  
+  - id: "fig-c5-2"
+    src: figures/part-1/5/c5-2.jpg
+    label: ""
+    caption: "Portrait of John Smith"
+    credit: "Council for World Mission"
+    alt: "Portrait of John Smith, a historical figure from British Guiana, with his name and dates of appointment and death inscribed below."
+  
+  - id: "fig-c5-3"
+    src: figures/part-1/5/c5-3.png
+    label: ""
+    caption: "Google Earth Imageshowing locations of Le Ressouvenir, Demerara & the Mission Chapel in New Amsterdam Berbice on the north coast of South America"
+    credit: "Google Earth"
+    alt: "Map showing the coastal areas of Guyana, highlighting Le Ressouvenir and Mission Chapel in New Amsterdam, Berbice."
+  
+  - id: "fig-c5-4"
+    src: figures/part-1/5/c5-4.jpg
+    label: ""
+    caption: Bethel Chapel and Mission House at Le Resouvenir. Published in Missionary Sketches XIV in July 1821."
+    credit: "Archive.org"
+    alt: "Illustration of a chapel and mission house surrounded by palm trees in Demerara, showcasing a lush, tropical landscape."
+  
+  - id: "fig-c5-5"
+    src: figures/part-1/5/c5-5.png
+    label: ""
+    caption: "Plantation Le RessouvenirPublished in Missionary Sketches XXVI in July 1824."
+    credit: "Archive.org"
+    alt: "An engraving of Plantation Le Resouvenir, featuring Mr. Post's house, Coffee Lodge, and Mr. Smith's Chapel amid palm trees and water."
+  
+  - id: "fig-c5-6"
+    src: figures/part-1/5/c5-6.jpg
+    label: ""
+    caption: "Coastal Road in DemeraraOil painting by Joshua Bryant, a British artist who lived in Demerara after 1809, undertaking paintings on commission."
+    credit: "Slaves & Highlanders"
+    alt: "A serene landscape depicts figures strolling, horseback riding, and enjoying nature, with ships sailing in the distance under a blue sky."
+  
+  - id: "fig-c5-7"
+    src: figures/part-1/5/c5-7.jpg
+    label: ""
+    caption: "Mission Chapel, New Amsterdam, BerbiceFirst opened in 1819, the chapel was rebuilt in 1825 and 1944. It is remembered as the first church in Guyana not to have separate seating for enslaved people."
+    credit: "The Historical Marker Database"
+    alt: "A bright blue and white church building with arched windows, featuring a central dome and a sign for a congregational church."
+  
+  - id: "fig-c5-8"
+    src: figures/part-1/5/c5-8.png
+    label: ""
+    caption: "Obeah Figure from Jamaica. Confiscated from Alexander Ellis who was convicted of practising Obeah in Morant Bay in 1888 and sentenced to fifteen days imprisonment.The figure was taken to England by Com. Hasting R.N. and the image was printed as part of an article on Obeah in Folk-lore in June 1893."
+    credit: "Archive.org"
+    alt: "Engraving of a reclining figure, adorned with elaborate feathers on top."
+  
+  - id: "fig-c5-9"
+    src: figures/part-1/5/c5-9.jpg
+    label: ""
+    caption: "Rosa ordered to be flogged. Wood engraving by Slader after Harvey printed in an 1828 abolitionist pamplet The Miseries of Slavery. Echoing the story of America, Rosa a pregnant worker on a coffee plantation in Berbice, who miscarried after being flogged for asking for lighter duties in 1825."
+    credit: "National Maritime Museum. ZBA2555"
+    alt: "A woman kneels in distress as a man holds a whip, while another man instructs him in a lush, oppressive environment. Titled Rosa Ordered to Be Flogged."
+  
+  - id: "fig-c5-10"
+    src: figures/part-1/5/c5-10.jpg
+    label: ""
+    caption: "Plantation drive, Demerara. Oil painting by Joshua Bryant, a British artist who lived in Demerara after 1809, undertaking paintings on commission.The painting illustrates the ongoing presence of indigenous people alongside the plantations of Guyana."
+    credit: "Slaves & Highlanders"
+    alt: "A lush landscape featuring a dirt path lined with palm trees, a thatched house, people engaged in daily activities, and distant factories."
+  
+  - id: "fig-c5-11"
+    src: figures/part-1/5/c5-11.jpg
+    label: ""
+    caption: "Wooden club with cotton bindingAcquired when the Missionary Museum closed in 1910.British Museum Am1910,-.456"
+    credit: "© The Trustees of the British Museum. Am1910.456"
+    alt: "A ceremonial object featuring intricate carvings of figures, tied with textured fabric and decorative cord, against a dark background."
+  
+  - id: "fig-c5-12"
+    src: figures/part-1/5/c5-12.jpg
+    label: ""
+    caption: "Rattle. Acquired from the London Missionary Society.British Museum. Am1981,Q.330"
+    credit: "© The Trustees of the British Museum. Am1981,Q.330"
+    alt: "An artistic wooden instrument featuring a rounded body and a handle adorned with colorful feather embellishments."
+  
+  - id: "fig-c5-13"
+    src: figures/part-1/5/c5-13.png
+    label: ""
+    caption: "British Museum Loan Slip from 1890British Museum Am1981,Q.330"
+    credit: "© The Trustees of the British Museum. Am1981,Q.330"
+    alt: "A detailed sketch of a rattle from Guyana, featuring a stick handle and a spherical body adorned with vibrant green feathers."
+  
+  - id: "fig-c5-14"
+    src: figures/part-1/5/c5-14.png
+    label: ""
+    caption: "Piai's rattle (Arawak), Pomeroon District, Guyana. Published in Walter E. Roth’s 1913 An Enquiry into the Animism and Folk-lore of the Guiana Indians, p.330.Archive"
+    credit: "Archive.org"
+    alt: "Illustration of Piai's rattle (Arawak), featuring a rounded head with feather decoration and a long handle."
+  
+  - id: "fig-c5-15"
+    src: figures/part-1/5/c5-15.jpg
+    label: ""
+    caption: "Rev. John Wray, BerbiceStipple engraving published 1 March 1832."
+    credit: "National Portrait Gallery. NPG D13272"
+    alt: "An engraved portrait of Rev. John Wray, dressed in a dark overcoat with a white cravat, set against a light background."
+  
+  - id: "fig-c5-16"
+    src: figures/part-1/5/c5-16.jpg
+    label: ""
+    caption: "Retreat of Lieutenant Brady Plate in Joshua Bryant’s 1824 Account of an insurrection of the negro slaves in the colony of Demerara, which broke out on the 18th of August, 1823."
+    credit: "John Carter Brown Library. 05684-5"
+    alt: "A historical illustration depicting Lieutenant Brady's retreat, with soldiers and locals amidst a tropical landscape."
+  
+  - id: "fig-c5-17"
+    src: figures/part-1/5/c5-17.jpg
+    label: ""
+    caption: "Five of the culprits in chains, as they appeared on 20 September 1823. Plate 12 in Joshua Bryant’s 1824 Account of an insurrection of the negro slaves in the colony of Demerara, which broke out on the 18th of August, 1823."
+    credit: "John Carter Brown Library 05684-11"
+    alt: "Quatered image showing people hanging from gallows."
+  
+  - id: "fig-c5-18"
+    src: figures/part-1/5/c5-18.jpg
+    label: ""
+    caption: "Execution of rebels on the parade ground in CummingsburghPlate 11 in Joshua Bryant’s 1824 Account of an insurrection of the negro slaves in the colony of Demerara, which broke out on the 18th of August, 1823."
+    credit: "John Carter Brown Library 05684-9"
+    alt: "A historic image depicting a large gathering in a field with spectators, horse riders, and buildings in the background under a cloudy sky."
+
   - id: "evans"
     src: figures/evans.jpg
     caption: "*Walker Evans, profile, hand up to face*, 1937."
