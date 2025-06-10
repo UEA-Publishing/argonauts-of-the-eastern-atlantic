@@ -782,6 +782,223 @@ figure_list:
     credit: "Hathi Trust (Public Domain, Google-digitized)"
     alt: "A black and white image of a decorative wooden figure covered in textures, flanked by two distinct carved figures with facial features."
 
+  - id: "fig-c7-1"
+    src: figures/part-1/7/c7-1.jpg
+    label: ""
+    caption: "BarkclothWith printed pattern, and number three label at the top.British Museum Accession Number Oc1921,1005.12.a"
+    credit: "© The Trustees of the British Museum. Oc1921,1005.12."
+    alt: "A textured fabric featuring interwoven diamond patterns in black and beige, labeled with a small white tag marked 3."
+ 
+  - id: "fig-c7-2"
+    src: figures/part-1/7/c7-2.jpg
+    label: ""
+    caption: "His Majesty's Cutter MermaidInk Sketch 85 [1817] in Phillip Parler King album of drawings and engravings, 1802-1902."
+    credit: "State Library of New South Wales, PXC767"
+    alt: "A detailed pencil sketch of a sailing ship with rigging, labeled with features, on yellowed paper; dated 1857."
+ 
+  - id: "fig-c7-3"
+    src: figures/part-1/7/c7-3.jpg
+    label: ""
+    caption: "Fare Harbour, Island of HuahineDrawn by John Dennis from a sketch by D. TyermanPlate II in Voyage and Travels by the Rev. Daniel Tyerman and George Bennet, Esq, Volume I, 1831."
+    credit: "British Library Digital Store 10024.f.3."
+    alt: "An illustrated scene of Papeete Harbor, Huahine, featuring boats and a mountainous backdrop under a sunlit sky."
+ 
+  - id: "fig-c7-4"
+    src: figures/part-1/7/c7-4.jpg
+    label: ""
+    caption: "Rev. Daniel TyermanEngraved by Penner Sears & Co from an original miniatureFrontispiece in Voyage and Travels by the Rev. Daniel Tyerman and George Bennet, Esq, Volume I, 1831."
+    credit: "British Library Digital Store 10024.f.3."
+    alt: "A portrait of Rev. Daniel Tyerman, dressed in 19th-century formal attire, featuring detailed engravings and classical style elements."
+ 
+  - id: "fig-c7-5"
+    src: figures/part-1/7/c7-5.jpg
+    label: ""
+    caption: "George Bennet Esq.Engraved by Penner Sears & Co from a painting by J. Jackson, R.A.Frontispiece in Voyage and Travels by the Rev. Daniel Tyerman and George Bennet, Esq, Volume II, 1831."
+    credit: "British Library Digital Store 10024.f.3."
+    alt: "An engraved portrait of a man in a dark coat with a white shirt, titled George Bennett Esq. at the bottom."
+ 
+  - id: "fig-c7-7"
+    src: figures/part-1/7/c7-7.png
+    label: ""
+    caption: "Kuakini, Governor of HawaiiEngraved by by S.S. Jocelyn from a Sketch by William Ellis, published 1825Frontispiece in A Journal of a Tour Around Hawaii, the Largest of the Sandwich Islands, By a Deputation from the Missiona on Those Islands, 1825 Boston. Crocker and BrewsterGoogle Books"
+    credit: "Google Books"
+    alt: "A historical illustration of a well-dressed man in a dark coat and cravat, set against a textured, lightly shaded background."
+ 
+  - id: "fig-c7-8"
+    src: figures/part-1/7/c7-8.jpg
+    label: ""
+    caption: "A Man and Woman of Sandwich Islands. Cook's Voyage OctavoEngraved by W. AngusThey have been indentified as Kana’ina and Poeta."
+    credit: "Library of Congress. 2018661283"
+    alt: "Antique illustration depicting a man and woman from the Sandwich Islands, showcasing traditional attire and adornments."
+ 
+  - id: "fig-c7-9"
+    src: figures/part-1/7/c7-9.jpg
+    label: ""
+    caption: "Wooden temple figureProbably representing Ku-ka’ili-moku, the god of warBritish Museum Oc,LMS.223"
+    credit: "© The Trustees of the British Museum. Oc,LMS.223"
+    alt: "A tall, carved wooden statue depicting a muscular figure with a fierce face and elaborate headdress, showcasing intricate detailing."
+ 
+  - id: "fig-c7-10"
+    src: figures/part-1/7/c7-10.jpg
+    label: ""
+    caption: "Decorated Tiputa, or barkcloth ponchoWith slit at centre for the head, from the Society Islands (Tahiti), unknown date.British Museum Oc.1982"
+    credit: "© The Trustees of the British Museum. Oc.1982"
+    alt: "Textile featuring intricate red patterns on a beige background, showcasing floral and zigzag designs."
+ 
+  - id: "fig-c7-11"
+    src: figures/part-1/7/c7-11.jpg
+    label: ""
+    caption: "Barkcloth sampleDecorated with patterns, from Hawai’iLikely collected by William Ellis 1822-1823.British Museum Oc.1921,1005.11"
+    credit: "© The Trustees of the British Museum. Oc.1921,1005.11"
+    alt: "Close-up of a textile showcasing intricate black and beige geometric patterns, with minor wear and fraying along the edges."
+ 
+  - id: "fig-c7-12"
+    src: figures/part-1/7/c7-12.jpg
+    label: ""
+    caption: "Chart of the Sandwich IslesShowing relative positions of the islands. Honolulu is marked Honoruru, Kawaihae Bay as Towaihae Bay and Kealekekua Bay as Kearekekua BayPublished December 18, 1826 and included in William Ellis 1827 Narrative of a Tour Through Hawaii (London. Third Edition)."
+    credit: "Smithsonian Libraries"
+    alt: "Map of the Sandwich Isles (Hawaii), featuring detailed islands, coastal features, and latitude/longitude markings."
+ 
+  - id: "fig-c7-13"
+    src: figures/part-1/7/c7-13.jpg
+    label: ""
+    caption: "Wooden bowls from Hawai'iThat on the right was acquired from the London Missionary Society, and was likely collected by Ellis, Tyerman or Bennet.British Museum Oc,LMS.220"
+    credit: "© The Trustees of the British Museum. Oc,LMS.220"
+    alt: "Three handcrafted wooden vessels displayed on a brown surface: an oval dish, a mug with a handle, and a rounded bowl."
+ 
+  - id: "fig-c7-14"
+    src: figures/part-1/7/c7-14.jpg
+    label: ""
+    caption: "Lei Niho Palaoa - neck ornamentMade from human hair and whale tooth.Collected by William Ellis 1822-1823, and presented to the Missionary Museum.British Museum Oc.LMS.218"
+    credit: "© The Trustees of the British Museum. c.LMS.218"
+    alt: "A whale tooth neck ornament, attached to long, braided dark cord, resting on a gray background."
+ 
+  - id: "fig-c7-15"
+    src: figures/part-1/7/c7-15.jpg
+    label: ""
+    caption: "Barkcloth sampleDecorated with patternsLikely collected by William Ellis 1822-1823.British Museum Oc.1921,1005.16.a"
+    credit: "© The Trustees of the British Museum. Oc.1921,1005.16.a"
+    alt: "Textured fabric piece with a gray background adorned by reddish-brown leaf patterns, showing minor wear and frayed edges."
+ 
+  - id: "fig-c7-16"
+    src: figures/part-1/7/c7-16.jpg
+    label: ""
+    caption: "A Hura (hula), or Native Danceperformed in the presence of the Governor of KairuaEngraving by J.. Mc Ghag from a sketch by William EllisPublished 31 March 1826 and included in William Ellis 1827 Narrative of a Tour Through Hawaii (London. Third Edition).Smithsonian Libraries"
+    credit: "Smithsonian Libraries"
+    alt: "A lively native dance performance before an audience, featuring drummers, traditional attire, and a lush tropical backdrop."
+ 
+  - id: "fig-c7-17"
+    src: figures/part-1/7/c7-17.png
+    label: ""
+    caption: "A Missionary preachingon the lava at Kokukano, HawaiiEngraving by S.S. Jocelyn from a sketch by William EllisPublished in A Journal of a Tour Around Hawaii, the Largest of the Sandwich Islands, Boston 1825.Google Books"
+    credit: "Google Books"
+    alt: "A missionary stands before a gathering of Hawaiians, preaching on lava rocks, with distant pyramids in the background."
+ 
+  - id: "fig-c7-18"
+    src: figures/part-1/7/c7-18.jpg
+    label: ""
+    caption: "City of David, RaiateaDrawn by John Dennis from a sket by D. Tyerman. Engraved by Fenner Sears & Co.Plate V in Voyage and Travels by the Rev. Daniel Tyerman and George Bennet, Esq, Volume I, 1831.Wellcome Collection Volume 183101Google Books"
+    credit: "Wellcome Collection Volume 183101 Google Books"
+    alt: "A landscape engraving of the City of David in Balah, featuring mountains, boats on water, and a cloudy sky."
+ 
+  - id: "fig-c7-19"
+    src: figures/part-1/7/c7-19.jpg
+    label: ""
+    caption: "Makoa and Kuakini, Governor of Hawai'iEngraving by C. Taylo, based on sketches by William Ellis.In this version Kuakini, unlike that published in Boston in 1825, Kuakini is wearing an ‘ahu ‘ula, or feather cloak.Included in William Ellis 1827 Narrative of a Tour Through Hawaii (London. Third Edition)."
+    credit: "Smithsonian Libraries"
+    alt: "Two historical figures depicted in a vintage engraving. One is seated, while the other stands, showcasing traditional attire and adornments."
+ 
+  - id: "fig-c7-20"
+    src: figures/part-1/7/c7-20.jpg
+    label: ""
+    caption: "The South-West End of the Volcano of Kirau-e-aEngraving by W. Cook, based on a sketch by William Ellis.Included in William Ellis 1827 Narrative of a Tour Through Hawaii (London. Third Edition).Smithsonian Libraries"
+    credit: "Google Books"
+    alt: "A historic engraving depicting volcanic activity in Hawaii, featuring steaming vents and people observing the landscape."
+ 
+  - id: "fig-c7-21"
+    src: figures/part-1/7/c7-21.jpg
+    label: ""
+    caption: "Procession at the funeral of KeopualaniPublished in Missionary Sketches No. XXXI, October 1825Archive.org"
+    credit: "Archive.org"
+    alt: "An illustration depicting a royal procession in Hawaii, with attendees, palm trees, and ships in the background, dated October 1825."
+ 
+  - id: "fig-c7-22"
+    src: figures/part-1/7/c7-22.jpg
+    label: ""
+    caption: "Sketch of Part of the Village of Honolulu, in Oahu. Showing the house of Auna and the school house, presumably with Auna in the foreground under the umbrella. Published in Missionary Sketches No. XXVII, October 1824"
+    credit: "Archive.org"
+    alt: "Black and white sketch of a village in Honolulu, with thatched huts, palm trees, and residents walking, labeled with structures."
+ 
+  - id: "fig-c7-23"
+    src: figures/part-1/7/c7-23.png
+    label: ""
+    caption: "Engraving by Barker showing the meeting between Kuakini and relatives of Keopuolani. Numbers refer to named individuals.1. Kuakini, 2. Hoapiri, husband of Keopuolani, 3. Kauikeouli, the young prince, 4. Nahienaena, the young princess, 5. Kamehamaru, the favourite queen of Liholiho, 6. Wahinepio, sister of Karaimoku, 7. Kalahua, mother of Kamehamaru, 8. Kaiko, near relative of Keopuolani, 9. Keoua, wife of Kuakini."
+    credit: "Hathi Trust"
+    alt: "A historic illustration of a wailing scene with people mourning, featuring huts, a flag in the background, and a gathering crowd."
+ 
+  - id: "fig-c7-24"
+    src: figures/part-1/7/c7-24.png
+    label: ""
+    caption: "Engraving by Barker. Numbers refer to groupings. 1. Foreigners, 2. Missionaries, 3. Favourite attendants of Keupuolani, 4. Corpse. pall-bearers the four queens of Liholiho and the two principal women, 5. The Prince and Princess, 6. The King and Hoapiri, 7. Karaimoku and his brother Boki, 8. King Taumauarii and Ka’ahumanu, 9. Kuakini and Kalakia. 10. Pila and Wahinepio, 11. Kaikioeva and Keaveamahi, 12. Naihi and Kapiolani"
+    credit: "Hathi Trust"
+    alt: "Illustration of a funeral procession by the sea, featuring solemn figures lined up with a cannon salute in the background."
+ 
+  - id: "fig-c7-25"
+    src: figures/part-1/7/c7-25.png
+    label: ""
+    caption: "The house in which the bones of Keave and other ancient kings of Hawaii are depositedwith their idols standing around.Engraving by S.S. Jocelyn from a sketch by William EllisPublished in A Journal of a Tour Around Hawaii, the Largest of the Sandwich Islands, Boston 1825."
+    credit: "Google Books"
+    alt: "An engraved depiction of a Hawaiian tomb, surrounded by idols and palm trees, showcasing cultural heritage with ocean in the background."
+ 
+  - id: "fig-c7-26"
+    src: figures/part-1/7/c7-26.jpg
+    label: ""
+    caption: "The Depository of the Kings of Hawai'iadjoining the Place of Refuge at HonaunauEngraving by J. Archer, based on a sketch by William Ellis.Published 31 March 1826 and included in William Ellis 1827 Narrative of a Tour Through Hawaii (London. Third Edition).Smithsonian Libraries"
+    credit: "Smithsonian Libraries"
+    alt: "An 1826 illustration of the Hawaiian kings' depository near the Place of Refuge, featuring palm trees, a thatched hut, and statues."
+ 
+  - id: "fig-c7-27"
+    src: figures/part-1/7/c7-27.jpg
+    label: ""
+    caption: "Barkcloth samplewith marbled coloued patterns, from Hawai’iLikely collected by William Ellis 1822-1823.British Museum Oc.1921,1005.6"
+    credit: "© The Trustees of the British Museum. Oc.1921,1005.6"
+    alt: "A textured piece of barkcloth with a mottled pattern in shades of black, orange, and cream, resembling natural stone."
+ 
+  - id: "fig-c7-28"
+    src: figures/part-1/7/c7-28.jpg
+    label: ""
+    caption: "Barkcloth samplewith geometric designs, from Hawai’iLikely collected by William Ellis 1822-1823.British Museum Oc.1921,1005.13"
+    credit: "© The Trustees of the British Museum. Oc.1921,1005.13"
+    alt: "A fragment of patterned fabric featuring elongated diamond shapes and intricate black and beige designs, showcasing textile artistry."
+ 
+  - id: "fig-c7-29"
+    src: figures/part-1/7/c7-29.jpg
+    label: ""
+    caption: "Barkcloth samplewith blocks of black stripes, grid lines and circular motifs, from Hawai’iLikely collected by William Ellis 1822-1823.British Museum Oc.1921,1005.13"
+    credit: "© The Trustees of the British Museum. Oc.1921,1005.13"
+    alt: "A piece of ancient fabric featuring alternating stripes in dark brown and tan, showcasing intricate patterns and textures."
+ 
+  - id: "fig-c7-30"
+    src: figures/part-1/7/c7-30.jpg
+    label: ""
+    caption: "Barkcloth samplewith parallel bands of alternating black and reddish brown crossed lines, from Hawai’iLikely collected by William Ellis 1822-1823.British Museum Oc.1921,1005.10"
+    credit: "© The Trustees of the British Museum. Oc.1921,1005.10"
+    alt: "A folded textile featuring repeating patterns of orange and black stripes."
+ 
+  - id: "fig-c7-31"
+    src: figures/part-1/7/c7-31.jpg
+    label: ""
+    caption: "Gourd decorated with alternating panels of stars and wavy linesLikely collected by William Ellis 1822-1823.British Museum Oc.LMS.219"
+    credit: "© The Trustees of the British Museum. Oc.LMS.219"
+    alt: "Round, reddish-brown pottery bowl featuring geometric patterns and a smooth finish."
+ 
+  - id: "fig-c7-32"
+    src: figures/part-1/7/c32.jpg
+    label: ""
+    caption: "God image made from feathers and basketryFrom Hawai’i, originally in the Leverian collection and then at the London Missionary Society Museum until 1890British Museum Oc.LMS.221"
+    credit: "© The Trustees of the British Museum. Oc.LMS.221"
+    alt: "A stylized, tall wooden sculpture of a face with exaggerated features, adorned with textured fabric and shells."
+
   - id: "evans"
     src: figures/evans.jpg
     caption: "*Walker Evans, profile, hand up to face*, 1937."
