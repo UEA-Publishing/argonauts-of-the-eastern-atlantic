@@ -1377,6 +1377,104 @@ figure_list:
     credit: ""
     alt: "Illustration of three curved objects labeled as trombash, es-sellem, and Australian bommereng, with descriptive text about their features."
 
+  - id: "fig-c11-1"
+    src: figures/part-1/11/c11-1.jpg
+    label: ""
+    caption: "No original images surviveThis is a ghost image for an artefact we know existed, based on a 17th – 18th century Indo-Portuguese ivory Madonna and Child"
+    credit: "Minneapolis Institute of Art (VV BY 4.0). 2019.10.10"
+    alt: "A statue of a woman in flowing garments holding a child, depicted in soft white tones against a textured gray background."
+ 
+  - id: "fig-c11-2"
+    src: figures/part-1/11/c11-2.jpg
+    label: ""
+    caption: "Title page for the Catalogue of the Missionary Museum, Austin FriarsPrinted in 1826."
+    credit: "© British Library Board (General Reference Collection 4766.e.19.(2.)"
+    alt: "A printed catalogue page from the 1826 Missionary Museum detailing exhibits, admission rules, and open hours in London."
+ 
+  - id: "fig-c11-3"
+    src: figures/part-1/11/c11-3.jpg
+    label: ""
+    caption: "Representations of Hindoo IdolsMissionary Sketches, No. XIX, April 1825. Internet Archive (Public Domain). https.//archive.org/details/missionarysketch00lond/page/n112/mode/1up"
+    credit: "Archive.org"
+    alt: "Two Hindu idols: left, Indra, King of Heaven, seated with outstretched hands; right, Garuda, King of Birds, kneeling with wings spread."
+ 
+  - id: "fig-c11-4"
+    src: figures/part-1/11/c11-4.jpg
+    label: ""
+    caption: "Representation of Lakshmi, the Celebrated Hindoo GoddessMissionary Sketches, No. XXX, July 1825. Internet Archive (Public Domain)."
+    credit: "Archive.org"
+    alt: "Illustration of Lakshmi, the revered Hindu goddess, adorned with intricate details and standing on a decorative pedestal."
+ 
+  - id: "fig-c11-5"
+    src: figures/part-1/11/c11-5.jpg
+    label: ""
+    caption: "Final page for the Catalogue of the Missionary Museum, Austin FriarsPrinted in 1826.© British Library Board (General Reference Collection 4766.e.19.(2.)"
+    credit: "© British Library Board (General Reference Collection 4766.e.19.(2.)"
+    alt: "A historical document outlining a bequest to the London Missionary Society, detailing terms for transferring funds after death."
+ 
+  - id: "fig-c11-6"
+    src: figures/part-1/11/c11-6.png
+    label: ""
+    caption: "Bar chart showing listings in the 1826 catalogue arranged by geographical region, with categorisation by colour.Red shows ‘Idols’, dominating the Indian collections in particular, Blue shows ‘Natural History’ while ‘Green’ shows everything else (efforts of natural genius)"
+    credit: "Produced by Chris Wingfield"
+    alt: "Bar graph comparing data across regions: Africa and Pacific Islands lead, with categories for Remainder (green), Idols (red), and Natural History (blue)."
+ 
+  - id: "fig-c11-7"
+    src: figures/part-1/11/c11-7.png
+    label: ""
+    caption: "Bar chart showing listings in the 1826 catalogue arranged by geographical region, with further categorisation by colour.Here Green shows ‘Natural History’ and Red shows ‘Idols’ but other colours are allocated to the other categories listed on the Catalogue’s title page (Dresses, Manufactures & Domestic Utensils, Instruments of War), while an additional category has been added for ‘Publications’, which demonstrates how significant these were as part of the collection from China."
+    credit: "Produced by Chris Wingfield"
+    alt: "Bar chart displaying various categories (publications, instruments of war, etc.) across regions like Africa, China, and India."
+ 
+  - id: "fig-c11-8"
+    src: figures/part-1/11/c11-8.jpg
+    label: ""
+    caption: "The Buddhist and Other IdolsPublished in ‘The Missionary Museum No. XI’. 1861. Juvenile Missionary Magazine, 18, p.60,"
+    credit: "Chris Wingfield Personal Collection"
+    alt: "An illustration of various Buddhist idols and sculptures displayed on shelves, with framed artwork in the background."
+ 
+  - id: "fig-c11-9"
+    src: figures/part-1/11/c11-9.jpg
+    label: ""
+    caption: "Scene upon the Terrace of the Great Dagon Pagoda.Watercolour by Lieutenant Joseph Moore, made during the British occupation of Rangoon, and published in 1826.Library of Congress (Public Domain). 2021670151"
+    credit: "https://www.loc.gov/item/2021670151/"
+    alt: "A historical scene depicting a large stupa surrounded by people, with a prominent bell structure in the foreground under a lush green canopy."
+ 
+  - id: "fig-c11-10"
+    src: figures/part-1/11/c11-10.jpg
+    label: ""
+    caption: "Representation of the Hindoo Idol Surya, or the Sun.Image depicting a cast at the East India Company Museum, made by ‘Mr Wilson’ at the Temple of Shiva at Benares.Missionary Sketches, No. XXXII, January 1825. Internet Archive (Public Domain)."
+    credit: "Archive.org"
+    alt: "An ornate illustration of the Hindu deity Surya riding a chariot pulled by seven horses, surrounded by a radiant sun emblem."
+ 
+  - id: "fig-c11-11"
+    src: figures/part-1/11/c11-11.jpg
+    label: ""
+    caption: "Description from the Catalogue of the Missionary Museum, Austin FriarsPrinted in 1826 (p. 31)© British Library Board (General Reference Collection 4766.e.19.(2.)"
+    credit: "https://bll01.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990022371070100000&context=L&vid=44BL_INST:BLL01&lang=en&search_scope=Not_BL_Suppress&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,Catalogue%20of%20the%20Missionary%20Museum,%20Austin%20Friars&offset=0"
+    alt: "Historical text detailing the Virgin Mary and Child statue's significance to local Catholics and community reactions to its removal."
+ 
+  - id: "fig-c11-12"
+    src: figures/part-1/11/c11-12.jpg
+    label: ""
+    caption: "Representations of Hindoo Deity BrahmaMissionary Sketches, No. XXXIV, July 1826. Internet Archive (Public Domain)."
+    credit: "Archive.org"
+    alt: "Illustration of the Hindu deity Brahma seated in a meditative pose, surrounded by ornate decorations and items of reverence."
+ 
+  - id: "fig-c11-13"
+    src: figures/part-1/11/c11-13.jpg
+    label: ""
+    caption: "Indian Madonna and Child17th – 18th century Indo-Portuguese Ivory of the kind likely to have been located in the Roman Catholic Church at Mysore in 1825.Minneapolis Institute of Art (CC BY 4.0). 2019.10.10"
+    credit: "https://collections.artsmia.org/art/131406/madonna-and-child-india"
+    alt: "A carved figurine depicting a woman holding a child, detailed with intricate lines and textures, set against a black background."
+ 
+  - id: "fig-c11-14"
+    src: figures/part-1/11/c11-14.jpg
+    label: ""
+    caption: "View from the Mission House, BangalorePrinted in Oil Colours by G. Baxter (Patentee), 3 Charterhouse Square, London.Published as the frontispiece to William Campbell’s British India, 1839"
+    credit: "https://books.google.co.uk/books?id=H4ZJAAAAMAAJ&newbks=1&newbks_redir=0&dq=British%20India%20in%20its%20relation%20to%20the%20decline%20of%20Hinduism%2C%20and%20the%20progress%20of%20Christianity&pg=PP8#v=onepage&q&f=false"
+    alt: "A serene landscape depicting a lush scene with palm trees, a river, and distant architecture, with figures engaged in tranquil activities."
+
   - id: "evans"
     src: figures/evans.jpg
     caption: "*Walker Evans, profile, hand up to face*, 1937."
