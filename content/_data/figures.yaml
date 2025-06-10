@@ -323,26 +323,19 @@ figure_list:
   - id: "fig-c3-1"
     src: figures/part-1/3/c3-1.jpg
     label: ""
-    caption: "Reinet House, the Old Pastornow a Museum, built as a parsonage for Kicherer by the Cape government, using the labour of enslaved people."
-    credit: "Wikimedia"
-    alt: "White colonial-style building with green doors, featuring a grand staircase and an arched entrance framed by trees."
-
-  - id: "fig-c3-2"
-    src: figures/part-1/3/c3-2.jpg
-    label: ""
     caption: "Missionary Museum printed in the Illustrated London News, 20 May 1843, p.342"
     credit: "Scanned from the author’s personal collection."
     alt: "A Victorian museum filled with curiosities, including mounted animals, artefacts, and display cabinets."
 
-  - id: "fig-c3-3"
-    src: figures/part-1/3/c3-3.jpg
+  - id: "fig-c3-2"
+    src: figures/part-1/3/c3-2.jpg
     label: ""
     caption: "Mr John Campbell, Kingsland"
     credit: "The New York Public Library Digital Collections"
     alt: "Black and white portrait engraving of a man in a coat, labeled as Mr. John Campbell."
 
-  - id: "fig-c3-4"
-    src: figures/part-1/3/c3-4.jpg
+  - id: "fig-c3-3"
+    src: figures/part-1/3/c3-3.jpg
     label: ""
     caption: "Household Utensils, Ornaments, and Weapons of the Beetjuans. Published in Hinrich Lichtenstein's 1812 Travels in Southern Africa in the Years 1803, 1804, 1805 and 1806. 1812."
     credit: "The New York Public Library Digital Collections"
