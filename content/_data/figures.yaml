@@ -439,6 +439,118 @@ figure_list:
     credit: "© The Trustees of the British Museum. 1868,0808.3151"
     alt: "A grand staircase in the Old British Museum, showcasing two giraffes alongside elegantly dressed visitors in historical attire."
 
+  - id: "fig-c4-1"
+    src: figures/part-1/4/c4-1.png
+    label: ""
+    caption: "The Family Idols of Pomareimage from the cover of Missionary Sketches no. 3, October 1818."
+    credit: "Council for World Mission / SOAS. (CWML L50)"
+    alt: "Illustration of family idols from Pomare, depicting various carved wooden figures, with descriptions of their significance and history."
+
+  - id: "fig-c4-2"
+    src: figures/part-1/4/c4-2.png
+    label: ""
+    caption: "William Ellisimage published as frontispiece in William Ellis’ 1827 Narrative of a Tour Through Hawaii "
+    credit: "Google Books"
+    alt: "A historical illustration of a seated missionary, in formal attire, identified as William Ellis, with signature displayed below."
+
+  - id: "fig-c4-3"
+    src: figures/part-1/4/c4-3.png
+    label: ""
+    caption: "Cover of Missionary Sketches, No. 1. Published in April 1818."
+    credit: "Archive.org"
+    alt: "An antique illustration depicting three deities: Seeva, Brahma, and Veeshnoo, surrounded by intricate carvings and architectural details."
+
+  - id: "fig-c4-4"
+    src: figures/part-1/4/c4-4.png
+    label: ""
+    caption: "Image of the Family Idols of Pomare. Published in the Missionary Chronicle, December 1818, p. 559"
+    credit: "Google Books"
+    alt: "Illustration of Tahitian family idols, with labels indicating their names and descriptions, presented to missionaries in 1818."
+
+  - id: "fig-c4-5"
+    src: figures/part-1/4/c4-5.png
+    label: ""
+    caption: "Missionary Hymn. Fall of Idols at Tahiti."
+    credit: "Published in the Missionary Chronicle, November 1818, p.500 Sung in September 1811 at Launceston Devon"
+    alt: "A historical hymn titled Fall of Idols at Tahite, celebrating the end of idol worship, sung by missionaries in 1818."
+
+  - id: "fig-c4-6"
+    src: figures/part-1/4/c4-6.jpg
+    label: ""
+    caption: "Portrait of King Pomare IIStipple engraving by Samuel Freeman. Published in May 1821 by F. Westley, Stationer’s CourtBritish Museum 1872,0810.616"
+    credit: "© The Trustees of the British Museum. 18720810.616"
+    alt: "Engraving of His Majesty Pomarré, King of Tahiti, wearing traditional attire adorned with floral motifs, circa 1821."
+
+  - id: "fig-c4-7"
+    src: figures/part-1/4/c4-7.jpg
+    label: ""
+    caption: "The marae at Pare, looking towards Matavai, Tahiti in 1792. Watercolour by Lieut."
+    credit: "George Tobin Mitchell Library, State Library of New South Wales. FL1606998"
+    alt: "A vibrant watercolor depicting a serene landscape with palm trees, huts, and figures engaged in activities on the island of Oahu in 1792."
+
+  - id: "fig-c4-8"
+    src: figures/part-1/4/c4-8.jpg
+    label: ""
+    caption: "Map of French PolynesiaShowing locations of Tahiti, Moorea, Huahine & Raiatea."
+    credit: "Thanks to dc3airways.net"
+    alt: "Map of the Society Islands in French Polynesia, showing major islands like Tahiti, Bora Bora, and Moorea, with geographical details."
+
+  - id: "fig-c4-9"
+    src: figures/part-1/4/c4-9.jpg
+    label: ""
+    caption: "Cover of Missionary Sketches 6. Destruction of the Idols at Otaheite. pulling down a Pagan Altar, and building a Christian Church.Published in July 1819, the image is an imagined scene, based on the watercolour by Tobin, above, completed before the arrival of missionaries- depicted here overseeing the construction of a church."
+    credit: "Archive.org"
+    alt: "A historical engraving depicting the destruction of idols and a pagan altar, while a Christian church is being constructed in the background."
+
+  - id: "fig-c4-10"
+    src: figures/part-1/4/c4-10.jpg
+    label: ""
+    caption: "Digital Reconstruction of 'the Family Idols of Pomare'using objects now in the British Museum that are likely to have come from the London Missionary Society"
+    credit: ""
+    alt: "A collection of historical idols from the Pomare family, featuring wooden figures and ceremonial objects displayed on a printed background."
+
+  - id: "fig-c4-11"
+    src: figures/part-1/4/c4-11.jpg
+    label: ""
+    caption: "3. TEMAHARO. According to Missionary Sketches. The principal god of Pomare’s family. He is said to be also one of the chief deities of the island of Otaheite. He is said to have a brother called TIA, who is likewise a god. Temeharo is also reported to be the principal deity and protector of the small island of Matea.Fragments of red feathers are still visible."
+    credit: "© The Trustees of the British Museum. Oc1981,Q.1552"
+    alt: "Close-up of a long, cylindrical woven object made from natural fibers, showcasing intricate patterns and textures."
+
+  - id: "fig-c4-12"
+    src: figures/part-1/4/c4-12.jpg
+    label: ""
+    caption: "7. TIIPA. According to Missionary Sketches. A god of Otaheite, who is deemed very powerful, and said to preside over the winds."
+    credit: "© The Trustees of the British Museum. Oc,LMS.102"
+    alt: "A long, woven ceremonial object with a pointed wooden end, intricately wrapped in natural fibers and plant materials."
+
+  - id: "fig-c4-13"
+    src: figures/part-1/4/c4-13.jpg
+    label: ""
+    caption: "8. A family TII. According to Missionary Sketches. a very small wooden image."
+    credit: "© The Trustees of the British Museum. Oc,LMS.98"
+    alt: "A carved wooden stylized human figure, with emphasis on round body shape and distinct limbs, set against a gray backdrop."
+
+  - id: "fig-c4-14"
+    src: figures/part-1/4/c4-14.jpg
+    label: ""
+    caption: "9. TAHIVI ANUNAEHAU. According to Missionary Sketches the handle of the sacred fan with which the priest drove away the flies, while about his prayers and sacrifices. The fan is lost, the handle only remains. These sacred relics are very old and dirty. but they were reckoned no less sacred on that account."
+    credit: "© The Trustees of the British Museum. Oc,LMS.57"
+    alt: "A carved bone tool with a textured top and multiple oval holes along its elongated shaft, showcasing intricate craftsmanship."
+
+  - id: "fig-c4-15"
+    src: figures/part-1/4/c4-15.jpg
+    label: ""
+    caption: "Tahitian basket for Bible and hymn book. Given by Hiômaï, converted Tahitian, to the Mission Museum in 1876, through Professor David Tissot."
+    credit: "Musée d’Ethnographe de Genève Inv. ETHOC 004938"
+    alt: "A woven straw handbag beside an open book, showcasing its textured cover and visible pages, against a white background."
+
+  - id: "fig-c4-16"
+    src: figures/part-1/4/c4-16.png
+    label: ""
+    caption: "Poetry. On viewing the relinquished Idols of Otaheite in the Missionary Museum. Published in the Missionary Chronicle in February 1821, p. 92."
+    credit: "Google Books"
+    alt: "An excerpt of a poem reflecting on the relinquished idols of Otaheite in a Missionary Museum, exploring themes of faith and enlightenment."
+
   - id: "evans"
     src: figures/evans.jpg
     caption: "*Walker Evans, profile, hand up to face*, 1937."
