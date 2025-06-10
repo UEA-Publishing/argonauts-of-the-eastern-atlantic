@@ -76,14 +76,14 @@ figure_list:
     alt: "A group of individuals from diverse backgrounds gathers in a lush, tropical landscape, showcasing a moment of cultural exchange and interaction."
 
   - id: "fig-c1-2"
-    src: figures/part-1/1/c1-2.png
+    src: figures/part-1/1/c1-2.jpg
     label: ""
     caption: "The Great Map at the National Maritime Museum, Greenwich, London, UK."
     credit: "With thanks to urban_notulist.com"
     alt: "A spacious museum atrium featuring a large world map, dining tables, and visitors exploring exhibits under a glass roof."
 
   - id: "fig-c1-3"
-    src: figures/part-1/1/c1-3.jpg
+    src: figures/part-1/1/c1-3.png
     label: ""
     caption: "Screenshot of Tweet about Beats of Polynesia performance. 16 second video available here"
     credit: ""
@@ -111,28 +111,28 @@ figure_list:
     alt: "A serene coastal scene featuring traditional boats, fishermen, and distant ships near lush mountains under a soft, golden sky."
 
   - id: "fig-c1-7"
-    src: figures/part-1/1/c1-7.png
+    src: figures/part-1/1/c1-7.jpg
     label: ""
     caption: "The Cession of Matavai by Robert Smirke, 1798."
     credit: "National Maritime Museum (ZBA6683)"
     alt: "A group of individuals from diverse backgrounds gathers in a lush, tropical landscape, showcasing a moment of cultural exchange and interaction."
 
   - id: "fig-c1-8"
-    src: figures/part-1/1/c1-8.jpg
+    src: figures/part-1/1/c1-8.png
     label: ""
     caption: "Captain James Wilson and First Mate William Wilson (his nephew) detail from stipple engraving of Smirke’s painting by Francesco Bartolozzi, 1803. UK Government Art Collection 1565. Wikimedia"
     credit: "Wikimedia"
     alt: "Three individuals pose together, one in a white dress, while two men in 18th-century attire stand beside her, smiling warmly."
 
   - id: "fig-c1-9"
-    src: figures/part-1/1/c1-9.png
+    src: figures/part-1/1/c1-9.jpg
     label: ""
     caption: "A Human Sacrifice, in a Morai, in Otaheite (with Captain Cook observing) hand-coloured etching by William Woollett, 1784, after John Webber. Illustration to A Voyage to the Pacific Ocean … in the years 1776-80 (abridged edition published by John Stockdale)."
     credit: "© The Trustees of the British Museum. 1868,0808.3151"
     alt: "A historical scene depicting a ritual with participants, traditional huts, palm trees, and a display of skulls in a tropical setting."
 
   - id: "fig-c1-10"
-    src: figures/part-1/1/c1-10.jpg
+    src: figures/part-1/1/c1-10.png
     label: ""
     caption: "Map of Cook's Three Voyages showing the location of Tahiti at the centre of the Pacific Ocean"
     credit: "With thanks to Astrofella"
@@ -146,14 +146,14 @@ figure_list:
     alt: "The missionary ship Duff arrives at Oahu, surrounded by canoes, with excited people waving in a tropical landscape."
 
   - id: "fig-c1-12"
-    src: figures/part-1/1/c1-12.png
+    src: figures/part-1/1/c1-12.jpg
     label: ""
     caption: "The Cession of Matavai by Robert Smirke, 1798."
     credit: "National Maritime Museum, Greenwich. ZBA6683"
     alt: "A group of individuals from diverse backgrounds gathers in a lush, tropical landscape, showcasing a moment of cultural exchange and interaction."
 
   - id: "fig-c1-13"
-    src: figures/part-1/1/c1-13.jpg
+    src: figures/part-1/1/c1-13.png
     label: ""
     caption: "Outline showing figures in Cession of Matavai1. A daughter of Teu9. Itia (first wife of Pomare I)2. Ha’amanimani, Arioi priest10. Mrs Hasall and child3. Teu, chief of Pare11. William Wilson, First Mate4. Tu (Vaira’atoa, Pomare I)12. Child of Rowland Hassall5. Tu (Pomare II)13. Captain James Wilson6. Tetua (Tu’s concubine)14. Mrs Henry7. Faretoa (Itia’s paramour)15 & 16. William Henry & Mrs Henry8. Peter Haggerstein17. John Jefferson"
     credit: "From The History of the Tahitian Mission, 1799-1830, edited by C.W. Newbury. p. xiii"
@@ -174,14 +174,14 @@ figure_list:
     alt: "A group of soldiers gathers around a wounded comrade, displaying expressions of concern amidst a dramatic, cloudy battle backdrop."
 
   - id: "fig-c1-16"
-    src: figures/part-1/1/c1-16.jpeg
+    src: figures/part-1/1/c1-16.jpg
     label: ""
     caption: "Penn's Treaty with the Indians by Benjamin West, 1771-2. Oil painting."
     credit: "Pennsylvania Academy of Fine Arts 1878.1.10"
     alt: "A historical scene depicting a gathering between settlers and Indigenous peoples, surrounded by lush landscapes and colonial buildings."
 
   - id: "fig-c1-17"
-    src: figures/part-1/1/c1-17.jpg
+    src: figures/part-1/1/c1-17.jpeg
     label: ""
     caption: "HARBOUR of RIO JANIERO, with the BENEDICTINE MONASTERY, part of the CITY and SHIP DUFF engraved by M.A. Rooker from a sketch by William Wilson during the first Duff voyage."
     credit: "Published in 1799 as an illustration in: A missionary voyage to the southern Pacific Ocean, performed in the years 1796, 1797, 1798, in the ship Duff, commanded by Captain James Wilson. Compiled from journals of the officers and the missionaries [chiefly by W. Wilson]. And illustrated with maps, charts, and views, drawn by Mr. William Wilson, and engraved by the most eminent artists : with a preliminary discourse on the geography and history of the South Sea Islands, and an appendix, including details never before published, of the natural and civil state of Otaheite."
