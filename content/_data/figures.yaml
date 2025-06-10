@@ -1126,14 +1126,14 @@ figure_list:
     alt: "Title page of A Grammar of the Chinese Language by Rev. Robert Morrison, published in 1815 in Singapore."
  
   - id: "fig-c9-5"
-    src: figures/part-1/9/c9-5.png
+    src: figures/part-1/9/c9-5.jpg
     label: ""
     caption: "Cover page of Morrison's 'A View of China, for Philological Purposes' Printed at Macau at the East India Company’s Press in 1817"
     credit: "Wellcome Collection"
     alt: "Title page of A View of China by Rev. R. Morrison, detailing Chinese chronology, geography, and culture, published in 1817."
  
   - id: "fig-c9-6"
-    src: figures/part-1/9/c9-6.jpg
+    src: figures/part-1/9/c9-6.png
     label: ""
     caption: "Robert Morrison's New Testament in Chinese"
     credit: "New College Library, Edinburgh"
