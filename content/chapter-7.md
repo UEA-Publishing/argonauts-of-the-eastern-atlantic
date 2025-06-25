@@ -149,17 +149,17 @@ On 1 May, _The Prince Regent_ was formally presented to the King, but when Capta
 
 Finding themselves at a loose end in Honolulu, Tyerman and Bennet attempted to persuade the King to formally adopt Christianity. Visiting the royal women, they found them dressed in a mixture of European and Hawaiian clothing, some wearing silk and calico gowns with feather tippets, while others wore scarlet cloth about their loins with necklaces made from plaited human hair and whale’s tooth pendants.[^⁠27] Extremely valuable, one of these was later presented to the Missionary Museum by William Ellis.
 
-Tyerman and Bennet were told that Liholiho’s decision tooverturn the existing religious system had been partly prompted by the reportsof Hawai’ians returning from Britain, America and Australia, where their godswere not worshipped. When Hawai’ian priests stated that abandoning the _maraes_ wouldprevent the rain from falling, Joseph Banks, a young man named after CaptainCook’s companion, pointed out to that there was plenty of rain in England andAmerica, as there was in Tahiti after Pomare destroyed the idols.[^⁠28]
+Tyerman and Bennet were told that Liholiho’s decision to overturn the existing religious system had been partly prompted by the reports of Hawai’ians returning from Britain, America and Australia, where their gods were not worshipped. When Hawai’ian priests stated that abandoning the _maraes_ wouldprevent the rain from falling, Joseph Banks, a young man named after CaptainCook’s companion, pointed out to that there was plenty of rain in England andAmerica, as there was in Tahiti after Pomare destroyed the idols.[^⁠28]
 
 {% figure "fig-c7-14" %}
 
 {% figure "fig-c7-15" %}
 
-Other ‘modernists’ such as John Adams Kuakini found thatdespite offering 40 sacrificial pigs  when directed to do so bypriests, he did not recover from his illness. Even Kamehameha I, towards theend of his reign, evidently refused to cast a large herd of pigs into the seato appease the angry spirit that the priests told him was responsible forvolcanic eruptions on Hawai’i.
+Other ‘modernists’ such as John Adams Kuakini found that despite offering 40 sacrificial pigs when directed to do so by priests, he did not recover from his illness. Even Kamehameha I, towards the end of his reign, evidently refused to cast a large herd of pigs into the sea to appease the angry spirit that the priests told him was responsible for volcanic eruptions on Hawai’i.
 
-On 10 May, Auna approached Tyerman and Bennet with a requestfrom Ka’ahumanu – that the Tahitians be allowed to stay at Hawai’i, withWilliam Ellis as their overseeing missionary.[^⁠29] Thisled Tyerman and Bennet to interpret their prolonged stay in Hawai’i as an actof divine intervention and this request was agreed by Ellis, the AmericanMissionaries, as well as by Liholiho, who like Pomare in Tahiti asked that hebe the first in his kingdom to be instructed in the new religion.
+On 10 May, Auna approached Tyerman and Bennet with a request from Ka’ahumanu – that the Tahitians be allowed to stay at Hawai’i, with William Ellis as their overseeing missionary.[^⁠29] This led Tyerman and Bennet to interpret their prolonged stay in Hawai’i as an act of divine intervention and this request was agreed to by Ellis, the American Missionaries, as well as by Liholiho, who like Pomare in Tahiti asked that he be the first in his kingdom to receive instruction in the new religion.
 
-Waiting for the return of the Mermaid, Tyerman and Bennettoured the island of Oahu where they witnessed four noblewomen printing flowersand ornamental figures onto _kapa_ cloth, using designs engravedonto thin pieces of bamboo:
+Waiting for the return of _The Mermaid_, Tyerman and Bennet toured the island of Oahu where they witnessed four noblewomen printing flowers and ornamental figures onto _kapa_ cloth, using designs engraved onto thin pieces of bamboo:
 
 This work is executed with considerable expedition as wellas accuracy; and, if not borrowed from the suggestions of European visitors(which is hardly probable), it may be said that _printing_, as wellas _engraving_, are original inventions of the Sandwich islanders,both being used in this ingenious process.[^⁠30]
 
