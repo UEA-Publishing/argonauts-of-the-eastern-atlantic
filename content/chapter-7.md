@@ -161,19 +161,19 @@ On 10 May, Auna approached Tyerman and Bennet with a request from Ka’ahumanu �
 
 Waiting for the return of _The Mermaid_, Tyerman and Bennet toured the island of Oahu where they witnessed four noblewomen printing flowers and ornamental figures onto _kapa_ cloth, using designs engraved onto thin pieces of bamboo:
 
-This work is executed with considerable expedition as wellas accuracy; and, if not borrowed from the suggestions of European visitors(which is hardly probable), it may be said that _printing_, as wellas _engraving_, are original inventions of the Sandwich islanders,both being used in this ingenious process.[^⁠30]
+> This work is executed with considerable expedition as well as accuracy; and, if not borrowed from the suggestions of European visitors (which is hardly probable), it may be said that _printing_, as well as _engraving_, are original inventions of the Sandwich islanders, both being used in this ingenious process.[^⁠30]
 
-Ellis seems to have largely spent this time improving hisHawai’ian – by August he had composed four hymns in the language and was usingit to preach two or three times a week.
+Ellis seems to have largely spent this time improving his Hawai’ian – by August he had composed four hymns in the language and was using it to preach two or three times a week.
 
-Auna on the other hand, was immediately taken on a tour ofthe islands by Ka’ahumanu. His journal, translated by Ellis, suggests that by 12 May he was at Lahaina on Maui, where the Queen Regent was presented withover 50 bundles of kapa cloth, as well as large quantities of dogs and poi forfeasting. On 17 May, they sailed to tour Hawai’i, Auna preaching each day.⁠[^31]
+Auna, on the other hand, was immediately taken on a tour of the islands by Ka’ahumanu. His journal, translated by Ellis, suggests that by 12 May he was at Lahaina on Maui, where the Queen Regent was presented with over 50 bundles of kapa cloth, as well as large quantities of dogs and poi for feasting. On 17 May, they sailed to tour Hawai’i, Auna preaching each day.⁠[^31]
 
-On 4 June, Ka’ahumanu sent for one of Kamehameha I’s‘idols’, named ‘_Teraipahoa’,_ which together with 9 smaller idolswere publicly burnt. During the morning of 24 June, following a day spentsurfing and praying, a man fetched eight ‘idols’ named _Teraipahoa,Tetonemotu, Paparahaamau, Hatuahia, Kaunaruura, Maiora_ and _Akuahanai._ Thesewere supposed to be taken to Liholiho in Oahu, but were instead burnt.
+On 4 June, Ka’ahumanu sent for one of Kamehameha I’s ‘idols’, named ‘_Teraipahoa’_, which together with nine smaller idols were publicly burnt. During the morning of 24 June, following a day spent surfing and praying, a man fetched eight ‘idols’ named _Teraipahoa, Tetonemotu, Paparahaamau, Hatuahia, Kaunaruura, Maiora_ and _Akuahanai._ These were supposed to be taken to Liholiho in Oahu, but were instead burnt.
 
-On 26 June, John Adams Kuakini kindled a major fire in whichhe burnt 102 ‘idols’. According to Auna’s journal, this made him think of theburnings initiated at Papetoai on Moorea by the priest Patii, ‘and with myheart I praised Jehovah, the true God, that I now saw these people followingour example’.[^⁠32] It is surelysignifiant that just as at Tahiti, European missionaries were not involved whenthese acts of iconoclasm took place.
+On 26 June, John Adams Kuakini kindled a major fire in which he burnt 102 ‘idols’. According to Auna’s journal, this made him think of the burnings initiated at Papetoai on Moorea by the priest Patii, ‘and with my heart I praised Jehovah, the true God, that I now saw these people following our example’.[^⁠32] It is surely signifiant that just as at Tahiti, European missionaries were not involved when these acts of iconoclasm took place.
 
-Back in Oahu, Liholiho told Tyerman and Bennet that heintended to learn the new _palapala_, and began learning theHawai’ian hymns composed by Ellis. Soon afterwards, however, he wasdisapprovingly noted to be spending the day drinking and dancing the hula.[^⁠33]
+Back in Oahu, Liholiho told Tyerman and Bennet that he intended to learn the new _palapala_, and began learning the Hawai’ian hymns composed by Ellis. Soon afterwards, however, he was disapprovingly noted to be spending the day drinking and dancing the hula.[^⁠33]
 
-On 29 July, the Mermaid finally returned to Oahu, but ratherthan preparing to leave for Huahine, Auna and his wife left soon afterwards ona tour of the archipelago’s leeward islands with Ka’ahumanu and a retinue of1200 people.[^⁠34]
+On 29 July, _The Mermaid_ finally returned to Oahu, but rather than preparing to leave for Huahine, Auna and his wife left soon afterwards on a tour of the archipelago’s leeward islands with Ka’ahumanu and a retinue of 1200 people.[^⁠34]
 
 {% figure "fig-c7-16" %}
 
