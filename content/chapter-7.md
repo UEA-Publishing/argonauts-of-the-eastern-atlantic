@@ -127,7 +127,7 @@ This concern with wrapping and marking the body, also expressed through tattooin
 
 {% figure "fig-c7-12" %}
 
-On 11 April 1822, the _Mermaid_ sailed from Kealekekua Bay to Oahu in the hope of locating the Prince Regent. Bennet and Tyerman accompanied Captain Kent when he was presented to the King, Kamehameha II, who was pleased to learn of his gift, mainly, it seems, because it promised to cement a political allegiance with the British monarchy (he already had ten other ship by this time).
+On 11 April 1822, the _Mermaid_ sailed from Kealekekua Bay to Oahu in the hope of locating the Prince Regent. Bennet and Tyerman accompanied Captain Kent when he was presented to the King, Kamehameha II, who was pleased to learn of his gift, mainly, it seems, because it promised to cement a political allegiance with the British monarchy (he already had ten other ships by this time).
 
 The young king, when first encountered, was wearing a shirt, jacket, waistcoat and pantaloons, accompanied by five wives who were wearing silken girdles with necklaces of flowers and fern wreaths on their heads. The assembled party toasted the King’s health with European wine, but Tyerman and Bennet couldn’t help noticing the attendant who fanned him continuously with long white feathers, while one of his wives occasionally proffered a wooden dish for the king to spit into.⁠[^22]
 
