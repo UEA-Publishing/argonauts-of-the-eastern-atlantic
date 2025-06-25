@@ -68,7 +68,7 @@ Unlike the British first edition of the _Journal of Voyages and Travels_ by the 
 
 {% figure "fig-c7-6" %}
 
-After leaving Huahine, north-easterly winds saw the _Mermaid_ bypass the Marquesas. Her crew and passengers were no less cosmopolitan than the fictional whaling ship _Pequod_, immortalised in Herman Melville’s 1851 novel _Moby Dick_. When an orphaned Australian aboriginal boy fell overboard, he was saved by Tyerman and Bennet’s Tahitian attendants, who dived into the sea, a rope tied around their waists – a feat that was performed by Queequeg, the Polynesian harpooner of Melville’s whaling tale.[^⁠11]
+After leaving Huahine, north-easterly winds saw the _Mermaid_ bypass the Marquesas. Her crew and passengers were no less cosmopolitan than the fictional whaling _Pequod_, immortalised in Herman Melville’s 1851 novel _Moby Dick_. When an orphaned Australian aboriginal boy fell overboard, he was saved by Tyerman and Bennet’s Tahitian attendants, who dived into the sea, a rope tied around their waists – a feat that was performed by Queequeg, the Polynesian harpooner of Melville’s whaling tale.[^⁠11]
 
 The first Hawai’ian to meet the party at Kawaihae Bay was John Adams Kuakini, Royal Governor of Hawai’i, the largest island in the archipelago, and younger brother of the Queen Regent Ka’ahumanu. Kuakini, who had learned English from Americans visitors and adopted the name of the second American President, was dressed in a jacket and trousers.
 
@@ -349,7 +349,7 @@ Given that many have been identified on stylistic grounds asHawai’ian, it seem
 
 [^20]: Weber,Max. _The Protestant Ethic and the Spirit of Capitalism._ London:Routledge, 1992\[1904\].
 
-[^21]: Tate,Merze. “The Sandwich Islands Missionaries Create a Literature.” _ChurchHistory_ 31, no. 2 (1962): 182. https://doi.org/10.2307/3162510.
+[^21]: Tate,Merze. “The Sandwich Islands Missionaries Create a Literature.” _ChurchHistory_ 31, no. 2 (1962): 182. https://doi.org/10.2307/3162510
 
 [^22]: Journal of Voyages and Travels by the Rev. Daniel Tyerman and George Bennet, Esq.Deputed from the London Missionary Society, to Visit Their various stations inthe South Sea Islands, China, India, &c. between the years 1821 and 1829.Compiled from Original Documents by James Montgomery. London: Frederick Wesleyand A.H. Davis. 1831: Volume 1, 392:https://books.google.co.uk/books?id=D79IAQAAIAAJ&newbks=1&newbks\_redir=0&dq=inauthor:"George Bennet"&pg=PA392#v=onepage&q&f=false
 
