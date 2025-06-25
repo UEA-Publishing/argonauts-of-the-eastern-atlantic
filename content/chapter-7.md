@@ -133,11 +133,11 @@ The young king, when first encountered, was wearing a shirt, jacket, waistcoat a
 
 {% figure "fig-c7-13" %}
 
-Captain Kent was given accommodation by the King, but Tyerman, Bennet and Ellis were welcomed by the American Missionaries. A Tahitian attendant of Queen Regent Ka’ahumanu arrived to ask that his fellow countrymen be allowed to stay with the Kuhina Nui’s household. It turned out that he was actually the brother of Auna’s wife, who had left Tahiti as a boy, thirty years previously. Auna and his wife were adopted into this extremely powerful Hawai’ian household, instituting morning and evening prayers and teaching their companions about the new religion.
+Captain Kent was given accommodation by the King, but Tyerman, Bennet and Ellis were welcomed by the American Missionaries. A Tahitian attendant of Queen Regent Ka’ahumanu arrived to ask that his fellow countrymen be allowed to stay with the Kuhina Nui’s household. It turned out that he was actually the brother of Auna’s wife, who had left Tahiti as a boy, 30 years previously. Auna and his wife were adopted into this extremely powerful Hawai’ian household, instituting morning and evening prayers and teaching their companions about the new religion.
 
 Ellis found that his Tahitian enabled him to to make himself understood, and when he preached in the language at the American chapel, the sermon was attended by an array of Hawai’ian nobles, Liholiho seated at their centre. Tyerman and Bennet compared the event to the preaching of Paul to the Athenians, recorded in the Acts of the Apostles.[^⁠23]
 
-They noted, however, that it was the appearance, dress andconversation of the Tahitian Christians that most impressed the assembled Hawai’ians. Ka’ahumanu evidently spent a great deal of time in conversationwith Auna’s wife about Tahitian politics and the changes brought by the newreligion, while the Tahitian women used their sewing skills to make new clothesfor the Queen Regent. Auna spent a good deal of his time instructing herhusband, Kaumuali’i, King of the island of Kaua’i (marked Tauai on the mapabove).
+They noted, however, that it was the appearance, dress and conversation of the Tahitian Christians that most impressed the assembled Hawai’ians. Ka’ahumanu evidently spent a great deal of time in conversation with Auna’s wife about Tahitian politics and the changes brought by the new religion, while the Tahitian women used their sewing skills to make new clothes for the Queen Regent. Auna spent a good deal of his time instructing her husband, Kaumuali’i, King of the island of Kaua’i (marked Tauai on the map above).
 
 From their base at Honolulu, Tyerman and Bennet observed theroyal trade in sandalwood, which saw this locally plentiful commodity traded toChina in American ships. Witnessing two thousand people carrying a vast load tothe coast, they suggested that the condition of the common people of Hawai’iwas akin to slavery – ‘they hold nothing which may not be taken from them bythe strong hand of arbitrary power’.[^⁠24]
 
@@ -349,7 +349,7 @@ Given that many have been identified on stylistic grounds asHawai’ian, it seem
 
 [^20]: Weber,Max. _The Protestant Ethic and the Spirit of Capitalism._ London:Routledge, 1992\[1904\].
 
-[^21]: Tate,Merze. “The Sandwich Islands Missionaries Create a Literature.” _ChurchHistory_ 31, no. 2 (1962): 182. https://doi.org/10.2307/3162510
+[^21]: Tate,Merze. “The Sandwich Islands Missionaries Create a Literature.” _ChurchHistory_ 31, no. 2 (1962): 182. https://doi.org/10.2307/3162510.
 
 [^22]: Journal of Voyages and Travels by the Rev. Daniel Tyerman and George Bennet, Esq.Deputed from the London Missionary Society, to Visit Their various stations inthe South Sea Islands, China, India, &c. between the years 1821 and 1829.Compiled from Original Documents by James Montgomery. London: Frederick Wesleyand A.H. Davis. 1831: Volume 1, 392:https://books.google.co.uk/books?id=D79IAQAAIAAJ&newbks=1&newbks\_redir=0&dq=inauthor:"George Bennet"&pg=PA392#v=onepage&q&f=false
 
