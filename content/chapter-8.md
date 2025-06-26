@@ -120,36 +120,36 @@ Campbell expressed his satisfaction that under the influence of James Read, Moth
 
 When Campbell and Read departed on a journey to the North, visiting Dithakong as well as the substantial city of Kaditshwene – but also meeting Campbell’s old friend Cupido Kakkerlak then serving as a missionary to the Coranna – the Moffats stayed at Maruping to establish relationships at what would become their new station.
 
-In the meantime Jager Afrikaner arrived with a wagon of Moffat’s belongings, including many books. When Campbell returned to the Colony with Read, much to the displeasure of the residents of Maruping, the Moffats went for a time to Griqua Town, before joining Hamilton permanently at the mission in May 1821, still in their mid-twenties.⁠⁠[^⁠29]
+In the meantime Jäger Afrikaner arrived with a wagon of Moffat’s belongings, including many books. When Campbell returned to the Colony with Read, much to the displeasure of the residents of Maruping, the Moffats went for a time to Griqua Town, before joining Hamilton permanently at the mission in May 1821, still in their mid-twenties.⁠⁠[^⁠29]
 
 It was at in the course of attempting a journey of his own to the Tswana towns of the North-East that Moffat met reports that invading Mantatees close at hand had in fact overrun many of these towns, including Kaditshwene. Fearing for the safety of his young family, he returned to Maruping to decide on a course of action. While the Batlhaping prepared for war, Moffat rode to Griqua Town to request assistance.⁠⁠[^⁠30]
 
-On June 13 1823, a pitsho or parliament of armed men, assembled. One old man exhorted the crowd by telling them it was the pitsho of the missionary, and as such they should speak and act not like Batswana but like Makgoas (white people). The Makgoas, meanwhile, buried their possessions so that they could make a quick escape.⁠⁠⁠[^31]
+On 13 June 1823, a _pitsho_ or parliament of armed men, assembled. One old man exhorted the crowd by telling them it was the pitsho of the missionary, and as such they should speak and act not like Batswana but like Makgoas (white people). The Makgoas, meanwhile, buried their possessions so that they could make a quick escape.⁠⁠⁠[^31]
 
 {% figure "fig-c8-13" %}
 
-uccess in repelling the invading ‘Mantatees’ seems to have marked a significant material change for both the Moffat household, by then featuring two very young children, and the mission of which they formed a part. In a letter to Mary’s parents dated 23 July 1823, from Griqua Town less than a month after the battle, Robert Moffat declared that four of the ‘prisoners’ were ‘inmates’ of his family:
+Success in repelling the invading ‘Mantatees’ seems to have marked a significant material change for both the Moffat household, by then featuring two very young children, and the mission of which they formed a part. In a letter to Mary’s parents dated 23 July 1823, from Griqua Town less than a month after the battle, Robert Moffat declared that four of the ‘prisoners’ were ‘inmates’ of his family:
 
-Mason or Mahum (Mmahuma), a woman about 25 yeas of age; Moshanee, also a woman, rather older; Fahaange, a boy, about eight years old; and a girl about four (Niywe). Mary has made Mahum, cook, and Moshanee nurse and washerwoman; and the boy, who seems clever, I shall find useful. Considering their former savage state, they do exceedingly well. Moshanee makes a good nurse, and helps to wash very well. This is a great comfort to Mary, as washing is her greatest hardship in this climate. They seem very happy in their new situation, and pleased with their clothes…⁠⁠[^⁠32]
+> Mason or Mahum (Mmahuma), a woman about 25 yeas of age; Moshanee, also a woman, rather older; Fahaange, a boy, about eight years old; and a girl about four (Niywe). Mary has made Mahum, cook, and Moshanee nurse and washerwoman; and the boy, who seems clever, I shall find useful. Considering their former savage state, they do exceedingly well. Moshanee makes a good nurse, and helps to wash very well. This is a great comfort to Mary, as washing is her greatest hardship in this climate. They seem very happy in their new situation, and pleased with their clothes…⁠⁠[^⁠32]
 
-Returning to Maruping in August, Moffat found his garden destroyed but much of his former home in a better state than expected. He subsequently rescued another starving refugee be found being beaten with stones by some boys, taking her to his kitchen where he gave her food and clothing.
+Returning to Maruping in August, Moffat found his garden destroyed but much of his former home in a better state than expected. He subsequently rescued another starving refugee he found being beaten with stones by some boys, taking her to his kitchen where he gave her food and clothing.
 
-The provision of food and clothes allowed Moffat to present the ‘Mantatees’ as the recipients of charity, but their deployment as supplementary household labour – feeding and washing the Moffat family – suggests that the relationship was rather more complicated. Indeed, their exact status seems to have been fairly ambiguous – the fact that Moffat refers to them as ‘prisoners’ and ‘inmates’ seems significant.
+The provision of food and clothes allowed Moffat to present the ‘Mantatees’ as the recipients of charity, but their deployment as supplementary household labour – feeding and washing the Moffat family – suggests that the relationship was rather more complicated. Indeed, their exact status seems to have been fairly ambiguous: the fact that Moffat refers to them as ‘prisoners’ and ‘inmates’ seems significant.
 
 {% figure "fig-c8-14" %}
 
 
-Moffat used his newfound influence to argue for the mission’s relocation to a reedy valley eight miles closer to the spring at Kuruman known as Seodin – a seemingly ideal location for someone trained as a gardener. Kgosi Mothibi agreed to grant two miles of the valley adjacent to the island to the missionaries, noting that their presence might provide protection for his cattle from raiding nearby ‘bushmen’.
+Moffat used his new-found influence to argue for the mission’s relocation to a reedy valley eight miles closer to the spring at Kuruman known as Seodin – a seemingly ideal location for someone trained as a gardener. Kgosi Mothibi agreed to grant two miles of the valley adjacent to the island to the missionaries, noting that their presence might provide protection for his cattle from raiding nearby ‘bushmen’.
 
-These arrangements having been made in principle, Moffat set off for Cape Town in October 1823 to seek approval from LMS superintendent John Philip, with a promise to return with the necessary goods for a remuneration – variously described as 40lbs of beads or a small sum of around £5.⁠⁠[^⁠33]
+These arrangements having been made in principle, Moffat set off for Cape Town in October 1823 to seek approval from LMS superintendent John Philip, with a promise to return with the necessary goods for a remuneration – variously described as 40 lbs of beads or a small sum of around £5.⁠⁠[^⁠33]
 
 Moffat took with him Kgosi Mothibi’s son and heir, Phetlu, as well as an advisor, Thaišo, who became celebrities at the Cape. They visited the city’s famous castle, its schools as well as the museum, a year before its official establishment. George Thompson, who had met them during preparations for the battle, commissioned their portraits by a recently arrived English artist, Henry Clifford de Meillon. Phetlu and Thaišo seem to have been struck by the ships, but were especially pleased when presented with two guns and some powder by the Governor, who they told ‘had made their hearts white’.⁠⁠[^⁠34]
 
-It was presumably from Cape Town that Moffat forwarded a series of items to the Missionary Museum, had so impressed him just over seven years earlier. These were listed in the Catalogue of the Missionary Museum, printed in 1826 with a description on page 38:
+It was presumably from Cape Town that Moffat forwarded a series of items to the Missionary Museum, which had so impressed him just over seven years earlier. These were listed in the Catalogue of the Missionary Museum, printed in 1826 with a description on page 38:
 
-NECK RINGS, used by the Chiefs’ wives of the Mantantese.
+> NECK RINGS, used by the Chiefs’ wives of the Mantantese.
 
-The nation is very remote in the interior of South Africa, about 40,000 of whom left their country on a plundering expedition, pillaging all the counties through which they passed, till they reached the city of Lattakoo, in the neighbourhood of which they were repulsed. On this occasion, these rings, with various other articles, were taken. The four rings were worn by one female.
+> The nation is very remote in the interior of South Africa, about 40,000 of whom left their country on a plundering expedition, pillaging all the counties through which they passed, till they reached the city of Lattakoo, in the neighbourhood of which they were repulsed. On this occasion, these rings, with various other articles, were taken. The four rings were worn by one female.
 
 COPPER ORNAMENTS, worn by the same nation.⁠⁠[^⁠35]
 
