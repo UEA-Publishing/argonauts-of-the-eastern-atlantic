@@ -148,8 +148,7 @@ Moffat took with him Kgosi Mothibi’s son and heir, Phetlu, as well as an advis
 It was presumably from Cape Town that Moffat forwarded a series of items to the Missionary Museum, which had so impressed him just over seven years earlier. These were listed in the Catalogue of the Missionary Museum, printed in 1826 with a description on page 38:
 
 > NECK RINGS, used by the Chiefs’ wives of the Mantantese.
-
-> The nation is very remote in the interior of South Africa, about 40,000 of whom left their country on a plundering expedition, pillaging all the counties through which they passed, till they reached the city of Lattakoo, in the neighbourhood of which they were repulsed. On this occasion, these rings, with various other articles, were taken. The four rings were worn by one female.
+The nation is very remote in the interior of South Africa, about 40,000 of whom left their country on a plundering expedition, pillaging all the counties through which they passed, till they reached the city of Lattakoo, in the neighbourhood of which they were repulsed. On this occasion, these rings, with various other articles, were taken. The four rings were worn by one female.
 
 COPPER ORNAMENTS, worn by the same nation.⁠⁠[^⁠35]
 
