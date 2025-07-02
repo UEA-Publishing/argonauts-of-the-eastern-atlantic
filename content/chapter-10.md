@@ -59,23 +59,23 @@ Tyerman and Bennet were immediately struck by the stone and brick buildings of S
 
 On 24 August, Tyerman and Bennet visited the Rev. Samuel Marsden at his home in Parramatta (Chapter 4). Having come to Australia before the establishment of the Church Missionary Society  (CMS) in 1799, despite his involvement in directing the efforts of the CMS in New Zealand, Marsden remained a Director of the London Missionary Society and its appointed agent in New South Wales. Marsden introduced the visitors to Sir Thomas Brisbane, Governor of New South Wales since 1821.
 
-The Deputation visited the factory built nearby for female convicts, but by the end of the month their focus had shifted onto Australia’s indigenous people. Although told by Australian settlers (including Marsden) that earlier attempts to convert and civilise Aboriginal people had demonstrated it to be a hopeless endeavour, Tyerman and Bennet pointed out that the same sentiment had been expressed about the Khoesan peoples of South Africa forty years earlier, among whom there were now thousands of Christians ([Chapter 2](https://argonauts2022.net/mary-john-and-martha/) & [Chapter 3](https://argonauts2022.net/the-giraffe/)):
+The Deputation visited the factory built nearby for female convicts, but by the end of the month their focus had shifted onto Australia’s indigenous people. Although told by Australian settlers (including Marsden) that earlier attempts to convert and civilise Aboriginal people had demonstrated it to be a hopeless endeavour, Tyerman and Bennet pointed out that the same sentiment had been expressed about the Khoesan peoples of South Africa forty years earlier, among whom there were now thousands of Christians ([Chapter 2](https://argonauts2022.net/mary-john-and-martha/) and [Chapter 3](https://argonauts2022.net/the-giraffe/)):
 
-The Hottentot and Negro have proved themselves men, not only by exemplifying all the vices of our common nature, but by becoming partakers of all its virtues; and that the day of visitation will come to the black outcasts of New Holland also, we dare not doubt.[^⁠21]
+_The Hottentot and Negro have proved themselves men, not only by exemplifying all the vices of our common nature, but by becoming partakers of all its virtues; and that the day of visitation will come to the black outcasts of New Holland also, we dare not doubt_.[^⁠21]
 
 By 4 September, they were convinced that missionary work should be undertaken in Australia in the same way as it had been in the islands, preaching the gospel to people in their own language. While Aboriginal people had been able to pick up a few phrases in English ‘in mere common-place intercourse with Englishmen’:
 
-if we wait till they can hear and receive the words of eternal life in any other audible sound than their own, twenty generations may pass over this land of darkness and the shadow of death, before the true light shine upon it; or, which is more probable, the whole aboriginal stock may be extirminated (like the American Indians) by the progress of colonization.[^⁠22]
+_if we wait till they can hear and receive the words of eternal life in any other audible sound than their own, twenty generations may pass over this land of darkness and the shadow of death, before the true light shine upon it; or, which is more probable, the whole aboriginal stock may be extirminated (like the American Indians) by the progress of colonization_.[^⁠22]
 
 Although an Anglican school in the colony was in the process of teaching seven Aboriginal boys while a Methodist school taught seven girls, they asked:
 
-But what are these out of three millions? One Missionary, learning the language of one tribe, might be able to preach the simple truths of salvation to hundreds and thousands…[^⁠23]
+_But what are these out of three millions? One Missionary, learning the language of one tribe, might be able to preach the simple truths of salvation to hundreds and thousands…[^⁠23]
 
 No one, from what they could tell, had made any real effort to attempt to learn Australia’s Aboriginal languages.
 
-Over a dinner at Marsden’s house on 16 September, they sounded out Governor, Brisbane and the colony’s senior administrators, receiving a degree of support for ‘any prudent measure which might be adopted for ameliorating the condition of the aborigines’. ⁠24 They were told many tales about Aboriginal people, and Tyerman and Bennet’s lobbying efforts, encountered a great deal of resistance, noting that ‘many people who ought to know better are incurably convinced that the New Hollanders are incurably stupid’.⁠25
+Over a dinner at Marsden’s house on 16 September, they sounded out Governor, Brisbane and the colony’s senior administrators, receiving a degree of support for ‘any prudent measure which might be adopted for ameliorating the condition of the aborigines’.[^⁠24] They were told many tales about Aboriginal people, and Tyerman and Bennet’s lobbying efforts, encountered a great deal of resistance, noting that ‘many people who ought to know better are incurably convinced that the New Hollanders are incurably stupid’.⁠[^25]
 
-They were even told that a prominent land owner at Bathurst had publicly declared that ‘the best use which could be made of “the black fellows” would be, to shoot them all, and manure the ground with their carcases’.⁠26
+They were even told that a prominent land owner at Bathurst had publicly declared that ‘the best use which could be made of “the black fellows” would be, to shoot them all, and manure the ground with their carcases’.⁠[^26]
 
 {% figure "fig-c10-9" %}
 
