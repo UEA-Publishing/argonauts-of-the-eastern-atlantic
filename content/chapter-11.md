@@ -14,19 +14,19 @@ page_pdf_output: true
 
 {% figure "fig-c11-1" %}
 
-The caption from which this chapter takes its title comes from the final page of the ‘EAST INDIES’ section of the Missionary Museum catalogue, printed in London in 1826.[^1] The section begins with descriptions of twenty-one ‘models of HINDOO DEITIES’, sent from Calcutta by Henry Townley in 1819 (Chapter 6).[^2] This caption, however, doesn’t describe an Indian god, but rather a key figure in Christian, or at least Catholic religious art: the Virgin Mary with the infant Jesus.
+The caption from which this chapter takes its title comes from the final page of the ‘EAST INDIES’ section of the Missionary Museum catalogue, printed in London in 1826.[^1] The section begins with descriptions of 21 ‘models of HINDOO DEITIES’, sent from Calcutta by Henry Townley in 1819 (Chapter 6).[^2] This caption, however, doesn’t describe an Indian god, but rather a key figure in Christian, or at least Catholic religious art: the Virgin Mary with the infant Jesus.
 
 The inclusion of this item in the Missionary Museum illustrates a confrontation between Protestant missionary activity and Catholicism which occurred in many places around the world, but is also suggestive of a longer conflict in relation to the function of religious images, beginning in Europe itself. This conflict underpinned the northern European Reformation of the sixteenth and seventeenth centuries, in which Protestantism took shape, and seems to have conditioned the way that LMS missionaries responded to religious ‘idols’, whenever and wherever they were encountered.
 
 Writing about missionary encounters in the Dutch East Indies, now Indonesia, Webb Keane has described this conflict in terms of a clash of semiotic ideologies, suggesting that Protestantism developed a moral narrative of modernity, by which people were understood to be progressively emancipated through their detachment from material forms – a narrative that shaped notions of ‘fetishism’ later in the nineteenth century and arguably continues to underpin contemporary imaginings of secular modernity.[^3]
 
-In many ways it is The Virgin Mary and Child, among all the artefacts listed in the 1826 catalogue, that allows us to unpack the fundamental problem that the London Missionary Society had with ‘idols’ – objects that formed a focus for acts of religious worship – and the reasons these became a dominant focus for missionary collecting during the middle of the nineteenth century.
+In many ways it is the Virgin Mary and Child, among all the artefacts listed in the 1826 catalogue, that allows us to unpack the fundamental problem that the London Missionary Society had with ‘idols’ – objects that formed a focus for acts of religious worship – and the reasons these became a dominant focus for missionary collecting during the middle of the nineteenth century.
 
 {% figure "fig-c11-2" %}
 
 Following the re-opening of the Missionary Museum at Austin Friars in August 1824, the considerable costs of ‘building the museum’ (£417) generated concern within the Society.[^4] Should funds raised to support overseas missionary work be used to enable the preservation and display of artefacts in London? Writing from Raiatea in the Pacific on 20 November 1823, the missionaries Lancelot Threlkeld ([Chapter 10](https://argonauts2022.net/10-two-of-the-tur-rursna/)) and John Williams ([Chapter 12](https://argonauts2022.net/12-a-gigantic-idol/)) declared as part of their appeal for a missionary ship:
 
-Did you know the state of the surrounding islands, how ripe they are for the reception of the gospel, you would sell the very gods out of your Museum, if it were necessary to afford the means of carrying the glad tidings of salvation to those now sitting in darkness.[^5]
+> Did you know the state of the surrounding islands, how ripe they are for the reception of the gospel, you would sell the very gods out of your Museum, if it were necessary to afford the means of carrying the glad tidings of salvation to those now sitting in darkness.[^5]
 
 A catalogue of the museum’s contents was compiled and printed, sales of which were intended to ‘to diminish the expense incurred by the preparation and support of the Museum’.[^6] The catalogue’s price was not fixed, but left to the ‘liberality’ of museum visitors, with a donations box located in the museum.[^7] By May 1825, the Missionary Chronicle reported that this had returned 57 pounds 7shillings and 5 pence.[^8]
 
