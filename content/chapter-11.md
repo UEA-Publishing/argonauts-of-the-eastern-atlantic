@@ -162,7 +162,7 @@ Following a visit to Bangalore (Bengaluru) by John Hands, from his mission stati
 
 Born at Quilon (Kollam) on the Malabar Coast of Kerala in 1787, Shunkurulingam, as he was known before he was baptised, was employed by a British officer at a fairly young age. He travelled widely in India, visiting Mauritius before being employed in Ceylon (Sri Lanka) as a butler. He came across a translation of the Gospels into Tamil which initiated a personal quest to know more about Protestant Christianity. This led to his baptism at Tellicherry (Thalassery) by an East India Company chaplain, when he adopted the name Samuel. Invited by Laidler to join the new mission at Bangalore, Samuel became central to its work. He was ordained as the pastor of the native church in 1822, when he adopted the surname Flavel at Laidler’s suggestion. John Flavel, like his Indian namesake, had been a learned Puritan minister, famous for preaching in the face of official prohibition.
 
-The letter, written at Bangalore in July 1825, and printed in the _Missionary Chronicle_ in January 1826, concerns an event that took place in the city of Mysore (Mysuru), with none of the three European missionaries present. Samuel Flavel had made the journey of nearly 150km at the invitation of two brothers who were catechists at the city’s Roman Catholic Church.
+The letter, written at Bangalore in July 1825, and printed in the _Missionary Chronicle_ in January 1826, concerns an event that took place in the city of Mysore (Mysuru), with none of the three European missionaries present. Samuel Flavel had made the journey of nearly 150 kilometres at the invitation of two brothers who were catechists at the city’s Roman Catholic Church.
 
 Five years previously they had talked with Joshua, an Indian convert connected to the London Missionary Society, which led them to question Catholic practice. The elder of the two was, according to the account given, flogged by the priest for his impertinence – an example of what the letter refers to ‘the carnal weapons of Antichrist’.[^35]
 
@@ -178,13 +178,13 @@ This had been embellished with jewels by ‘infatuated devotees’, especially o
 
 Turning a deaf ear, however, they:
 
-endeavoured to demonstrate with the poor infatuated people, showing the folly and sin of these offers, assuring them that they did not refuse their offers because the expected more money for it; but being aware of the danger of making it an object of worship, they felt, as the disciples of Christ, constrained to take it away.[^38]
+_endeavoured to demonstrate with the poor infatuated people, showing the folly and sin of these offers, assuring them that they did not refuse their offers because the expected more money for it; but being aware of the danger of making it an object of worship, they felt, as the disciples of Christ, constrained to take it away_.[^38]
 
 When they did so they were charged with further debts which were subsequently dismissed by a magistrate. Baptised by Samuel Flavel, they took the names Nathaniel[^39] and Jonas and travelled with him to Bangalore, presumably taking the statue of the Virgin Mary and infant Jesus with them.
 
 According to the letter signed by the three European missionaries, this was:
 
-the plain unvarnished tale of the conversion of these two men from the errors and superstitions of the Church of Rome, to the profession of the truth as it is in Jesus.[^40]
+_the plain unvarnished tale of the conversion of these two men from the errors and superstitions of the Church of Rome, to the profession of the truth as it is in Jesus_.[^40]
 
 {% figure "fig-c11-13" %}
 
@@ -199,11 +199,11 @@ The following month, in February 1826, the editors of the _Missionary Chronicle_
 
 Their conversations were evidently attended by sixty or seventy people, many of whom are referred to as ‘heathens’, and their meetings continued over more than a fortnight. According to the letter, the seriousness with which these events were approached made the European missionaries at Bangalore think:
 
-of the contests which, in the days of Luther and of Calvin, produced such effects in the western world; and we rejoiced in the hope that this might prove a commencement of the more certain and speedy overthrow of Antichrist in this distant land.[^42]
+_of the contests which, in the days of Luther and of Calvin, produced such effects in the western world; and we rejoiced in the hope that this might prove a commencement of the more certain and speedy overthrow of Antichrist in this distant land_.[^42]
 
 In the translation and summary of the dialogue that was printed, the disputation centred on the accuracy of the translation of the second commandment, relating to graven images, with Flavel exclaiming that:
 
-I believe, then, that Jesus Christ is the Son of God; that he is the only Mediator between God and Man; that he is the way, the truth, and the life; that he is able to save to the uttermost all that come unto God by him; and that he is the only Advocate who intercedes for us at the right hand of his Father.[^43]
+_I believe, then, that Jesus Christ is the Son of God; that he is the only Mediator between God and Man; that he is the way, the truth, and the life; that he is able to save to the uttermost all that come unto God by him; and that he is the only Advocate who intercedes for us at the right hand of his Father_.[^43]
 
 When challenged on the difference between worshiping and looking at images, Flavel’s Catholic interlocutor suggested that Protestant bibles also included pictures of Jesus Christ. Flavel’s counter was to volunteer to burn these images and say he rejected them if his interlocutor was prepared to do the same for Catholic images.
 
