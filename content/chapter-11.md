@@ -102,9 +102,9 @@ A very brief mission had been established at Rangoon in 1810, but within months 
 
 Rather, a hint at the likely source of these items comes from a list of thanks, published in the _Missionary Chronicle_ of August 1826, stating:
 
-Also, to Mr. Heritage and others of the Society’s Friends, connected with the Congregation at Union Chapel, Calcutta; for several Burmese Idols (some of which were formerly in the large Pagoda at Rangoon), and other valuable curiosities for the Society’s Museum.[^26]
+_Also, to Mr. Heritage and others of the Society’s Friends, connected with the Congregation at Union Chapel, Calcutta; for several Burmese Idols (some of which were formerly in the large Pagoda at Rangoon), and other valuable curiosities for the Society’s Museum_.[^26]
 
-Mr Heritage appears to have been a fairly long-term resident of Calcutta, described in 1832 as the Commander of the Hon. Company’s pilot schooner “Henry Meriton”.[^27] This normally guided vessels on the Hooghly River, between the sea and Calcutta, making Mr Heritage what the _Advertisement_ described as a ‘friendly officer’ of a mercantile vessel. In May 1824, however, this pilot schooner had been equipped with a pair of canons and joined the hastily assembled fleet to transport troops, together with their howitzers, to Rangoon (Yangon) as part of the first Anglo-Burmese war.[^28]
+Mr Heritage appears to have been a fairly long-term resident of Calcutta, described in 1832 as the Commander of the Hon. Company’s pilot schooner _Henry Meriton_.[^27] This normally guided vessels on the Hooghly River, between the sea and Calcutta, making Mr Heritage what the Advertisement described as a ‘friendly officer’ of a mercantile vessel. In May 1824, however, this pilot schooner had been equipped with a pair of canons and joined the hastily assembled fleet to transport troops, together with their howitzers, to Rangoon (Yangon) as part of the first Anglo-Burmese war.[^28]
 
 The famous golden Shwegadon Pagoda became the military headquarters of the invading troops, who comprehensively pillaged it. It seems likely, therefore that ‘Mr. Heritage and others of the Society’s Friends’ acquired these ‘Burmese Idols’ either as a direct result of their participation in the invasion of Rangoon, or from soldiers returning from the conflict with loot.
 
@@ -112,7 +112,7 @@ The forced removal of these items as part of military action is not made explici
 
 After the list of items taken from Rangoon, a short note in the catalogue suggests that:
 
-In the front of the larger idols are several smaller ones, of silver, brass, copper, and stone: also a curious censer, of spoon for incense.[^29]
+_In the front of the larger idols are several smaller ones, of silver, brass, copper, and stone: also a curious censer, of spoon for incense_.[^29]
 
 These likely relate to an early arrival at the museum – back in April 1816 the _Missionary Chronicle_ announced that Mr Hands had sent the Directors ‘a number of idols of silver, copper, &c. for their Museum. Also a copy of St. Luke’s gospel, written in leaves: Christ’s Sermon on the Mount, in the Canara language, &c.’ from Bellary \[Ballari\].[^30]
 
@@ -122,7 +122,7 @@ With the possible exception of the ‘REJECTED IDOLS from Cuddapah’, neither t
 
 Following this, a paragraph from Ward’s _Account of the Writings, Religion, and Manners of the Hindoos including Translations from their Principal Works_ was printed in the catalogue:
 
-Nine-tenths of the whole Hindu population pay no conscientious regard whatever to the forms of their religion, and yet the various cruelties accompanying their superstitions occasion the death of more than ten thousand persons every year. And notwithstanding the veneration in which some pretend to hold their gods, yet many, especially the poor, take the liberty of abusing them. When it thunders awfully, respectable Hindoos say, “Oh! the gods are giving us a bad day;” the lower orders say, “The rascally gods are dying.” During a heavy rain, a woman of respectable class frequently says, “Let the gods perish! my clothes are all wet.” A man of low castes says, “These rascally gods are sending more rain.” Ward. vol.1 p.xc
+> Nine-tenths of the whole Hindu population pay no conscientious regard whatever to the forms of their religion, and yet the various cruelties accompanying their superstitions occasion the death of more than ten thousand persons every year. And notwithstanding the veneration in which some pretend to hold their gods, yet many, especially the poor, take the liberty of abusing them. When it thunders awfully, respectable Hindoos say, “Oh! the gods are giving us a bad day;” the lower orders say, “The rascally gods are dying.” During a heavy rain, a woman of respectable class frequently says, “Let the gods perish! my clothes are all wet.” A man of low castes says, “These rascally gods are sending more rain.” Ward. vol.1 p.xc
 
 {% figure "fig-c11-5" %}
 
@@ -142,11 +142,11 @@ Here Green shows ‘Natural History’ and Red shows ‘Idols’ but other colou
 
 Two lines, one thick, mark an ending of sorts for the ‘EAST INDIES’ section of the _Catalogue of the Missionary Museum_, but in the remaining space of the page follows the description with which this chapter began:
 
-THE VIRGIN MARY AND CHILD, from Mysore, that belonged to two Native Roman Catholics, who embraced the Christian religion, and sent the same to the Missionary Society
+_THE VIRGIN MARY AND CHILD, from Mysore, that belonged to two Native Roman Catholics, who embraced the Christian religion, and sent the same to the Missionary Society_
 
 Beneath this a further paragraph appears in quotation marks:
 
-“The people were in great consternation at the removal of the image, and offered large sums of money for it; one offered twenty pagodas, another his daughter, and another even declared he would sell his own child and procure money enough to purchase it, if it might be retained; but a deaf ear was turned to the proposals, being aware of the danger of making it an object of worship, and felt as the disciples of Christ,- constrained to take it away.” _Vide Missionary Chronicle for January 1826_[^32]
+_“The people were in great consternation at the removal of the image, and offered large sums of money for it; one offered twenty pagodas, another his daughter, and another even declared he would sell his own child and procure money enough to purchase it, if it might be retained; but a deaf ear was turned to the proposals, being aware of the danger of making it an object of worship, and felt as the disciples of Christ,- constrained to take it away.”_ _Vide Missionary Chronicle for January 1826_[^32]
 
 {% figure "fig-c11-11" %}
 
@@ -154,11 +154,11 @@ Given that the publication referred to appeared in the same year as the _Catalog
 
 The paragraph in quotes comes from a printed version of a letter, originally sent to the Society’s secretary on 23 July 1825 and signed by the London Missionary Society’s three European missionaries at Bangalore, Hiram Chambers, William Campbell and Stephen Laidler. It explained:
 
-We are permitted at this time to lay before you, two trophies of the victorious power of divine truth over the delusions of the Antichrist; trophies which we hope and trust may prove powerful auxiliaries in making known Christ and Him crucified, to their perishing fellow-men.[^33]
+_We are permitted at this time to lay before you, two trophies of the victorious power of divine truth over the delusions of the Antichrist; trophies which we hope and trust may prove powerful auxiliaries in making known Christ and Him crucified, to their perishing fellow-men_.[^33]
 
 The Antichrist was not a gruesome Heathen deity, but rather the Catholic Church, and the two ‘trophies’ were not ‘idols’, but rather two young men who had converted to Protestant Christianity and who, it was hoped, would play a part in converting others. Christianity’s roots in south India are believed to go back to the arrival of St Thomas the apostle in the first century, but the roots of Catholicism in Mysore are generally traced to the establishment of a Mysore mission by Father Leonardo Cinnami in 1649.
 
-Following a visit to Bangalore (Bengaluru) by John Hands, from his mission station at Bellary (Ballard), 300km away, Stephen Laidler had established a mission there for the LMS in 1820. With access to the Indian town prohibited to European missionaries by the Rajah of Mysore, preaching was initially directed at the Europeans and Sepoys in the military cantonment. This seems to have changed, however, after the arrival at the mission of Samuel Flavel, who actively preached in surrounding villages, distributing tracts and copies of the gospels in local languages.[^34]
+Following a visit to Bangalore (Bengaluru) by John Hands, from his mission station at Bellary (Ballard), 300 kilometres away, Stephen Laidler had established a mission there for the LMS in 1820. With access to the Indian town prohibited to European missionaries by the Rajah of Mysore, preaching was initially directed at the Europeans and Sepoys in the military cantonment. This seems to have changed, however, after the arrival at the mission of Samuel Flavel, who actively preached in surrounding villages, distributing tracts and copies of the gospels in local languages.[^34]
 
 Born at Quilon (Kollam) on the Malabar Coast of Kerala in 1787, Shunkurulingam, as he was known before he was baptised, was employed by a British officer at a fairly young age. He travelled widely in India, visiting Mauritius before being employed in Ceylon (Sri Lanka) as a butler. He came across a translation of the Gospels into Tamil which initiated a personal quest to know more about Protestant Christianity. This led to his baptism at Tellicherry (Thalassery) by an East India Company chaplain, when he adopted the name Samuel. Invited by Laidler to join the new mission at Bangalore, Samuel became central to its work. He was ordained as the pastor of the native church in 1822, when he adopted the surname Flavel at Laidler’s suggestion. John Flavel, like his Indian namesake, had been a learned Puritan minister, famous for preaching in the face of official prohibition.
 
