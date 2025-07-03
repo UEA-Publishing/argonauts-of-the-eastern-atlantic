@@ -12,7 +12,7 @@ abstract: |
 page_pdf_output: true
 ---
 
-{% figure 'fig-c12-1' %}
+{% figure "fig-c12-1" %}
 
 Heavy winds and high waves made landing at Avarua extremely challenging – John Williams was almost crushed between the side of the ship and the boat as he reached for his infant son. Mary, his wife, bailed water continuously as others rowed them ashore.  Landing on the beach, John described what he saw as ‘the greatest concourse of people I had seen since we left England’.  It being a Sunday, worshippers were leaving their chapel, the women dressed in white bark cloth and bonnets, the men in clothes ‘of native manufacture’ and hats.[^⁠1]
 
