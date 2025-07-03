@@ -28,7 +28,7 @@ Following the re-opening of the Missionary Museum at Austin Friars in August 182
 
 > Did you know the state of the surrounding islands, how ripe they are for the reception of the gospel, you would sell the very gods out of your Museum, if it were necessary to afford the means of carrying the glad tidings of salvation to those now sitting in darkness.[^5]
 
-A catalogue of the museum’s contents was compiled and printed, sales of which were intended to ‘to diminish the expense incurred by the preparation and support of the Museum’.[^6] The catalogue’s price was not fixed, but left to the ‘liberality’ of museum visitors, with a donations box located in the museum.[^7] By May 1825, the Missionary Chronicle reported that this had returned 57 pounds 7shillings and 5 pence.[^8]
+A catalogue of the museum’s contents was compiled and printed, sales of which were intended to ‘to diminish the expense incurred by the preparation and support of the Museum’.[^6] The catalogue’s price was not fixed, but left to the ‘liberality’ of museum visitors, with a donations box located in the museum.[^7] By May 1825, the _Missionary Chronicle_ reported that this had returned 57 pounds seven shillings and five pence.[^8]
 
 Sadly, there are no known copies of this original 1824 catalogue, but the British Library retains a copy of the slightly later 1826 version.[^9] This makes it possible to gain a sense of how the collections had grown in the twelve years since John Campbell returned to Britain from South Africa with his giraffe (Chapter 3), as well as many other things, initiating the establishment of the Missionary Museum.
 
@@ -38,37 +38,37 @@ The title page of the catalogue provides a guide to what may be found in the mus
 - Various Idols of Heathen Nations
 - Dresses, Manufactures, Domestic Utensils, Instruments of War, &c. &c. &c.
 
-This is followed by an “Advertisement” providing more background on the museum and its collection, explaining that the articles composing the museum were supplied chiefly by Missionaries of the London Missionary Society, with a few others being donations from ‘benevolent travellers, or friendly officers of mercantile vessels’.[^10] It then explains the three categories of material set out on the previous page, suggesting that:
+This is followed by an 'Advertisement' providing more background on the museum and its collection, explaining that the articles composing the museum were supplied chiefly by Missionaries of the London Missionary Society, with a few others being donations from ‘benevolent travellers, or friendly officers of mercantile vessels’.[^10] It then explains the three categories of material set out on the previous page, suggesting that:
 
-The Missionaries rightly judged that the natural productions of the distant countries in which they reside would be acceptable at home, especially to the juvenile friends, and to others who may not have opportunity of viewing larger Collections.[^11]
+_The Missionaries rightly judged that the natural productions of the distant countries in which they reside would be acceptable at home, especially to the juvenile friends, and to others who may not have opportunity of viewing larger Collections_.[^11]
 
 Natural History, although it formed a significant dimension of John Campbells’ original collections, are effectively dismissed as curiosities chiefly of interest to children. It then goes on:
 
-The efforts also of natural genius, especially in countries rude and uncivilised, afford another class of interesting curiosities; whilst they prove how capable even the most uncivilised of mankind are of receiving that instruction which it is the study of Missionaries to communicate.[^12]
+_The efforts also of natural genius, especially in countries rude and uncivilised, afford another class of interesting curiosities; whilst they prove how capable even the most uncivilised of mankind are of receiving that instruction which it is the study of Missionaries to communicate_.[^12]
 
 The ‘Dresses, Manufactures, Domestic Utensils and Instruments of War, &c. &C. &c.’, through examples such as finely worked samples of bark cloth brought by William Ellis from Hawaii (Chapter 7), essentially demonstrate potential – a capacity for conversion, but also to be schooled in civilisation – though this argument seems to have concentrated on ‘countries rude and uncivilised’ – which in this context seems to have referred largely to Africa and the Pacific.
 
 Presumably penned by a professional preacher, the Advertisement altered the order outlined on the title page so that the third category to be described delivers the rhetorical hammer blow in a new paragraph:
 
-But the most valuable and impressive objects in this Collection are the numerous, and (in some instances) _horrible_ IDOLS_,_ which have been imported from the South Seas Islands, from India, China, and Africa; and among these, those especially which were actually given up by their former worshippers, from _a full conviction of the folly and sin of idolatry_ – a conviction derived from the ministry of the Gospel by the Missionaries.[^13]
+But the most valuable and impressive objects in this Collection are the numerous, and (in some instances) _horrible_ IDOLS, which have been imported from the South Seas Islands, from India, China, and Africa; and among these, those especially which were actually given up by their former worshippers, from _a full conviction of the folly and sin of idolatry_ – a conviction derived from the ministry of the Gospel by the Missionaries.[^13]
 
 Value here is accorded to ‘Idols’ over and above either Natural History or ‘efforts of natural genius’, but special emphasis is given to those given up by their former worshippers, especially when this came from _‘a full conviction of the folly and sin of idolatry’._[^14]
 
 For Protestant evangelicals, the removal of any ‘idols’ may have seemed a good in and of itself, but real value was connected to objects which demonstrated the purpose of the Missionary Society, as set out in its founding constitution of 1795 (Chapter 1):
 
-The sole object is to spread the knowledge of Christ among the heathen and other unenlightened nations.[^15]
+_The sole object is to spread the knowledge of Christ among the heathen and other unenlightened nations_.[^15]
 
-In this light, ‘idols’ sent to the Missionary Museum by converted ‘heathen’ on the basis of conviction and a change of heart – indicators of sincere conversion – were by far the most valuable and impressive objects in the collection_._
+In this light, ‘idols’ sent to the Missionary Museum by converted ‘heathen’ on the basis of conviction and a change of heart – indicators of sincere conversion – were by far the most valuable and impressive objects in the collection.
 
-The _Advertisement_ explicitly connects the display of these ‘singularly interesting objects’ to Pomare’s despatch of his ‘idol gods’ from Tahiti to London in 1816 (Chapter 4), quoting Pomare’s suggestion that missionaries ‘send them to Britain, that the English people might see what foolish gods they had been accustomed to adore’.[^16] In displaying these in their Museum, the Directors of the Society were doing no more than complying with Pomare’s wishes.
+The Advertisement explicitly connects the display of these ‘singularly interesting objects’ to Pomare’s despatch of his ‘idol gods’ from Tahiti to London in 1816 (Chapter 4), quoting Pomare’s suggestion that missionaries ‘send them to Britain, that the English people might see what foolish gods they had been accustomed to adore’.[^16] In displaying these in their Museum, the Directors of the Society were doing no more than complying with Pomare’s wishes.
 
-The final paragraph of the _Advertisement_ expresses a desire that these “trophies of Christianity” will:
+The final paragraph of the Advertisement expresses a desire that these 'trophies of Christianity' will:
 
-inspire the spectators with gratitude to God for his goodness to our native land, in favouring us so abundantly with the means of grace, and the knowledge of his salvation and at the same time, with thankfulness that these blessings have, in some happy degree, been communicated, and by our means, to the distant isles of the Southern Ocean.[^17]
+_inspire the spectators with gratitude to God for his goodness to our native land, in favouring us so abundantly with the means of grace, and the knowledge of his salvation and at the same time, with thankfulness that these blessings have, in some happy degree, been communicated, and by our means, to the distant isles of the Southern Ocean_.[^17]
 
-The means of grace received in the British Isles by ancestors, generations previously, was connected, as it had been at the foundation of the Society in 1795 (Chapter 1), to the forward extension and communication of these blessings to other parts of the world. The final sentence of the _Advertisement_, presumably originally written in 1824 suggested:
+The means of grace received in the British Isles by ancestors, generations previously, was connected, as it had been at the foundation of the Society in 1795 (Chapter 1), to the forward extension and communication of these blessings to other parts of the world. The final sentence of the Advertisement, presumably originally written in 1824 suggested:
 
-Many of the curious articles in the Collection are calculated to excite in the pious mind, feelings of deep commiseration for the hundreds of million of the human race, still the vassals of ignorance and superstition; whilst the success with which God has already crowned our labours, should act as a powerful stimulus to efforts, far more zealous than ever, for the conversion of the heathen.[^18]
+> Many of the curious articles in the Collection are calculated to excite in the pious mind, feelings of deep commiseration for the hundreds of million of the human race, still the vassals of ignorance and superstition; whilst the success with which God has already crowned our labours, should act as a powerful stimulus to efforts, far more zealous than ever, for the conversion of the heathen.[^18]
 
 {% figure "fig-c11-3" %}
 
@@ -76,9 +76,9 @@ Many of the curious articles in the Collection are calculated to excite in the p
 
 Keane’s moral narrative of modernity is briefly set out here in grand historical terms for an assumed audience of British Christians – ‘our’ ancestors were vassals of ignorance and superstition but by the grace of God ‘we’ have reached a state of liberation that creates an obligation to liberate others still bound by these same chains.
 
-A listing of individual items forms the body of the catalogue which follows, but on the final page of the catalogue an appeal for ‘Annual Subscriptions, or Donations, in aid of the Funds of this Society’ is followed by the ‘_Form of a Bequest’_. This included a blank space for an amount to be entered, allowing visitors whose missionary zeal had been inspired by their visit to the museum provide a legacy for the Society.[^19]
+A listing of individual items forms the body of the catalogue which follows, but on the final page of the catalogue an appeal for ‘Annual Subscriptions, or Donations, in aid of the Funds of this Society’ is followed by the ‘Form of a Bequest’. This included a blank space for an amount to be entered, allowing visitors whose missionary zeal had been inspired by their visit to the museum provide a legacy for the Society.[^19]
 
-In 1826, the Missionary Museum was in the process of being reimagined as an extension of the fundraising work that underpinned all aspects of the London Missionary Society’s operations. The title page and _Advertisement_ establishing a framework through which visitors would be expected to engage with the museum and its collections, categorising and valuing the materials on display, but also providing a narrative in which the visitor – assumed to be not only British, but also Protestant and most likely evangelical, or at least sympathetic – could play a part.
+In 1826, the Missionary Museum was in the process of being reimagined as an extension of the fundraising work that underpinned all aspects of the London Missionary Society’s operations. The title page and Advertisement establishing a framework through which visitors would be expected to engage with the museum and its collections, categorising and valuing the materials on display, but also providing a narrative in which the visitor – assumed to be not only British, but also Protestant and most likely evangelical, or at least sympathetic – could play a part.
 
 Prefiguring the secularised narratives of progress that would shape the museums and displays of the later nineteenth century, in relation to what Tony Bennett has called ‘the exhibitionary complex’, this script of liberating Grace has parts for missionaries, supporters, converts as well as idols.[^20] But how well do the artefacts listed on the pages of the catalogue play their allotted parts?
 
@@ -90,13 +90,13 @@ Other geographical areas, such as Australia (Chapter 10), Madagascar (Chapter 19
 
 Only among artefacts listed as coming from the ‘East Indies’ (58 listings in total) is there a clear predominance of ‘Idols’ (45 listings). Indeed, the number  of ‘Idols’ is the same as from the Pacific (45 listings), with much smaller numbers of ‘specimens in Natural History’ (6 listings) and ‘efforts of natural genius’ (7 listings). But how far do these ‘Indian idols’ represent what the ADVERTISEMENT called ’valuable and impressive objects… actually given up by their former worshippers, from a full conviction of the folly and sin of idolatry’?
 
-Twenty-one of the forty-five ‘Idols’ listed were ‘models’, most likely commissioned by Henry Townley in Calcutta (Chapter 6). Following these in the catalogue is, intriguingly, is a listing for:
+21 of the 45 ‘Idols’ listed were ‘models’, most likely commissioned by Henry Townley in Calcutta (Chapter 6). Following these in the catalogue is, intriguingly, is a listing for:
 
-A Case of REJECTED IDOLS from Cuddapah, in the East Indies.[^21]
+_A Case of REJECTED IDOLS from Cuddapah, in the East Indies_.[^21]
 
 John Hands began preaching and establishing schools at Cuddapah (Kadapa) in 1822, and a mission was established there by William Howell in 1824.[^22] It seems likely that these items were sent to London when a small number of people were baptised, according to an account published later in the century (1858) ‘from doubtful motives’.[^23]
 
-After this, the catalogue includes a fairly large number of items from Rangoon (Yangon – 19 listings), including thirteen Buddhas, two figures of Krishna, a figure of Kali standing on the stomach of Shiva, a stone lingam, and a set of bells from one of the temples. Beginning a listing for the ‘Fourth Shelf’ was a gilt Buddha from Rangoon, described as ‘a Sea Port in the Burmese Empire’.[^24] This was followed by a long text describing Buddha as an avatar of Vishu, taken from a Sanskrit inscription at Bodh Gaya, translated by Charles Wilkins, which appeared in the first volume of _Asiatick Researches, published at Calcutta by the Asiatic Society of Bengal in 1788._[^25]
+After this, the catalogue includes a fairly large number of items from Rangoon (Yangon – 19 listings), including 13 Buddhas, two figures of Krishna, a figure of Kali standing on the stomach of Shiva, a stone lingam, and a set of bells from one of the temples. Beginning a listing for the ‘Fourth Shelf’ was a gilt Buddha from Rangoon, described as ‘a Sea Port in the Burmese Empire’.[^24] This was followed by a long text describing Buddha as an avatar of Vishu, taken from a Sanskrit inscription at Bodh Gaya, translated by Charles Wilkins, which appeared in the first volume of _Asiatick Researches, published at Calcutta by the Asiatic Society of Bengal in 1788._[^25]
 
 A very brief mission had been established at Rangoon in 1810, but within months one of the missionaries, J.C. Brain, had died and the other Edward Pritchett returned to Madras. Given how short this unsuccessful mission was, it seems extremely unlikely that all these items could have been collected at that time, especially as it predated the establishment of the Missionary Museum.
 
