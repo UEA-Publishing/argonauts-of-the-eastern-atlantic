@@ -60,63 +60,62 @@ Under Williams and Threlkeld, as well as for John Orsmond until he left for Bora
 
 Orsmond, in a somewhat embittered letter sent to England after he was dismissed from the LMS in 1849, described Pomare as ‘a beastly sot’:
 
-The King changed his Gods, but he had no other reason but that of consolidating his Government. After his conquest it is true he went by short stages to shew his authority, receive presents from his newly acquired subjects, drink the abundance of native spirits, and then in their inebriety, cast down their Marae and destroy their Gods, thus by strategem taking away from any future rebellion thro the power of the idols which were always leaders in war.[^⁠14]
+_The King changed his Gods, but he had no other reason but that of consolidating his Government. After his conquest it is true he went by short stages to shew his authority, receive presents from his newly acquired subjects, drink the abundance of native spirits, and then in their inebriety, cast down their Marae and destroy their Gods, thus by strategem taking away from any future rebellion thro the power of the idols which were always leaders in war._[^⁠14]
 
 The early years at Ra’iatea were spent building houses, chapels and bridges, including some on the neighbouring island of Taha’a.[^⁠15] Williams’ appeal to supporters in Birmingham prompted a donation to assist his work, including:
 
-two Casks, one containing Nails only, the other, Nails, Hammers, Bench Vices, Nippers, Pincers, Saws, Printing Ink and various other Articles[^⁠16]
+_two Casks, one containing Nails only, the other, Nails, Hammers, Bench Vices, Nippers, Pincers, Saws, Printing Ink and various other Articles._[^⁠16]
 
-[^In May 1819, an auxiliary Missionary Society was established with Tamatoa as president.⁠17]
+In May 1819, an auxiliary Missionary Society was established with Tamatoa as president.[^⁠17]
 
 Puna, one of these who spoke at the meeting described the Missionary Society as like the wind:
 
-that makes the heavy ships sail… If there had been none, no ship would have come here with Missionaries. If there is no property, how can Missionaries be sent to other countries, how can the ships sail? Let us then give what we can.[^⁠18]
+_that makes the heavy ships sail… If there had been none, no ship would have come here with Missionaries. If there is no property, how can Missionaries be sent to other countries, how can the ships sail? Let us then give what we can._[^⁠18]
 
 Tuahine, added:
 
-Whence comes the great waters? Is it not from the small streams that flow into them… I have been thinking that the Missionary Society in Britain is like the great water, and that such little Societies as ours are like the little streams. Let there be many little streams: let not ours be dry. Let missionaries be sent to every land. We are far better off now than we used to be. We do not now sleep with our cartridges under our heads, our guns by our sides, and our hearts in fear…[^⁠19]
+> Whence comes the great waters? Is it not from the small streams that flow into them… I have been thinking that the Missionary Society in Britain is like the great water, and that such little Societies as ours are like the little streams. Let there be many little streams: let not ours be dry. Let missionaries be sent to every land. We are far better off now than we used to be. We do not now sleep with our cartridges under our heads, our guns by our sides, and our hearts in fear…[^⁠19]
 
 Tuahine’s comments capture a sense that the adoption of Christianity was associated with an end to hostilities and the establishment of peace, but this entailed accepting the authority of the leaders who embraced the new religion such as Pomare II at Tahiti and Tamatoa at Ra’iatea.
 
-In March 1821, a canoe arrived at Ra’iatea from Rurutu in the Austral Islands, 560km to the South, where disease had recently decimated the population. Au’ura, leader of the group, was deeply interested by Christian practices, learning to read during the time he spent at Ra’iatea. Four months later, the arrival of a ship, the _Hope_, tested the Ra’iateans’ commitment to supporting missionary activity by providing an opportunity for the thirty people who had come from Rurutu to return. Au’ura, however, stated that he didn’t wish to return to his ‘land of darkness without a light in his hand’.[^⁠20]
+In March 1821, a canoe arrived at Ra’iatea from Rurutu in the Austral Islands, 560 kilometres to the South, where disease had recently decimated the population. Au’ura, leader of the group, was deeply interested by Christian practices, learning to read during the time he spent at Ra’iatea. Four months later, the arrival of a ship, the _Hope_, tested the Ra’iateans’ commitment to supporting missionary activity by providing an opportunity for the 30 people who had come from Rurutu to return. Au’ura, however, stated that he didn’t wish to return to his ‘land of darkness without a light in his hand’.[^⁠20]
 
 Puna and Mahamene volunteered to go with him, together with their wives, supported by the congregation at Ra’iatea. Along with bark cloth, food, spelling books and gospels, they were given ‘various useful tools’ including razors, knives and scissors. Lancelot Threlkeld arranged for his personal boat to be towed by the _Hope,_ so that it could return with news. He also wrote to London stating:
 
-the Chief \[Au’ura\] promises their Gods to you we reccommend \[sic\] him not to burn them but send them prisoners to the Society.[^⁠21]
+> the Chief \[Au’ura\] promises their Gods to you we reccommend \[sic\] him not to burn them but send them prisoners to the Society.[^⁠21]
 
-In a letter also sent in the _Hope_ to the Directors, Tamatoa explained that he had covered up his own ‘evil spirits_’_ with the intention of sending them to London, but when he fell ill:
+In a letter also sent in the _Hope_ to the Directors, Tamatoa explained that he had covered up his own ‘evil spirits’ with the intention of sending them to London, but when he fell ill:
 
-some men said to me that I had taken care of the evil spirits, and that was the reason I was overtaken with sickness; I was requested by the people to burn the evil spirits, and I said Burn them, _Oro e a Hiro_ were the two evil spirits that were burned.[^⁠22]
+> some men said to me that I had taken care of the evil spirits, and that was the reason I was overtaken with sickness; I was requested by the people to burn the evil spirits, and I said Burn them, _Oro e a Hiro_ were the two evil spirits that were burned.[^⁠22]
 
 In August 1821, Threlkeld’s boat arrived back at Ra’iatea with letters from Au’ura, Puna and Mahamene, carrying what John Williams described as ’prisoners, the gods of the heathen, taken in this bloodless war, and won by the blood of Him who is Prince of Peace’. A letter sent by Puna and Mahamene described a meeting of ‘the chiefs and king’ at Rurutu when Au’ura proposed that ’the evil spirit be this instant cast into the fire’, suggesting that God had guided him to Ra’iatea ‘where the teachers are’. According to this letter, two men started up ‘inspired by the evil spirit’, stating ‘I have seen the foundation of the firmament, up in the sky. Taaroa brought me forth.’[^⁠23]
 
-Auura then answered the evil spirit thus, ‘Do you leap up then, that we may see you flying up into the sky. Do so now, immediately. Truly thou art even the very foundation of deceit. The people of Rurutu have been completely destroyed through you, and through you alone, and now you shall not deceive us again…[^⁠24]
+Auura then answered the evil spirit thus, ‘Do you leap up then, that we may see you flying up into the sky. Do so now, immediately. Truly thou art even the very foundation of deceit. The people of Rurutu have been completely destroyed through you, and through you alone, and now you shall not deceive us again…'.[^⁠24]
 
 Puna then advised the assembled men:
 
-prepare one place where you may all eat together, you and your wives and children, and your king, at one eating place, and there the evil spirit who has just now inspired that man shall be completely ashamed: he has no refuge; but cast away every disgraceful thing from among you, for that is the reason he remains among you.[^⁠25]
+_prepare one place where you may all eat together, you and your wives and children, and your king, at one eating place, and there the evil spirit who has just now inspired that man shall be completely ashamed: he has no refuge; but cast away every disgraceful thing from among you, for that is the reason he remains among you._[^⁠25]
 
-When communal eating prompted no apparent ill effects, the people of Rurutu ‘boldly seized the gods, and then proceeded to demolish totally the Morais \[Maraes\], which was all completely effected that day.’ Puna and Mahamene then oversaw the construction of a Chapel, in which Tyerman and Bennet noticed old spears being used ’to support the balustrade of the pulpit staircase’ in November 1822.⁠[^⁠26]
+When communal eating prompted no apparent ill effects, the people of Rurutu ‘boldly seized the gods, and then proceeded to demolish totally the Morais \[Maraes\], which was all completely effected that day.’ Puna and Mahamene then oversaw the construction of a chapel, in which Tyerman and Bennet noticed old spears being used ’to support the balustrade of the pulpit staircase’ in November 1822.⁠[^⁠26]
 
 The evening that Threlkeld’s boat arrived back at Ra’iatea, a meeting was held in the chapel, lit by a great many cocoa nut shell lamps. The evangelists’ accounts from Rurutu were shared and the ‘idols’ exhibited from the pulpit. According to Williams:
 
-One in particular, Aa, the national god of Rurutu, excited considerable interest; for, in addition to his being bedecked with little gods outside, a door was discovered at his back; on opening which, he was found to be full of small gods; and no less than twenty-four were taken out, one after another, and exhibited to public view. He is said to to be the ancestor by whom their island was peopled, and who after death was deified.[^⁠27]
+> One in particular, Aa, the national god of Rurutu, excited considerable interest; for, in addition to his being bedecked with little gods outside, a door was discovered at his back; on opening which, he was found to be full of small gods; and no less than twenty-four were taken out, one after another, and exhibited to public view. He is said to to be the ancestor by whom their island was peopled, and who after death was deified.[^⁠27]
 
 Tuahine, one of the deacons at the church remarked:
 
-Thus the gods made with hands shall perish. There they are, tied with cords! Yes! their very names also are changed! Formerly they were called ’_Te mau Atua,’_ or the gods; now they are called ’_Te mau Varu ino,’_ or evil spirits: Their glory, look! It is bird’s feathers, soon rotten; but our God is the same for ever.[^⁠28]
+> Thus the gods made with hands shall perish. There they are, tied with cords! Yes! their very names also are changed! Formerly they were called ’_Te mau Atua,’_ or the gods; now they are called ’_Te mau Varu ino,’_ or evil spirits: Their glory, look! It is bird’s feathers, soon rotten; but our God is the same for ever.[^⁠28]
 
 Another speaker observed:
 
-Look at the chandeliers! Oro never taught us any thing like this! Look at our wives, in their gowns and their bonnets, and compare ourselves with the poor natives of Rurutu, when they were drifted to our island, and mark the superiority! And by what means have we obtained it? By our own invention and goodness? No! It is to the good name of Jesus we are indebted. Then let us send this name to other lands, that others may enjoy the same benefits.[^⁠29]
+> Look at the chandeliers! Oro never taught us any thing like this! Look at our wives, in their gowns and their bonnets, and compare ourselves with the poor natives of Rurutu, when they were drifted to our island, and mark the superiority! And by what means have we obtained it? By our own invention and goodness? No! It is to the good name of Jesus we are indebted. Then let us send this name to other lands, that others may enjoy the same benefits.[^⁠29]
 
 Religion clearly remained a material business for many members of the congregation at Ra’iatea. The wrapping of Christian women in gowns and bonnets could be read as advancement, just as the unwrapping and burning of ‘gods made with the hands’ marked a devaluation. Nevertheless, it is significant that the translated remarks of both Tamatoa and Tuahine refer primarily to ‘spirits’ rather than to ‘idols’, a Biblical term used mostly by European missionaries.
 
+{Figure "fig-c12-11"}
 ['Idols' worshipped by the Inhabitants of the South Sea Islands](https://wellcomecollection.org/works/uue7tp4t)
 
-Printed to face the title page of Volume 2 of William Ellis (1829) _Polynesian Researches (_London: Fisher, Son & Jackson).
-
-[Wellcome Collection EPB/B/21643/1.v2](https://wellcomecollection.org/works/uue7tp4t)
+Printed to face the title page of Volume 2 of William Ellis (1829) _Polynesian Researches (_London: Fisher, Son & Jackson). [Wellcome Collection EPB/B/21643/1.v2](https://wellcomecollection.org/works/uue7tp4t)
 
 Earlier religious practices involving _marae, to’o_ and _ti’i_ appear to have provided the means to manifest and communicate with immaterial spiritual entities – just as printed Bibles embodied the immaterial word of God, and newly built Chapels housed congregations through which the Holy Spirit could act on earth. Describing _ti’i_ (carvings representing spirits) and _to’o_ (pieces of hard wood representing national or family gods), following conversations with a maker of such things at Ra’iatea, William Ellis suggested that:
 
