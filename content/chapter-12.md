@@ -10,7 +10,6 @@ contributor:
   - id: cwingfield
 abstract: |
 page_pdf_output: true
-
 ---
 
 {% figure "fig-c12-1" %}
@@ -25,7 +24,7 @@ Three days after the arrival of the Pitmans and the Williams, the ship on which 
 
 In Williams’ (1837) book, _A Narrative of Missionary Enterprises_, there is an image on the page after this description, showing what is described by a caption as ‘_One of the national idols’_, wrapped in layers of bark cloth, alongside its string of shells, or _manava,_ captioned as the ’_Soul of the idol_’. Empty space on the page is filled by a sketch of ‘_The Fisherman’s god_’, also from Rarotonga. This ‘Fisherman’s god’, now in the British Museum ([Oc,LMS.36](https://www.britishmuseum.org/collection/object/E_Oc-LMS-36)), appears to have been emasculated, though whether this happened in Rarotonga is unknown.
 
-Similarly, just as Williams did not describe the ‘obscene figure’ at the bottom of the ancestral pole, known in the Rarotonga language as _ki’iki’i_, the image in his book avoids showing the phallus with which the twelve foot long pole originally terminated. Whether this had also been removed is unclear.[^⁠4]  In his text, however, Williams notes that:
+Similarly, just as Williams did not describe the ‘obscene figure’ at the bottom of the ancestral pole, known in the Rarotonga language as _ki’iki’i_, the image in his book avoids showing the phallus with which the twelve foot long pole originally terminated. Whether this had also been removed is unclear.[^⁠4] In his text, however, Williams notes that:
 
 _It is not, however, so respectable in appearance as when in its own country; for his Britannic Majesty’s officers, fearing lest the god should be made a vehicle for defrauding the king, very unceremoniously took it to pieces; and not being so well skilled in making gods as in protecting the revenue, they have not made it so handsome as when it was an object of veneration…_[^⁠5]
 
@@ -33,23 +32,23 @@ Described as ‘A Gigantic Idol’ in the catalogue of the Missionary Museum, pr
 
 A few days after the performance of iconoclasm described by Williams, several thousand people assembled for Sunday worship. Half of them had to sit outside the building which served as their temporary chapel. Over the next two months, the entire community worked together to construct a new place to worship. According to Williams, it was ultimately:
 
-one hundred and fifty feet in length, and sixty wide; well plastered, and fitted up throughout with seats… It was a large, respectable, and substantial building; and the whole was completed without a single nail, or any iron-work whatever. It will accommodate nearly three thousand persons.[^⁠7]
+_one hundred and fifty feet in length, and sixty wide; well plastered, and fitted up throughout with seats… It was a large, respectable, and substantial building; and the whole was completed without a single nail, or any iron-work whatever. It will accommodate nearly three thousand persons._[^⁠7]
 
 The script for this tale of conversion – the destruction of religious ‘idols’, the adoption of new forms of dress and the building of a new church, overseen from a distance by European missionaries, recapitulates the image produced for _Missionary Sketches_ in July 1819, where it illustrated the conversion of Tahiti under Pomare II ([Chapter 4](https://argonauts2022.net/idol-gods-of-otaheite/)). Given that no Europeans had lived at Rarotonga for any length of time before May 1827, it seems safe to assume that at least part of this script was compatible, or at least comprehensible, in terms of existing Polynesian religious practices.
 
-Nearly two centuries after the event that was depicted on the title page of John Williams’ (1837) _Narrative of Missionary Enterprises,_ above a quotation from Isaiah ii, 18 declaring  ‘And the idols he shall utterly abolish’, how should best can we understand the conditions that prompted this performance of conversion?
+Nearly two centuries after the event that was depicted on the title page of John Williams’ (1837) _Narrative of Missionary Enterprises_, above a quotation from Isaiah ii, 18 declaring  ‘And the idols he shall utterly abolish’, how best can we understand the conditions that prompted this performance of conversion?
 
-John and Mary Williams had arrived in the Pacific ten years earlier, on 17 November 1817, together with four other missionary couples. Inspired by news of Pomare’s ‘overthrow of idolatry at Tahiti’ ([Chapter 4](https://argonauts2022.net/idol-gods-of-otaheite/)), they formed part of a significant reinforcement for the, by then, fairly depleted first generation of European missionaries (four of whom had arrived in the Duff in 1797 and the other four in the Royal Admiral, a convict ship, in 1801).
+John and Mary Williams had arrived in the Pacific ten years earlier, on 17 November 1817, together with four other missionary couples. Inspired by news of Pomare’s ‘overthrow of idolatry at Tahiti’ ([Chapter 4](https://argonauts2022.net/idol-gods-of-otaheite/)), they formed part of a significant reinforcement for the, by then, fairly depleted first generation of European missionaries (four of whom had arrived in the _Duff_ in 1797 and the other four in the _Royal Admiral_, a convict ship, in 1801).
 
-These additional recruits made it possible to expand European influence beyond the small island of Mo’orea, where British missionaries had stayed for much of the previous decade, sending despatches to London during Pomare’s reconquest of Tahiti including, in 1816, his ‘Idol Gods’  ([Chapter 4](https://argonauts2022.net/idol-gods-of-otaheite/)).
+These additional recruits made it possible to expand European influence beyond the small island of Mo’orea, where British missionaries had stayed for much of the previous decade, sending despatches to London during Pomare’s reconquest of Tahiti including, in 1816, his ‘Idol Gods’ ([Chapter 4](https://argonauts2022.net/idol-gods-of-otaheite/)).
 
-By 1817, the destruction of _marae_ (religious ceremonial enclosures) and the burning of _to’o_ (spiritual vessels) and _ti’i_ (religious sculptures) had spread far beyond Papetoai on Mo’orea, where Pati’i, a priest, first burnt items he was responsible for in 1815. By the middle of the following year, requests for European teachers had arrived from the Leeward islands of Huahine, Ra’iatea, Taha’a and Borabora, where ‘idols’ had also been destroyed and churches constructed. [^⁠8]
+By 1817, the destruction of _marae_ (religious ceremonial enclosures) and the burning of _to’o_ (spiritual vessels) and _ti’i_ (religious sculptures) had spread far beyond Papetoai on Mo’orea, where Pati’i, a priest, first burnt items he was responsible for in 1815. By the middle of the following year, requests for European teachers had arrived from the Leeward islands of Huahine, Ra’iatea, Taha’a and Borabora, where ‘idols’ had also been destroyed and churches constructed.[^⁠8]
 
-Former students of the missionary school at Papetoai played a key role in taking new practices of reading and praying (converts were initially known as _Bure Atua_ or prayers to God) to the Leeward Islands. [^⁠9]They were assisted by Tamatoa, ruler of Ra’iatea, one of Pomare’s key allies. By 1816, Tamatoa had overcome Fenuapeho, his rival on the neighbouring island of Taha’a, who attempted to defend the existing religious system.
+Former students of the missionary school at Papetoai played a key role in taking new practices of reading and praying (converts were initially known as _Bure Atua_ or prayers to God) to the Leeward Islands.[^⁠9] They were assisted by Tamatoa, ruler of Ra’iatea, one of Pomare’s key allies. By 1816, Tamatoa had overcome Fenuapeho, his rival on the neighbouring island of Taha’a, who attempted to defend the existing religious system.
 
-Since the capture of the Duff in 1799, however, European missionaries had been dependent on others if they wanted to travel by sea.[^⁠10] In March 1817, the newly arrived mission printing press was transported, together with a number of missionaries, in the canoes of Vara, chief of Afareaitu in the east of Mo’orea.
+Since the capture of the _Duff_ in 1799, however, European missionaries had been dependent on others if they wanted to travel by sea.[^⁠10] In March 1817, the newly arrived mission printing press was transported, together with a number of missionaries, in the canoes of Vara, chief of Afareaitu in the east of Mo’orea.
 
-A start had been made on building a missionary ship, but it was the arrival of a mariner, Captain Nicholson, sent with the new missionaries from London, which prompted the completion of this vessel, a seventy ton brig. Its launch was arranged for 7 December 1817, but when Pomare II threw a bottle of red wine and declared _Ia ora na oe e Haweis_ (Prosperity to you, O Haweis), naming the ship after his principal benefactor in Britain, the smashing glass so alarmed those holding her ropes that they let go, and the Haweis toppled onto her side.[^⁠11] Righted, she was subsequently launched.
+A start had been made on building a missionary ship, but it was the arrival of a mariner, Captain Nicholson, sent with the new missionaries from London, which prompted the completion of this vessel, a 70 ton brig. Its launch was arranged for 7 December 1817, but when Pomare II threw a bottle of red wine and declared _Ia ora na oe e Haweis_ (Prosperity to you, O Haweis), naming the ship after his principal benefactor in Britain, the smashing glass so alarmed those holding her ropes that they let go, and the Haweis toppled onto her side. [^⁠11] Righted, she was subsequently launched.
 
 Missionaries were taken to re-establish stations on the main island of Tahiti at Papara, Papaoa and Puna’auia in Atehuru (called Burder’s Point by the missionaries, after the Secretary of the Society in London), as well as at Matavai, the original location of the mission (Chapter 1), abandoned since 1809. In mid-1818, the Haweis transported Ellis, Williams and Threlkeld to Huahine in the Leeward Islands, together with their wives and a printing press.
 
@@ -57,7 +56,7 @@ In September of that year, Williams and Threlkeld persuaded the _Active,_ purcha
 
 Under Williams and Threlkeld, as well as for John Orsmond until he left for Bora Bora in 1820, Ra’iatea became an alternative (and rival) centre of missionary operations. All three were zealous missionary recruits of the new generation, suspicious of the compromises arrived at by the older Tahitian missionaries. In a letter written to the Directors in July 1822, following the death of Pomare II, Williams and Threlkeld declared:
 
-Not one native in this Island (Ra’iatea), whose conduct is at all consistent with the Gospel, laments his loss, but rather consider it interposition of God in removing him, in short his whole aim was to grasp at all of the Islands under the pretence of Christianising them.[^⁠13]
+> Not one native in this Island (Ra’iatea), whose conduct is at all consistent with the Gospel, laments his loss, but rather consider it interposition of God in removing him, in short his whole aim was to grasp at all of the Islands under the pretence of Christianising them.[^⁠13]
 
 Orsmond, in a somewhat embittered letter sent to England after he was dismissed from the LMS in 1849, described Pomare as ‘a beastly sot’:
 
