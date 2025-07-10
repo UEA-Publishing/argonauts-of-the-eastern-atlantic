@@ -119,11 +119,11 @@ Printed to face the title page of Volume 2 of William Ellis (1829) _Polynesian R
 
 Earlier religious practices involving _marae, to’o_ and _ti’i_ appear to have provided the means to manifest and communicate with immaterial spiritual entities – just as printed Bibles embodied the immaterial word of God, and newly built Chapels housed congregations through which the Holy Spirit could act on earth. Describing _ti’i_ (carvings representing spirits) and _to’o_ (pieces of hard wood representing national or family gods), following conversations with a maker of such things at Ra’iatea, William Ellis suggested that:
 
-Into these they supposed the god entered at certain seasons, or in answer to the prayers of the priests. During this indwelling of the the gods, they imagined even the images were very powerful: but when the spirit had departed, though they were among the most sacred things, their extraordinary powers were gone.[^⁠30]
+_Into these they supposed the god entered at certain seasons, or in answer to the prayers of the priests. During this indwelling of the the gods, they imagined even the images were very powerful: but when the spirit had departed, though they were among the most sacred things, their extraordinary powers were gone._[^⁠30]
 
 Early nineteenth century Evangelical Christianity, with its emphasis on opening oneself to and accepting, the redeeming power of divine Grace must have been immediately comprehensible to people whose existing religious practices also concerned the channeling divine power in the world, even if they called this _mana_ rather than Grace. This sense of recognition appears to have been mutual, William Ellis declaring:
 
-it is impossible not to feel interested in a people who were accustomed to consider themselves surrounded by invisible intelligences, and who recognised in the rising sun – the mild and silver moon – the shooting star – the meteor’s transient flame – the ocean’s roar – the tempest’s blast, or the evening breeze – the movements of mighty spirits.[^⁠31]
+> it is impossible not to feel interested in a people who were accustomed to consider themselves surrounded by invisible intelligences, and who recognised in the rising sun – the mild and silver moon – the shooting star – the meteor’s transient flame – the ocean’s roar – the tempest’s blast, or the evening breeze – the movements of mighty spirits.[^⁠31]
 
 In October 1821, John and Mary Williams traveled to New South Wales in the _Westmoreland_, a visiting ship, for health reasons.[^⁠32] Inspired by what had recently taken place at Rurutu, Williams proposed taking further members of his congregation to serve as missionaries at Aitutaki, in what is now the Cook Islands. Members of the Church selected two of their number, Papeiha and Vahapata, for this work.[^⁠33]
 
@@ -137,21 +137,21 @@ In April 1822, while still at Sydney, Williams received letters from Papeiha and
 
 In mid-1823, following the return of the _Endeavour_ from her first trading voyage to Sydney, Williams sailed to Aitutaki with Robert Bourne, as well as four couples from the congregation at Ra’iatea who had volunteered as missionaries, and one from Taha’a.[^⁠38] They intended to find Rarotonga, but also to leave teachers at other nearby islands. On board the _Endeavour,_ Williams created a letter of instruction for the Polynesian missionaries. The advice it contains suggests he recognised that there was a fine balance to be struck between encouraging the overthrow of existing practices and communicating the good news of Christian salvation, alongside the advantages of new technical skills:
 
-Remember that this work is the work of the Lord Jesus Christ. It is not to prosper by the strength of man. The Holy Spirit must do the work. Without him, it will not grow…
+_Remember that this work is the work of the Lord Jesus Christ. It is not to prosper by the strength of man. The Holy Spirit must do the work. Without him, it will not grow…_
 
-Do not let the whole of your discourses be directed against the evil spirit; but exalt our Lord Jesus Christ and his Gospel. Tell fully of his great compassion to us, and of the efficacy of his blood to cleanse and save the soul…
+_Do not let the whole of your discourses be directed against the evil spirit; but exalt our Lord Jesus Christ and his Gospel. Tell fully of his great compassion to us, and of the efficacy of his blood to cleanse and save the soul…_
 
-All their lesser evil customs, such as going naked, cutting and scratching themselves in seasons of grief, tattooing their bodies, eating raw fish, &c. you will endeavour to cast down; but the greater evils will require your first efforts, and then the smaller…
+_All their lesser evil customs, such as going naked, cutting and scratching themselves in seasons of grief, tattooing their bodies, eating raw fish, &c. you will endeavour to cast down; but the greater evils will require your first efforts, and then the smaller…_
 
-Have good houses yourselves, and all the little concerns within them, let them be good also… Teach them all you know – to build houses, to do carpentering work, to plaster, and to make bedsteads and seats, to make oil and arrow-root.. Your wives also, let them teach the women to sew, to make bonnets, mats, cloth, &c., that they may appear decent….
+_Have good houses yourselves, and all the little concerns within them, let them be good also… Teach them all you know – to build houses, to do carpentering work, to plaster, and to make bedsteads and seats, to make oil and arrow-root... Your wives also, let them teach the women to sew, to make bonnets, mats, cloth, &c., that they may appear decent…_
 
-If you obtain idols, burn some (but not the best) before their face, lest in case of sickness or other evil, they should think that the gods still in existence inflicted it. The remainder send to Raiatea as a rejoicing to us, and we will send them to England as a rejoicing to them.[^⁠39]
+_If you obtain idols, burn some (but not the best) before their face, lest in case of sickness or other evil, they should think that the gods still in existence inflicted it. The remainder send to Raiatea as a rejoicing to us, and we will send them to England as a rejoicing to them._[^⁠39]
 
-When the _Endeavour_ arrived at Aitutaki on 9 July 1823, canoes approached demonstrating their peaceful intentions by holding up spelling books and European-style hats. Coming ashore, Williams found the _maraes_ had been destroyed and a large plastered chapel (200 ft long) built, together with a five bedroom house for Papeiha and Vahapata.
+When the _Endeavour_ arrived at Aitutaki on 9 July 1823, canoes approached demonstrating their peaceful intentions by holding up spelling books and European-style hats. Coming ashore, Williams found the _maraes_ had been destroyed and a large plastered chapel (200 foot long) built, together with a five bedroom house for Papeiha and Vahapata.
 
 Encountering a pair of ‘grim-looking gods’ being used as pillars to support a cooking house, he offered a pair of fish-hooks in exchange. Their owner, according to Williams ‘propped up the house, took out the idols, and threw them down; and while they were prostrate on the ground, he gave them a kick, saying, “There – your reign is at an end”.’[^⁠40]
 
-When Williams delivered a sermon in the chapel, Papeiha and Vahapata before the pulpit, dressed in European clothes and facing the congregation. Afterwards, according to Williams, The gods and bundles of gods, which had escaped destruction, thirty-one in number, were carried in triumph to the ship’s boat; and we came off to the vessel with the trophies of our bloodless conquest’.[^⁠41]
+When Williams delivered a sermon in the chapel, Papeiha and Vahapata before the pulpit, dressed in European clothes and facing the congregation. Afterwards, according to Williams, The gods and bundles of gods, which had escaped destruction, 31 in number, were carried in triumph to the ship’s boat; and we came off to the vessel with the trophies of our bloodless conquest’.[^⁠41]
 
 Sailing in search of Rarotonga, Papeiha updated Williams on events at Aitutaki over the previous eighteen months, including three periods of armed conflict (suggesting Christian conquest was not as bloodless as claimed). Papeiha and Vahapata had initially been regarded as ‘Two logs of drift-wood, washed on shore by the waves of the ocean’, but their status was enhanced by the arrival of the _Endeavour_ on her way to New South Wales in December 1822, bringing spelling books, axes, pigs and goats from Ra’iatea.[^⁠42]
 
@@ -159,7 +159,7 @@ Soon afterwards, Papeiha called for the destruction of the island’s _maraes_, 
 
 After a week of searching unsuccessfully for Rarotonga, the _Endeavour_ steered for the island of Mangaia. Swimming ashore, Papeiha explained the nature of the ship and its mission. On landing, however, the teachers and their property were seized – a saw broken into three, bonnets dragged through the water, bedsteads seized, and cocoa-nut oil poured over people’s bodies. The teachers’ wives were carried into the woods, only to be rescued when the ship fired a small cannon.
 
-Papeiha, who had been strangled during the attack with a tiputa (a poncho type upper garment of bark cloth, worn by many converts), told the leader who had encouraged them to land what he thought of this behaviour. The man in question, we are told, wept, declaring that all heads were an equal height on his island.[^⁠43] Months later, the _Endeavour_ returned to Mangaia on its way to New South Wales with Tyerman and Bennet, leaving Davida and Tiere, both unmarried men from Taha’a, as missionaries on the island, which had suffered a severe epidemic following this earlier visit.
+Papeiha, who had been strangled during the attack with a tiputa (a poncho type upper garment made of bark cloth, worn by many converts), told the leader who had encouraged them to land what he thought of this behaviour. The man in question, we are told, wept, declaring that all heads were an equal height on his island.[^⁠43] Months later, the _Endeavour_ returned to Mangaia on its way to New South Wales with Tyerman and Bennet, leaving Davida and Tiere, both unmarried men from Taha’a, as missionaries on the island, which had suffered a severe epidemic following this earlier visit.
 
 After Mangaia, the _Endeavour_ went to Atiu, where John Orsmond had sent a pair of missionaries from Bora Bora a few months previously. They hadn’t made much progress, but when Rongo-ma-Tane, a leader on the island, visited the ship he was told about events at Aitutaki and shown the once powerful ‘idols’ lying in the hold. Attending a service on deck, he determined to bring about the same changes on his island, asking to purchase an axe with which he could cut posts to build ‘God’s house’.[^⁠44]
 
@@ -169,15 +169,15 @@ After struggling with contrary winds for several days, the _Endeavour_ was about
 
 Two teachers and their wives spent the night ashore with Papeiha, but returned to the ship early the next morning. Williams was told that a rival chief (possibly Pa Te Pou, _ariki_ of Takitumu) had tried to take one of the female teachers as his wife, but that Tapairu defended the women. Williams was reluctant to abandon the intended teachers to their fate, but Papeiha volunteered to remain at Rarotonga alone if his friend Tiberio was sent to join him. Papeiha waved goodbye to Williams, going ashore in a canoe with just the clothes on his back, his Bible and some spelling books.[^⁠46]
 
-Arriving back at Ra’iatea, ‘as other warriors feel a pride in displaying trophies of the victories they win’, Williams triumphantly hung his ‘prisoners’, ‘the rejected idols of Aitutaki’ from the yard-arms of the _Endeavour_ as they entered the harbour in triumph.[^⁠47] Once again, the coconut oil chandeliers were lit, and the ‘idols were suspended about the chapel’. Twenty-five were then sent to Tyerman and Bennet, then still at Tahiti and six others directly to the Missionary Museum in England.[^⁠48]
+Arriving back at Ra’iatea, ‘as other warriors feel a pride in displaying trophies of the victories they win’, Williams triumphantly hung his ‘prisoners’, ‘the rejected idols of Aitutaki’ from the yard-arms of the _Endeavour_ as they entered the harbour in triumph.[^⁠47] Once again, the coconut oil chandeliers were lit, and the ‘idols were suspended about the chapel’. 25 were then sent to Tyerman and Bennet, then still at Tahiti and six others directly to the Missionary Museum in England.[^⁠48]
 
 Williams made another trip in the _Endeavour,_ to Rurutu and Rimatara, but this would be his last. Traders at Sydney had persuaded the Governor of New South Wales to apply a duty to sugar cane and tobacco imports, rendering the ship an unprofitable and unsustainable enterprise. In addition, the Directors in London disapproved of Williams involving himself in financial speculation, so the _Endeavour_ was sent to Sydney to be sold. Williams provided the Directors’ with his interpretation of events:
 
-Satan knows well that this ship was the most fatal weapon ever formed against his interests in the great South Sea; and, therefore, as soon as he felt the effects of its first blow, he has wrested it out of our hands.[^⁠49]
+_Satan knows well that this ship was the most fatal weapon ever formed against his interests in the great South Sea; and, therefore, as soon as he felt the effects of its first blow, he has wrested it out of our hands._[^⁠49]
 
 Appealing for funds for a replacement, Williams and Threlkeld wrote:
 
-Think not of the expense of such a vessel. Remember the gods are to be her cargo, and your reward. Twice has the Lord God sent you these from hence and from other islands, and your eyes shall see yet greater things.[^⁠50]
+> Think not of the expense of such a vessel. Remember the gods are to be her cargo, and your reward. Twice has the Lord God sent you these from hence and from other islands, and your eyes shall see yet greater things.[^⁠50]
 
 When Williams returned to Rarotonga in May 1827, it had been less than four years since his first visit. When Tyerman and Bennet, together with Threlkeld, visited the island on their way to to New South Wales in late 1824 they reported that the whole population were already engaged in building a six hundred foot long chapel.[^⁠51] How had Papeiha reorganised the island along Christian principles in such a short period?
 
@@ -189,84 +189,37 @@ By November, Papeiha had assembled a group of high status students, much like th
 
 In March 1824, Pa Te Pou, _ariki_ in the dominant Takitumu region, summoned Papeiha and Tiberio to Ngatangiia to also burn his ‘idols’. Soon afterwards, a feast was held at Avarua in Makea’s district which included a prayer meeting at which _ariki_ and regional chiefs, _mata’iapo,_ wore hats made from bark cloth taken from destroyed ‘idols’. It seems that the three _ariki_ united to form a single large settlement at Avarua, providing feasts that accompanied the construction the large chapel, visited by Tyerman and Bennet in June 1824. The people of the dominant Takitumu district worked on one side of the building, while those of the defeated Te Au O Tonga and Puaikura districts worked on the other. According to John Williams, who visited the chapel:
 
-This, from the circumstances of its erection, was rather an interesting building, but it was destitute of elegance; for, although plastered and floored, and looking exceedingly well at a distance, the workmanship was rough, and the doors were formed of planks lashed together with cnet, which also supplied the place of hinges. One of its most striking peculiarities was the presence of many indelicate heathen figures carved on the centre posts. This was accounted for from the circumstances, that, when built, a considerable part of the people were heathens; and as a portion of the work was allotted to each district unaccompanied by specific directions as to the precise manner of its performance, the builders thought that the figure with which they decorated their maraes would be equally ornamental in the main pillars of a Christian sanctuary.[^⁠53]
+> This, from the circumstances of its erection, was rather an interesting building, but it was destitute of elegance; for, although plastered and floored, and looking exceedingly well at a distance, the workmanship was rough, and the doors were formed of planks lashed together with cnet, which also supplied the place of hinges. One of its most striking peculiarities was the presence of many indelicate heathen figures carved on the centre posts. This was accounted for from the circumstances, that, when built, a considerable part of the people were heathens; and as a portion of the work was allotted to each district unaccompanied by specific directions as to the precise manner of its performance, the builders thought that the figure with which they decorated their maraes would be equally ornamental in the main pillars of a Christian sanctuary.[^⁠53]
 
 When Robert Bourne visited in October 1825 the chapel had recently been plastered, and he was shown ’the cumbrous deities, fourteen in number… now lying like Dagon of old before the ark’. Dagon was an ancient Syrian God, and according to 1 Samuel 5 in the Old Testament, after the Philistines placed the captured ark of the covenant in Dagon’s temple, they returned the next morning the found Dagon fallen face downwards on the group. When Dagon was raised up, he was found the next day fallen again, with both his head and two hands cut off on the threshold of the temple.
 
-Despite such Old Testament precedent, Bourne recognised that a third of Rarotonga’s population still did not support this religious transformation, having pledged allegiance to district chiefs and priests in opposition to the three _ariki._ Papeiha and Tiberio (armed with a gun) even led an attack on one of the rebel settlements, capturing further ancestral poles by force.
+Despite such Old Testament precedent, Bourne recognised that a third of Rarotonga’s population still did not support this religious transformation, having pledged allegiance to district chiefs and priests in opposition to the three _ariki_. Papeiha and Tiberio (armed with a gun) even led an attack on one of the rebel settlements, capturing further ancestral poles by force.
 
 When the population of Avarua decamped to Ngatangiia, following the arrival of Williams and Pitman in May 1827, it was to begin the construction of another chapel in that region. The chapel’s rafters were wrapped in bark cloth taken from the _ki’iki’i_ which had been torn apart, and some of the ancestral poles were themselves hung from its rafters. After this had been completed, a replacement chapel was built at Avarua (1828) and a third at Arorangi (1830). In a statement of unity, the three chapels were linked by a new coastal road, the _ara Tapu_ (sacred path), which replaced the _ara metua_ (ancient path) which had connected the district _marae_, along which annual processions were typically made.
 
-Just as at Tahiti and Ra’iatea, the adoption of Christianity at Rarotonga was associated with a consolidation and centralisation of chiefly power, materialised in the construction of new churches. These powerfully demonstrated the capacity of _ariki_ to demand and coordinate the labour and resources of others. Resistance continued at Rarotonga, however, and in mid-1828 the church in the Takitumu district was burned down by rebels. Others attempted to burn the church and school-houses at Avarua, defiling the seats of the chiefs and missionaries in the chapel, as well as the pulpit. Only after an epidemic in mid-1830 did violence end. Even in 1831, Charles Pitman could write in his journal that:
+Just as at Tahiti and Ra’iatea, the adoption of Christianity at Rarotonga was associated with a consolidation and centralisation of chiefly power, materialised in the construction of new churches. These powerfully demonstrated the capacity of _ariki_ to demand and coordinate the labour and resources of others. Resistance continued at Rarotonga, however, and in mid 1828 the church in the Takitumu district was burned down by rebels. Others attempted to burn the church and school-houses at Avarua, defiling the seats of the chiefs and missionaries in the chapel, as well as the pulpit. Only after an epidemic in mid 1830 did violence end. Even in 1831, Charles Pitman could write in his journal that:
 
-The desire of nearly all the people of the island is for their old practices being revived… should the Chiefs again turn their backs to the Teachers the people would for the greater part by far return with them with joy to their heathenish practices.[^⁠54]
+_The desire of nearly all the people of the island is for their old practices being revived… should the Chiefs again turn their backs to the Teachers the people would for the greater part by far return with them with joy to their heathenish practices._[^⁠54]
 
-This chapter began with the image on the title page of John Williams’ book, showing the presentation and destruction of ‘idols’ in front of of the teachers’ houses at Ngatangiia. It ends by considering this image as readers would have encounetred it in early editions of the book, alongside a colour image produced by George Baxter with the title ‘_Te Po, a Chief of Rarotonga’_ (Te Pou Ariki of Takitumu)_._
+This chapter began with the image on the title page of John Williams’ book, showing the presentation and destruction of ‘idols’ in front of the teachers’ houses at Ngatangiia. It ends by considering this image as readers would have encounetred it in early editions of the book, alongside a colour image produced by George Baxter with the title ‘_Te Po, a Chief of Rarotonga’_ (Te Pou Ariki of Takitumu).
 
 The image is magnificent, showing  the _ariki_ with his spear aloft, holding a fan in the other hand. His noble body is wrapped with tattoos and gleaming white barkcloth, his head adorned by a headdress suggestive of a crown. His centrality within the image seems to demonstrate mastery over both land and sea. In the background, however, a lightly sketched European ship (not evident in the painting, above, on which this seems to have been based) is suggestive of new arrivals.
 
-Viewed in combination with the image on the title page, which would have faced it when opening the book, the images present a contrast. They are images of before and after, suggestive of conversion, evoking images of imaginary tattooed British ancestors before the coming of Christianity. While the conversion of Rarotonga involved transformations in dress, as well as the replacement of one type of religious structure, the _marae_ with another, the _chapel,_ these outward changes likely mask many continuities in the attitudes of the majority of the population.
+Viewed in combination with the image on the title page, which would have faced it when opening the book, the images present a contrast. They are images of before and after, suggestive of conversion, evoking images of imaginary tattooed British ancestors before the coming of Christianity. While the conversion of Rarotonga involved transformations in dress, as well as the replacement of one type of religious structure, the _marae_ with another, the _chapel_, these outward changes likely mask many continuities in the attitudes of the majority of the population.
 
-One undeniable change, however, seems to have been the destruction and removal of wood carvings that evoked ancestral power. The ‘gigantic idol’ at the Missionary Museum (now in the British Museum) appears to have been the only _ki’iki’i_ of its size to survive. In 1853, Isaia Papehia, the fifteen year old son of Papeiha, whose maternal grandfather was _ariki_ of Tinomana, travelled to London with the Rev. William Gill, who had been a missionary on Rarotonga since 1839.[^⁠55]
+One undeniable change, however, seems to have been the destruction and removal of wood carvings that evoked ancestral power. The ‘gigantic idol’ at the Missionary Museum (now in the British Museum) appears to have been the only _ki’iki’i_ of its size to survive. In 1853, Isaia Papehia, the 15 year old son of Papeiha, whose maternal grandfather was _ariki_ of Tinomana, travelled to London with the Rev. William Gill, who had been a missionary on Rarotonga since 1839.[^⁠55]
 
 Visiting the Missionary Museum in London, Isaia encountered the ‘idol of his own grandfather of which he had heard much; the sight of it affected him to tears, and he expressed deep compassion for the people of his native land’.[^⁠56]
 
 According to Rev. Gordon, who returned to Polynesia with him in 1856 in the missionary ship _John Williams_ (Chapter 15), Isaia told the missionary meetings he attended at Sydney and Melbourne that:
 
-He is a great big fellow and when I saw him I was greatly astonished and climbed up and broke off a piece of his nose to take to Rarotonga, and I asked Dr Tidman \[Secretary of the LMS\] to let me take him back to Rarotonga, to show the young people the queer thing their fathers worshipped, but he say, ’No let you do that.’[^⁠57]
+_He is a great big fellow and when I saw him I was greatly astonished and climbed up and broke off a piece of his nose to take to Rarotonga, and I asked Dr Tidman \[Secretary of the LMS\] to let me take him back to Rarotonga, to show the young people the queer thing their fathers worshipped, but he say, ’No let you do that.’_[^⁠57]
 
 Acknowledgements
 
 I have been incredibly lucky to have worked closely over the years with a number of colleagues with Pacific specialisms over the years, from whom I have learned an enormous amount: Steven Hooper, Karen Jacobs, Nicholas Thomas, Julie Adams, Maia Nuku and Alice Christophe, among others. Nevertheless, as an interloper in the region, any errors or faults are entirely my own.
 
 Recently, I have been grateful for encouragement from Rod Dixon, Jean Mason and Jeffrey Sissons in setting up a collaborative PhD project with the British Museum to further unpack this extraordinary process of conversion and collection through the surviving collections. I am looking forward to their feedback on this chaper, as well as that of Mililani Ganivet, who we appointed to the studentship in 2023.
-
-
-{% figure "fig-c12-1" %}
-
-{% figure "fig-c12-2" %}
-
-{% figure "fig-c12-3" %}
-
-{% figure "fig-c12-4" %}
-
-{% figure "fig-c12-5" %}
-
-{% figure "fig-c12-6" %}
-
-{% figure "fig-c12-7" %}
-
-{% figure "fig-c12-8" %}
-
-{% figure "fig-c12-9" %}
-
-{% figure "fig-c12-10" %}
-
-{% figure "fig-c12-11" %}
-
-{% figure "fig-c12-12" %}
-
-{% figure "fig-c12-13" %}
-
-{% figure "fig-c12-14" %}
-
-{% figure "fig-c12-15" %}
-
-{% figure "fig-c12-16" %}
-
-{% figure "fig-c12-17" %}
-
-{% figure "fig-c12-18" %}
-
-{% figure "fig-c12-19" %}
-
-{% figure "fig-c12-20" %}
-
-{% figure "fig-c12-21" %}
-
-{% figure "fig-c12-22" %}
-
-{% figure "fig-c12-23" %}
 
 
 {% backmatter %}
