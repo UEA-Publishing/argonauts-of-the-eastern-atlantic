@@ -1,7 +1,7 @@
 ---
 label: 13
 title: "All wrapped up in a piece of Tahitian cloth"
-subtitle: 
+subtitle: Barmen, July 1832
 layout: essay
 order: 42
 classes:
@@ -18,19 +18,19 @@ Ellis was keen to support these ‘fellow-workers’, suggesting that ‘a few c
 
 Ellis referred Leipoldt to the list at the end of his letter, itemising ‘the accompanying specimens’, as well as books ‘prepared by our Missionaries in different parts of the World’.[^⁠3]
 
-With items from the Pacific, South Asia, China and southern Africa, the list covers the main areas in which the LMS had been most active over the previous thirty-five years. Half the ‘specimens’ appear to have been religious ‘idols’, from Tahiti, the Cook Islands, Myanmar, India and possibly China, with a similar number of seemingly everyday items from Africa – a ladle, a knife, a necklace and two rings.
+With items from the Pacific, South Asia, China and southern Africa, the list covers the main areas in which the LMS had been most active over the previous 35 years. Half the ‘specimens’ appear to have been religious ‘idols’, from Tahiti, the Cook Islands, Myanmar, India and possibly China, with a similar number of seemingly everyday items from Africa – a ladle, a knife, a necklace and two rings.
 
 While not obviously demonstrating ‘the degradation of the heathen’, these would have been of considerable interest in Barmen, since the Rhenish Missionary Society sent its first four recruits to South Africa under the guidance of John Philip, the Scottish superintendent of LMS missions there. Philip had travelled to London in 1826 to lobby for the rights of indigenous people at the Cape (more on this below), returning to South Africa in 1829 with recruits from the LMS, the Rhenish Missionary Society, as well as the Paris Evangelical Missionary Society (a Protestant organisation established in 1822).[^⁠4]
 
-There follows a listing of religious and missionary translations, tracts and other texts – grammars, spelling books and memoirs. The way their descriptions are laid out, however, asserts a categorical distinction between printed texts and the ‘specimens’ listed separately above, including a catechism from Madras, handwritten on leaves.
+There follows a listing of religious and missionary translations, tracts and other texts such as grammars, spelling books and memoirs. The way their descriptions are laid out, however, asserts a categorical distinction between printed texts and the ‘specimens’ listed separately above, including a catechism from Madras, handwritten on leaves.
 
-The numbering of these twinned lists suggests that twelve printed books were sent to Barmen but only eleven ‘specimens’, including the palm leaf catechism. At the bottom of the page, however, a single line adds ‘All wrapped up in a Piece of Tahitian Cloth’, suggesting there were equal numbers of printed books and other artefacts, if we count the Tahitian cloth as a ‘specimen’ in its own right.
+The numbering of these twinned lists suggests that 12 printed books were sent to Barmen but only eleven ‘specimens’, including the palm leaf catechism. At the bottom of the page, however, a single line adds ‘All wrapped up in a Piece of Tahitian Cloth’, suggesting there were equal numbers of printed books and other artefacts, if we count the Tahitian cloth as a ‘specimen’ in its own right.
 
 Why Ellis chose to wrap the other items in Tahitian barkcloth is unclear, but he certainly knew that tapa was used for wrapping valuable items in Polynesia, such as the recently arrived ancestral pole from Rarotonga ([Chapter 12](https://argonauts2022.net/12-a-gigantic-idol/)).
 
 In _Polynesian Researches,_ published three years earlier, Ellis noted that images of gods were generally ‘clothed’ with native cloth, but also that that when he gave copies of the newly printed Gospel of Luke to five men from Tahiti, ‘each wrapped his book up in a piece of white native cloth’.[^⁠5] Barkcloth was used to wrap the bodies of the deceased, but was increasingly also used to cover the bodies of living Christian converts, especially women. Can we regard Ellis’ decision to wrap these items in Tahitian cloth as an indicator of their value, or does it simply indicate the ready availability of such cloth at his office in London?
 
-The letter from Ellis to Leipoldt, together with the artefacts which accompanied it, illustrates not only the existence of cooperative relationships between Protestant missionary societies in different parts of northern Europe (the LMS had also worked closely with the Netherlands Missionary Society since the late 18[^th] century, as well as sending a number of earlier Berlin-trained German-speaking missionaries to South Africa – [Chapter 2](https://argonauts2022.net/mary-john-and-martha/)), but importantly also the way in which the circulation and display of artefacts contributed to these.
+The letter from Ellis to Leipoldt, together with the artefacts which accompanied it, illustrates not only the existence of cooperative relationships between Protestant missionary societies in different parts of northern Europe (the LMS had also worked closely with the Netherlands Missionary Society since the late eighteenth century, as well as sending a number of earlier Berlin-trained German-speaking missionaries to South Africa – [Chapter 2](https://argonauts2022.net/mary-john-and-martha/)), but importantly also the way in which the circulation and display of artefacts contributed to these.
 
 While the division of this list, between handmade ‘specimens’ and printed ‘books’, is suggestive of Webb Keane’s semiotic ideologies and the Protestant prioritisation of printed vernacular texts,[^⁠6] I’d like to suggest that the inclusion of equal numbers of ‘specimens’, ‘all wrapped up in a piece of Tahitian cloth’, tells us something important about the development of what I would like to call the Missionary Exhibitionary Complex.
 
@@ -38,15 +38,15 @@ The Exhibitionary Complex is a phrase originally coined by Tony Bennett in a wel
 
 Bennett ultimately argued that museums were institutions, ‘not of confinement but of exhibition, forming a complex of disciplinary and power relations whose development might more fruitfully be juxtaposed to, rather than aligned with, the formation of Foucault’s ‘carcerial archipelago’.[^⁠9] He suggested that reforming institutions of incarceration saw the bodies of the condemned, previously a focus for very public periodic displays of power on the scaffold, increasingly subjected to surveillance and regulation. By contrast, he argued the ‘exhibitionary complex’ transferred objects and bodies:
 
-from the enclosed and private domains in which they had previously been displayed (but to a restricted public) into progressively more open and public arenas where, through the representations to which they were subjected, they formed vehicles for inscribing and broadcasting the messages of power (but of a different type) throughout society.[^⁠10]
+_from the enclosed and private domains in which they had previously been displayed (but to a restricted public) into progressively more open and public arenas where, through the representations to which they were subjected, they formed vehicles for inscribing and broadcasting the messages of power (but of a different type) throughout society._[^⁠10]
 
 In pushing back against the idea that museums could be considered institutions of confinement, Bennet suggested:
 
-It seems to imply that works of art had previously wandered through the streets of Europe like the Ships of Fools in Foucault’s _Madness and Civilisation;_ or that geological and natural history specimens had been displayed before the world, like the condemned on the scaffold, rather than being withheld from public gaze, secreted in the _studiolo_ of princes, or made accessible only to the limited gaze of high society in the _cabinets des curious_ of the aristocracy.[^⁠11]
+>It seems to imply that works of art had previously wandered through the streets of Europe like the Ships of Fools in Foucault’s _Madness and Civilisation;_ or that geological and natural history specimens had been displayed before the world, like the condemned on the scaffold, rather than being withheld from public gaze, secreted in the _studiolo_ of princes, or made accessible only to the limited gaze of high society in the _cabinets des curious_ of the aristocracy.[^⁠11]
 
-The terms of Bennet’s objection to considering museums as part of a ‘carcerial archipelago’ are significant – his focus on ‘the streets of Europe’ and the ‘_studiolo_ of princes’ locates the Exhibitionary Complex in relation to an almost exclusively European genealogy. Arguably it also positions this in Europe’s South, seemingly insulated from the most significant impacts of the Protestant reformation.
+The terms of Bennet’s objection to considering museums as part of a ‘carcerial archipelago’ are significant – his focus on ‘the streets of Europe’ and the ‘_studiolo_ of princes’ locates the Exhibitionary Complex in relation to an almost exclusively European genealogy. Arguably it also positions this in Europe’s South, seemingly insulated from the most significant impacts of the Protestant Reformation.
 
-However, works of art had once moved through the streets of Europe, as part of spectacular processions of religious images (they still do in parts of southern Europe), but during the reformation and counter-reformation were increasingly confined within institutions (when they survived iconoclastic purges). We can arguably hear the echoes of these earlier image wars in recent calls to remove the statues of slave-owners and colonialists from our streets, in order to confine them safely within our museums.
+However, works of art had once moved through the streets of Europe, as part of spectacular processions of religious images (they still do in parts of southern Europe), but during the Reformation and counter-Reformation were increasingly confined within institutions (when they survived iconoclastic purges). We can arguably hear the echoes of these earlier image wars in recent calls to remove the statues of slave-owners and colonialists from our streets, in order to confine them safely within our museums.
 
 This suggests we might consider the development of the Exhibitionary Complex beyond the immediate frame provided by the French Revolution of 1789, and the conversion of the Louvre into a museum of confiscated royal and church paintings in 1793. Indeed, it seems important in setting the scene for Foucault’s ‘modern episteme’ to account for the revolutionary dimensions of Britain’s seventeenth century, as well as the Protestant substrate which operated in France long after the revocation of Edict of Nantes in 1685.
 
@@ -56,9 +56,9 @@ Commenting on Weber’s linking of the Protestant ethic to the spirit of capital
 
 Indeed, he suggested that the process by which:
 
-many governmental initiatives that had arisen in the Protestant church communities were transferred to secular governments… provides a potentially fruitful path for further shaping Foucault’s unfinished genealogy of the modern state.[^⁠14]
+_many governmental initiatives that had arisen in the Protestant church communities were transferred to secular governments… provides a potentially fruitful path for further shaping Foucault’s unfinished genealogy of the modern state._[^⁠14]
 
-Can we regard the Missionary Exhibitionary Complex as an ‘unwritten chapter’ or ‘missing link’ in Foucault’s Genealogy of the Modern State, allowing us to chart a series of peculiarly Protestant developments in governmentality?[^⁠15] Can it be regarded as part of the complex of pastoral techniques which “have nestled, multiplied, and spread with the laicised framework of the state apparatus”, according to Foucault?[^⁠?16]
+Can we regard the Missionary Exhibitionary Complex as an ‘unwritten chapter’ or ‘missing link’ in Foucault’s Genealogy of the Modern State, allowing us to chart a series of peculiarly Protestant developments in governmentality?[^⁠15] Can it be regarded as part of the complex of pastoral techniques which 'have nestled, multiplied, and spread with the laicised framework of the state apparatus', according to Foucault?[^⁠16]
 
 Bennet suggested that the Exhibitionary Complex was ‘a set of cultural technologies concerned to organise a voluntarily self-regulating citizenry’, as part of the ‘the ethical and educative function of the modern state’, ultimately feeding into the ‘development of the bourgeois democratic polity’.[^⁠17] By necessity not simply a European project, the Missionary Exhibitionary Complex provides an alternative vantage point from which to consider a range of globally-connected practices of confinement and display.
 
@@ -68,7 +68,7 @@ Nineteenth century prisons, hospitals and asylums often formed highly visible ar
 
 Foucault’s clearest statement in relation to museums seems to come in an essay, _Of Other Spaces,_ originally published in October 1984, shortly after he died. It begins:
 
-The great obsession of the nineteenth century was, as we know, history: with its themes of development and of suspension, of crisis and cycle, themes of the ever-accumulating past, with its great preponderence of dead men and the menacing glaciation of the world.[^⁠19]
+_The great obsession of the nineteenth century was, as we know, history: with its themes of development and of suspension, of crisis and cycle, themes of the ever-accumulating past, with its great preponderence of dead men and the menacing glaciation of the world._[^⁠19]
 
 This he contrasted with a twentieth century focus on space, characterised as the ‘epoch of simultaneity’, suggesting that many contemporary polemics ‘oppose the pious descendants of time and the determined inhabitants of space’.[^⁠20]
 
@@ -78,13 +78,13 @@ Foucault suggests these were gradually replaced by what he calls ‘heterotopias
 
 The museum, like the library, according to Foucault, is a heterotopia ‘in which time never stops building up and topping its own summit’:
 
-… the idea of accumulating everything, or establishing a sort of general archive, the will to enclose in one place all times, all epochs, all forms, all tastes, the idea of constituting a place of all times that is itself outside of time and inaccessible to its ravages, the project of organising in this way a sort of perpetual and indefinite accumulation of time in an immobile place, this whole idea belongs to our modernity. The museum and the library are heterotopias that are proper to the western culture of the nineteenth century.[^⁠24]
+_…the idea of accumulating everything, or establishing a sort of general archive, the will to enclose in one place all times, all epochs, all forms, all tastes, the idea of constituting a place of all times that is itself outside of time and inaccessible to its ravages, the project of organising in this way a sort of perpetual and indefinite accumulation of time in an immobile place, this whole idea belongs to our modernity. The museum and the library are heterotopias that are proper to the western culture of the nineteenth century_.[^⁠24]
 
 If we consider the _Ti’i,_ described as an ‘Idol from Tahiti’ at the beginning of Ellis’ list, we can imagine its passage between a series of heterotopias, at which confinement was enacted as well as display.
 
 It likely came from a _marae,_ a ceremonial enclosure in Tahiti where, according to Ellis, _Ti’i_ generally represented the spirits of departed ancestors ‘supposed to be exceedingly irritable and cruel’. They were confined to a house ten or twelve feet off the ground ’to keep them out of the way of men, as it was imagined they were constantly strangling, otherwise destroying the chiefs and people’. They had custodians:
 
-appointed constantly to attend them, and to keep them wrapped in the choicest kinds of cloth, to take them out whenever there was a pae atua, or general exhibition of the gods; to anoint them frequently with fragrant oil; and to sleep in the house with them at night. All this was done, to keep them pacified.[^⁠25]
+_appointed constantly to attend them, and to keep them wrapped in the choicest kinds of cloth, to take them out whenever there was a pae atua, or general exhibition of the gods; to anoint them frequently with fragrant oil; and to sleep in the house with them at night. All this was done, to keep them pacified._[^⁠25]
 
 This suggests that the marae was itself a heterotopia at which both confinement and display were deployed as technologies in order to attempt to gain a degree of control over potentially dangerous and disruptive spirits.
 
