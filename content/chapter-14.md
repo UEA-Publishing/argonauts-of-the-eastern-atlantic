@@ -1,14 +1,14 @@
 ---
 label: 14
 title: "Paramasattee, a wooden idol with spoons attached"
-subtitle: Caureavilly near Mandycadoo, Kingdom of Travancore, November 1836⁠.
+subtitle: 
 layout: essay
 order: 43
 classes:
   - page-one
 contributor:
   - id: cwingfield
-abstract: |The name literally signified “heavenly virtue or strength;” this demon being accounted the wife of the heavenly Seevan. Their ceremonies are performed in the night; the spoons hold oil and wicks, and when lighted under the shade of a banyan tree have an imposing effect. There are several Tamil letters on the idol, five of which are considered sacred, are called the “Gooroos of the five letters.”
+abstract: |
 page_pdf_output: true
 ---
 
