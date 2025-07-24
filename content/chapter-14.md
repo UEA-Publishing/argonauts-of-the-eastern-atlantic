@@ -1,7 +1,7 @@
 ---
 label: 14
 title: "Paramasattee, a wooden idol with spoons attached"
-subtitle: Caureavilly near Mandycadoo, Kingdom of Travancore, November 1836⁠.[^1]
+subtitle: Caureavilly near Mandycadoo, Kingdom of Travancore, November 1836⁠.
 layout: essay
 order: 43
 classes:
