@@ -96,13 +96,13 @@ The Missionary Museum, established in London in 1815,  provided a seemingly perm
 
 The Missionary Museum seems to have been a location from which these items continued to circulate for display at missionary meetings elsewhere. It was a central institutional node within a much larger complex, constituted by a shifting network of missionaries and supporters, coordinating the circulation of artefacts between a range of heterotopias. In this, it mirrored the adjacent LMS administrative offices, which oversaw the circulation of funds and information between Mission stations and supporting churches.
 
-The Missionary Museum confined but also displayed a artefacts originally made for display, as what Victor Turner called ‘objects of reflection’, during particular ceremonies, but these were increasingly redeployed as part of what Carol Duncan memorably called _Civilizing Rituals._[^⁠27]
+The Missionary Museum confined but also displayed artefacts originally made for display, as what Victor Turner called ‘objects of reflection’, during particular ceremonies, but these were increasingly redeployed as part of what Carol Duncan memorably called _Civilizing Rituals._[^⁠27]
 
 The despatch of specimens from the Missionary Museum in London to the new training institution at Barmen, part of Rhenish Prussia since the Congress of Vienna in 1815, extended the range of the developing Missionary Exhibitionary Complex, seeding a collection that grew into a substantial Missionary Museum that continues to operate in the twenty-first century. [^⁠28]
 
 Similar items were given to missionary institutions in other parts of the world – Tyerman and Bennet presented Polynesian ‘idols’ to the collection of the Baptist Missionary William Carey at Serampore College during their global journey of inspection, which, like the Anglo-Chinese College established at Malacca in 1818 [(Chapter 9)](https://argonauts2022.net/dr-morrisons-chinese-and-english-dictionary/), maintained its own museum.[^⁠29]
 
-But the missionary exhibitionary complex was not confined to spaces of display with official missionary associations. As early as May 1799, Captain Wilson of the Duff presented items to the Newcastle Literary and Philosophical Society, established just six years earlier ([Chapter 1](https://argonauts2022.net/the-cession-of-matavai/)).
+But the missionary exhibitionary complex was not confined to spaces of display with official missionary associations. As early as May 1799, Captain Wilson of the _Duff_ presented items to the Newcastle Literary and Philosophical Society, established just six years earlier ([Chapter 1](https://argonauts2022.net/the-cession-of-matavai/)).
 
 There seems to have been considerable overlap between misionary supporters and the membership of such societies – the fruits of Britain’s burgeoning ‘civic culture’.[^⁠30] In December 1821, John Campbell presented African items to the Royal Dublin Society following his second journey to South Africa.[^⁠31] In addition, George Bennet presented further material to the collections of Literary and Philosophical Societies in Leeds, Sheffield and Saffron Walden.[^⁠32]
 
@@ -114,21 +114,21 @@ Martin J. Wiener, by contrast, positioned the 1851 Great Exhibition as ‘an end
 
 One might counter that the British Museum had been open to the public since 1759, asserting an essentially Enlightenment genealogy for the public museum.[^⁠35] I have pointed out elsewhere that the British Museum was significantly transformed during the second half of the nineteenth century, and between 1823 to 1846 was effectively a building site.[^⁠36] A visitor to the British Museum’s ‘Ethnographical room’, a single room displaying British antiquities alongside ‘clubs from the South Seas and trifling objects from China and elsewhere’, after it reopened in 1848 declared:
 
-Never was such a disgraceful jumble of things seen, even in a local museum supported by voluntary contributions and regulated by a batch of half- educated provincial antiquaries . . . All our early collectors, Tradescant, and Ashmole, and Thoresby aimed at something like arrangement; but here, in the nineteenth century and in a national museum, we have a collection confounding all the unities of time and place and only worthy of a retired dealer in marine stores. And yet, this is one of the first rooms a foreigner is obliged to see on entering the British Museum.[^⁠37]
+> Never was such a disgraceful jumble of things seen, even in a local museum supported by voluntary contributions and regulated by a batch of half-educated provincial antiquaries . . . All our early collectors, Tradescant, and Ashmole, and Thoresby aimed at something like arrangement; but here, in the nineteenth century and in a national museum, we have a collection confounding all the unities of time and place and only worthy of a retired dealer in marine stores. And yet, this is one of the first rooms a foreigner is obliged to see on entering the British Museum.[^⁠37]
 
 Following its reoperning, on the eve of the 1851 Great Exhibition, the British Museum remained a long way from leading the development of display techniques that came to define the Exhibitionary Complex as it developed during the second half of the nineteenth century, particularly in relation to what became known as ‘ethnographic collections’, from other parts of the world.
 
 Tony Bennet is of course right that ‘the Exhibitionary Complex’ contributed in no small part to the formation of particular kinds of political ‘subjects’, but it did this, at least partly, through the confinement and display of certain kinds of material ‘objects’.
 
-‘Subject’ and the ‘object’ can fruitfully be regarded as mutually constituting categories, products of what Bruno Latour called the ‘work of purification’ _–_ categorisation and classification being an essential part of the institutional work of museums – life beyond their walls, by contrast, involves an endless proliferation of hybrids.[^⁠38]
+‘Subject’ and the ‘object’ can fruitfully be regarded as mutually constituting categories, products of what Bruno Latour called the ‘work of purification’ – categorisation and classification being an essential part of the institutional work of museums – life beyond their walls, by contrast, involves an endless proliferation of hybrids.[^⁠38]
 
 1832 is a key moment from which to consider the relationship between heterotopias and society because of significant transformations in the nature of political subjecthood in Britain (paralleled in many ways by the July Revolution in France, of 1830).[^⁠39] According to E.P. Thompson:
 
-In the years between 1780 and 1832 most English working people came to feel an identity of interests as between themselves, and against their rulers and employers.[^⁠40]
+_In the years between 1780 and 1832 most English working people came to feel an identity of interests as between themselves, and against their rulers and employers._[^⁠40]
 
 Contemporary observers seem to have been acutely aware of this profound sense of transition – George Eliot famously set her novel _Middlemarch_ between 1829 and 1832, exploring the political reform movement alongside Dr Tertius Lydgate’s attempts to reform a country hospital, with a backdrop provided by the coming of the railways.
 
-The young John Stuart Mill (1806-1873), a contemporary of Eliot’s fictional Will Ladislaw,  declared in a series of essays on _The Spirit of the Age,_ published in 1831 :
+The young John Stuart Mill (1806-1873), a contemporary of Eliot’s fictional Will Ladislaw, declared in a series of essays on _The Spirit of the Age,_ published in 1831:
 
 The conviction is already not far from being universal, that the times are pregnant with change; and that the nineteenth century will be known to posterity as the era of one of the greatest revolutions of which history has preserved the remembrance, in the human mind, and in the whole constitution of human society. Even the religious world teems with new interpretations of the Prophecies, foreboding mighty changes near at hand. It is felt that men are henceforth to be held together by new ties, and separated by new barriers; for the ancient bonds will no longer unite, nor the ancient boundaries confine.[^⁠41]
 
