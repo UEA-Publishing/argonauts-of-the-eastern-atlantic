@@ -1,7 +1,6 @@
-
 [build]
 publish = "_site"
-command = "quire build"
+command = "npm run build"
 
 [build.environment]
 PYTHON_VERSION = "2.7"
@@ -13,7 +12,7 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.split1]
-command = "quire build"
+command = "npm run build"
 
 [context.split1.environment]
 HUGO_VERSION = "0.72.0"
@@ -26,7 +25,7 @@ command = "npm run build"
 HUGO_VERSION = "0.72.0"
 
 [context.branch-deploy]
-command = "quire build"
+command = "npm run build"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.72.0"
