@@ -221,6 +221,7 @@ I have been incredibly lucky to have worked closely over the years with a number
 
 Recently, I have been grateful for encouragement from Rod Dixon, Jean Mason and Jeffrey Sissons in setting up a collaborative PhD project with the British Museum to further unpack this extraordinary process of conversion and collection through the surviving collections. I am looking forward to their feedback on this chaper, as well as that of Mililani Ganivet, who we appointed to the studentship in 2023.
 
+{% figure "fig-c12-1" %}
 
 {% backmatter %}
 
