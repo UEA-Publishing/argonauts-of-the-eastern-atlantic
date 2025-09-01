@@ -13,7 +13,7 @@ figure_list:
     alt: "A collection of twelve hardcover volumes of The Golden Bough by Sir James George Frazer, featuring a cream-colored dust jacket."
 
   - id: "fig-intro-part-1-3"
-    src: "figures/introduction/intro-part-1-3.jpg"
+    src: "figures/introduction/intro-part-1-3.png"
     caption: "Ulysses by James Joyce, first edition published in 1922"
     credit:
     alt: "A worn copy of Ulysses by James Joyce, featuring a blue cover with white lettering, resting on a flat surface."
@@ -2499,3 +2499,4 @@ figure_list:
     caption:  "Wooden Representations of the Spirits of Ancestors. Printed in The English Illustrated Magazine, XXI, No. 187, 1897."
     credit: "JSTOR Images"
     alt: "Wooden carvings representing ancestral spirits from Central Africa, showcasing intricate details and cultural significance."
+
