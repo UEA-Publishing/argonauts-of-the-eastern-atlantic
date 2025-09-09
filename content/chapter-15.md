@@ -12,6 +12,7 @@ abstract: |
 page_pdf_output: true
 ---
 
+Why
 
 When the _City of Canterbury_, a paddle steamer carrying around four hundred friends of the London Missionary Society, pulled away from New London Bridge, John Williams waved to the crowd gathered on the bridge and surrounding wharfs. The ‘multitudes who had assembled to witness their departure, and to testify their interest in the important enterprise’ cheered in response, ‘the ladies waving their handkerchiefs’.[^1]
 
