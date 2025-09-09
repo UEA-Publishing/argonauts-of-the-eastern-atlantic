@@ -3,6 +3,7 @@ label: 13
 title: "All wrapped up in a piece of Tahitian cloth"
 subtitle: Barmen, July 1832
 layout: essay
+toc: false
 order: 42
 classes:
   - page-one

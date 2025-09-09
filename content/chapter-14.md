@@ -3,6 +3,7 @@ label: 14
 title: "Paramasattee, a wooden idol with spoons attached"
 subtitle: 
 layout: essay
+toc: false
 order: 43
 classes:
   - page-one

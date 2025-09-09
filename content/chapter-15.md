@@ -4,6 +4,7 @@ title: "The Departure of the Camden, Missionary Ship"
 subtitle: 
 layout: essay
 order: 44
+toc: false
 classes:
   - page-one
 contributor:
