@@ -1272,11 +1272,11 @@ figure_list:
     
   - id: "cat-1-1" 
     src: figures/cat-1826/cat-1-1.jpg
-    label: "1826 Catalogue, p.1"
-    zoom: true
+    label: "cat-1826-1"
     caption: "Title page"
     credit: ""
     alt: ""
+    
   - id: "cat-1-2"
     src: figures/cat-1826/cat-1-2.jpg
     label: "cat-1826-2"
