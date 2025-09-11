@@ -1,18 +1,15 @@
 ---
-label: 1
-title: "The Cession of the District of Matavai"
-subtitle: 
-layout: essay
+label: 16 March 1797
+title: Matavai Bay
+subtitle:
+layout: splash
 order: 30
+image: figures/part-1/1/c1-1.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
----
-
-{% figure "fig-c1-1" %}
+# page_pdf_output: true
+--- 
+> ##### The friendly reception of Captain Wilson, of the Ship Duff, and the persons sent out by the London Missionary Society at Otaheite; and the ceremony of the formal grant of the district of Matavai for their use, in presence of the King, Queen, and Chiefs of that island, March 16.The Cession of the District of Matavai in the Island of Otaheité to Captain James Wilson, 16 March 1797
 
 {% figure "fig-c1-2" 'is-pulled-right' %}
 
@@ -32,32 +29,33 @@ The _Endeavour_’s main mission had been to observe the passage of Venus across
 
 {% figure "fig-c1-4" %}
 
-However, in recent years, statues to Captain Cook across the Pacific have been a focus for protests about colonialism and its contemporary legacies. On Thursday 1 July 2021, a Cook statue in Victoria on Vancouver Island was torn down and thrown into the harbour by protesters highlighting the ongoing mistreatment of indigenous women and children in contemporary Canada.[^1]
+However, in recent years, statues to Captain Cook across the Pacific have been a focus for protests about colonialism and its contemporary legacies. On Thursday 1 July 2021, a Cook statue in Victoria on Vancouver Island was torn down and thrown into the harbour by protesters highlighting the ongoing mistreatment of Indigenous women and children in contemporary Canada.[^1]
 
 We clearly need to unpack the processes by which white European men were fashioned into the heroes around which so many of the tales of colonial history came to be told. In trying to develop accounts of the past that are recognisable to the descendants of the colonised, as well as the colonisers – as well as those of us whose ancestors came from both sides of what can, at times, feel like an unbreachable historical antagonism – we need to de-centre these historical celebrities within the tales that we tell.
 
 Disrupting what Ann-Laura Stoler has called familiar stories with predictable plots, our challenge is to find other ways of narrating the histories of encounter between Europe and other parts of the world. As an artefactual history, with its primary focus on the things through which relationships between Europeans and others were mediated, this work is an experimental attempt to respond to this challenge.
 
-A couple of weeks before the gallery opening at Greenwich, I left my job as a curator at the [Museum of Archaeology & Anthropology](https://maa.cam.ac.uk/) in Cambridge. The collection there includes a number of historic artefacts collected during Cook’s voyages that remain the celebrities of the collection. Regularly visited by researchers and loaned for exhibitions around the world, their carbon footprint was significantly higher than mine in most of the years I worked at the museum, and in the anniversary year of 2018 in particular.
+A couple of weeks before the gallery opening at Greenwich, I left my job as a curator at the [Museum of Archaeology & Anthropology](https://maa.cam.ac.uk/) in Cambridge. The collection there includes a number of historic artefacts collected during Cook’s voyages that remain celebrities within the collection. Regularly visited by researchers and loaned for exhibitions around the world, their carbon footprint was significantly higher than mine in most of the years I worked at the museum, and in the anniversary year of 2018 in particular.
 
-{% figure "fig-c1-5" %}
-{% figure "fig-c1-6" %}
+{% figure "fig-c1-5" 'is-pulled-left' %}
 
-Greenwich’s Pacific Encounters gallery is framed by Cook’s voyages, showcasing the dramatic oil paintings of William Hodges, a young theatre scene painter who accompanied Cook on his second voyage from 1772 to 1775. Hodges was a romantic who depicted Tahiti as a latter-day Eden in the paintings he completed after his return to London, paid for by the British Admiralty. Hodges made a number of paintings of Matavai Bay and experimented with how to present this landscape – a natural paradise, untouched by European influence, or alternatively a backdrop against which to contrast the sailing vessels, forms of dress and buildings of one island people with that of another.
+Greenwich’s Pacific Encounters gallery is framed by Cook’s voyages, showcasing the dramatic oil paintings of William Hodges, a young theatre scene painter who accompanied Cook on his second voyage from 1772 to 1775. Hodges was a romantic who depicted Tahiti as a latter-day Eden in the paintings he completed after his return to London, paid for by the British Admiralty.
 
-{% figure "fig-c1-7" %}
+{% figure "fig-c1-6" 'is-pulled-right' %}
+
+ Hodges made a number of paintings of Matavai Bay and experimented with how to present this landscape – a natural paradise, untouched by European influence, or alternatively a backdrop against which to contrast the sailing vessels, forms of dress and buildings of one island people with that of another.
 
 While the Cession of Matavai owes something to these paintings of the bay, it depicts events two decades after Hodges had left. I had last seen the painting halfway up the stairs of the library at the University of London’s [School of Oriental and African Studies](https://www.soas.ac.uk/library/), where a number a palm prints suggested it was not quite out of student reach. Five years earlier I was involved in brokering the transfer of the painting, along with a number of other artefacts, across London from the Council for World Mission in Westminster to the National Maritime Museum in Greenwich.
 
-Since then, the painting had been professionally conserved, and I had been told that the removal of two hundred years of London grime had revealed previously obscure details. What this painting, alongside other missionary artefacts displayed in the gallery allowed the Maritime Museum to do for the first time, was to tell a story of Pacific Encounters that included Britain’s history of overseas missionary engagements alongside the naval history that had been central to the museum’s purpose since its establishment in 1934.
+{% figure "fig-c1-7" %}
 
-No less maritime in nature, missionary history has frequently been told through accounts of ‘heroes’ in the mode of Captain Cook. But it is also a history of encounter that extends far beyond fairly short-lived expeditions of exploration.
+Since then, the painting had been professionally conserved, and I had been told that the removal of two hundred years of London grime had revealed previously obscure details. What this painting, alongside other missionary artefacts displayed in the gallery allowed the Maritime Museum to do for the first time, was to tell a story of Pacific Encounters that included Britain’s history of overseas missionary engagements alongside the naval history that had been central to the museum’s purpose since its establishment in 1934. No less maritime in nature, missionary history has frequently been told through accounts of ‘heroes’ in the mode of Captain Cook. But it is also a history of encounter that extends far beyond fairly short-lived expeditions of exploration.
 
 Missionaries generally stayed in the places they were sent to for longer periods, and the success of their work – convincing people to convert to Christianity – depended upon developing detailed understandings of the lives of the people amongst whom they lived, even if their ultimate intention was to transform these. If the museum was going to tell a story of Britain’s Pacific Encounters, I was pleased it now extended beyond the initial impressions of Captain Cook and William Hodges. But the Cession of Matavai remains an initial impression.
 
 With Hodges’ mountains in the background, it shows a group of people assembled around a clearing, where the light, undoubtedly signifying the presence of God, shines brightly. It is an image of missionary arrival that imagines a future which has become our history. The painting was commissioned from the London painter Robert Smirke by the Directors, effectively board members, of the recently established Missionary Society. Smirke had never been to Tahiti, although he had likely seen Hodges’ paintings. He was, however, experienced at creating images based on literary texts, from Shakespeare to Cervantes. In this case the text was the journal of James Wilson, captain of the ship that delivered the missionaries to Tahiti.
 
-{% figure "fig-c1-8" %}
+{% figure "fig-c1-8" 'is-pulled-right' %}
 
 Captain Wilson, shown in profile, hat-in-hand at the centre-right of the painting, was in many ways a missionary Captain Cook, although his life story was one of sin and suffering, followed by conversion and redemption. A veteran of the Battle of Bunker Hill in the American War of Independence, he joined the East India Company as a naval officer, just as Warren Hastings was expanding the power base of the Company to some consternation back in London.
 
@@ -65,13 +63,13 @@ Captured by the French, Wilson escaped by swimming to shore where he was recaptu
 
 Wilson read in the _Evangelical Magazine_ about the intention to send missionaries to the Pacific and volunteered his services. For evangelicals, motivated by an increasingly central understanding of divine Grace, it was precisely Wilson’s earlier life of sin followed by conversion that demonstrated he was God’s choice for the job.
 
-The missionary movement gained significant momentum in the early 1790s, prompted, so the story goes, by the Christian cobbler, William Carey’s 1792 pamphlet ‘An Enquiry into the Obligations of Christians to use means for the Conversion of the Heathen’.[^2] This led to the establishment of ‘the Baptist Society for propagating the Gospel among the Heathen’ at Kettering, which sent Carey to India in June 1793. A letter home in 1794 prompted ministers from a range of churches in Bristol to think about what they could do to build on his efforts.
+The missionary movement gained significant momentum in the early 1790s, prompted, so the story goes, by the Christian cobbler, William Carey’s 1792 pamphlet ‘An Enquiry into the Obligations of Christians to use means for the Conversion of the Heathen’.[^2] This led to the establishment of ‘the Baptist Society for propagating the Gospel among the Heathen’ at Kettering, which sent Carey to India in June 1793. A letter home in 1794 prompted ministers from a range of churches in Bristol to reflect on what they could do to build on his efforts.
 
 This led to David Bogue, the Scottish Minister of an Independent Church in Gosport, Hampshire, to issue an appeal in the _Evangelical Magazine_, central to which was a sense of debt and obligation, both to God and to early missionaries to the British Isles. According to Bogue, the spirit of _Justice_ cried out:
 
 _Ye were once Pagans, living in cruel and abominable idolatry. The servants of Jesus came from other lands, and preached His Gospel among you. Hence your knowledge of salvation. And ought ye not, as an equitable compensation for their kindness, to send messengers to the nations which are in like condition with yourselves of old, to entreat them that they turn from their dumb idols to the living God, and wait for His Son from heaven? Verily their debtors ye are._[^3]
 
-Missionary activity was imagined in late eighteenth century Britain as a ‘Gift of Grace’.[^4] But it was understood as a return gift, acknowledging an obligation placed on Christian Britain, ‘once an island of idolatrous barbarians’,  by a gift of the Word received by pagan ancestors, generations previously. As George Burder, an engraver who became a minister in Coventry, put it on the eve of the founding of the Missionary Society in 1795:  
+Missionary efforts were imagined in late eighteenth century Britain as a ‘Gift of Grace’.[^4] But they were understood as a return gift, acknowledging the obligation placed on Christian Britain, ‘once an island of idolatrous barbarians’,  by a gift of the Word received by pagan ancestors, generations previously. As George Burder, an engraver who became a minister in Coventry, put it on the eve of the founding of the Missionary Society in 1795:  
 
 > _Let us in return “go and do likewise”_.[^5]
 
@@ -79,7 +77,7 @@ Missionary activity was imagined in late eighteenth century Britain as a ‘Gift
 
 Established in 1795, the Missionary Society, as it was known at the time, consisted of Christians drawn from across the British Isles, from dissenting churches as well as evangelicals within the established Church of England. Its constitution declared that ‘The sole object is to spread the knowledge of Christ among heathen and other unenlightened nations.’[^6]
 
-Although its model as a non-denominational society was the _Society for Effecting the Abolition of the Slave Trade_, it was neither North America nor Africa that beckoned most strongly. The choice of Tahiti as the first location for missionary activity was influenced by the accounts of Cook’s voyages, which circulated widely, accompanied by prints, some of which were developed from the paintings of Hodges, and others from drawings by John Webber, an artist who accompanied Cook on his third voyage.
+Although its model as a non-denominational society was the _Society for Effecting the Abolition of the Slave Trade_, it was neither North America nor Africa that beckoned most strongly. The choice of Tahiti as the first location for missionary activity was influenced by the accounts of Cook’s voyages, which circulated widely, accompanied by prints, some of which were developed from the paintings of Hodges, as well as others made from drawings by John Webber, an artist who accompanied Cook on his third voyage.
 
 In the years after Cook’s death in 1779, Tahiti became central to the evangelical vision of Thomas Haweis, a Cornish Anglican. Haweis had been chaplain to Selina Hastings, Countess of Huntingdon, who had been part of the Methodist evangelical revival during the mid-eighteenth century. She had supported missions in Sierra Leone as well as in North America to both Indigenous Americans as well as formerly enslaved people, and following her death in 1791, Haweis retained considerable influence as her principal trustee.
 
@@ -97,15 +95,13 @@ On 10 August 1796, the _Duff_ sailed down the Thames with its godly passengers a
 
 By mid-November the ship was at Rio de Janeiro in Brazil, and having struggled to round Cape Horn, Captain Wilson took an easterly route south of the Cape of Good Hope, Australia and New Zealand before heading north to Tahiti. The missionary ship sailed nearly 14,000 miles in 97 days without sight of land, encountering only one other vessel.[^7]
 
-When the sun rose on Sunday 5 March 1797, the _Duff_ lay off Tahiti. The ship was visited by people in canoes, intent on trading. Trade was refused, it being the Holy day, but they remained on deck to observe a religious service.
+When the sun rose on Sunday 5 March 1797, the _Duff_ lay off Tahiti. The ship was visited by people in canoes, intent on trading. Trade was refused, it being the Holy day, although they remained on deck to observe a religious service.
 
 The following day, Captain Wilson landed with a number of others and was taken by two Swedes who had been living on the island for some years to see a large building at Point Venus in Matavai Bay, built for Captain Bligh and known as 'the British House'. The missionary party returned again the following day to take possession of the house and begin preparing it for the 18 missionaries as well as their five wives and two children who planned to make it their home. They added sleeping compartments, a store room, medical clinic, library and chapel.
 
 {% figure "fig-c1-12" %}
 
 {% figure "fig-c1-13" %}
-
-{% figure "fig-c1-14" %}
 
 The two children are shown in the foreground of the painting, close to their kneeling mother, the wife of Rowland Hassell, an ‘indian weaver’.[^8] All three are dressed, rather impractically, in gleaming white cloth, a symbol of virtue, but also a bright point in the painting. The presence of children in a painting depicting the birth of a missionary endeavour anticipates the future. The elder child seems to have his gaze directed beyond the frame of the painting, with a finger pointing to something that others do not yet see.
 
@@ -125,6 +121,8 @@ The directors of the Missionary Society had issued instructions to Captain Wilso
 
 A gift of grace clearly anticipated significant gifts in return, but the thing that Ha’amanamani was most interested in – European military might – troubled the missionary party.
 
+{% figure "fig-c1-14" %}
+
 This group, shown standing behind Mrs Hassell and the Wilsons, is represented most clearly by the depiction of the carpenter William Henry and his wife, who rather anxiously holds onto his arm, near the front of the group.
 
 The missionaries are flanked on one side by Peter Haggerstein, one of the Swedes, whose bare chest contrasts with the fuller dress of the missionary party, but whose tattoos, described in written accounts are hard to make out in the painting.
@@ -137,17 +135,15 @@ On either side of them are Pomare I and his wife, Itia, who had engaged with Cap
 
 As I looked at the detail of tattoos on the legs of the Tahitian crowd, revealed by the work of museum conservators, I was tempted to see this widescreen image as a snapshot of the meeting of missionaries and Polynesians in 1797. But I had to remind myself of its artefactual nature.
 
-{% figure "fig-c1-15" %}
-
 It was after all a painting created in London by an artist who hadn’t seen any of the events he depicted. It owes its setting to the paintings of Hodges, but was also clearly influenced by the ‘epic representations’ of Benjamin West, an American artist and the official history painter to King George III, who was made President of the Royal Academy of Arts in 1792.
 
-{% figure "fig-c1-16" %}
+{% figure "fig-c1-15" %}
 
 His most famous work, _The Death of General Wolfe_, exhibited at the Royal Academy in 1771, showed a crowd arranged around the dying general at the Battle of Quebec in 1759. West’s depiction of a seated Native American is echoed by the seated Tahitians in Smirke’s painting.
 
-_The Cession of Matavai_ is, however, much closer to West’s subsequent painting, _Penn’s Treaty with the Indians_, depicting a 1683 event when William Penn entered a peace treaty with Tamanend, Chief of the Lenape.
+{% figure "fig-c1-16" %}
 
-The painting was commissioned by Thomas Penn, William’s son, who in 1737 used an unsigned and disputed 1686 deed to claim land extending as far West as a man could walk in a day and a half – the so-called “Walking Purchase”.
+_The Cession of Matavai_ is, however, much closer to West’s subsequent painting, _Penn’s Treaty with the Indians_, depicting a 1683 event when William Penn entered a peace treaty with Tamanend, Chief of the Lenape. The painting was commissioned by Thomas Penn, William’s son, who in 1737 used an unsigned and disputed 1686 deed to claim land extending as far West as a man could walk in a day and a half – the so-called “Walking Purchase”.
 
 Thomas Penn allegedly hired three men to run on a prepared trail, one of whom managed to cover 70 miles. Displaced from their land by this act of trickery, the Lenape allied with the French and attacked Penn’s Creek in 1755, prompting Benjamin Franklin to establish a militia in what had previously been a pacifist Quaker settlement.
 
@@ -171,7 +167,7 @@ Only in August 1799, after the Royal Academy exhibition had closed, did news rea
 
 Those missionaries that remained rapidly discovered that although they had been allowed to stay and to eat food produced at Matavai Bay, they were definitely not regarded as owners of the land.
 
-The mismatch between imagery, created in London, and reality, experienced in Tahiti, could not have been starker as the eighteenth century drew to a close. It was the following century, however, that would see missionary activity become increasingly central to British understandings of, and engagement with other parts of the world.
+The mismatch between imagery, created in London, and reality, experienced in Tahiti, could not have been starker as the eighteenth century drew to a close. It was the century that followed, however, that missionary activity would become increasingly central to British understandings of, and engagements with other parts of the world.
 
 {% backmatter %}
 
