@@ -20,7 +20,7 @@ short_title: Argonauts 2022 - Act 1
 
 description:
   one_line:
-  full: "While 2022 marks the centenary of the publication of Malinowski’s Argonauts of the Western Pacific, for me it also marks ten years since I completed my by PhD thesis, and twenty since I submitted my MPhil thesis. Both were produced digitally in the age of the internet, yet submission necessitated printing and binding of endless sheets of paper. Both theses have had far more readers in their digital form on Academia.edu. Pandemic conditions since 2020 have witnessed a shift in University life, with dissertations increasingly submitted and examined exclusively in digital form. Encouraged by academic colleagues to generate a scholarly monograph on the museum and collection of the London Missionary Society, on which I have been working since 2006, whenever I sat down to do this, I struggled with the constraints and process of paper-based publication. This is my attempt to give my research a form that makes sense. Chris Wingfield, 12 January 2022"
+  full: "Encouraged by academic colleagues to generate a scholarly monograph on the museum and collection of the London Missionary Society, on which I have been working since 2006, whenever I sat down to do this, I struggled with the constraints and process of paper-based publication. This is my attempt to give my research a form that makes sense. Chris Wingfield, 12 January 2022"
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -48,11 +48,11 @@ contributor_as_it_appears:
 contributor:
   - id: cwingfield
     type: primary
-    first_name: Christopher
+    first_name: Chris
     last_name: Wingfield
     title: Associate Professor in the Arts of Africa
     affiliation: University of East Anglia
-    bio: "With degrees in Archaeology & Anthropology as well as Material Anthropology and Museum Ethnography from the University of Oxford, Chris completed my PhD on the Museum of the London Missionary Society at the Department of Theology and Religion, University of Birmingham. Over the past two decades he has worked as a researcher at the Pitt Rivers Museum in Oxford, as a curator at Birmingham Museum & Art Gallery and the Museum of Archaeology & Anthropology in Cambridge, as well as at the Open University as an Associate Lecturer. Since 2018 he has worked at the Sainsbury Research Unit for the Arts of Africa, Oceania and the Americas at the University of East Anglia as Associate Professor in the Arts of Africa."
+    bio: "With degrees in Archaeology & Anthropology as well as Material Anthropology and Museum Ethnography from the University of Oxford, Chris completed his PhD on the Museum of the London Missionary Society at the Department of Theology and Religion, University of Birmingham. Over the past two decades he has worked as a researcher at the Pitt Rivers Museum in Oxford, as a curator at Birmingham Museum & Art Gallery and the Museum of Archaeology & Anthropology in Cambridge, as well as at the Open University as an Associate Lecturer. Since 2018 he has worked at the Sainsbury Research Unit for the Arts of Africa, Oceania and the Americas at the University of East Anglia as Associate Professor in the Arts of Africa."
     url: https://www.sainsburyresearchunit.org/chris-wingfield
     image: contributors/Sepia_CW.jpg
 
