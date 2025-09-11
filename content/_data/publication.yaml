@@ -9,14 +9,14 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://argonauts-of-the-eastern-atlantic.netlify.app/'
+url: 'https://argonauts2022.net'
 
 # ------------------------------------------------------------------------------
 # Title & Description
 title: Argonauts of the Eastern Atlantic
-subtitle: Artefactual Histories of the London Missionary Society
-reading_line:
-short_title:
+subtitle: An Artefactual History of the London Missionary Society
+reading_line: Act 1 - 1795-1826
+short_title: Argonauts 2022 - Act 1
 
 description:
   one_line:
@@ -36,7 +36,7 @@ identifier:
 publisher:
   - name: UEA Publishing Project
     location: Norwich
-    url:
+    url: http://openaccess.ueapublishingproject.com
     logo: UPP-Logo.png
 
 # ------------------------------------------------------------------------------
@@ -48,53 +48,53 @@ contributor_as_it_appears:
 contributor:
   - id: cwingfield
     type: primary
-    first_name: Chris
+    first_name: Christopher
     last_name: Wingfield
     title: Associate Professor in the Arts of Africa
     affiliation: University of East Anglia
-    bio: "With degrees in Archaeology & Anthropology as well as Material Anthropology and Museum Ethnography from the University of Oxford, I completed my PhD on the Museum of the London Missionary Society at the Department of Theology and Religion, University of Birmingham. Over the past two decades I have worked as a researcher at the Pitt Rivers Museum in Oxford, as a curator at Birmingham Museum & Art Gallery and the Museum of Archaeology & Anthropology in Cambridge, as well as at the Open University as an Associate Lecturer. Since 2018 I have worked at the Sainsbury Research Unit for the Arts of Africa, Oceania and the Americas at the University of East Anglia as Associate Professor in the Arts of Africa."
-    url: https://argonauts2022.net/chris-wingfield/
+    bio: "With degrees in Archaeology & Anthropology as well as Material Anthropology and Museum Ethnography from the University of Oxford, Chris completed my PhD on the Museum of the London Missionary Society at the Department of Theology and Religion, University of Birmingham. Over the past two decades he has worked as a researcher at the Pitt Rivers Museum in Oxford, as a curator at Birmingham Museum & Art Gallery and the Museum of Archaeology & Anthropology in Cambridge, as well as at the Open University as an Associate Lecturer. Since 2018 he has worked at the Sainsbury Research Unit for the Arts of Africa, Oceania and the Americas at the University of East Anglia as Associate Professor in the Arts of Africa."
+    url: https://www.sainsburyresearchunit.org/chris-wingfield
     image: contributors/Sepia_CW.jpg
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2025 UEA Publishing Project
+copyright: Text © 2025 Chris Wingfield (images as specified)
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  name: Creative Commons Attribution-NonCommercial 4.0 International License
+  abbreviation: CC BY-NC
+  url: https://creativecommons.org/licenses/by-nc/4.0/
+  scope: text-only # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
 # ------------------------------------------------------------------------------
 
 resource_link:
-  - type: other-format
-    name: PDF
-    media_type: application/pdf
-    link_relation: alternate
-    url: /downloads/output.pdf
-  - type: other-format
-    name: EPUB
-    media_type: application/epub+zip
-    link_relation: alternate
-    url: /downloads/output.epub
   - type: footer-link
     name: About
     link_relation: about
     url: /about/
-  - type: footer-link
-    name: Privacy Policy
-    link_relation: privacy-policy
-    url:
-  - type: footer-link
-    name: Terms of Use
-    link_relation: terms-of-service
-    url:
+ # - type: footer-link
+  #  name: Privacy Policy
+  #  link_relation: privacy-policy
+  #  url:
+ # - type: other-format
+  #  name: PDF
+  # media_type: application/pdf
+  #link_relation: alternate
+  #url: /downloads/output.pdf
+#- type: other-format
+  # name: EPUB
+  # media_type: application/epub+zip
+  # link_relation: alternate
+  # url: /downloads/output.epub    
+#  - type: footer-link
+ #   name: Terms of Use
+ #   link_relation: terms-of-service
+ #   url:
 
 # ------------------------------------------------------------------------------
 # Subjects
@@ -102,10 +102,10 @@ resource_link:
 
 subject:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
+    name: Social Science / Anthropology / Cultural
+    identifer: SOC002010
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: anthropology, missionaries, history, visual culture, material culture
 
 # ------------------------------------------------------------------------------
 # Revision History

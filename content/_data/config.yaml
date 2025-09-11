@@ -23,7 +23,7 @@ citations:
   popupStyle: text # text | icon
 
 entryPage:
-  sideBySide: false
+  sideBySide: true
   objectLinkText: View in Collection
 
 epub:

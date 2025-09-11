@@ -19,7 +19,7 @@ figure_list:
     alt: "A worn copy of Ulysses by James Joyce, featuring a blue cover with white lettering, resting on a flat surface."
 
   - id: "fig-intro-part-1-4"
-    src: "figures/introduction/intro-part-1-4.png"
+    src: "figures/introduction/intro-part-1-4.jpg"
     caption: "Bronislaw Malinowski in his tent in the Trobriands"
     credit:
     alt: "A dark, historical image captures a group of individuals seated inside a tent, with figures standing outside amidst tropical vegetation."
@@ -43,7 +43,7 @@ figure_list:
     alt: "Close-up of a decorative textile featuring circular coral and shell beads, strung together with dark thread on a blue fabric base."
 
   - id: "fig-intro-part-1-8"
-    src: "figures/introduction/intro-part-1-8.jpg"
+    src: "figures/introduction/intro-part-1-8.png"
     caption: "Three stranded cord"
     credit:
     alt: "Colorful braided rope featuring intertwining red, blue, and green strands, creating a vibrant decorative pattern."
@@ -442,13 +442,13 @@ figure_list:
     alt: "A collection of historical idols from the Pomare family, featuring wooden figures and ceremonial objects displayed on a printed background."
 
   - id: "fig-c4-11"
-    src: "figures/part-1/4/4-11.jpg"
+    src: "figures/part-1/4/c4-11.jpg"
     caption: "3. TEMAHARO. According to Missionary Sketches. The principal god of Pomare's family. He is said to be also one of the chief deities of the island of Otaheite. He is said to have a brother called TIA, who is likewise a god. Temeharo is also reported to be the principal deity and protector of the small island of Matea.Fragments of red feathers are still visible."
     credit: "© The Trustees of the British Museum. Oc1981,Q.1552"
     alt: "Close-up of a long, cylindrical woven object made from natural fibers, showcasing intricate patterns and textures."
 
   - id: "fig-c4-12"
-    src: "figures/part-1/4/4-12.jpg"
+    src: "figures/part-1/4/c4-12.jpg"
     caption: "7. TIIPA. According to Missionary Sketches. A god of Otaheite, who is deemed very powerful, and said to preside over the winds."
     credit: "© The Trustees of the British Museum. Oc,LMS.102"
     alt: "A long, woven ceremonial object with a pointed wooden end, intricately wrapped in natural fibers and plant materials."
@@ -1269,1234 +1269,287 @@ figure_list:
     caption: "View from the Mission House, Bangalore Printed in Oil Colours by G. Baxter (Patentee), 3 Charterhouse Square, London.Published as the frontispiece to William Campbell's British India, 1839"
     credit: "https://books.google.co.uk/books?id=H4ZJAAAAMAAJ&newbks=1&newbks_redir=0&dq=British%20India%20in%20its%20relation%20to%20the%20decline%20of%20Hinduism%2C%20and%20the%20progress%20of%20Christianity&pg=PP8#v=onepage&q&f=false"
     alt: "A serene landscape depicting a lush scene with palm trees, a river, and distant architecture, with figures engaged in tranquil activities."
-
-  - id: "fig-c12-1"
-    src: "figures/part-2/12/c12-1.jpg"
-    caption: "Ki'iki'i or Ancestral Pole, sent to London by John Williams in the whaling ship, Sir Andrew Hammond (Captain Hammer)British Museum Oc1978,Q.845.a-c"
-    credit: "https://www.britishmuseum.org/collection/object/E_Oc1978-Q-845-a"
-    alt: "Ancestral polee, wrapped in alternating light and dark strips of material."
-
-  - id: "fig-c12-2"
-    src: "figures/part-2/12/c12-2.jpg"
-    caption: "Depiction of the presentation of 'idols' to John Williams at Ngatangiia in May 1827Woodcut engraving by George Baxter for the title page of John Williams' A Narrative of Missionary Enterprises, published in 1837Wellcome Collection EPB/B/54934/1"
-    credit: "https://wellcomecollection.org/works/ecjb2pbu"
-    alt: "Cover page of A Narrative of Missionary Enterprises in the South Sea Islands by John Williams, featuring an illustration of island life."
-
-  - id: "fig-c12-3"
-    src: "figures/part-2/12/c12-3.jpg"
-    caption: "Depiction of the presentation of 'idols' to John Williams at Ngatangiia in May 1827Woodcut engraving by George BaxterWellcome Collection EPB/B/54934/1"
-    credit: "https://wellcomecollection.org/works/ecjb2pbu"
-    alt: "Illustration of two national idols: a tall figure wrapped in cloth and a smaller statue labeled The Fisherman's god."
-
-  - id: "fig-c12-4"
-    src: "figures/part-2/12/c12-4.jpg"
-    caption: "Destruction of the Idols at Otaheite. pulling down a Pagan Altar, and building a Christian Church.Cover of Missionary Sketches 6, published in July 1819.Archive.org"
-    credit: "https://archive.org/details/missionarysketch00lond/page/n22/mode/1up"
-    alt: "An illustration of people destroying pagan idols and an altar, with smoke rising amidst tropical foliage, symbolizing a religious transition."
-
-  - id: "fig-c12-5"
-    src: "figures/part-2/12/c12-5.png"
-    caption: "Portrait of the young John WilliamsProduced for the London Missionary Society when he was aapointed as a missionary, before leaving for the Pacific.SOAS Special Collections (CWM/LMS/Home/Miniature Portraits/Box 4/John Williams)"
-    credit: "https://digital.soas.ac.uk/EK00000124/00001/"
-    alt: "A portrait of John Williams, distinguished by period attire, with handwritten details about his life and contributions beneath the image."
-
-  - id: "fig-c12-6"
-    src: "figures/part-2/12/c12-6.png"
-    caption: "Portrait of the young Mary WilliamsProduced for the London Missionary Society when she was appointed as a missionary wife, before leaving for the Pacific.SOAS Special Collections (CWM/LMS/Home/Miniature Portraits/Box 4/Mary Williams)"
-    credit: "https://digital.soas.ac.uk/EK00000125/00001/"
-    alt: "Portrait of Mary Williams, dated 1816-1852, with inscription detailing her appointment and register number, framed with a cream border."
-
-  - id: "fig-c12-7"
-    src: "figures/part-2/12/c12-7.jpg"
-    caption: "City of David - Missionary Settlement in the Island of Raiatea. The Chapel is seen above the mast of the canoe. the Mission-house near the centre. on the highest hill on the left is the Po, or Hades of this and of all the other islands [Taputapuatea]. The white surf marks the sitaution of the coral-rocks.' This was the location of the mission station at Vauaara [Fa'aroa] until 1824.Engraved by Fenner Sears & Co. Drawn by John Demis from a sketch by D. Tyerman. Published in 1831 in Journal of Voyages and Travel by the Rev. Daniel Tyerman and George Bennet, Esq. compiled from original documents by James Montgomery. London. Frederick Westley and A.H. Davis.Wellcome Collection EPB/B/37234.v1"
-    credit: "https://wellcomecollection.org/works/kk3vehbw"
-    alt: "A scenic engraving of the City of David, Balaklava, featuring boats on water with mountains and a coastal settlement in the background."
-
-  - id: "fig-c12-8"
-    src: "figures/part-2/12/c12-8.jpg"
-    caption: "Bay in South Sea Island (ships surrounded by canoes)Part of a collection of 30 large watercolours used on lecture tours in Britain by John Williams during the 1834 and 1837.National Library of Australia, Rex Nan Kivell Collection NK1224/27"
-    credit: "https://nla.gov.au/nla.obj-133503946/view"
-    alt: "A serene river landscape with two sailing ships, surrounded by lush mountains and cliffs under a pastel sky."
-
-  - id: "fig-c12-9"
-    src: "figures/part-2/12/c12-9.jpg"
-    caption: "Settlement at Utumaoro in Raiatea'This was the location of the mission after 1824. An engraving of this image featured in Missionary Sketches 47 (October 1829).Part of a collection of 30 large watercolours used on lecture tours in Britain by John Williams during the 1834 and 1837.National Library of Australia, Rex Nan Kivell Collection NK1224/24"
-    credit: "https://archive.org/details/missionarysketch00lond/page/n184/mode/1up"
-    alt: "A tranquil seascape featuring a sailing ship, coastal homes, and a prominent mountain under a soft, cloudy sky."
-   
-  - id: "fig-c12-10"
-    src: "figures/part-2/12/c12-10.jpg"
-    caption: "Representations of Taaroa Upoo Vahu (A'a) from RurutuCover of Missionary Sketches 24, published in January 1824.Archive.org"
-    credit: "https://archive.org/details/missionarysketch00lond/page/n92/mode/1up"
-    alt: "Illustration of a Polynesian idol, showing its front and back, with dimensions labeled below in an 1824 missionary publication."
-
-  - id: "fig-c12-11"
-    src: "figures/part-2/12/c12-11.jpg"
-    caption: "Idols' worshipped by the Inhabitants of the South Sea IslandsPrinted to face the title page of Volume 2 of William Ellis (1829) Polynesian Researches (London. Fisher, Son & Jackson).Wellcome Collection EPB/B/21643/1.v2"
-    credit: "https://wellcomecollection.org/works/uue7tp4t"
-    alt: "A collection of ornate South Sea Island idols, featuring intricate carvings and figures on wooden sculptures and totems."
-
-  - id: "fig-c12-12"
-    src: "figures/part-2/12/c12-12.png"
-    caption: "Satellite imagery showing the locations of Ra'iatea. Rurutu, Aitutaki, Rarotonga and SydneyLocations marked on Google Maps"
-    credit: 
-    alt: "Map of the southwestern Pacific Ocean showing Australia, New Zealand, and nearby islands like Raiatea and Rarotonga."
-
-  - id: "fig-c12-13"
-    src: "figures/part-2/12/c12-13.jpg"
-    caption: "John Williams residence at Ra'iatea, a model for houses subsequently built at Aitutaki and RarotongaWoodcut engraving by George Baxter printed opposite p.476 in John Williams' A Narrative of Missionary Enterprises, published in 1837Wellcome Collection EPB/B/54934/1"
-    credit: 
-    alt: "Illustration of a thatched-roof house surrounded by lush palm trees, featuring two figures conversing in the garden."
-
-  - id: "fig-c12-14"
-    src: "figures/part-2/12/c12-14.jpg"
-    caption: "Idol' acquired by John Williams at Aitutaki (together with 'the Snare for catching a god'Image from British Museum (Oc,LMS.38) alongside woodcut engraving by George Baxter printed on p.65 in John Williams' A Narrative of Missionary Enterprises, published in 1837British Museum (Oc,LMS.38) & Wellcome Collection EPB/B/54934/1"
-    credit: 
-    alt: "A tall, carved wooden figure stands on the left, alongside a vintage illustration of a similar figure and a lasso on an antique page."
-
-  - id: "fig-c12-15"
-    src: "figures/part-2/12/c12-15.jpg"
-    caption: "Conveying the Idols to the Boat' at AitutakiWoodcut engraving by George Baxter printed on p.64 in John Williams' A Narrative of Missionary Enterprises, published in 1837Wellcome Collection EPB/B/54934/1"
-    credit: 
-    alt: "An engraved scene depicting a riverside village with a house, fishermen, and a boat, surrounded by lush mountains and palm trees."
-
-  - id: "fig-c12-16"
-    src: "figures/part-2/12/c12-16.jpg"
-    caption: "Portraits of Papeiha and MakeaWoodcut engraving by George Baxter printed opposite p.576 in John Williams' A Narrative of Missionary Enterprises, published in 1837Wellcome Collection EPB/B/54934/1"
-    credit: 
-    alt: "Two detailed portraits in black ink on paper, depicting figures in elegant attire."
-
-  - id: "fig-c12-17"
-    src: "figures/part-2/12/c12-17.jpg"
-    caption: "A cap from Aitutaki, worn formerly by the master of the ceremonies at the native dances. but now, by the judge of the island.'Image from British Museum (Oc,LMS.56) alongside woodcut engraving by George Baxter printed on p.537 in John Williams' A Narrative of Missionary Enterprises, published in 1837British Museum (Oc,LMS.56) & Wellcome Collection EPB/B/54934/1"
-    credit: 
-    alt: "A traditional Aitutaki cap adorned with feathers and plant fibers, paired with an illustrated guide from historical records."
-
-  - id: "fig-c12-18"
-    src: "figures/part-2/12/c12-18.png"
-    caption: "Map of Rarotonga, showing the three vaka (regions)Wikimedia Commons"
-    credit: 
-    alt: "Map of Rarotonga, illustrating tribes (VAKA), roads, streams, and elevations with summits marked. Includes airport location."
-
-  - id: "fig-c12-19"
-    src: "figures/part-2/12/c12-19.jpg"
-    caption: "Makea, King of Rarotonga' (ariki of Te Au O Tonga vaka)Part of a collection of 30 large watercolours used on lecture tours in Britain by John Williams during the 1834 and 1837.It seems like that the head and shoulders portrait of Makea, above, is based on this painting.National Library of Australia, Rex Nan Kivell Collection NK1224/6"
-    credit: 
-    alt: "A Polynesian figure stands in traditional attire, holding a feathered implement and a wooden item, amidst a lush landscape."
-
-  - id: "fig-c12-20"
-    src: "figures/part-2/12/c12-20.jpg"
-    caption: "View of the Factory Zone at Canton, during the trial of four British seamen, 1 October 1807Chinese artistNational Maritime Museum BHC0580"
-    credit: 
-    alt: "Illustration of a tall, cylindrical sculpture wrapped in cloth, topped with a carved figure and feathers, labeled Diagram 10."
-
-  - id: "fig-c12-21"
-    src: "figures/part-2/12/c12-21.jpg"
-    caption: "Te po, a Chief of Rarotonga' (Pa Te Pou ariki of Takitumu vaka), as readers would have encountered himColour image, published opposite the title page of John Williams (1837) A Narrative of Missionary Enterprises. Lithograph, printed in Oil Colours by George Baxter, from a painting by John Williams JuniorBritish Museum Oc2006,Prt.38"
-    credit: 
-    alt: "An illustration of a Polynesian chief with a spear, standing by the water, accompanied by a title page of a missionary's narrative."
-
-  - id: "fig-c12-22"
-    src: "figures/part-2/12/c12-22.jpg"
-    caption: "Imagined image of an Ancient Britain (Pict warrior), with stained and painted bodyWatercolour image made by John White between 1585 and 1593. Part of an album of drawings which include the first European images of indigenous Americans, made at the 'Lost Colony' of Roanoke. British Museum 1906,0509.1.26"
-    credit: 
-    alt: "A muscular figure stands confidently, holding a spear and shield, adorned with intricate body markings, surrounded by remnants of an ancient setting."
-
-  - id: "fig-c12-23"
-    src: "figures/part-2/12/c12-23.jpg"
-    caption: "Portrait of Papeiha (left) facing Isaia, his son (right)From Gems from the Coral Islands by the Rev. William Gill (1856), Volume II, facing p.232Hathi Trust (New York Public Library)"
-    credit: 
-    alt: "Two men stand side by side, one wearing a white shirt with a scarf and the other in a formal black suit with a bow tie."
-
-  - id: "fig-c13-1"
-    src: "figures/part-2/13/c13-1.jpg"
-    caption: "List of Curiosities', presented by the London Missionary Society to the New Mission College at BarmenFrom the end of a letter, dated 13 July 1832, sent by William Ellis to Wilhelm Leipoldt, Rhenish Missionary SocietyArchives and Museum Foundation of UEM, File-no. RMG 207"
-    credit: 
-    alt: "A handwritten list details various curiosities from missions, including artifacts and religious texts, presented to New Mission College."
-
-  - id: "fig-c13-2"
-    src: "figures/part-2/13/c13-2.jpg"
-    caption: "A Dialogue between the Crosse in Cheap, and Charing Cross.Comforting each other, as fearing their fall in these uncertaine times. By Ryhen Pameach (Henry Peacham). Published in London in 1641.The Newberry Library, Archive.org"
-    credit: 
-    alt: "A historical illustration displays a dialogue between two London crosses, reflecting on their uncertain future with playful figures and speech."
-
-  - id: "fig-c13-3"
-    src: "figures/part-2/13/c13-3.jpg"
-    caption: "Idols' worshipped by the Inhabitants of the South Sea IslandsItem 7, at the bottom left edge of the image is a representation of a Tahitian Ti'i (that on the botton right appears to be from Rarotonga). According to Ellis (Volume 2, p.202)."
-    credit: 
-    alt: "Illustration of various idols and sculptures from the South Sea Islands, showcasing intricate designs and cultural significance."
-
-  - id: "fig-c13-4"
-    src: "figures/part-2/13/c13-4.jpg"
-    caption: "The Family Idols of PomareImage from the cover of Missionary Sketches no. 3, October 1818.Item 10, shown here, appears to be the same Tii as that in the image above (bottom left). In Missionary Sketches it is described as follows."
-    credit: 
-    alt: "Illustration of traditional family idols from Pomare, labeled with numbers and descriptions, depicting their significance in culture."
-
-  - id: "fig-c13-5"
-    src: "figures/part-2/13/c13-5.jpg"
-    caption: "Male Ti'iCollected by George Bennet and presented to the Sheffield Literary and Philosophical Society (presented to the British Museum on 12 April 1871). On its back is inscribed in ink.Ti Tana Orofena toion. No nia te moua Orofena. the high mountain in TahitiBritish Museum Oc.7047.a"
-    credit: 
-    alt: "A wooden figurine depicting a standing figure with pronounced features and a rounded belly, showcasing intricate craftsmanship."
-
-  - id: "fig-c13-6"
-    src: "figures/part-2/13/c13-6.jpg"
-    caption: "Exterior view of the Great Exhibition of 1851With crowd of people and carriages in foreground of the Crystal Palace.Colour print published by George Baxter in 1851.British Museum 1901,1105.26"
-    credit: 
-    alt: "A vibrant crowd gathers outside a grand building, with figures in period attire, horses, and carriages in a lively outdoor scene."
-
-  - id: "fig-c13-7"
-    src: "figures/part-2/13/c13-7.png"
-    caption: "Portrait of William EllisPublished as frontispiece in William Ellis' 1827 Narrative of a Tour Through HawaiiGoogle Books"
-    credit: 
-    alt: "A historical engraving of a seated man in 19th-century clothing, with a background depicting foliage and signed Wm Ellis."
-
-  - id: "fig-c13-8"
-    src: "figures/part-2/13/c13-8.jpg"
-    caption: "Various Tools and UtensilsIndividually labelled, some with page references in the text. When an elarged and improved version of the text was printed in four volune in 1831, images of these items were re-used but interspersed in different groupings within the text.Printed before p. 181 of Volume 2 of William Ellis (1829) Polynesian Researches (London. Fisher, Son & Jackson).Wellcome Collection EPB/B/21643/1.v2"
-    credit: 
-    alt: "A collection of traditional Polynesian tools and items, including a wooden dish, fan, adzes, stool, and pillow, with descriptive labels."
-
-  - id: "fig-c13-9"
-    src: "figures/part-2/13/c13-9.jpg"
-    caption: "Plaque Depicting the Manchester Massacre (Peterloo)A mounted horseman tramples a women clutching and infant, alongside a fallen flag inscribed 'JUSTICE'. The Peterloo Massacre as it became known, became a rallying cry for the cause of reform.Staffordshire produced EarthenwareBritish Museum 2009,8022.1"
-    credit: 
-    alt: "A ceramic commemorative plate depicting the Manchester Massacre, featuring images of violence and the text advocating justice."
-
-  - id: "fig-c13-10"
-    src: "figures/part-2/13/c13-10.jpg"
-    caption: "Village of BetheldorpThe only image to feature in John Philip's two volume, Researches in South Africa, published in 1828. Marked details include A. Old Church, B. New Chruch (lately founded), C. Alms-Houses, E. Bridge, F. School, G, H, I. Houses of the Missionaries.See Chapter 3, for a description of Lichtenstein's unflattering descriptions of the settlement, and an image of the settlement published alongside Campbell's description in 1815.Published by James Duncan, Paternoster Row.Google Books"
-    credit: 
-    alt: "Engraving of Bethelsdorp village featuring buildings, mountains, and infrastructure, labeled with notable locations and drawn in 19th century style."
-
-  - id: "fig-c13-11"
-    src: "figures/part-2/13/c13-11.jpg"
-    caption: "Stained Glass Image of John NewtonFrom St. Peter and Paul Church, Olney, Buckinghanshire2016 Photograph by Adam JonesWikimedia CC BY-SA 2.0"
-    credit: 
-    alt: "Stained glass window depicting a historical figure standing at a lectern, with the text Amazing Grace! How sweet the sound below."
-
-  - id: "fig-c13-12"
-    src: "figures/part-2/13/c13-12.jpg"
-    caption: "Title page for 'Die Lage der arbeitenden Klasse in England' by Friedrich EngelsPublished by Otto Wigand, Leipzig in 1845Deutsches Historisches Museum, Berlin (R 92/2055)"
-    credit: 
-    alt: "Cover page of Friedrich Engels' 1845 work Die Lage der arbeitenden Klasse in England, detailing the conditions of the working class."
-
-  - id: "fig-c14-1"
-    src: "figures/part-2/14/c14-1.jpg"
-    caption: "Contemporary image of Paramasattee Collected by Rev. Charles Mead at Kariavili in November 1839British Museum As1910,-.496"
-    credit: 
-    alt: "A carved wooden figure adorned with metallic bells, featuring intricate designs and a strong posture, showcasing cultural craftsmanship."
-
-  - id: "fig-c14-2"
-    src: "figures/part-2/14/c14-2.jpg"
-    caption: "Portrait of Rev. Charles Mead, Neyoor, South TravancoreOriginally printed in the Evangelical Magazine and Missionary Chronicle for August 1838.National Library of Wales, Welsh Portrait Collection (Wikimedia)"
-    credit: 
-    alt: "A portrait of Reverend Charles Mead, dressed in 19th-century attire, with the text detailing his name and location beneath."
-
-  - id: "fig-c14-3"
-    src: "figures/part-2/14/c14-3.jpg"
-    caption: "Mission Bungalow, NagercoilPrinted in Samuel Maeer's (1871) The Land of Charity. A Descriptive Account of Travancore and Its People, on p. 266Internet Archive. Please note, this image, was printed in 1871, several decades after the focus for this chapter."
-    credit: 
-    alt: "Illustration of a mission bungalow in Nagercoil, featuring a thatched roof, gardens, and people, set against mountainous scenery."
-
-  - id: "fig-c14-4"
-    src: "figures/part-2/14/c14-4.jpg"
-    caption: "Cover of the Missionary Magazine and Chronicle for September 1837Showing image of Pattera-Kalee and VeerapatteranArchive.org"
-    credit: 
-    alt: "An 1837 magazine page featuring an illustration of two Indian deities, with text discussing missionary efforts in Travancore."
-
-  - id: "fig-c14-5"
-    src: "figures/part-2/14/c14-5.jpg"
-    caption: "Cover of the Missionary Magazine and Chronicle for July 1836Showing image of 'Kristnapore. Peril from the Boa Constrictor'Archive.org"
-    credit: 
-    alt: "An illustration from The Missionary Magazine depicts missionaries confronting a boa constrictor in a lush, tropical setting."
-
-  - id: "fig-c14-6"
-    src: "figures/part-2/14/c14-6.jpg"
-    caption: "Cover of the Missionary Magazine and Chronicle for October 1836Showing image of 'Worship of the Serpent in India'Archive.org"
-    credit: 
-    alt: "Illustration depicting a Hindu worship ceremony involving a snake, with figures offering prayers and food in reverence."
-
-  - id: "fig-c14-7"
-    src: "figures/part-2/14/c14-7.jpg"
-    caption: "Cover of the Missionary Magazine and Chronicle for March 1837Showing image of 'Serpent Charmers'Archive.org"
-    credit: 
-    alt: "An illustration from a magazine showing serpent charmers in traditional attire, handling snakes and engaging a local audience."
-
-  - id: "fig-c14-8"
-    src: "figures/part-2/14/c14-8.jpg"
-    caption: "Cover of Missionary Sketches no. LXI for April 1833 Showing 'Representations of the Serpent-God Worshipped in India' Archive.org"
-    credit: 
-    alt: "Illustration of two serpent-god idols worshipped in India, depicting distinctive features and cultural significance, dated April 1833."
-
-  - id: "fig-c14-9"
-    src: "figures/part-2/14/c14-9.jpg"
-    caption: "Village Chapel, School-house, and Native Teachers' House in TravancorePrinted in Samuel Mateer's (1871) The Land of Charity. A Descriptive Account of Travancore and Its People, on p. 140Internet Archive. Please note, this image, was printed in 1871, several decades after the focus for this chapter."
-    credit: 
-    alt: "Illustration of a village scene in Travancore, featuring a chapel, schoolhouse, and native teachers' homes surrounded by lush vegetation."
-
-  - id: "fig-c14-10"
-    src: "figures/part-2/14/c14-10.jpg"
-    caption: "Devil Temple at AgatispuramPrinted in Samuel Mateer's (1871) The Land of Charity. A Descriptive Account of Travancore and Its People, facing p. 219Internet Archive. Please note, this image, was printed in 1871, several decades after the focus for this chapter."
-    credit: 
-    alt: "An illustration of the Devil Temple at Agastispuram, featuring a wooden structure surrounded by trees and a simple fence."
-
-  - id: "fig-c14-11"
-    src: "figures/part-2/14/c14-11.jpg"
-    caption: "Carved stone representation of Nagur SwamiPurchased from the London Missionary Society museum in 1910.Pitt Rivers Museum, Oxford (1910.62.79)"
-    credit: 
-    alt: "Ancient stone sculpture of a snake deity, featuring a coiled serpent motif and a detailed cobra head, set against a gray background."
-
-  - id: "fig-c14-12"
-    src: "figures/part-2/14/c14-12.jpg"
-    caption: "Cover of the Missionary Magazine and Chronicle for October 1837Showing image of 'Paramasattee'Archive.org"
-    credit: 
-    alt: "Illustration titled Demon Worship in South Travancore from the October 1837 issue of The Missionary Magazine, depicting a religious scene."
-
-  - id: "fig-c14-13"
-    src: "figures/part-2/14/c14-13.jpg"
-    caption: "The Buddhist and Other IdolsPublished in 'The Missionary Museum No. XI'. 1861. Juvenile Missionary Magazine, 18, p.60, Author's Personal Collection.Please note, this image, was printed in 1861, several decades after the focus for this chapter."
-    credit: "Chris Wingfield Personal Collection"
-    alt: "A collection of Buddhist idols and artifacts displayed on shelves, surrounded by various decorative elements and framed images."
-
-  - id: "fig-c14-14"
-    src: "figures/part-2/14/c14-14.jpg"
-    caption: "Christian Female, with Jacket and Upper ClothPrinted in Samuel Mateer's (1871) The Land of Charity. A Descriptive Account of Travancore and Its People, on p. 277Internet Archive. Please note, this image, was printed in 1871, several decades after the focus for this chapter."
-    credit: 
-    alt: "A standing Christian woman in traditional attire, wearing a jacket and upper cloth, posed against a wooden floor with a landscape backdrop."
-
-  - id: "fig-c14-15"
-    src: "figures/part-2/14/c14-15.jpg"
-    caption: "Lace Worker with PillowPrinted in Samuel Mateer's (1871) The Land of Charity. A Descriptive Account of Travancore and Its People, facing p. 272Internet Archive. Please note, this image, was printed in 1871, several decades after the focus for this chapter."
-    credit: 
-    alt: "A lace worker seated on a stool, skillfully crafting lace with a pillow. Lush palm trees and a sunset are visible in the background."
-
-  - id: "fig-c14-16"
-    src: "figures/part-2/14/c14-16.jpg"
-    caption: "Circular Letter from Martha MaultPrinted in Nagercoil in September 1836. This copy was sent to Rev. William Ellis, Foreign Secretary of the London Missionary Society.SOAS Special Collections. CWM.LMS.Travancore. Incoming Box 2. 1832-38."
-    credit: 
-    alt: "A dated letter from 1836 discussing female education initiatives and the establishment of girls' schools in South Travancore."
-
-  - id: "fig-c14-17"
-    src: "figures/part-2/14/c14-17.jpg"
-    caption: "Lace sample, brought from Nagercoil in 1827 by George BennetPhotography by author at Ipalo House in August 2010.National Maritime Museum ZBA5558"
-    credit: "Photography by author at Ipalo House in August 2010."
-    alt: "A handwritten document featuring lace made by students at Mrs. Mauth's school, accompanied by a small lace sample on blue paper."
-
-  - id: "fig-c14-18"
-    src: "figures/part-2/14/c14-18.jpg"
-    caption: "Length of bobbin lace, worked in cotton threadMade in the Midland Counties style in undyed cotton, with a design of stars and circules alternating between straight edges.V&A T.195-1993"
-    credit: 
-    alt: "A green label from the London Missionary Society attached to a piece of lace, marked Lace Industry, Nagercoil, S. India."
-
-  - id: "fig-c14-19"
-    src: "figures/part-2/14/c14-19.jpg"
-    caption: "Annette Weiner conducting fieldwork at a mortuary ceremony at Omarakana in 197635mm black and white negative from the Edwin Hutchins and Dona Hutchins CollectionUC San Diego Library Digital Collections"
-    credit: 
-    alt: "A mortuary ceremony featuring local women in traditional attire among palm trees and thatched huts, bustling with activity."
-
-  - id: "fig-c14-20"
-    src: "figures/part-2/14/c14-20.jpg"
-    caption: "Pillow-Lace Working in BedfordshireImage from the Illustrated London News, 5 February 1859. issue 958, p.133.Lace in Context"
-    credit: 
-    alt: "A woman in traditional attire plays a stringed instrument while seated on a chair in a garden setting, with a house in the background."
-
-  - id: "fig-c14-21"
-    src: "figures/part-2/14/c14-21.jpg"
-    caption: "Karunkali and Mallan'Printed in Samuel Mateer's (1871) The Land of Charity. A Descriptive Account of Travancore and Its People, on p. 196. The image appears to have been made using the same printing plate as was used in 1837 for the Missionary Magazine and Chronicle, just as several others in Mateer's book also drew on images produced for earlier missionary publications.Internet Archive"
-    credit: 
-    alt: "Illustration of two intricately designed deities, Karunkali and Mallan, adorned with detailed costumes and jewelry."
-
-  - id: "fig-c15-1"
-    src: "figures/part-2/15/c15-1.jpg"
-    caption: "The Departure of the Camden, Missionary ShipApril 11, 1838 with the Rev. John Williams and missionaries for the South Seas, from the River Thames, sketched on the spot and printed in oil colours by G. Baxter, patenteeNational Library of Australia, Rex Nan Kivell Collection NK352."
-    credit: 
-    alt: "An illustration depicting the Camden missionary ship's departure, surrounded by small boats and other vessels on a calm sea."
-
-  - id: "fig-c15-2"
-    src: "figures/part-2/15/c15-2.jpg"
-    caption: "Cover of the Missionary Magazine and Chronicle for May 1838Internet Archive"
-    credit: 
-    alt: "An 1838 magazine page featuring the Missionary Ship Camden, discussing its departure for the South Seas and missionary efforts in the region."
-
-  - id: "fig-c15-3"
-    src: "figures/part-2/15/c15-3.png"
-    caption: "Title page for 'The Missionary's Farewell', 1838Google Books"
-    credit: 
-    alt: "Illustration of a ship sailing, accompanied by the title and text regarding Reverend John Williams' farewell before his mission departure."
-
-  - id: "fig-c15-4"
-    src: "figures/part-2/15/c15-4.png"
-    caption: "The Messenger of Peace, as she appeared when leaving Rarotonga for TahitiIllustration by George Baxter from John Williams (1837) Narrative of Missionary Enterprises, p.165Google Books"
-    credit: 
-    alt: "An illustration of the sailing ship Messenger of Peace with large sails, depicted at sea, heading from Rarotonga to Tahiti."
-
-  - id: "fig-c15-5"
-    src: "figures/part-2/15/c15-5.jpg"
-    caption: "Makea, King of Rarotonga' (ariki of Te Au O Tonga vaka)Part of a collection of 30 large watercolours used on lecture tours in Britain by John Williams during the 1834 and 1837.National Library of Australia, Rex Nan Kivell Collection NK1224/6"
-    credit: 
-    alt: "A regal figure stands in traditional attire, holding a feathered staff and a rolled document, surrounded by a lush landscape."
-
-  - id: "fig-c15-6"
-    src: "figures/part-2/15/c15-6.png"
-    caption: "The Messenger of Peace, as she appeared when leaving Rarotonga for TahitiIllustration by George Baxter from John Williams (1837) Narrative of Missionary Enterprises,opposite p.293Google Books"
-    credit: 
-    alt: "An illustration of the ship Messenger of Peace departing Aitutaki, surrounded by small boats and a mountainous landscape in the background."
-
-  - id: "fig-c15-7"
-    src: "figures/part-2/15/c15-7.png"
-    caption: "One of five 'gods disrobed of their apparel' seen at Vava'uIllustration by George Baxter from John Williams (1837) Narrative of Missionary Enterprises, p.321Google Books"
-    credit: 
-    alt: "A stylized wooden figure with a square head and a slender body, depicted in a standing pose on an intricately carved base."
-
-  - id: "fig-c15-8"
-    src: "figures/part-2/15/c15-8.jpg"
-    caption: "The Interview at Leone Bay on the south coast of TutuilaAs the crew and Williams prayed befe landing, Amoano, the chief, 'waded into the water nearly up to his neck, and took hold of the boat, when, addressing me in his native tongue, he said, Son, will you not come on shore?. When told of two boats taken earlier, according to Williams, he said Oh, we are nt savage now. we are Christians. Those who identified as Christians had tied a piece of white bark cloth around his arm.Illustration by George Baxter from John Williams (1837) Narrative of Missionary Enterprises, opposite p. 417Google Books"
-    credit: 
-    alt: "A historical depiction of a boat approaching a riverbank where people await, set against lush hills and palm trees."
-
-  - id: "fig-c15-9"
-    src: "figures/part-2/15/c15-9.png"
-    caption: "The Messenger of Peace, under repair at TongaIllustration by George Baxter from John Williams (1837) Narrative of Missionary Enterprises, p.473Google Books"
-    credit: 
-    alt: "A vintage illustration of a tropical island with palm trees, boats, and a distant ship moored near a rocky shoreline under a cloudy sky."
-
-  - id: "fig-c15-10"
-    src: "figures/part-2/15/c15-10.png"
-    caption: "Reported Income of the London Missionary Society from 1796 to 1838Note the increase from 1813 onwards, the downturn from 1830-1833, and the subsequent increase.Figures taken from Richard Lovett (1899) The History of the London Missionary Society 1795-1895."
-    credit: 
-    alt: "A bar graph depicting income growth from 1796 to 1838, showcasing an upward trend with notable increases over the years."
-
-  - id: "fig-c15-11"
-    src: "figures/part-2/15/c15-11.jpg"
-    caption: "Interior of Carr's Lane ChapelInk drawing by J. Porteous WoodBirmingham Museums & Art Gallery"
-    credit: 
-    alt: "Illustration of a grand, ornate legislative chamber featuring columns, a raised platform, and empty seating areas."
-
-  - id: "fig-c15-12"
-    src: "figures/part-2/15/c15-12.jpg"
-    caption: "New Testament in RarotonganOne of 5000 copies printed by the British and Foreign Bible Society in 1836.The Melikian Collection ID. 4329"
-    credit: 
-    alt: "A vintage leather-bound book with a brown spine and embossed lettering titled MOTU published in 1836."
-
-  - id: "fig-c15-13"
-    src: "figures/part-2/15/c15-13.jpg"
-    caption: "Elevation of the New London Missionary House, Blomfield Street, FinsburyOriginally published in The Evangelical Magazine and Missionary Chronicle for December 1835, opposite p.485British Museum 1875,0410.143"
-    credit: 
-    alt: "Historic illustration of the New London Missionary House, featuring a brick facade and three individuals in front, dated 1832."
-
-  - id: "fig-c15-14"
-    src: "figures/part-2/15/c15-14.jpg"
-    caption: "To'o from RurutuGiven to Ebenezer Prout by John Williams. Part of the Oldman collection, acquired by the New Zealand Government in 1948Auckland Museum 1950.128"
-    credit: 
-    alt: "Carved wooden object featuring intricate ends and a braided center, showcasing craftsmanship and cultural artistry."
-
-  - id: "fig-c15-15"
-    src: "figures/part-2/15/c15-15.jpg"
-    caption: "Rev. John Williams, Missionary at RaiateaOriginally published in The Evangelical Magazine and Missionary Chronicle for May 1835, opposite p.177Welsh Portrait Collection (Wikimedia)"
-    credit: 
-    alt: "Engraving of a man in a dark coat, seated indoors with a textured background, titled Rev. John Williams."
-
-  - id: "fig-c15-16"
-    src: "figures/part-2/15/c15-16.jpeg"
-    caption: "Jan Tzatzoe, Andries Stoffles, the rev.d Dr. Philip & rev'd Mess'rs Read, Sent. and June., giving evidence before the committee of the House of CommonsOriginally published as Plate 1 in The Christian keepsake and missionary annual 1837, edited by William Ellis, opposite p.485 (Google books). Engraving by Richard Woodman, original painting by Henry Room.Schomburg Center for Research in Black Culture, Photographs and Prints Division, The New York Public Library"
-    credit: 
-    alt: "A group of five men in formal attire gathered around a table with papers, engaged in discussion, set in an elegant interior space."
-
-  - id: "fig-c15-17"
-    src: "figures/part-2/15/c15-17.jpg"
-    caption: "Andries StofflesOriginally published in The Evangelical Magazine and Missionary Chronicle for Feburary 1837, opposite p.52 (Google Books). Engraved by Jenkins from an original drawing by John Wesley Jarvis.Schomburg Center for Research in Black Culture, The New York Public Library"
-    credit: 
-    alt: "A historical black and white drawing of a seated man in a coat, holding a book, with a textured background and ornate framing."
-
-  - id: "fig-c15-18"
-    src: "figures/part-2/15/c15-18.jpg"
-    caption: "Jan Tzatzoe, A Christian Child of the Amakosa, South AfricaOriginally published in The Evangelical Magazine and Missionary Chronicle for May 1837, opposite p.193 (Google Books). Engraved by W. Holl from a painting by Henry Room.Schomburg Center for Research in Black Culture, The New York Public Library"
-    credit: 
-    alt: "A historical portrait of a man in a military uniform, standing with arms crossed, set against a mountainous landscape."
-
-  - id: "fig-c15-19"
-    src: "figures/part-2/15/c15-19.jpg"
-    caption: "Jan Tzatzoe, Caffer Chief, April 10, 1837Hand coloured lithograph by William Cowan, printed by J. Graf. Advertised for sale in June 1837.British Museum 1878,0112.114"
-    credit: 
-    alt: "A well-dressed figure stands proudly, holding books, with a lush mountainous landscape and palm trees in the background."
-
-  - id: "fig-c15-20"
-    src: "figures/part-2/15/c15-20.jpg"
-    caption: "No. 138 Matabile war dance, 1835Monochrome Watercolour painted when visiting the kraal of Mzilikazi near the Tolane River.Note the darkness of the scene.MuseuMAfrika (MA1965-3800)"
-    credit: 
-    alt: "A group of individuals performing a traditional war dance, wielding spears, in a dynamic formation. Historical artwork from 1855."
-
-  - id: "fig-c15-21"
-    src: "figures/part-2/15/c15-21.jpg"
-    caption: "No. 46 Mr Archbell's Congregation at Thaba Unchoo - 1834Monochrome Watercolour painted by Charled Bell at the Wesleyan Mission station at Thaba Nchu in late 1834Note the concentration of the light at the front of the congregation, among those wearing European dress.MuseuMAfricA MA2436"
-    credit: 
-    alt: "A congregation gathers in a large tent, listening attentively as a speaker addresses them from a podium. The audience is diverse and engaged."
-
-  - id: "fig-c15-22"
-    src: "figures/part-2/15/c15-22.jpg"
-    caption: "An Appeal for the Purchase of a Missionary ShipPublished in the Missionary Magazine and Chronicle for Feburary 1838, p.28Archive.org"
-    credit: 
-    alt: "Text from a historical document appealing for donations to purchase a missionary ship for work in the Pacific islands."
-
-  - id: "fig-c15-23"
-    src: "figures/part-2/15/c15-23.jpg"
-    caption: "The Missionary Brig CamdenWhich sailed from London on the 11th of April 1838… having on board the Revd John Williams and 9 other Missionaries and their wives. Dedicated to the London Missionary Society and the friends of the Mission in general by their humble Servant John Snow, publisher. Dean & Law.The Camden is shown passing the Needles, off the Isle of Wight. Print at Royal Museums Greenwich PAH8474Wikimedia"
-    credit: 
-    alt: "A colorful illustration of the ship The Missionary Brig Camden sailing, with flags flying, amidst gentle waves and a distant coastline."
-
-  - id: "fig-c15-24"
-    src: "figures/part-2/15/c15-24.jpg"
-    caption: "Sydney Cover, Port JacksonThe steam boat Australian accompanying with numerous friends on farewell of the missionary brig Camden, Octover 25th 1838. Note the Indigenous family framed by the gateway near the foreshore.Hand coloured aquatint, engraved by S.G. Hughes from a a drawing by Chs. Rodius. Published at Syney by N.P. Ringman, 1838.National Library of Australia 2680398"
-    credit: 
-    alt: "Colorful illustration of Sydney Cove, featuring ships in the harbor and lush greenery, capturing the scenic coastal view."
-
-  - id: "fig-c15-25"
-    src: "figures/part-2/15/c15-25.png"
-    caption: "Cover of the Missionary Magazine & Chronicle for June 1840Google Books"
-    credit: 
-    alt: "A historic document detailing the death of Rev. John Williams, a missionary in the New Hebrides, and recounting his last experiences."
-
-  - id: "fig-c15-26"
-    src: "figures/part-2/15/c15-26.jpg"
-    caption: "Broken pocketwatch of James HarrisRecovered from Erromanga along with his best handkerchief, as well as the club that killed John Williams, which for many years were kept at the Mission House in London.Photographed in 2010, transferred to the National Maritime Museum in 2012"
-    credit: 
-    alt: "A vintage silver pocket watch with a classic white face, black Roman numerals, and a decorative hanging loop at the top."
-
-  - id: "fig-c15-27"
-    src: "figures/part-2/15/c15-27.jpg"
-    caption: "Original Drawing for 'The massacre of the lamented missionary, the Rev. J. Williams, at Erromanga in the South SeaNational Library of Australia, Rex Nan Kivell Collection NK150"
-    credit: 
-    alt: "A colorful illustration depicting indigenous people in water, engaged in a struggle, with mountains and ships in the background."
-
-  - id: "fig-c15-28"
-    src: "figures/part-2/15/c15-28.jpg"
-    caption: "The Massacre of the Lamented Missionary, the Rev. J. Williams and Mr HarrisArt Institute of Chicago 1946.974"
-    credit: 
-    alt: "A dramatic scene of indigenous warriors engaged in battle by the shore, while a distant boat approaches amidst the chaos."
-
-  - id: "fig-c15-29"
-    src: "figures/part-2/15/c15-29.jpg"
-    caption: "The Reception of the Rev. J. Williams, at Tanna in the South Seas, the Day Before He Was MassacredSteel engraving coloured with wooden blocks on tan wove paper, laid down on buff board.Published by George Baxter in 1841.Art Institute of Chicago 1946.973"
-    credit: 
-    alt: "A historical scene showing a diverse group of people interacting on a boat, with a tropical landscape and indigenous figures in the background."
-
-  - id: "fig-c15-30"
-    src: "figures/part-2/15/c15-30.jpg"
-    caption: "The Massacre of the Lamented Missionary, the Rev. J. Williams and Mr HarrisSteel engraving coloured with wooden blocks on tan wove paper, laid down on buff board.Published by George Baxter in 1841.Art Institute of Chicago 1946.974"
-    credit: 
-    alt: "A historical scene depicting a fierce battle between indigenous warriors and invaders by the shore, with a lush landscape in the background."
-
-  - id: "fig-c16-1"
-    src: "figures/part-2/16/c16-1.jpg"
-    caption: "Conference between Commodore Sir James John Gordon Bremer and Chang, the Chinese Admiral (Governor of Chusan) and the Chief Mandarin, on board H.M. Ship Wellesley on the 4th July 1841Coloured lithograph by J.H. Lynch after Darell, published January 1842.Anne S.K. Brown Military Collection"
-    credit: 
-    alt: "A formal meeting featuring men in military and traditional attire sitting around a table, discussing documents in a wooden room."
-
-  - id: "fig-c16-2"
-    src: "figures/part-2/16/c16-2.png"
-    caption: "Li Shigong, Chen Laoyi, and Robert MorrisonEngraving made from a painting by George Chinnery around 1828, following Morrison's return to China.Wikimedia Commons"
-    credit: 
-    alt: "Three men in historical attire are gathered around a table with books and papers, engaged in conversation and collaboration."
-
-  - id: "fig-c16-3"
-    src: "figures/part-2/16/c16-3.jpg"
-    caption: "View of the Rev. Charles (Karl) Gutzlaff's Residence in the vicinity of Bangkok, the capital of SiamCover for Missionary Sketches LVIII in July 1832Archive.org"
-    credit: 
-    alt: "Sketch of Rev. Charles Gutzlaff's residence near Bangkok, Siam, featuring tropical vegetation and distant mountains."
-
-  - id: "fig-c16-4"
-    src: "figures/part-2/16/c16-4.jpg"
-    caption: "Title page for 'Report of Proceedings on A Voyage to the Northern Ports of China, in the Ship Lord Amherst'Extracted from Papers, Printed by Order of the House of Commons, Relating to the Trade with China. London in 1833.Archive.org"
-    credit: 
-    alt: "Cover page of a 1833 report detailing proceedings of the voyage to Northern China on the ship Lord Amherst, printed in London."
-
-  - id: "fig-c16-5"
-    src: "figures/part-2/16/c16-5.jpg"
-    caption: "The Barque, Sylph, off the Macao, ChinaOil painting by William John Huggins, c. 1838Wikimedia"
-    credit: 
-    alt: "A classic sailing ship with billowing sails and colorful flags navigates choppy waters, framed by a cloudy sky and distant mountains."
-
-  - id: "fig-c16-6"
-    src: "figures/part-2/16/c16-6.png"
-    caption: "Cover of Missionary Sketches No. LXIX, April 1885Showing a plan of Canton, showing the site of the Foreign Factories outside the the city wallsSOAS"
-    credit: 
-    alt: "A historical map of Canton, China, from April 1835, illustrating city layout, Pearl River, and notable landmarks like the tower."
-
-  - id: "fig-c16-7"
-    src: "figures/part-2/16/c16-7.jpg"
-    caption: "Revd. Chas. Gutzlaff,in the Dress of a Fokien Sailor1835 Lithograph print by R.J. Lane, based on painting by George Chinnery.National Portrait Gallery NPG D21841"
-    credit: 
-    alt: "A figure in traditional attire stands confidently by the waterfront, with boats sailing in the background."
-
-  - id: "fig-c16-8"
-    src: "figures/part-2/16/c16-8.jpg"
-    caption: "Mr Medhurst, in conversation with Choo-Tih_Lang, attended by a Malay BoyFrontispiece for Medhurst's China. Its State and Prospects, printed in Oil by George BaxterBritish Museum 1949,1011.9"
-    credit: 
-    alt: "Interior scene depicting two men in traditional attire seated at a table with books, engaged in conversation, framed by Asian artwork."
-
-  - id: "fig-c16-9"
-    src: "figures/part-2/16/c16-9.jpg"
-    caption: "Opium Box from the London Missionary Society museumAcquired when following the museum's closure in 1910. The later catalogue of the Missionary Museum includes a listing for 'Two opium pipes. Presented by Mrs Brandram'. The box seems to include the clay bowls of two pipes. Andrew Brandram was Secretary of the British and Foreign Bible Society from 1823 to 1850, and 'Mrs Brandram' may be his wife, the mother of Lydia, wife of George Smith, who went to Hong Kong in 1949 as a missionary. British Museum As1910,-.503.a"
-    credit: 
-    alt: "An open vintage box containing decorative artifacts, cotton padding, and delicate papers, showcasing intricate textures and colors."
-
-  - id: "fig-c16-10"
-    src: "figures/part-2/16/c16-1.jpg"
-    caption: "Commissioner Lin and the Destruction of the Opium in 1839https.//en.m.wikipedia.org/wiki/File.Destruction_of_opium_in_1839.jpgColour image produced by a Chinese ArtistHong Kong Museum of Art (Wikimedi)"
-    credit: 
-    alt: "A historical scene depicting workers engaged in various tasks near a river, with traditional architecture in the background."
-
-  - id: "fig-c16-11"
-    src: "figures/part-2/16/c16-11.jpg"
-    caption: "View of Jos-house-hill from Chusan HarbourImage from Lieutenant John Ouchterlony's (1844) The Chinese War, opposite p.48.Google Books"
-    credit: 
-    alt: "Black and white illustration of Joss-House Hill from Ciusan Harbour, featuring mountains, boats, and a small coastal village."
-
-  - id: "fig-c16-12"
-    src: "figures/part-2/16/c16-12.jpg"
-    caption: "Taking the Island of Chusan on 5 July 1840Print by Harry DarellNational Maritime Museum PAG9185"
-    credit: 
-    alt: "A historic harbor scene featuring a large ship with sails and several smaller boats, set against mountainous coastal terrain."
-
-  - id: "fig-c16-13"
-    src: "figures/part-2/16/c16-13.jpg"
-    caption: "Chinese Miniature ShoeAt Livingstone House, headquarters of the Council for World Mission.Photograph by the Author (2010)"
-    credit: "Photograph by the Author (2010)"
-    alt: "Close-up of a colorful, fabric-covered object resembling a pair of traditional shoes with intricate stitching and frayed edges."
-
-  - id: "fig-c16-14"
-    src: "figures/part-2/16/c16-14.jpg"
-    caption: "Two Wealthy Chinese Opium Smokers19th Centure Gouache Painting on rice-paper, possibly similar to the series produced by Sunqua.Wellcome Collection 25052i"
-    credit: 
-    alt: "Two individuals sit at a low table in traditional attire, engaged in a game, with decorative elements and footwear on the floor nearby."
-
-  - id: "fig-c16-15"
-    src: "figures/part-2/16/c16-15.jpg"
-    caption: "Representation of the Idol Kwan-YinCover Image for Missionary Sketches XXXVIII, June 1827. The figure represented was sent to the missionary museum by Rev. W.H. Medhurst from Batavia.Archive.org"
-    credit: 
-    alt: "An illustration of the idol Kwan-Yin seated, adorned in traditional robes, showcasing intricate details and serene posture."
-
-  - id: "fig-c16-16"
-    src: "figures/part-2/16/c16-16.jpg"
-    caption: "The Signing and Dealing of the Treaty of NankingColour engraving by John Burnet after painting by Captain John Platt, published 20April 1846 by F.G. Moon.Anne S.K. Brown Military Collection (GB-P 1842 gf-1)"
-    credit: 
-    alt: "A formal gathering of military officers in uniform sitting and standing around a table, aboard a ship, with scenic windows in the background."
-
-  - id: "fig-c16-17"
-    src: "figures/part-2/16/c16-17.jpg"
-    caption: "Two Poor Chinese Opium Smokers19th Centure Gouache Painting on rice-paper, possibly similar to the series produced by Sunqua.Wellcome Collection 25053i"
-    credit: 
-    alt: "Two individuals seated at a wooden table, one playing with a small object, the other gesturing, with traditional attire and a tea pot nearby."
-
-  - id: "fig-c17-1"
-    src: "figures/part-2/17/c17-1.jpg"
-    caption: "Model house on board base, made at Dithakong (c. 1821-1823) with front enclosureBritish Museum Af,LMS.3"
-    credit: 
-    alt: "Scale model of a thatched-roof hut surrounded by a woven fence, displayed on a wooden base."
-
-  - id: "fig-c17-2"
-    src: "figures/part-2/17/c17-2.jpg"
-    caption: "The Lamented Missionary, the Revd. John Williams, at his writing deskColour print in oils by George Baxter, 1843National Portrait Gallery NPG 4956"
-    credit: 
-    alt: "A man in a formal black suit sits thoughtfully in a wooden chair, surrounded by books and papers on a table draped with a yellow cloth."
-
-  - id: "fig-c17-3"
-    src: "figures/part-2/17/c17-3.jpg"
-    caption: "Robert Moffat, with a Tswana parliament (pitsho) in the backgroundColour print in oils by George Baxter, 1843National Portrait Gallery NPG 6312"
-    credit: 
-    alt: "A man in 19th-century attire stands outdoors, with a scenic landscape and historical figures engaged in a distant battle behind him."
-
-  - id: "fig-c17-4"
-    src: "figures/part-2/17/c17-4.png"
-    caption: "Advertising logo created by George Baxter for the pair of portraits above.From and advertisement in the back pages of the Evangelical Magazine and Missionary Chronicle, June 1843."
-    credit: 
-    alt: "Promotional graphic for Baxter's oil-colored portraits of missionaries, featuring the names Williams & Moffat with two globe illustrations."
-
-  - id: "fig-c17-5"
-    src: "figures/part-2/17/c17-5.png"
-    caption: "Portrait of Robert Moffat, with signaturePrinted opposite the title page of John Campbell's The Farewell Services of Robert Moffat in Edinburgh, Manchester and London, 1843."
-    credit: 
-    alt: "A 19th-century portrait of a man in formal attire, featuring a double-breasted coat and a bow tie, with a handwritten signature below."
-
-  - id: "fig-c17-6"
-    src: "figures/part-2/17/c17-6.jpg"
-    caption: "Missionary Museum - A Perspective View of the Principal Roomprinted in the Illustrated London News, 20 Ma 1843, p. 342Scanned from the author's personal collection."
-    credit: "Scanned from the author's personal collection."
-    alt: "A historical museum showcasing taxidermy animals, displays, and artifacts, with a prominent giraffe and visitors examining the exhibits."
-
-  - id: "fig-c17-7"
-    src: "figures/part-2/17/c17-7.png"
-    caption: "Image of South African House, Captioned as 'New Zealand Hut and Fence of Garden' in 1830Printed in The New Zealanders"
-    credit: 
-    alt: "Illustration of a traditional New Zealand hut with a thatched roof, surrounded by a circular wooden fence and tropical trees."
-
-  - id: "fig-c17-8"
-    src: "figures/part-2/17/c17-8.jpg"
-    caption: "Jan TzatzoePrinted in The Natural History of Man by James Cowles Prichard, 1843. Engraved by J Bull, published by Hippolyte Baillière, 1843.Te Papa (1992-0035-2162). Gift of Miss E March, 1951."
-    credit: 
-    alt: "A historical portrait of a Black man in a military uniform with ornate gold accents, arms crossed, on a faded background."
-
-  - id: "fig-c17-9"
-    src: "figures/part-2/17/c17-9.png"
-    caption: "Illustration of the 'Lekuka', together with a description of its usePrinted in Missionary Labours and Scenes in Southern Africa by Robert Moffat, 1842.Image by George Baxter, possibly from an artefact at the Missionary Museum."
-    credit: 
-    alt: "Illustration of a Bechuana milk-sack (lekuka) made from ox hide, showing its shape and spigot for drawing milk."
-
-  - id: "fig-c17-10"
-    src: "figures/part-2/17/c17-10.jpeg"
-    caption: "Robert Moffat, with John Mokoteri and Sarah RobyOil on canvas painted by William Wallace ScottScottish National Portrait Gallery PG 2035"
-    credit: 
-    alt: "A man stands under a tree, holding an open book, while two seated figures, a man and a woman, listen intently. A cart is visible in the background."
-
-  - id: "fig-c17-11"
-    src: "figures/part-2/17/c17-11.jpg"
-    caption: "Ivory handled knife, with associated labelPresented to Robert Moffat by Sechele, leader of the Bakwena in what is now Botswana.Presented by Moffat to the South African Museum, Cape Town (Iziko S.A.M. 330)"
-    credit: 
-    alt: "Carved ivory knife topped with a zebra head, inscribed with a dedication from Sechuana chief Sechale."
-
-  - id: "fig-c17-12"
-    src: "figures/part-2/17/c17-12.jpeg"
-    caption: "View of the Kuruman Station in South AfricaPrinted on the cover of the Missionary Magazine and Chronicle, May 1840.Hathi Trust"
-    credit: 
-    alt: "An illustrated view of Kuruman Mission Station in South Africa, featuring the church, missionary houses, and distant mountains."
-
-  - id: "fig-c17-13"
-    src: "figures/part-2/17/c17-13.jpg"
-    caption: "Birdseye View of Kuruman Missionary StationOriginal watercolour painted by Charles Davidson Bell. Note that the front gable, imagined by Bell for the Church was never built, and so removed from the engraving above.Museum Africa, Johannesburg (MA2463)"
-    credit: 
-    alt: "A watercolor landscape depicts a rural settlement with houses and a church, set against distant mountains and a cloudy sky."
-
-  - id: "fig-c17-14"
-    src: "figures/part-2/17/c17-14.jpeg"
-    caption: "Section & Plan of a Bachapin [Batlhaping] House Originally published as Plate 9 in William Burchell's 1824 Travels in the Interior of Southern Africa, (Volume 2, facing p. 515). According to Burchell."
-    credit: 
-    alt: "Illustration of a circular earthwork design with labeled sections, depicting ancient construction."
-
-  - id: "fig-c17-15"
-    src: "figures/part-2/17/c17-15.jpg"
-    caption: "Model house on board base, made by Moffat at Dithakong (c. 1821-1823)The location of the rear fence is shown with white paper.British Museum Af,LMS.3"
-    credit: 
-    alt: "Model of a traditional thatched hut with a conical roof, accompanied by a circular woven fence, set on a wooden base."
-
-  - id: "fig-c17-16"
-    src: "figures/part-2/17/c17-16.jpg"
-    caption: "Original Sketch by John Campbell of the interior of Senosi's house at Kaditshwene, May 1820Campbell's caption describes this as his Senosi's principal cornstore, but one can see the form of animal paintings with which houses were decorated, as well as a number of ceramic vessels on the ledge, a likely focus for ancestral rites.Special Collections, National Libarary of South Africa, Cape Town (ARP 9, p.114)"
-    credit: 
-    alt: "Interior of a traditional house with wooden beams, featuring carvings of elephants and giraffes on the smooth clay walls."
-
-  - id: "fig-c17-17"
-    src: "figures/part-2/17/c17-17.png"
-    caption: "Cover of Missionary Sketches No. IIIShowing The Family Idols of Pomare, reprinted August 1820 (see Chapter 4).Council for World Mission / SOAS (CWML L50)."
-    credit: 
-    alt: "Illustration of family idols from Pomare, labeled 1 to 10, with descriptions of their significance and cultural context."
-
-  - id: "fig-c17-18"
-    src: "figures/part-2/17/c17-18.png"
-    caption: "The Bechuana ParliamentImage by George Baxter, printed in Missionary Labours and Scenes in Southern Africa by Robert Moffat, 1842, opposite p. 349. Note the houses in the background. A version of this scene, also with houses behind can be found in the background of the colour portrait of Robert Moffat above."
-    credit: 
-    alt: "An illustration of the Bechuana Parliament, featuring a dancer in motion and spectators in traditional attire amidst tents and hills."
-
-  - id: "fig-c17-19"
-    src: "figures/part-2/17/c17-19.png"
-    caption: "3D Digital Model of the Chapel at KurumanMade by the Zamani Project in July 2018. The packed earth floor is visible inside the model.Sketchfab"
-    credit: 
-    alt: "A 3D model of a historic stone building with a thatched roof, featuring large windows and wooden doors, set in a grassy area."
-
-  - id: "fig-c17-20"
-    src: "figures/part-2/17/c17-20.jpg"
-    caption: "The mission premises at KurumanColour print in oils by George Baxter, bound at the front of Robert Moffat's 1842 Missionary Labours and Scenes in Southern Africa.Stellenbosch University Digital Collections"
-    credit: 
-    alt: "Two men in formal attire walk conversing in front of a mission station with quaint buildings and grazing livestock in the background."
-
-  - id: "fig-c17-21"
-    src: "figures/part-2/17/c17-21.jpg"
-    caption: "The mission premises at KurumanOriginal watercolour by Charles Davidson Bell, 1835.Museum Africa, Johannesburg (MA1965_3747)"
-    credit: 
-    alt: "Watercolor painting of a rural scene with stone cottages, trees, and people walking, set against a cloudy sky."
-
-  - id: "fig-c18-1"
-    src: "figures/part-2/18/c18-1.jpg"
-    caption: "Detail of Aligator and Boa Constrictor, with various sea shells in front.Published in the Juvenile Missionary Magazine, 1 May 1860, p. 102Image supplied by the Bodleian Library (Per. 133 f.186, v.17(1860)). Scanned in February 2012. CC-BY-NC 4.0"
-    credit: 
-    alt: "An illustration of a fantastical creature with a dog's head, snake-like body, and various shells, set in a grassy enclosure."
-
-  - id: "fig-c18-2"
-    src: "figures/part-2/18/c18-2.png"
-    caption: "The Jubilee of the IsraelitesPublished to accompany an article on 'The Year of Jubilee in Judaea' in the Juvenile Missionary Magazine, September 1844, p.1. Engraving, based on a painting by Poussin."
-    credit: 
-    alt: "A historical scene depicting a jubilant crowd celebrating, with figures playing trumpets and engaging in animated expressions of joy."
-
-  - id: "fig-c18-3"
-    src: "figures/part-2/18/c18-3.png"
-    caption: "Cover of the Missionary Chronicle for February 1834Google Books"
-    credit: 
-    alt: "Cover of the Missionary Chronicle for February 1834"
-
-  - id: "fig-c18-4"
-    src: "figures/part-2/18/c18-4.png"
-    caption: "Education in the West IndiesEngraving, printed on the cover of the Missionary Magazine and Chronicle for September 1838Google Books"
-    credit: 
-    alt: "An illustration from The Missionary Magazine depicting a teacher instructing a group of attentive Black students in the West Indies."
-
-  - id: "fig-c18-5"
-    src: "figures/part-2/18/c18-5.png"
-    caption: "Union Chapel, Fort IslandOne of the two mission stations on the Essequebo River established and supported by the congregation of New Providence Chapel.It was established in 1819 among the indigenous people of South America by Marcus Peter, descrived as 'a pious man of colour.Image published in Missionary Sketches, No. LXX. July 1835. (SOAS)"
-    credit: 
-    alt: "Illustration of Union Chapel in British Guiana, surrounded by greenery, depicting a mission to Indigenous people."
-
-  - id: "fig-c18-6"
-    src: "figures/part-2/18/c18-6.png"
-    caption: "Mission Chapel, Castricome (later called Caria Caria)One of the two mission stations on the Essequebo River established and supported by the congregation of New Providence Chapel.It was established in 1832 on a piece of land on the west bank of the Essequebo at Cariacaria creek, granted for the mission by H.J.T. Faber Esq. Te chapel, called The Pray House was completed in January 1833.Image published in Missionary Sketches, No. LXX. July 1835.(SOAS)"
-    credit: 
-    alt: "Illustration of a mission chapel surrounded by lush greenery and palm trees, with two figures in front, labeled Mission Chapel, Castricome."
-
-  - id: "fig-c18-7"
-    src: "figures/part-2/18/c18-7.jpg"
-    caption: "The Anti-Slavery Society Convention, 1840Oil on canvas painted by Benjamin Robert HaydonNational Portrait Gallery NPG 599"
-    credit: 
-    alt: "A large audience in formal attire is captivated by a speaker gesturing emphatically on stage in an ornate theater setting."
-
-  - id: "fig-c18-8"
-    src: "figures/part-2/18/c18-8.png"
-    caption: "The Missionary's WelcomeImage showing Ebenzer Davies and his wife at a plantation chapel in Berbice in 1840. They were sent to New Amsterdam replace John Wray, who died in 1837.The Image was first published in the Evangelical Magazine and Missionary Chronicle for August 1840.Published in Missionary Sketches, No. XCI. April 1841. (SOAS)"
-    credit: 
-    alt: "An illustration from 1841 showing a warm welcome for a missionary in a lush tropical setting, with villagers gathered around."
-
-  - id: "fig-c18-9"
-    src: "figures/part-2/18/c18-9.jpg"
-    caption: "William Knibb, with a Jamaican landscapeColour image produced by George Baxter in 1847, after Knibb died in 1845.As a missionary portrait, it complements those of Moffat and Williams, also produced by Baxter (Chapter 17)National Portrait Gallery (NPG4957)"
-    credit: 
-    alt: "A man in formal attire sits in an ornate chair, holding an open book, with a scenic landscape of palm trees and people in the background."
-
-  - id: "fig-c18-10"
-    src: "figures/part-2/18/c18-10.jpg"
-    caption: "Heathen practices at funeralsPublished in the Baptist Missionary James Mursell Phillippo's (1843) Jamaica. Its Past and Present State, opposite p.372.Schomburg Center for Research in Black Culture"
-    credit: 
-    alt: "Two men carry a coffin while a group of people gather in a funeral scene outside thatched huts, surrounded by lush tropical vegetation."
-
-  - id: "fig-c18-11"
-    src: "figures/part-2/18/c18-11.jpg"
-    caption: "The Ordinance of Baptism, as administered by missionaries connected with the Baptist Missionary Society to 135 persons near Brown's-Town, Jamaica, 1842.https.//collections.vam.ac.uk/item/O140653/the-ordinance-of-baptism-as-print-baxter-george/Colour image published by George Baxter in 1843V&A E.2777-1932"
-    credit: 
-    alt: "A historic gathering by the sea; people in white garments participate in a ceremony, surrounded by palm trees and boats."
-
-  - id: "fig-c18-12"
-    src: "figures/part-2/18/c18-12.png"
-    caption: "Celebrations of the First of August in JamaicaThe image depicts a celebration held at Chapelton to commemorate the third anniversary of the end of Apprenticeship, at which.About two hundred respectable, serious, and well-dressed negroes sat down, happily greeting each other on this joyous event. The greatest order and decorum prevailed… Published in the Missionary Magazine and Chronicle for December 1841.SOAS"
-    credit: 
-    alt: "Illustration depicting the celebration of the First of August in Jamaica, with people gathered under a canopy near mountains and a building."
-
-  - id: "fig-c18-13"
-    src: "figures/part-2/18/c18-13.png"
-    caption: "Smith Chapel and Mission-Premises, George Town, DemeraraThe image was printed to accompany an article that reported the opening of the chapel on 21 August 1844, twenty-one years to the day since Smith had been arresed following the Demerara uprising (Chapter x).Published in the Missionary Magazine and Chronicle for December 1844.SOAS"
-    credit: 
-    alt: "Illustration of Smith Chapel and Mission Premises in Georgetown, Demerara, surrounded by palm trees, from the December 1844 Missionary Magazine."
-
-  - id: "fig-c18-14"
-    src: "figures/part-2/18/c18-14.png"
-    caption: "The Negro's Offering. Depicting a church meeting at New Amsterdam, Berbice, in 1841 when pledges were made towards a new chapel. Fitzgerald Matthew, who had a wooden leg, insisted on handing over his contribution of around £3 immediately, since.God's work must be done, and I may be dead.Published in Missionary Sketches for January 1842.SOAS"
-    credit: 
-    alt: "A historical engraving of a crowd gathered in a hall, as a speaker engages with attendees, referencing monetary contributions."
-
-  - id: "fig-c18-15"
-    src: "figures/part-2/18/c18-15.jpg"
-    caption: "The mission premises at KurumanPublished in the Juvenile Missionary Magazine, 1 May 1860, p. 102Image supplied by the Bodleian Library (Per. 133 f.186, v.17(1860)), Scanned in February 2012. CC-BY-NC 4.0"
-    credit: 
-    alt: "A vintage illustration of a display case filled with various sea creatures, shells, and curiosities, showcasing a unique assortment."
-
-  - id: "fig-c19-1"
-    src: "figures/part-2/19/c19-1.jpg"
-    caption: "No1. Rainitsontsoraka. Christian Martyr.Plate Glass negative, developed using the wet collodion process. Presented by John Eimeo Ellis in January 1873.Copyright of the Wisbech & Fenland Museum (WISFM . EL.73)"
-    credit: 
-    alt: "A vintage black-and-white portrait, featuring a person draped in a dark robe with intricate folds against a blurred background."
-
-  - id: "fig-c19-2"
-    src: "figures/part-2/19/c19-2.jpg"
-    caption: "Photographic Van, 1855Roger Fenton's 'travelling darkroom' in CrimeaAlbument Print, Royal Collection Trust (RCIN 2500439) © His Majesty King Charles III"
-    credit: 
-    alt: "A vintage photographic van with wooden wheels, parked on a dirt road, as a man sits casually on its side."
-
-  - id: "fig-c19-3"
-    src: "figures/part-2/19/c19-3.jpg"
-    caption: "Queen Victoria and Prince Albert, 30 June 1854Salted Paper Print by Roger Fenton, Royal Collection Trust (RCIN 2917823) © His Majesty King Charles III"
-    credit: 
-    alt: "A vintage photograph depicting a man in formal attire and a woman in an ornate dress, seated together at Buckingham Palace."
-
-  - id: "fig-c19-4"
-    src: "figures/part-2/19/c19-4.png"
-    caption: "History of Madagascar title page, 1838Google Books"
-    credit: 
-    alt: "Title page of History of Madagascar by Rev. William Ellis, detailing missionary work and native Christian persecution."
-
-  - id: "fig-c19-5"
-    src: "figures/part-2/19/c19-5.jpg"
-    caption: "Revd. David Jones. Missionary (Madagascar)Stipple engraving published in June 1833 in the Evangelical Magazine and Missionary Chronicle.People's Collection Wales (9912828002419)"
-    credit: 
-    alt: "Black and white portrait of a man in early 19th-century attire, seated with a confident expression and stylish cravat."
-
-  - id: "fig-c19-6"
-    src: "figures/part-2/19/c19-6.jpg"
-    caption: "Rataffe, Prince of MadagascarStipple engraving published in January 1822 in the Evangelical Magazine and Missionary Chronicle. National Galleries Scotland (FP V 59.1)"
-    credit: 
-    alt: "A historical engraving depicting a prince from Madagascar, wearing traditional attire and a detailed headdress, with ornate textures."
-
-  - id: "fig-c19-7"
-    src: "figures/part-2/19/c19-7.jpg"
-    caption: "Revd. J.J. Freeman. Walthamstow (Late of Missionary (Madagascar)Stipple engraving published in April 1841in the Evangelical Magazine and Missionary Chronicle.People's Collection Wales (9911528402419)"
-    credit: 
-    alt: "A formal portrait of a 19th-century man in a judicial robe, seated, holding a book, exuding authority and dignity."
-
-  - id: "fig-c19-8"
-    src: "figures/part-2/19/c19-8.jpg"
-    caption: "Revd. David GriffithsOil on canvas, artist unknownCarmarthenshire Museum (2000.0586), Image. Art UK"
-    credit:
-    alt: "Portrait of a seated man in a dark coat holding a book, set against a richly colored background with a vintage aesthetic."
-
-  - id: "fig-c19-9"
-    src: "figures/part-2/19/c19-9.png"
-    caption: "Martyrdom of RasalamaCover image for The Missionary Magazine and Chronicle for September 1840.SOAS"
-    credit: 
-    alt: "An illustration of a historical event, depicting a group of people with canes and dogs, amidst tropical foliage and mountains."
-
-  - id: "fig-c19-10"
-    src: "figures/part-2/19/c19-10.jpeg"
-    caption: "Revd. William Ellis, Hoddesdon HertsStipple engraving published in May 1853 in the Evangelical Magazine and Missionary Chronicle.National Library of Australia (2225875)"
-    credit: 
-    alt: "A well-dressed man seated, holding an open book, exuding a thoughtful demeanor, with stylized hair and formal attire from the 19th century."
-
-  - id: "fig-c19-11"
-    src: "figures/part-2/19/c19-11.jpg"
-    caption: "Embassy of Madagascar to Great Britain, received by Queen AdelaideOil painting by Henry Room, formerly in the collection of the London Missionary Society, but presented to Ambassador M Razafy-Andriamihaingo on 28 May 1963, following independence from France in 1960. See Chronicle for September 1963, p.24.Wikimedia"
-    credit: 
-    alt: "A formal gathering featuring elegantly dressed individuals, with a woman in a white gown presenting a flower to a group in colorful shawls."
-
-  - id: "fig-c19-12"
-    src: "figures/part-2/19/c19-12.png"
-    caption: "Artocarpus Integrifolia or Jack TreeWith an Indian labourer. Engraving made from photograph made by William Ellis at Mauritius in January 1854.Printed in Three Visits to Madagascar during 1853-1854-1856, by William Ellis, on p. 99. Google Books"
-    credit: 
-    alt: "An illustration of a jackfruit tree with large fruits, featuring a person standing beside it, observing the tree."
-
-  - id: "fig-c19-13"
-    src: "figures/part-2/19/c19-13.png"
-    caption: "Composite Image, featuring the house Ellis stayed in at TamataveMade from photographs by W. EllisPrinted in Three Visits to Madagascar during 1853-1854-1856, by William Ellis, opposite p. 120. Google Books"
-    credit: 
-    alt: "Illustration depicting women gathering water outside a traditional house in 1854."
-
-  - id: "fig-c19-14"
-    src: "figures/part-2/19/c19-14.jpg"
-    caption: "RafaralahyGovernor of Foule Point, Madagascar. Printed in Oil Colours by G. Baxter, as the frontispiece for the History of Madagascar, published in 1838. Google Books"
-    credit: 
-    alt: "A warrior dressed in vibrant attire, holding a spear and a round shield, stands against a lush, mountainous landscape."
-
-  - id: "fig-c19-15"
-    src: "figures/part-2/19/c19-15.jpg"
-    caption: "Circular shield covered with ox hideLoaned from the London Missionary Museum in 1890British Museum (Af.LMS.1)"
-    credit: 
-    alt: "Brown and cream patterned leather shield with a stitched edge, demonstrating traditional craftsmanship and artistic design."
-
-  - id: "fig-c19-16"
-    src: "figures/part-2/19/c19-16.png"
-    caption: "Malagasy Women, from photographs by William EllisThe composite image is intened to contrast the different hairstyles of Betsimasaraka and Hova women, but the reference to p.127 suggests the woman on the left was the one described in the text as a 'labouring woman, returning from work in the field'.Printed in Three Visits to Madagascar during 1853-1854-1856, by William Ellis, opposite p. 137. Google Books"
-    credit: 
-    alt: "A Betsimisaraka mother cradles her child, standing beside a Hova woman, both adorned in traditional dress and hairstyles."
-
-  - id: "fig-c19-17"
-    src: "figures/part-2/19/c19-17.png"
-    caption: "Hova Chief He wears a white lamba, bordered with the akotso, described as 'the distinctive badge of the Hovas'.Engraving from a Photograph by W. Ellis. Printed in Three Visits to Madagascar during 1853-1854-1856, by William Ellis, opposite p. 139. Google Books"
-    credit: 
-    alt: "Illustration of a Hova Chief wearing a traditional garment, featuring a white collar and ornate striped shawl, showcasing cultural attire."
-
-  - id: "fig-c19-18"
-    src: "figures/part-2/19/c19-18.jpg"
-    caption: "Photographic PrintShowing man wearing a white lamba, bordered with the akotso.Courtesy of ROM (Royal Ontario Museum), Toronto, Canada. ©ROMRoyal Ontario Museum (944X72.243.2)"
-    credit: 
-    alt: "A sepia-toned portrait of a person wearing a white shawl with a striped pattern draped over their shoulder. "
-
-  - id: "fig-c19-19"
-    src: "figures/part-2/19/c19-19.jpg"
-    caption: "Portraits in a PortraitBetween the two Malagasy women are the portraits of William Ellis and Sarah Stickney, his wife. That of Mrs Ellis has a folding cover, which suggests William may kept this with him while travelling.Scan of plate glass negative, developed using the wet collodion process. Presented by John Eimeo Ellis in January 1873.Copyright of the Wisbech & Fenland Museum (WISFM . EL.2)"
-    credit: 
-    alt: "Two women are seated at a table, one holding a book and the other near a photo in a decorative frame, dressed in historical attire."
-
-  - id: "fig-c19-20"
-    src: "figures/part-2/19/c19-20.png"
-    caption: "The Travellers passing through the great Forest of AlamazotraEngraving from a Sketch by W. Ellis. Printed in Three Visits to Madagascar during 1853-1854-1856, by William Ellis, opposite p. 319. Google Books"
-    credit: 
-    alt: "Illustration of travelers navigating the dense Alamazotra forest, carrying a boat and instruments amidst lush greenery and trees."
-
-  - id: "fig-c19-21"
-    src: "figures/part-2/19/c19-21.png"
-    caption: "Audience at the Palace, AntananarivoEngraving from a Sketch by W. Ellis. Printed in Three Visits to Madagascar during 1853-1854-1856, by William Ellis, opposite p. 381. Google Books"
-    credit: 
-    alt: "A historic gathering at the Palace Antananarivo, featuring spectators and a group of individuals in traditional attire."
-
-  - id: "fig-c19-22"
-    src: "figures/part-2/19/c19-22.png"
-    caption: "The Prince and Princess Royal of MadagascarEngraving from a Photograph by W. Ellis. Printed in Three Visits to Madagascar during 1853-1854-1856, by William Ellis, opposite p. 413. Google Books"
-    credit: 
-    alt: "A royal couple in 19th-century attire stands side by side; he in a military uniform, she in an elegant gown with floral accents."
-
-  - id: "fig-c19-23"
-    src: "figures/part-2/19/c19-23.png"
-    caption: "RAINITSONTSORAKA. Christian Martyr.Engraving from a Photograph by W. Ellis. Printed in Madagascar Revisited, by William Ellis, opposite p. 75. Google Books"
-    credit: 
-    alt: "A historical portrait of a man with curly hair, dressed in a white garment, with hands clasped in front, labeled as a Christian martyr."
-
-  - id: "fig-c19-24"
-    src: "figures/part-2/19/c19-24.jpg"
-    caption: "RAINITSONTSORAKA. Christian Martyr.Courtesy of ROM (Royal Ontario Museum), Toronto, Canada. ©ROMRoyal Ontario Museum (944X72.255.2)"
-    credit: 
-    alt: "A seated figure in a flowing white garment, with curly hair, hands gently clasped together, on a faded background."
-
-  - id: "fig-c19-25"
-    src: "figures/part-2/19/c19-25.jpg"
-    caption: "Full length portrait in striped lambaCourtesy of ROM (Royal Ontario Museum), Toronto, Canada. ©ROM.Royal Ontario Museum (944X72.253)"
-    credit: 
-    alt: "A person wearing a traditional striped blanket poses, showcasing intricate patterns against a faded, vintage backdrop."
-
-  - id: "fig-c19-26"
-    src: "figures/part-2/19/c19-26.png"
-    caption: "Bearer, farmer, and two Hova officersEngraving from a Photograph by W. Ellis. Printed in The Martyr Church by William Ellis, opposite p. 177. Google Books"
-    credit: 
-    alt: "Four individuals in traditional clothing pose together, highlighting their cultural attire, which includes wraps and accessories."
-
-  - id: "fig-c19-27"
-    src: "figures/part-2/19/c19-27.jpg"
-    caption: "Photographic print with 'Native Christian Pastor' written on the backCourtesy of ROM (Royal Ontario Museum), Toronto, Canada. ©ROMRoyal Ontario Museum (944X72.254.5)"
-    credit: 
-    alt: "A person wearing a white garment with a striped shawl stands against a blurred background."
-
-  - id: "fig-c19-28"
-    src: "figures/part-2/19/c19-28.jpg"
-    caption: "Positive image from No. 1 Rainitsontsoraka. Christian MartyrPlate Glass negative, developed using the wet collodion process. Presented by John Eimeo Ellis in January 1873.Copyright of the Wisbech & Fenland Museum (WISFM . EL.73)"
-    credit: 
-    alt: "A vintage black-and-white portrait of a person draped in a light-colored shawl, with a textured background and noticeable scratches."
-
-  - id: "fig-c20-1"
-    src: "figures/part-2/20/c20-1.jpg"
-    caption: "Scan of Notebook page with Erromango clubBritish Museum, Centre for Anthropology Library (AOA Add SS2, p.49)"
-    credit: 
-    alt: "Pencil sketches of a club and a round ornament labeled Erronange and Missions, detailed measurements included."
-
-  - id: "fig-c20-2"
-    src: "figures/part-2/20/c20-2.jpg"
-    caption: "Contrasted Residences for the PoorOriginally published in Augustus Pugin's 1836 Contrasts, or, A parallel between the noble edifices of the fourteenth and fifteenth centuries, and similar buildings of the present day . shewing the present decay of taste. accompanied by appropriate text.Wikimedia"
-    credit: 
-    alt: "Illustration comparing a modern poor house's circular design with an ancient poor house structure, showcasing contrasting living conditions for the needy."
-
-  - id: "fig-c20-3"
-    src: "figures/part-2/20/c20-3.jpg"
-    caption: "Christian Jürgensen Thomsen (1777 - 1863) showing visitors around in the Danish National MuseumContemporary Drawing, c. 1846Wikimedia"
-    credit: 
-    alt: "A Victorian-era scene depicting a group of elegantly dressed adults and a child in a workshop, engaged in conversation."
-
-  - id: "fig-c20-4"
-    src: "figures/part-2/20/c20-4.png"
-    caption: "Stone spear-heads and obsidian knives and arrow-heads from MexicoPublished in E.B. Tylor's 1861 Anahuac. Or. Mexico and the Mexicas. Ancient and Modern, p.96. Google Books"
-    credit: 
-    alt: "Illustration of various obsidian tools: knives, arrowheads, and spearheads, with detailed labels and measurements included."
-
-  - id: "fig-c20-5"
-    src: "figures/part-2/20/c20-5.jpg"
-    caption: "Portrait of Augustus Wollaston FranksLine engraved for a bookplate by Charles William Sherborn, 1898.National Portrait Gallery NPG D21211"
-    credit: 
-    alt: "An engraved portrait surrounded by an ornate wreath, featuring a coat of arms and an inscription about a bequest to the Society of Antiquaries."
-
-  - id: "fig-c20-6"
-    src: "figures/part-2/20/c20-6.jpg"
-    caption: "Museum of the London Missionary Society, 1859 Originally published in the Illustrated London News, 25 June 1859, p.620"
-    credit: "Chris Wingfield Personal Collection"
-    alt: "A vintage museum interior featuring diverse artifacts displayed in glass cases, with a central carved pillar and visitors examining items."
-
-  - id: "fig-c20-7"
-    src: "figures/part-2/20/c20-7.png"
-    caption: "Museum of the London Missionary Society, 1853 Originally published in the Lady's Newspaper no. 329, 16 April 1853, p. 237.Author's personal collection"
-    credit: "Chris Wingfield Personal Collection"
-    alt:
-
-  - id: "fig-c20-8"
-    src: "figures/part-2/20/c20-8.png"
-    caption: "Catalogue of the Missionary Museum"
-    credit: "Advertisement page Originally published c. 1860 Bernice P. Bishop Museum, Fuller AM Museum Pam #619"
-    alt: "A page from a catalog for a museum, detailing specimens arranged by color and origin, emphasizing contributions from missionaries."
-
-  - id: "fig-c20-9"
-    src: "figures/part-2/20/c20-9.jpg"
-    caption: "Case A. South Sea Idols Originally published in the Juvenile Missionary Magazine in January 1860, p. 15.Image supplied by the Bodleian Library (Per. 133 f.186, v.17(1860)). Scanned in February 2012. CC-BY-NC 4.0"
-    credit: 
-    alt: "Engraving of South Sea idols displayed in a cabinet, showcasing various carvings and artifacts from indigenous cultures."
-
-  - id: "fig-c20-10"
-    src: "figures/part-2/20/388.jpg"
-    caption: "Case C. South Sea Manufactures. Originally published in the Juvenile Missionary Magazine in April 1860, p. 91.Image supplied by the Bodleian Library (Per. 133 f.186, v.17(1860)). Scanned in February 2012. CC-BY-NC 4.0"
-    credit: 
-    alt: "Illustration of South Sea products, featuring woven items, tools, boats, and a turtle, all arranged in a display case."
-
-  - id: "fig-c20-11"
-    src: "figures/part-2/20/c20-11.jpg"
-    caption: "Case D. Natural HistoryOriginally published in the Juvenile Missionary Magazine in May 1860, p. 103.Image supplied by the Bodleian Library (Per. 133 f.186, v.17(1860)). Scanned in February 2012. CC-BY-NC 4.0"
-    credit: 
-    alt: "An intricately detailed illustration of a display case filled with natural specimens, including shells, plant life, and curiosities."
-
-  - id: "fig-c20-12"
-    src: "figures/part-2/20/c20-12.jpg"
-    caption: "Official View of the 1867 Exposition UniverselleHand coloured lithograph.Library of Congress"
-    credit: 
-    alt: "Aerial view of the 1867 Universal Exposition in Paris, featuring a circular arena, gardens, and boats along the Seine River."
-
-  - id: "fig-c20-13"
-    src: "figures/part-2/20/c20-13.jpg"
-    caption: "Plate 1. Kali, Goddess of Thugs, standing on the body of her husband Siva (LMS, India) Photograph from Album of Photographs of items dislayed at the Museum of Evangelical Missions at the 1867 Paris Exposition Universelle. Getty Research Institute (93.R.102)"
-    credit: 
-    alt: "A historic sculpture depicting a standing figure triumphantly posing over a reclining figure, set against a dark background."
-
-  - id: "fig-c20-14"
-    src: "figures/part-2/20/c20-14.jpg"
-    caption: "Plate 2. 1, 3, 6 & 4, Sections of carved canoes and paddle (CMS, New Zealand), 2. Shield (PEM, Madagascar) and 3. Skull (NMS, Boano Island)Photograph from Album of Photographs of items dislayed at the Museum of Evangelical Missions at the 1867 Paris Exposition Universelle. Getty Research Institute (93.R.102)"
-    credit: 
-    alt: "A collection of ancient artifacts displayed, including ornate boat parts, a decorative knife, and a carved feline figure."
-
-  - id: "fig-c20-15"
-    src: "figures/part-2/20/c20-15.jpg"
-    caption: "Plate 3. 1 &3. Feather crests (LMS, India), 2. Model canoe (WMS, Canada), 4. Paddle (PEM, Tahiti) and 5. Model Canoe (American Association for Overseas Missions, Greenland)Photograph from Album of Photographs of items dislayed at the Museum of Evangelical Missions at the 1867 Paris Exposition Universelle. Getty Research Institute (93.R.102)"
-    credit: 
-    alt: "Illustration of a boat and accessories, featuring two figures on the boat, a paddle, a canoe, and three umbrellas, displayed on a reddish background."
-
-  - id: "fig-c20-16"
-    src: "figures/part-2/20/c20-16.png"
-    caption: "Plate 4. 1. 'Teriapatura, son of Oro' (1, LMS, Society Islands), 2. 'Leopard skin war suit' (PEM, South Africa) and 3. 'Idol which decorated the temple of Kaili at Kawahihae' (LMS, Hawai'i)See British Museum (Oc,LMS.99) and (Oc,LMS.223) Photograph from Album of Photographs of items dislayed at the Museum of Evangelical Missions at the 1867 Paris Exposition Universelle. Getty Research Institute (93.R.102)"
-    credit: 
-    alt: 
-
-  - id: "fig-c20-17"
-    src: "figures/part-2/20/c20-17.jpg"
-    caption: "Plate 5. Idol made from curved thorns, shells and braided hair, from Mangaia (LMS, Oceania).See British Museum (Oc,LMS.41)Photograph from Album of Photographs of items dislayed at the Museum of Evangelical Missions at the 1867 Paris Exposition Universelle. Getty Research Institute (93.R.102)"
-    credit: 
-    alt: "An antiqued image showcasing a detailed illustration of a decorative object featuring intricate lobster motifs."
-
-  - id: "fig-c20-18"
-    src: "figures/part-2/20/c20-18.jpg"
-    caption: "Plate 6. 1. Quan-Quin, mother of Buddha and goddess of mercy (LMS, China) and 2. Altar of an idol (LMS, China)"
-    credit: "Photograph from Album of Photographs of items dislayed at the Museum of Evangelical Missions at the 1867 Paris Exposition Universelle. Getty Research Institute (93.R.102)"
-    alt: "Two ancient statues: a seated figure on the left and an ornate shrine on the right, both showcased against a dark background."
-
-  - id: "fig-c20-19"
-    src: "figures/part-2/20/c20-19.jpg"
-    caption: "Plate 7. 1. Indian religious items 1. Siva on his sacred bull Nandi (Free Church of Scotland, Bengal & NE India), 2, 3, 4, 8, 9, & 10. Incarnations of Vishnu in Stone (PEM, India), 5 & 11. Buddhist Queen of Heaven (Free Church of Scotland, Ceylon [Sri Lanka]), 6. Pagoda and Model Bell Tower of Burmese Temple (LMS, China) & 7. Indian Book (PEM, India). From Album of Photographs of items dislayed at the Museum of Evangelical Missions at the 1867 Paris Exposition Universelle. Getty Research Institute (93.R.102)"
-    credit: "From Album of Photographs of items dislayed at the Museum of Evangelical Missions at the 1867 Paris Exposition Universelle. Getty Research Institute"
-    alt: "A tall, ornate artifact resembling a stupa, surrounded by numbered small sculptures and images on a textured background."
-
-  - id: "fig-c20-20"
-    src: "figures/part-2/20/c20-20.jpg"
-    caption: "Stacked Bar Chart showing numbered items at 1867 exhibition, with continents of origin."
-    credit: "Produced by Author"
-    alt: "Bar graph comparing missionary contributions by organization across continents: LMS leads, followed by Wesleyans and others."
-
-  - id: "fig-c20-21"
-    src: "figures/part-2/20/c20-21.jpg"
-    caption: "Pie Chart showing numbered items by continent of origin."
-    credit: "Produced by Author"
-    alt: "A pie chart representing data distribution across five regions: Africa, Pacific, Asia, Americas, and Unknown, color-coded accordingly."
-
-  - id: "fig-c20-22"
-    src: "figures/part-2/20/c20-22.jpg"
-    caption: "Pie Chart showing numbered items by missionary society."
-    credit: "Produced by Author"
-    alt: "A pie chart displaying the distribution of various missionary societies, including LMS, Wesleyans, and CMS, with color-coded segments."
-
-  - id: "fig-c20-23"
-    src: "figures/part-2/20/c20-23.jpg"
-    caption: "Plate 16. Images of people from Southern Africa 1. Before and 2 3. after conversion (LMS) 4 & 6. Zulu people and house (PEM, South Africa). 5. Colossal Stone Image at Spratana (WMMS, India). Photograph from Album of Photographs of items dislayed at the Museum of Evangelical Missions at the 1867 Paris Exposition Universelle. Getty Research Institute (93.R.102)"
-    credit: "From Album of Photographs of items dislayed at the Museum of Evangelical Missions at the 1867 Paris Exposition Universelle. Getty Research Institute"
-    alt: "A vintage plate featuring six labeled framed artworks depicting various figures and sculptures, arranged in two rows."
-
-  - id: "fig-c20-24"
-    src: "figures/part-2/20/c20-24.png"
-    caption: "Article from News from Afar in November 1956, p.88. SOAS"
-    credit: "SOAS"
-    alt: "An illustration of John Williams' club, highlighted with the words Love, Murder and Salvation, related to a historical context."
-
-  - id: "fig-c20-25"
-    src: "figures/part-2/20/c20-25.jpg"
-    caption: 
-    credit: "SOAS (Home Photos Box 40, 20, 23)"
-    alt: "A person in a vintage gray dress holds a long pole, standing beside an ornate frame containing a portrait."
-
-  - id: "fig-c21-1"
-    src: "figures/part-2/21/c21-1.png"
-    caption: "Ujiji. Folded frontispiece in Tanganyika: Eleven Years in Central Africa by Edward Coode Hore, published in 1892."
-    credit: "Image courtesy of Pat in the World"
-    alt: "A historical engraving of Ujiji, showcasing a lakeside village with huts, boats, and surrounding hills under a cloudy sky."
-  
-  - id: "fig-c21-2"
-    src: "figures/part-2/21/c21-2.jpg"
-    caption: "Female figure, wearing a raffia waist cloth. From the London Missionary Society museum."
-    credit: "British Museum (Af1910,-.440)"
-    alt: "A wooden sculpture depicting a female form, adorned with intricate carvings and draped in a textured fabric wrap."
-
-  - id: "fig-c21-3"
-    src: "figures/part-2/21/c21-3.png"
-    caption: "Surveying in the Calabash. Printed in Tanganyika: Eleven Years in Central Africa by Edward Coode Hore, published in 1892, opposite p.105."
-    credit: "Image courtesy of Pat in the World"
-    alt: "A historic illustration of a surveying boat on a calm river, surrounded by tall grasses and a bird, depicting a tranquil natural scene."
-
-  - id: "fig-c21-4"
-    src: "figures/part-2/21/c21-4.jpg"
-    caption: "Portrait of David Livingstone. Stipple engraving by W. Holl after H. Phillips. Printed as the frontispiece in Missionary Travels and Researches in South Africa, originally published in 1857."
-    credit: "Wellcome Collection"
-    alt: "A vintage black and white portrait of a man in a formal suit, with a bow tie, set against a softly blurred landscape background."
-
-  - id: "fig-c21-5"
-    src: "figures/part-2/21/c21-5.jpg"
-    caption: "Inscription carved by Livingstone's companions. To commemorate the place where they buried his heart and internal organs."
-    credit: "Wellcome Collection 561464i"
-    alt: "Close-up of a tree trunk with an inscription by African youths marking the burial site of explorer David Livingstone's heart."
-
-  - id: "fig-c21-6"
-    src: "figures/part-2/21/c21-6.jpeg"
-    caption: "Portrait of Robert Arthington"
-    credit: "Image Interhope"
-    alt: "A seated gentleman in 19th-century attire, featuring a dark jacket, vest, and a neatly groomed beard, rests one hand on a table."
-
-  - id: "fig-c21-7"
-    src: "figures/part-2/21/c21-7.png"
-    caption: "Map of Lake Tanganyika. Showing the locations of Ujiji and Uguha, as well as Motowa and the mission station of Plymouth Rock. Printed in Tanganyika: Eleven Years in Central Africa by Edward Coode Hore, published in 1892, opposite p.169."
-    credit: "Image courtesy of Pat in the World. Google Books"
-    alt: "Map of Lake Tanganyika, showing geographic features, location names, and scale, surveyed by M.E.C. Hore, Master Mariner."
-
-  - id: "fig-c21-8"
-    src: "figures/part-2/21/c21-8.png"
-    caption: "A Mrua [Warua or Luba] Fishmonger. Encountered in June 1874 on a trading expedition by Vernon Lovett Cameron at Uguha. Printed in Across Africa in 1877, in Volume 1, p.326."
-    credit: "Google Books"
-    alt: "Side profile of a Mrua fishmonger holding a spear, wearing traditional attire, with a bow, arrows, and a woven backpack."
-
-  - id: "fig-c21-9"
-    src: "figures/part-2/21/c21-9.jpg"
-    caption: "Edward Burnett Tylor, c. 1860. Pastel by George Bonavia"
-    credit: "National Portrait Gallery (NPG 1912)"
-    alt: "Portrait of a man with a dark beard, wearing a suit and bowtie, set against a soft pastel background."
-
-  - id: "fig-c21-10"
-    src: "figures/part-2/21/c21-10.jpg"
-    caption: "Carved female figure with her hands on her breasts. From the London Missionary Society museum."
-    credit: "British Museum (Af1910,-.441)"
-    alt: "A carved wooden figurine with intricate detailing, featuring a standing pose and symmetrical body, adorned with decorative elements."
-
-  - id: "fig-c21-11"
-    src: "figures/part-2/21/c21-11.jpg"
-    caption: "Plate 16: Images of people from Southern Africa. From the London Missionary Society museum."
-    credit: "British Museum (Af1910,-.440)"
-    alt: "A wooden figurine adorned with intricate carvings and a textile wrap, showcasing traditional craftsmanship and cultural artistry."
-
-  - id: "fig-c21-12"
-    src: "figures/part-2/21/c21-12.jpg"
-    caption: "Spirits of Ancestors' with six faces. Printed in News from Afar, March 1897."
-    credit: "JSTOR Images"
-    alt: "Illustration of a sorcerer's basket with unique artifacts, including masks and charms, representing ancestral spirits from Central Africa."
-
-  - id: "fig-c21-13"
-    src: "figures/part-2/21/c21-13.jpg"
-    caption:  "Wooden Representations of the Spirits of Ancestors. Printed in The English Illustrated Magazine, XXI, No. 187, 1897."
-    credit: "JSTOR Images"
-    alt: "Wooden carvings representing ancestral spirits from Central Africa, showcasing intricate details and cultural significance."
-
+    
+  - id: "cat-1-1" 
+    src: figures/cat-1826/cat-1-1.jpg
+    label: "1826 Catalogue, p.1"
+    zoom: true
+    caption: "Title page"
+    credit: ""
+    alt: ""
+  - id: "cat-1-2"
+    src: figures/cat-1826/cat-1-2.jpg
+    label: "cat-1826-2"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-3"
+    src: figures/cat-1826/cat-1-3.jpg
+    label: "cat-1826-3"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-4"
+    src: figures/cat-1826/cat-1-4.jpg
+    label: "cat-1826-4"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-5"
+    src: figures/cat-1826/cat-1-5.jpg
+    label: "cat-1826-5"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-6"
+    src: figures/cat-1826/cat-1-6.jpg
+    label: "cat-1826-6"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-7"
+    src: figures/cat-1826/cat-1-7.jpg
+    label: "cat-1826-7"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-8"
+    src: figures/cat-1826/cat-1-8.jpg
+    label: "cat-1826-8"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-9"
+    src: figures/cat-1826/cat-1-9.jpg
+    label: "cat-1826-9"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-10"
+    src: figures/cat-1826/cat-1-10.jpg
+    label: "cat-1826-10"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-11"
+    src: figures/cat-1826/cat-1-11.jpg
+    label: "cat-1826-11"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-12"
+    src: figures/cat-1826/cat-1-12.jpg
+    label: "cat-1826-12"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-13"
+    src: figures/cat-1826/cat-1-13.jpg
+    label: "cat-1826-13"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-14"
+    src: figures/cat-1826/cat-1-14.jpg
+    label: "cat-1826-14"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-15"
+    src: figures/cat-1826/cat-1-15.jpg
+    label: "cat-1826-15"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-16"
+    src: figures/cat-1826/cat-1-16.jpg
+    label: "cat-1826-16"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-17"
+    src: figures/cat-1826/cat-1-17.jpg
+    label: "cat-1826-17"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-18"
+    src: figures/cat-1826/cat-1-18.jpg
+    label: "cat-1826-18"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-19"
+    src: figures/cat-1826/cat-1-19.jpg
+    label: "cat-1826-19"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-20"
+    src: figures/cat-1826/cat-1-20.jpg
+    label: "cat-1826-20"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-21"
+    src: figures/cat-1826/cat-1-21.jpg
+    label: "cat-1826-21"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-22"
+    src: figures/cat-1826/cat-1-22.jpg
+    label: "cat-1826-22"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-23"
+    src: figures/cat-1826/cat-1-23.jpg
+    label: "cat-1826-23"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-24"
+    src: figures/cat-1826/cat-1-24.jpg
+    label: "cat-1826-24"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-25"
+    src: figures/cat-1826/cat-1-25.jpg
+    label: "cat-1826-25"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-26"
+    src: figures/cat-1826/cat-1-26.jpg
+    label: "cat-1826-26"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-27"
+    src: figures/cat-1826/cat-1-27.jpg
+    label: "cat-1826-27"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-28"
+    src: figures/cat-1826/cat-1-28.jpg
+    label: "cat-1826-28"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-29"
+    src: figures/cat-1826/cat-1-29.jpg
+    label: "cat-1826-29"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-30"
+    src: figures/cat-1826/cat-1-30.jpg
+    label: "cat-1826-30"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-31"
+    src: figures/cat-1826/cat-1-31.jpg
+    label: "cat-1826-31"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-32"
+    src: figures/cat-1826/cat-1-32.jpg
+    label: "cat-1826-32"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-33"
+    src: figures/cat-1826/cat-1-33.jpg
+    label: "cat-1826-33"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-34"
+    src: figures/cat-1826/cat-1-34.jpg
+    label: "cat-1826-34"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-35"
+    src: figures/cat-1826/cat-1-35.jpg
+    label: "cat-1826-35"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-36"
+    src: figures/cat-1826/cat-1-36.jpg
+    label: "cat-1826-36"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-37"
+    src: figures/cat-1826/cat-1-37.jpg
+    label: "cat-1826-37"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-38"
+    src: figures/cat-1826/cat-1-38.jpg
+    label: "cat-1826-38"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-39"
+    src: figures/cat-1826/cat-1-39.jpg
+    label: "cat-1826-39"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-40"
+    src: figures/cat-1826/cat-1-40.jpg
+    label: "cat-1826-40"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-41"
+    src: figures/cat-1826/cat-1-41.jpg
+    label: "cat-1826-41"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-42"
+    src: figures/cat-1826/cat-1-42.jpg
+    label: "cat-1826-42"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-43"
+    src: figures/cat-1826/cat-1-43.jpg
+    label: "cat-1826-43"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-44"
+    src: figures/cat-1826/cat-1-44.jpg
+    label: "cat-1826-44"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-45"
+    src: figures/cat-1826/cat-1-45.jpg
+    label: "cat-1826-45"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-46"
+    src: figures/cat-1826/cat-1-46.jpg
+    label: "cat-1826-46"
+    caption: ""
+    credit: ""
+    alt: ""
+  - id: "cat-1-47"
+    src: figures/cat-1826/cat-1-47.jpg
+    label: "cat-1826-47"
+    caption: ""
+    credit: ""
+    alt: ""

@@ -1,41 +1,340 @@
 object_filters:
-  - artist
-  - year
-
-object_card:
-  - thumbnail
-  - id
-  - title
-
+  - production date
+  - production place
+  - lms classification
+  
 object_display_order:
-  - artist
-  - year
-  - dimensions
-  - medium
-  - location
+  - production date
+  - production place
+  - lms classification
 
 object_list:
 
-  - id: "1"
-    title: "*Human Erosion in California / Migrant Mother*"
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
-    location: J. Paul Getty Museum
-    link:  https://www.getty.edu/art/collection/object/108E2E
+  - id: "cat-1826-p.i"
+    title: "Title Page"
+    year: 1826
+    link:
     figure:
-      - id: "cat-1"
+      - id: cat-1-1
 
-  - id: "2"
-    title: "*Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*"
-    artist: Walker Evans
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/object/104A2K
+  - id: "cat-1826-p.ii"
+    title: "page ii 1826 Cat"
+    year: 1826
+    link:
     figure:
-      - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
+      - id: cat-1-2
+
+  - id: "cat-1826-p.iii"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-3
+
+  - id: "cat-1826-p.iv"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-4
+
+  - id: "cat-1826-p.5"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-5
+
+  - id: "cat-1826-p.6"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-6
+
+  - id: "cat-1826-p.7"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-7
+
+  - id: "cat-1826-p.8"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-8
+
+  - id: "cat-1826-p.9"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-9
+
+  - id: "cat-1826-p.10"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-10
+
+  - id: "cat-1826-p.11"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-11
+
+  - id: "cat-1826-p.12"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-12
+
+  - id: "cat-1826-p.13"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-13
+
+  - id: "cat-1826-p.14"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-14
+
+  - id: "cat-1826-p.15"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-15
+
+  - id: "cat-1826-p.16"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-16
+
+  - id: "cat-1826-p.17"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-17
+
+  - id: "cat-1826-p.18"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-18
+
+  - id: "cat-1826-p.19"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-19
+
+  - id: "cat-1826-p.20"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-20
+
+  - id: "cat-1826-p.21"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-21
+
+  - id: "cat-1826-p.22"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-22
+
+  - id: "cat-1826-p.23"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-23
+
+  - id: "cat-1826-p.24"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-24
+
+  - id: "cat-1826-p.25"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-25
+
+  - id: "cat-1826-p.26"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-26
+
+  - id: "cat-1826-p.27"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-27
+
+  - id: "cat-1826-p.28"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-28
+
+  - id: "cat-1826-p.29"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-29
+
+  - id: "cat-1826-p.30"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-30
+
+  - id: "cat-1826-p.31"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-31
+
+  - id: "cat-1826-p.32"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-32
+
+  - id: "cat-1826-p.33"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-33
+
+  - id: "cat-1826-p.34"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-34
+
+  - id: "cat-1826-p.35"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-35
+
+  - id: "cat-1826-p.36"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-36
+
+  - id: "cat-1826-p.37"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-37
+
+  - id: "cat-1826-p.38"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-38
+
+  - id: "cat-1826-p.39"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-39
+
+  - id: "cat-1826-p.40"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-40
+
+  - id: "cat-1826-p.41"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-41
+
+  - id: "cat-1826-p.42"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-42
+
+  - id: "cat-1826-p.43"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-43
+
+  - id: "cat-1826-p.44"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-44
+
+  - id: "cat-1826-p.45"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-45
+
+  - id: "cat-1826-p.46"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-46
+
+  - id: "cat-1826-p.47"
+    title: "page "
+    year: 1826
+    link:
+    figure:
+      - id: cat-1-47

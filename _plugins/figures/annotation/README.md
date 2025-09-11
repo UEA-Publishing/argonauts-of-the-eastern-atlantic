@@ -20,17 +20,7 @@ Annotations and Annotation Sets are modeled in the `figures.yaml` data file
 _figures.yaml_
 ```yaml
 figure_list:
-  - id: "fig-032"
-    src: "figures/032/base.jpg"
-    label: "Figure 32"
-    zoom: true
-    annotations:
-      - input: checkbox
-        items:
-          - src: "figures/032/armature.png"
-            label: "Armature"
-          - src: "figures/032/wax-joints.png"
-            label: "Wax-to-Wax Joints"
+
 ```
 
 ## `AnnotationFactory`
