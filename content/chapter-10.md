@@ -4,7 +4,7 @@ title: Bahtabah
 subtitle: 
 layout: splash
 order: 39
-image: figures/part-1/10/c10-1.jpg
+image: figures/covers/c10-cover.jpg
 classes:
   - page-one
 # page_pdf_output: true

@@ -4,7 +4,7 @@ title: Queen Street Chapel
 subtitle: 
 layout: splash
 order: 38
-image: figures/part-1/9/c9-1.jpg
+image: figures/covers/c9-cover.jpg
 classes:
   - page-one
 # page_pdf_output: true

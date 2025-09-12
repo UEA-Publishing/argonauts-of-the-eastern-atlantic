@@ -4,7 +4,7 @@ title: Klaarwater
 subtitle: 
 layout: splash
 order: 32
-image: figures/part-1/3/c3-1.jpg
+image: figures/covers/c3-cover.jpg
 classes:
   - page-one
 # page_pdf_output: true

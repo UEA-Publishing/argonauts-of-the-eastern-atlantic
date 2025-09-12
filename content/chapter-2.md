@@ -4,7 +4,7 @@ title: Scots Church
 subtitle: 
 layout: splash
 order: 31
-image: figures/part-1/2/c2-1.jpg
+image: figures/covers/c2-cover.jpg
 classes:
   - page-one
 # page_pdf_output: true

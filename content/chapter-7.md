@@ -4,7 +4,7 @@ title: Kealekekua Bay
 subtitle: 
 layout: splash
 order: 36
-image: figures/part-1/7/c7-1.jpg
+image: figures/covers/c7-cover.jpg
 classes:
   - page-one
 # page_pdf_output: true

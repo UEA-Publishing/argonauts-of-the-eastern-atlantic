@@ -4,7 +4,7 @@ title: Calcutta
 subtitle: 
 layout: splash
 order: 35
-image: figures/part-1/6/c6-1.jpg
+image: figures/covers/c6-cover.jpg
 classes:
   - page-one
 # page_pdf_output: true

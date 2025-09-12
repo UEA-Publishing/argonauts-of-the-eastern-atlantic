@@ -4,7 +4,7 @@ title: Le Resouvenir
 subtitle: 
 layout: splash
 order: 34
-image: figures/part-1/5/c5-1.jpg
+image: figures/covers/c5-cover.jpg
 classes:
   - page-one
 # page_pdf_output: true

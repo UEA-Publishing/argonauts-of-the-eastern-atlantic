@@ -4,7 +4,7 @@ title: Bangalore
 subtitle:
 layout: splash
 order: 40
-image: figures/part-1/11/c11-1.jpg
+image: figures/covers/c11-cover.jpg
 classes:
   - page-one
 # page_pdf_output: true

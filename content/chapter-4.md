@@ -4,7 +4,7 @@ title: Parramatta
 subtitle: 
 layout: splash
 order: 33
-image: figures/part-1/4/c4-10.jpg
+image: figures/covers/c4-cover.jpg
 classes:
   - page-one
 # page_pdf_output: true

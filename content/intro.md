@@ -1,11 +1,10 @@
 ---
 title: Introduction
-subtitle: Argonauts of the Eastern Atlantic
-layout: page
+subtitle:
+layout: splash
 order: 10
+image: figures/covers/int-cover.jpg
 ---
-
-## Introduction
 
 > _When anthropologists come to examine the role of Christian missionaries in the transformation of non-Western societies… they soon become deeply embroiled in debates about narrative._[^1]
 
