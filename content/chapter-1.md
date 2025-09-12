@@ -4,7 +4,7 @@ title: Matavai Bay
 subtitle:
 layout: splash
 order: 30
-image: figures/part-1/1/c1-1.jpg
+image: figures/covers/c1-cover.jpg
 classes:
   - page-one
 # page_pdf_output: true
