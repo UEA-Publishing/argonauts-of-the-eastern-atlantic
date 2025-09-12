@@ -1,15 +1,13 @@
 ---
-label: 9
-title: "Dr Morrison's Chinese and English Dictionary"
+label: 13 May 1824
+title: Queen Street Chapel
 subtitle: 
-layout: essay
+layout: splash
 order: 38
+image: figures/part-1/9/c9-1.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 {% figure "fig-c9-1" %}

@@ -1,15 +1,13 @@
 ---
-label: 3
-title: 'The Giraffe or Camelopardalis'
+label: 31 July 1814
+title: Klaarwater
 subtitle: 
-layout: essay
+layout: splash
 order: 32
+image: figures/part-1/3/c3-1.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 {% figure "fig-c3-1" %}
 

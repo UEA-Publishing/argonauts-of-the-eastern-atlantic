@@ -1,15 +1,13 @@
 ---
-label: 4
-title: "The Idol Gods of Otaheite"
+label: 31 October 1816
+title: Parramatta
 subtitle: 
-layout: essay
+layout: splash
 order: 33
+image: figures/part-1/4/c4-10.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 {% figure "fig-c4-1" %}

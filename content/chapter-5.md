@@ -1,15 +1,13 @@
 ---
-label: 5
-title: "Pehi (South America), an instrument of Obiah"
+label: June 1819
+title: Le Resouvenir
 subtitle: 
-layout: essay
+layout: splash
 order: 34
+image: figures/part-1/5/c5-1.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 {% figure "fig-c5-1" %}

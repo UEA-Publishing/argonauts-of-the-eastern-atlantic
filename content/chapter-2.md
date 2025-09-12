@@ -1,6 +1,6 @@
 ---
 label: 21 November 1803
-title: Scots Church, London
+title: Scots Church
 subtitle: 
 layout: splash
 order: 31
@@ -10,6 +10,8 @@ classes:
 # page_pdf_output: true
 ---
 > ##### The Revd. Mr Kicherer, Mary, John, Martha
+
+{% figure "fig-c2-1" %}
 
 [_The Cession of Matavai_](https://argonauts2022.net/?p=43), together with the lavishly produced account of [the voyage of the _Duff_](https://archive.org/details/b28758110/page/n4/mode/1up?view=theater), capture the ambition of supporters of the Missionary Society at the end of the eighteenth century. Their high production cost, however, makes them unlike most of the images and texts circulated by the London Missionary Society during the nineteenth century. Image and text came together in the missionary periodical, some of the most widely circulated publications of the entire century.[^1] The focus of this chapter is an early image, printed to be bound opposite the title page of the [_Evangelical Magazine_](https://www.google.co.uk/books/edition/The_Evangelical_Magazine/4hsEAAAAQAAJ?hl=en&gbpv=1&dq=evangelical+magazine+1804&pg=PA329&printsec=frontcover) in January 1804.
 

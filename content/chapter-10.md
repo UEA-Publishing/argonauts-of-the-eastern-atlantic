@@ -1,15 +1,13 @@
 ---
-label: 10
-title: "Two of the Tur Rursna"
+label: 21 May 1825
+title: Bahtabah
 subtitle: 
-layout: essay
+layout: splash
 order: 39
+image: figures/part-1/10/c10-1.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 {% figure "fig-c10-1" %}
 

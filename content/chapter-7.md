@@ -1,15 +1,13 @@
 ---
-label: 7
-title: "Specimens of the principal kinds of native cloth"
+label: 31 March 1822
+title: Kealekekua Bay
 subtitle: 
-layout: essay
+layout: splash
 order: 36
+image: figures/part-1/7/c7-1.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 {% figure "fig-c7-1" %}

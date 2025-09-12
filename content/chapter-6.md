@@ -1,15 +1,13 @@
 ---
-label: 6
-title: "Twenty-two models of Hindoo deities"
+label: September 1819
+title: Calcutta
 subtitle: 
-layout: essay
+layout: splash
 order: 35
+image: figures/part-1/6/c6-1.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 {% figure "fig-c6-1" %}

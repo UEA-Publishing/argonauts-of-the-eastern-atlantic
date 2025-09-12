@@ -1,15 +1,13 @@
 ---
-label: 11
-title: "The Virgin Mary and Child"
-subtitle: 
-layout: essay
+label: 23 July 1825
+title: Bangalore
+subtitle:
+layout: splash
 order: 40
+image: figures/part-1/11/c11-1.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 {% figure "fig-c11-1" %}

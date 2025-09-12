@@ -1,15 +1,13 @@
 ---
-label: 8
-title: "A Mantatese Apron"
+label: 26 June 1823
+title: Old Lattakoo
 subtitle: 
-layout: essay
+layout: splash
 order: 37
+image: figures/part-1/8/c8-1.jpg
 classes:
   - page-one
-contributor:
-  - id: cwingfield
-abstract: |
-page_pdf_output: true
+# page_pdf_output: true
 ---
 
 {% figure "fig-c8-1" %}
