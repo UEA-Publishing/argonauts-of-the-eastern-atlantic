@@ -155,6 +155,8 @@ Looking back from our contemporary vantage point, two and a quarter centuries in
 
 On 6 March 1798, a year after the missionaries arrived, Tahiti was visited by the Nautilus, a trading vessel from Macao. Missionary efforts to prevent the Captain supplying weapons and gunpowder to the Tahitians angered Tu, engaged in his own campaign of expansion and conquest enabled by his access to European weaponry. In fear of possible reprisals, most of the missionaries, their wives and the children left Tahiti on the Nautilus, bound for Port Jackson, as Sydney, Australia, was known at the time.
 
+{% figure "fig-c1-17" %}
+
 Before the _Duff_ arrived back in London, the Tahiti mission had been reduced to a carpenter, a bricklayer, a cooper, three ministers and a minister’s wife. In late 1798, a second shipload of missionaries set sail for Tahiti in the _Duff_, but the ship was captured by a French privateer near Rio de Janeiro, and the crew and missionaries offloaded at Montevideo, Uruguay.
 
 The [Royal Academy catalogue](https://www.royalacademy.org.uk/art-artists/exhibition-catalogue/ra-sec-vol31-1799) from spring 1799 lists the painting as follows:
@@ -162,8 +164,6 @@ The [Royal Academy catalogue](https://www.royalacademy.org.uk/art-artists/exhibi
 > 1. The friendly reception of Captain Wilson, of the Ship Duff, and the persons sent out by the London Missionary Society at Otaheite; and the ceremony of the formal grant of the district of Matavai for their use, in presence of the King, Queen, and Chiefs of that island, March 16.[^12]
 
 Only in August 1799, after the Royal Academy exhibition had closed, did news reach London that the majority of missionaries had abandoned Tahiti, and it wasn’t until October that the second group of missionaries managed to find their way back to London from South America. By the end of the year, one of the remaining ministers at Tahiti had died and the cooper had left on another visiting ship.
-
-{% figure "fig-c1-17" %}
 
 Those missionaries that remained rapidly discovered that although they had been allowed to stay and to eat food produced at Matavai Bay, they were definitely not regarded as owners of the land.
 
