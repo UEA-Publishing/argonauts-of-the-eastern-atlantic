@@ -1,10 +1,15 @@
 object_filters:
-  - year
-  - region
   - object type
+  - region
+  - location
+  - year
+  - named people
 
 object_display_order:
   - region
+
+object_card:
+  - title
   
 object_list:
 
