@@ -2,6 +2,7 @@ object_filters:
   - year
   - region
   - object type
+  - named people
 
 object_display_order:
   - region
@@ -431,3 +432,4 @@ object_list:
     named people: [""]
     figure:
       - id: cat-1-47
+
