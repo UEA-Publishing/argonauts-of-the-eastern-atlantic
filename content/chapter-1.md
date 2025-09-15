@@ -9,7 +9,7 @@ classes:
   - page-one
 # page_pdf_output: true
 --- 
-> ##### The friendly reception of Captain Wilson, of the ship Duff, and the persons sent out by the London Missionary Society at Otaheite; and the ceremony of the formal grant of the district of Matavai for their use, in presence of the King, Queen, and Chiefs of that island, March 16, 1797.            *R.Smirke*, R.A.
+> ##### The friendly reception of Captain Wilson, of the ship Duff, and the persons sent out by the London Missionary Society at Otaheite; and the ceremony of the formal grant of the district of Matavai for their use, in presence of the King, Queen, and Chiefs of that island, March 16, 1797.            *R.Smirke*, R.A.[^1]
 
 {% figure "fig-c1-2" 'is-pulled-right' %}
 
@@ -173,28 +173,30 @@ The mismatch between imagery, created in London, and reality, experienced in Tah
 
 ## Notes
 
-[^1]: See, https://www.timescolonist.com/news/local/capt-james-cook-statue-recovered-from-victoria-harbour-what-s-next-is-undecided-1.24337872
+[^1]: The Exhibition of the Royal Academy M,DCC,XCIX. – The Thirty First, (London: J. Cooper, 1799), 3-4. See: https://www.royalacademy.org.uk/art-artists/exhibition-catalogue/ra-sec-vol31-1799
 
-[^2]: William Carey, An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens In Which the Religious State of the Different Nations of the World, the Success of Former Undertakings, and the Practicability of Further Undertakings, Are Considered, (Leicester: 1792).
+[^2]: See, https://www.timescolonist.com/news/local/capt-james-cook-statue-recovered-from-victoria-harbour-what-s-next-is-undecided-1.24337872
 
-[^3]: Richard Lovett, The History of the London Missionary Society 1795-1895, 2 vols. (London: Oxford University Press, 1899), 8.
+[^3]: William Carey, An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens In Which the Religious State of the Different Nations of the World, the Success of Former Undertakings, and the Practicability of Further Undertakings, Are Considered, (Leicester: 1792).
 
-[^4]: Boyd Hilton, The age of atonement : the influence of evangelicalism on social and economic thought, 1795-1865 (Oxford: Clarendon Press, 1988).
+[^4]: Richard Lovett, The History of the London Missionary Society 1795-1895, 2 vols. (London: Oxford University Press, 1899), 8.
 
-[^5]: George Burder, An Address to the Serious and Zealous Professors of the Gospel, of Every Denomination, Respecting an Attempt to evanglize the Heathen, (London: 1795), 9.
+[^5]: Boyd Hilton, The age of atonement : the influence of evangelicalism on social and economic thought, 1795-1865 (Oxford: Clarendon Press, 1988).
 
-[^6]: Lovett, The History of the London Missionary Society 1795-1895, 30.
+[^6]: George Burder, An Address to the Serious and Zealous Professors of the Gospel, of Every Denomination, Respecting an Attempt to evanglize the Heathen, (London: 1795), 9.
 
-[^7]: Lovett, The History of the London Missionary Society 1795-1895, 133.
+[^7]: Lovett, The History of the London Missionary Society 1795-1895, 30.
 
-[^8]: The Directors of the Missionary Society, A Missionary Voyage to the Southern Pacific Ocean: Performed in the Years 1796, 1797, 1798, in the Ship Duff, Commanded by Captain James Wilson (London: T. Chapman, 1799), 5-6.
+[^8]: Lovett, The History of the London Missionary Society 1795-1895, 133.
 
-[^9]: Society, A Missionary Voyage to the Southern Pacific Ocean: Performed in the Years 1796, 1797, 1798, in the Ship Duff, Commanded by Captain James Wilson, 77.
+[^9]: The Directors of the Missionary Society, A Missionary Voyage to the Southern Pacific Ocean: Performed in the Years 1796, 1797, 1798, in the Ship Duff, Commanded by Captain James Wilson (London: T. Chapman, 1799), 5-6.
 
-[^10]: Society, A Missionary Voyage to the Southern Pacific Ocean: Performed in the Years 1796, 1797, 1798, in the Ship Duff, Commanded by Captain James Wilson, xcix.
+[^10]: Society, A Missionary Voyage to the Southern Pacific Ocean: Performed in the Years 1796, 1797, 1798, in the Ship Duff, Commanded by Captain James Wilson, 77.
 
-[^11]: Beth Fowkes Tobin, Picturing Imperial Power: Colonial Subjects in Eighteenth-Century British Painting (Duke University Press, 1999), 56-80.
+[^11]: Society, A Missionary Voyage to the Southern Pacific Ocean: Performed in the Years 1796, 1797, 1798, in the Ship Duff, Commanded by Captain James Wilson, xcix.
 
-[^12]: The Exhibition of the Royal Academy – the Thirty First, (London: The Royal Academy, 1799), 3-4.. See: https://www.royalacademy.org.uk/art-artists/exhibition-catalogue/ra-sec-vol31-1799
+[^12]: Beth Fowkes Tobin, Picturing Imperial Power: Colonial Subjects in Eighteenth-Century British Painting (Duke University Press, 1999), 56-80.
+
+[^13]: The Exhibition of the Royal Academy – the Thirty First, (London: The Royal Academy, 1799), 3-4.. See: https://www.royalacademy.org.uk/art-artists/exhibition-catalogue/ra-sec-vol31-1799
 
 {% endbackmatter %}
