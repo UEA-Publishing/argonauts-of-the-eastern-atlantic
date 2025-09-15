@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://argonauts2022.net/iiif/cat-1-44/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "cat-1826-44"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://argonauts2022.net/iiif/cat-1-44/canvas",
+      "type": "Canvas",
+      "height": 9333,
+      "width": 6604,
+      "items": [
+        {
+          "id": "https://argonauts2022.net/iiif/cat-1-44/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://argonauts2022.net/iiif/cat-1-44/canvas/cat-1-44",
+              "motivation": "painting",
+              "target": "https://argonauts2022.net/iiif/cat-1-44/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "https://argonauts2022.net/iiif/cat-1-44/cat-1-44/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 9333,
+                "width": 6604,
+                "label": {
+                  "en": [
+                    "cat-1826-44"
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://argonauts2022.net/iiif/cat-1-44/cat-1-44/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

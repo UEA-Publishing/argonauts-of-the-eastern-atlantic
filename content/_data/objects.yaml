@@ -10,6 +10,7 @@ object_display_order:
 
 object_card:
   - title
+  - thumbnail
   
 object_list:
 
@@ -20,6 +21,7 @@ object_list:
     region: [""]
     location: [""]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-11_thumb_thumb.jpg
     figure:
       - id: cat-1-1
   - id: "cat-1826-p.2"
@@ -29,6 +31,7 @@ object_list:
     region: [""]
     location: [""]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-2_thumb.jpg
     figure:
       - id: cat-1-2
   - id: "cat-1826-p.3"
@@ -38,6 +41,7 @@ object_list:
     region: [""]
     location: [""]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-3_thumb.jpg
     figure:
       - id: cat-1-3
   - id: "cat-1826-p.4"
@@ -47,6 +51,7 @@ object_list:
     region: [""]
     location: [""]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-4_thumb.jpg
     figure:
       - id: cat-1-4
   - id: "cat-1826-p.5"
@@ -56,6 +61,7 @@ object_list:
     region: ["Africa"]
     location: ["Malareen river, Boschuana country"]
     named people: ["Campbell"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-5_thumb.jpg
     figure:
       - id: cat-1-5
   - id: "cat-1826-p.6"
@@ -65,6 +71,7 @@ object_list:
     region: ["Africa",  "South East Asia",  "Pacific"]
     location: ["Cape of Good Hope",  "Torrid zone in Asia",  "Tahiti"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-6_thumb.jpg
     figure:
       - id: cat-1-6
   - id: "cat-1826-p.7"
@@ -74,6 +81,7 @@ object_list:
     region: ["Africa",  "Pacific"]
     location: ["Boschuana Country",  "Kamskatcha",  "Hawaii",  "Dithakong"]
     named people: ["Campbell",  "Dr Thom",  "Mr Campbell from King of Lattakoo",  "Rev. W. Ellis"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-7_thumb.jpg
     figure:
       - id: cat-1-7
   - id: "cat-1826-p.8"
@@ -83,6 +91,7 @@ object_list:
     region: ["Africa",  "Middle East",  "Madagascar",  "Central Asia"]
     location: ["Cape",  "Siberia, Russia",  "Barbary",  "Dauria & Siberia"]
     named people: ["Dr Thom"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-8_thumb.jpg
     figure:
       - id: cat-1-8
   - id: "cat-1826-p.9"
@@ -92,6 +101,7 @@ object_list:
     region: ["Africa",  "Americas",  "Pacific"]
     location: ["North-west Coast of America",  "Hawaii"]
     named people: ["Mr. Ellis"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-9_thumb.jpg
     figure:
       - id: cat-1-9
   - id: "cat-1826-p.10"
@@ -101,6 +111,7 @@ object_list:
     region: ["Pacific"]
     location: ["Raivavae, French Polynesia",  "Sir Charles Landers Island",  "Society Islands",  "Hawaii",  "Rurutu"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-10_thumb.jpg
     figure:
       - id: cat-1-10
   - id: "cat-1826-p.11"
@@ -110,6 +121,7 @@ object_list:
     region: ["Africa",  "Pacific"]
     location: ["Society Islands",  "Rurutu",  "Hawaii",  "Kingdom of Mashow, 1200 miles north of Cape Town"]
     named people: ["Mr Campbell",  "Mr. Ellis"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-11_thumb.jpg
     figure:
       - id: cat-1-11
   - id: "cat-1826-p.12"
@@ -119,6 +131,7 @@ object_list:
     region: ["Africa"]
     location: ["Mashow Country, South Africa"]
     named people: ["Mr Campbell"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-12_thumb.jpg
     figure:
       - id: cat-1-12
   - id: "cat-1826-p.13"
@@ -128,6 +141,7 @@ object_list:
     region: ["Africa"]
     location: ["Griqua Country",  "Dithakong"]
     named people: ["Mr Campbell"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-13_thumb.jpg
     figure:
       - id: cat-1-13
   - id: "cat-1826-p.14"
@@ -137,6 +151,7 @@ object_list:
     region: ["Africa",  "India",  "Pacific",  "South East Asia"]
     location: [""]
     named people: ["Mr Campbell"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-14_thumb.jpg
     figure:
       - id: cat-1-14
   - id: "cat-1826-p.15"
@@ -146,6 +161,7 @@ object_list:
     region: ["Africa"]
     location: ["Griqua Country, South Africa",  "Kurrichane (Marrootzee - Barotse)",  "Mashow"]
     named people: ["Mr Campbell",  "Rev. Dr Phillip"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-15_thumb.jpg
     figure:
       - id: cat-1-15
   - id: "cat-1826-p.16"
@@ -155,6 +171,7 @@ object_list:
     region: ["Africa",  "Pacific"]
     location: ["Kurrchane, Marrootzee",  "New Zealand",  "Mauke, Cook Islands",  "Rarotonga, Cook Islands"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-16_thumb.jpg
     figure:
       - id: cat-1-16
   - id: "cat-1826-p.17"
@@ -164,6 +181,7 @@ object_list:
     region: ["Pacific"]
     location: ["Tahiti",  "New Zealand"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-17_thumb.jpg
     figure:
       - id: cat-1-17
   - id: "cat-1826-p.18"
@@ -173,6 +191,7 @@ object_list:
     region: ["Pacific"]
     location: ["Tahiti"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-18_thumb.jpg
     figure:
       - id: cat-1-18
   - id: "cat-1826-p.19"
@@ -182,6 +201,7 @@ object_list:
     region: ["Pacific"]
     location: ["Rurutu",  "Rarotonga, Cook Islands",  "Mauke, Cook Islands"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-19_thumb.jpg
     figure:
       - id: cat-1-19
   - id: "cat-1826-p.20"
@@ -191,6 +211,7 @@ object_list:
     region: ["Pacific"]
     location: ["Mitiaro, Cook Islands",  "Mauke, Cook Islands",  "Raiatea",  "Rurutu",  "Nukunoni, Aitutaki",  "Arutanga, Aitutaki",  "Reiatea and Ruruti"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-20_thumb.jpg
     figure:
       - id: cat-1-20
   - id: "cat-1826-p.21"
@@ -200,6 +221,7 @@ object_list:
     region: ["Pacific"]
     location: ["Tahiti",  "Hawaii"]
     named people: ["Mr Ellis",  "Rev. Rowland Hill"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-21_thumb.jpg
     figure:
       - id: cat-1-21
   - id: "cat-1826-p.22"
@@ -209,6 +231,7 @@ object_list:
     region: ["Madagascar",  "Pacific"]
     location: ["Rurutu"]
     named people: ["Governor Farquhar",  "A present from the King of Madagascar to Governor Farquhar"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-22_thumb.jpg
     figure:
       - id: cat-1-22
   - id: "cat-1826-p.23"
@@ -218,6 +241,7 @@ object_list:
     region: [""]
     location: ["West Bengal, India"]
     named people: ["Governor Farquhar",  "Joseph Vorkey of Madagascar"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-23_thumb.jpg
     figure:
       - id: cat-1-23
   - id: "cat-1826-p.24"
@@ -227,6 +251,7 @@ object_list:
     region: ["Americas",  "India",  "Madagascar"]
     location: ["Trivandrum, India"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-24_thumb.jpg
     figure:
       - id: cat-1-24
   - id: "cat-1826-p.25"
@@ -236,6 +261,7 @@ object_list:
     region: ["India"]
     location: [""]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-25_thumb.jpg
     figure:
       - id: cat-1-25
   - id: "cat-1826-p.26"
@@ -245,6 +271,7 @@ object_list:
     region: ["India"]
     location: [""]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-26_thumb.jpg
     figure:
       - id: cat-1-26
   - id: "cat-1826-p.27"
@@ -254,6 +281,7 @@ object_list:
     region: ["India"]
     location: [""]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-27_thumb.jpg
     figure:
       - id: cat-1-27
   - id: "cat-1826-p.28"
@@ -263,6 +291,7 @@ object_list:
     region: ["India"]
     location: ["Kadapa, India",  "Rangoon"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-28_thumb.jpg
     figure:
       - id: cat-1-28
   - id: "cat-1826-p.29"
@@ -272,6 +301,7 @@ object_list:
     region: ["India"]
     location: ["Rangoon"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-29_thumb.jpg
     figure:
       - id: cat-1-29
   - id: "cat-1826-p.30"
@@ -281,6 +311,7 @@ object_list:
     region: ["India"]
     location: ["Rangoon"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-30_thumb.jpg
     figure:
       - id: cat-1-30
   - id: "cat-1826-p.31"
@@ -290,6 +321,7 @@ object_list:
     region: ["India"]
     location: ["Mysore"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-31_thumb.jpg
     figure:
       - id: cat-1-31
   - id: "cat-1826-p.32"
@@ -299,6 +331,7 @@ object_list:
     region: ["China"]
     location: [""]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-32_thumb.jpg
     figure:
       - id: cat-1-32
   - id: "cat-1826-p.33"
@@ -308,6 +341,7 @@ object_list:
     region: ["China"]
     location: [""]
     named people: ["Dr. Morrisonos Chinese servant",  "The late Mrs Morrison"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-33_thumb.jpg
     figure:
       - id: cat-1-33
   - id: "cat-1826-p.34"
@@ -317,6 +351,7 @@ object_list:
     region: ["China"]
     location: [""]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-34_thumb.jpg
     figure:
       - id: cat-1-34
   - id: "cat-1826-p.35"
@@ -326,6 +361,7 @@ object_list:
     region: ["China"]
     location: [""]
     named people: [" Poon a Sam, servant to Dr. Morrison"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-35_thumb.jpg
     figure:
       - id: cat-1-35
   - id: "cat-1826-p.36"
@@ -335,6 +371,7 @@ object_list:
     region: ["Americas",  "India",  "Middle East",  "South East Asia"]
     location: ["Java",  "Berbice"]
     named people: ["Rev. John Wray"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-36_thumb.jpg
     figure:
       - id: cat-1-36
   - id: "cat-1826-p.37"
@@ -344,6 +381,7 @@ object_list:
     region: ["Africa",  "Americas",  "India"]
     location: [""]
     named people: ["Rev. Mr Wray",  "Rev. D. Clarke"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-37_thumb.jpg
     figure:
       - id: cat-1-37
   - id: "cat-1826-p.38"
@@ -353,6 +391,7 @@ object_list:
     region: ["Africa",  "Pacific"]
     location: ["Tahiti",  "Marquesas Islands, French Polynesia",  "Dithakong",  "Kurrechane"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-38_thumb.jpg
     figure:
       - id: cat-1-38
   - id: "cat-1826-p.39"
@@ -362,6 +401,7 @@ object_list:
     region: ["Africa"]
     location: ["Dithakong",  "Congo River",  "Bethelsdorp, South Africa",  "Dithakong"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-39_thumb.jpg
     figure:
       - id: cat-1-39
   - id: "cat-1826-p.40"
@@ -371,6 +411,7 @@ object_list:
     region: ["Africa"]
     location: ["Mashow, South Africa",  "Corannas",  "Kurrechane",  "Bootchuanas and Morolongs",  "Dithakong"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-40_thumb.jpg
     figure:
       - id: cat-1-40
   - id: "cat-1826-p.41"
@@ -380,6 +421,7 @@ object_list:
     region: ["Africa"]
     location: [""]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-41_thumb.jpg
     figure:
       - id: cat-1-41
   - id: "cat-1826-p.42"
@@ -389,6 +431,7 @@ object_list:
     region: ["Africa"]
     location: ["Dithakong",  "Pacaltsdorp, South Africa",  "Bethelsdorp, South Africa"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-42_thumb.jpg
     figure:
       - id: cat-1-42
   - id: "cat-1826-p.43"
@@ -398,6 +441,7 @@ object_list:
     region: ["Africa"]
     location: ["Bethelsdorp, South Africa",  "Cedarberg"]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-43_thumb.jpg
     figure:
       - id: cat-1-43
   - id: "cat-1826-p.44"
@@ -407,6 +451,7 @@ object_list:
     region: ["Africa",  "Americas",  "China",  "India",  "South East Asia"]
     location: ["Demerara, South America",  "Ambon Island",  "Moluccas, Indonesia"]
     named people: ["Rev. Mr Wray",  "Rev. Mr Kam",  "Rev. J. Campbell"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-44_thumb.jpg
     figure:
       - id: cat-1-44
   - id: "cat-1826-p.45"
@@ -416,6 +461,7 @@ object_list:
     region: ["Africa",  "Europe",  "Pacific"]
     location: [""]
     named people: ["Rev. Mr Sabine",  "Mr Campbell"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-45_thumb.jpg
     figure:
       - id: cat-1-45
   - id: "cat-1826-p.46"
@@ -425,6 +471,7 @@ object_list:
     region: ["Africa",  "Pacific"]
     location: ["New Zealand",  "Dithakong",  "Tahiti"]
     named people: ["Mrs Pirie of Clerkenwell",  "Rev. W. Ellis"]
+    tnail: figures/cat-1826/Thumbnails/cat-1-46_thumb.jpg
     figure:
       - id: cat-1-46
   - id: "cat-1826-p.47"
@@ -434,5 +481,6 @@ object_list:
     region: ["China",  "Europe"]
     location: [""]
     named people: [""]
+    tnail: figures/cat-1826/Thumbnails/cat-1-47_thumb.jpg
     figure:
       - id: cat-1-47
