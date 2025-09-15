@@ -3,6 +3,8 @@ object_filters:
   - region
   - object type
 
+object_display_order:
+
 object_list:
 
   - id: "cat-1826-p.1"
