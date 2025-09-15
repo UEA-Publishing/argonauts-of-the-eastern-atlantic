@@ -4,7 +4,8 @@ object_filters:
   - object type
 
 object_display_order:
-
+  - region
+  
 object_list:
 
   - id: "cat-1826-p.1"
@@ -336,5 +337,6 @@ object_list:
     location: ""
     figure:
       - id: cat-1-47
+
 
 
