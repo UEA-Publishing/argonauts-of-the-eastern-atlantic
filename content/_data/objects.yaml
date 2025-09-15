@@ -13,7 +13,7 @@ object_list:
 
   - id: "cat-1826-p.1"
     year: 1826
-    object type: ["Specimens in Natural History"]
+    object type: [""]
     region: [""]
     location: ""
     figure:
@@ -340,3 +340,4 @@ object_list:
     location: ""
     figure:
       - id: cat-1-47
+
