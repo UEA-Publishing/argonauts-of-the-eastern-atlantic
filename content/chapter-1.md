@@ -9,7 +9,7 @@ classes:
   - page-one
 # page_pdf_output: true
 --- 
-> ##### The friendly reception of Captain Wilson, of the Ship Duff, and the persons sent out by the London Missionary Society at Otaheite; and the ceremony of the formal grant of the district of Matavai for their use, in presence of the King, Queen, and Chiefs of that island, March 16.The Cession of the District of Matavai in the Island of Otaheité to Captain James Wilson, 16 March 1797
+> ##### The friendly reception of Captain Wilson, of the Ship Duff, and the persons sent out by the London Missionary Society at Otaheite; and the ceremony of the formal grant of the district of Matavai for their use, in presence of the King, Queen, and Chiefs of that island, March 16.
 
 {% figure "fig-c1-2" 'is-pulled-right' %}
 
