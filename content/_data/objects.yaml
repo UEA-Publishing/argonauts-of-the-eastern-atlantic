@@ -1,340 +1,342 @@
 object_filters:
-  - production date
-  - production place
-  - lms classification
-  
+  - year
+  - region
+  - object type
+
 object_display_order:
-  - production date
-  - production place
-  - lms classification
+  - year
+  - region
+  - location
+  - object type
 
 object_list:
 
-  - id: "cat-1826-p.i"
-    title: "Title Page"
+  - id: "cat-1826-p.1"
     year: 1826
-    link:
+    object type: ["Specimens in Natural History"]
+    region: [""]
+    location: ""
     figure:
       - id: cat-1-1
-
-  - id: "cat-1826-p.ii"
-    title: "page ii 1826 Cat"
+  - id: "cat-1826-p.2"
     year: 1826
-    link:
+    object type: [""]
+    region: [""]
+    location: ""
     figure:
       - id: cat-1-2
-
-  - id: "cat-1826-p.iii"
-    title: "page "
+  - id: "cat-1826-p.3"
     year: 1826
-    link:
+    object type: [""]
+    region: [""]
+    location: ""
     figure:
       - id: cat-1-3
-
-  - id: "cat-1826-p.iv"
-    title: "page "
+  - id: "cat-1826-p.4"
     year: 1826
-    link:
+    object type: [""]
+    region: [""]
+    location: ""
     figure:
       - id: cat-1-4
-
   - id: "cat-1826-p.5"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Specimens in Natural History"]
+    region: ["Africa"]
+    location: "Malareen river, Boschuana country"
     figure:
       - id: cat-1-5
-
   - id: "cat-1826-p.6"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Specimens in Natural History",  "Manufactures, Domestic Utensils"]
+    region: ["Africa",  "SE Asia",  "Pacific"]
+    location: "Cape of Good Hope"
     figure:
       - id: cat-1-6
-
   - id: "cat-1826-p.7"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Specimens in Natural History",  "Manufactures, Domestic Utensils"]
+    region: ["Africa",  "Pacific"]
+    location: "Boschuana Country"
     figure:
       - id: cat-1-7
-
   - id: "cat-1826-p.8"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Specimens in Natural History"]
+    region: ["Africa",  "Barbary",  "Madagascar",  "Siberia"]
+    location: ""
     figure:
       - id: cat-1-8
-
   - id: "cat-1826-p.9"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
+    region: ["Africa",  "Americas",  "Pacific"]
+    location: "North-west Coast of America"
     figure:
       - id: cat-1-9
-
   - id: "cat-1826-p.10"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
+    region: ["Pacific"]
+    location: ""
     figure:
       - id: cat-1-10
-
   - id: "cat-1826-p.11"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
+    region: ["Africa",  "Pacific"]
+    location: ""
     figure:
       - id: cat-1-11
-
   - id: "cat-1826-p.12"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Specimens in Natural History"]
+    region: ["Africa"]
+    location: ""
     figure:
       - id: cat-1-12
-
   - id: "cat-1826-p.13"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Manufactures, Domestic Utensils",  "Specimens in Natural History"]
+    region: ["Africa"]
+    location: ""
     figure:
       - id: cat-1-13
-
   - id: "cat-1826-p.14"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Specimens in Natural History"]
+    region: ["Africa",  "India",  "Pacific",  "SE Asia"]
+    location: ""
     figure:
       - id: cat-1-14
-
   - id: "cat-1826-p.15"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
+    region: ["Africa"]
+    location: ""
     figure:
       - id: cat-1-15
-
   - id: "cat-1826-p.16"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
+    region: ["Africa",  "Pacific"]
+    location: ""
     figure:
       - id: cat-1-16
-
   - id: "cat-1826-p.17"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Idols of Heathen Nations"]
+    region: ["Pacific"]
+    location: "Tahiti"
     figure:
       - id: cat-1-17
-
   - id: "cat-1826-p.18"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Idols of Heathen Nations"]
+    region: ["Pacific"]
+    location: "Tahiti"
     figure:
       - id: cat-1-18
-
   - id: "cat-1826-p.19"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Idols of Heathen Nations"]
+    region: ["Pacific"]
+    location: "Tahiti"
     figure:
       - id: cat-1-19
-
   - id: "cat-1826-p.20"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Idols of Heathen Nations"]
+    region: ["Pacific"]
+    location: ""
     figure:
       - id: cat-1-20
-
   - id: "cat-1826-p.21"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
+    region: ["Pacific"]
+    location: ""
     figure:
       - id: cat-1-21
-
   - id: "cat-1826-p.22"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
+    region: ["Madagascar",  "Pacific"]
+    location: ""
     figure:
       - id: cat-1-22
-
   - id: "cat-1826-p.23"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
+    region: [""]
+    location: ""
     figure:
       - id: cat-1-23
-
   - id: "cat-1826-p.24"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Idols of Heathen Nations"]
+    region: ["Americas",  "India",  "Madagascar"]
+    location: ""
     figure:
       - id: cat-1-24
-
   - id: "cat-1826-p.25"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Idols of Heathen Nations"]
+    region: ["India"]
+    location: ""
     figure:
       - id: cat-1-25
-
   - id: "cat-1826-p.26"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Idols of Heathen Nations"]
+    region: ["India"]
+    location: ""
     figure:
       - id: cat-1-26
-
   - id: "cat-1826-p.27"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Idols of Heathen Nations"]
+    region: ["India"]
+    location: ""
     figure:
       - id: cat-1-27
-
   - id: "cat-1826-p.28"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Idols of Heathen Nations"]
+    region: ["India"]
+    location: ""
     figure:
       - id: cat-1-28
-
   - id: "cat-1826-p.29"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Idols of Heathen Nations"]
+    region: ["India"]
+    location: ""
     figure:
       - id: cat-1-29
-
   - id: "cat-1826-p.30"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Idols of Heathen Nations"]
+    region: ["India"]
+    location: ""
     figure:
       - id: cat-1-30
-
   - id: "cat-1826-p.31"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Idols of Heathen Nations"]
+    region: ["India"]
+    location: ""
     figure:
       - id: cat-1-31
-
   - id: "cat-1826-p.32"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
+    region: ["China"]
+    location: ""
     figure:
       - id: cat-1-32
-
   - id: "cat-1826-p.33"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
+    region: ["China"]
+    location: ""
     figure:
       - id: cat-1-33
-
   - id: "cat-1826-p.34"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils",  "Publication"]
+    region: ["China"]
+    location: ""
     figure:
       - id: cat-1-34
-
   - id: "cat-1826-p.35"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Publication"]
+    region: ["China"]
+    location: ""
     figure:
       - id: cat-1-35
-
   - id: "cat-1826-p.36"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils",  "Publication"]
+    region: ["Americas",  "India",  "Persia",  "SE Asia",  "Turkey"]
+    location: ""
     figure:
       - id: cat-1-36
-
   - id: "cat-1826-p.37"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
+    region: ["Africa",  "Americas",  "India"]
+    location: ""
     figure:
       - id: cat-1-37
-
   - id: "cat-1826-p.38"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
+    region: ["Africa",  "Pacific"]
+    location: ""
     figure:
       - id: cat-1-38
-
   - id: "cat-1826-p.39"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Manufactures, Domestic Utensils"]
+    region: ["Africa"]
+    location: ""
     figure:
       - id: cat-1-39
-
   - id: "cat-1826-p.40"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
+    region: ["Africa"]
+    location: ""
     figure:
       - id: cat-1-40
-
   - id: "cat-1826-p.41"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Specimens in Natural History"]
+    region: ["Africa"]
+    location: ""
     figure:
       - id: cat-1-41
-
   - id: "cat-1826-p.42"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
+    region: ["Africa"]
+    location: ""
     figure:
       - id: cat-1-42
-
   - id: "cat-1826-p.43"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
+    region: ["Africa"]
+    location: ""
     figure:
       - id: cat-1-43
-
   - id: "cat-1826-p.44"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Manufactures, Domestic Utensils",  "Specimens in Natural History"]
+    region: ["Africa",  "Americas",  "China",  "India",  "SE Asia"]
+    location: ""
     figure:
       - id: cat-1-44
-
   - id: "cat-1826-p.45"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Manufactures, Domestic Utensils",  "Publication",  "Specimens in Natural History"]
+    region: ["Africa",  "Home",  "Pacific"]
+    location: ""
     figure:
       - id: cat-1-45
-
   - id: "cat-1826-p.46"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
+    region: ["Africa",  "Pacific"]
+    location: ""
     figure:
       - id: cat-1-46
-
   - id: "cat-1826-p.47"
-    title: "page "
     year: 1826
-    link:
+    object type: ["Manufactures, Domestic Utensils",  "Publication"]
+    region: ["China",  "Home"]
+    location: ""
     figure:
       - id: cat-1-47
