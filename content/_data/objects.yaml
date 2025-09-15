@@ -3,12 +3,6 @@ object_filters:
   - region
   - object type
 
-object_display_order:
-  - year
-  - region
-  - location
-  - object type
-
 object_list:
 
   - id: "cat-1826-p.1"
@@ -340,4 +334,5 @@ object_list:
     location: ""
     figure:
       - id: cat-1-47
+
 
