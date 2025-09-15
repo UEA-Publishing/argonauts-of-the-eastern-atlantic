@@ -9,7 +9,7 @@ classes:
   - page-one
 # page_pdf_output: true
 --- 
-> ##### The friendly reception of Captain Wilson, of the Ship Duff, and the persons sent out by the London Missionary Society at Otaheite; and the ceremony of the formal grant of the district of Matavai for their use, in presence of the King, Queen, and Chiefs of that island, March 16.
+> ##### The friendly reception of Captain Wilfon, of the fhip Duff, and the perfons fent out by the London Miffionary Society at Otaheite; and the ceremony of the formal grant of the diftrict of Matavai for their ufe, in presence of the King, Queen, and Chiefs of that ifland, March 16, 1797.                        *R.Smirke*, R.A.
 
 {% figure "fig-c1-2" 'is-pulled-right' %}
 
