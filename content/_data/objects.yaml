@@ -56,7 +56,7 @@ object_list:
       - id: cat-1-4
   - id: "cat-1826-p.5"
     title: "Page 5 - Case A"
-    date: "July 1813"
+    date: "1813, July"
     object type: ["Specimens in Natural History"]
     region: ["Africa"]
     location: ["'Malalareen' [Harts] River, South Africa", "'Boschuana Country' [Northern Cape, South Africa]" ,"South Africa"]
@@ -76,7 +76,7 @@ object_list:
       - id: cat-1-6
   - id: "cat-1826-p.7"
     title: "Page 7 - Case B & Top of Case B"
-    date: "July 1823"
+    date: "1823, July"
     object type: ["Specimens in Natural History",  "Manufactures, Domestic Utensils"]
     region: ["Africa",  "Pacific"]
     location: ["'Boschuana Country' [Northern Cape, South Africa]",  "'Kamskatcha' [Kamchatka]",  "'Sandwich Islands' [Hawai'i]",  "'Lattakoo' [Dithakong or Maruping, Northern Cape, South Africa]", "South Africa"]
@@ -116,7 +116,7 @@ object_list:
       - id: cat-1-10
   - id: "cat-1826-p.11"
     title: "Page 11 - Case D"
-    date: "19 May 1820"
+    date: "1820, May, 19"
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Pacific"]
     location: ["Society Islands",  "Rurutu",  "'Sandwich Islands' [Hawai'i]",  "'Mashow country' [Capital of the Ratlou , South Africa]", "South Africa"]
@@ -126,7 +126,7 @@ object_list:
       - id: cat-1-11
   - id: "cat-1826-p.12"
     title: "Page 12 - Case D & on the top of Case D"
-    date: "May 1820"
+    date: "1820, May"
     object type: ["Specimens in Natural History"]
     region: ["Africa"]
     location: ["'Mashow country' [Capital of the Ratlou Barolong]", "South Africa"]
@@ -156,7 +156,7 @@ object_list:
       - id: cat-1-14
   - id: "cat-1826-p.15"
     title: "Page 15 - Centre of the Room & On the Rails"
-    date: "31 July 1814"
+    date: "1814, July, 31"
     object type: ["Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa"]
     location: ["'Griqua Country' [Northern Cape, South Africa]", "South Africa",  "Kurrichane [Kaditshwene, North West, South Africa]", "'Mashow country' [Capital of the Ratlou Barolong]"]
@@ -176,7 +176,7 @@ object_list:
       - id: cat-1-16
   - id: "cat-1826-p.17"
     title: "Page 17 - Case F"
-    date: "19 Feb 1816"
+    date: "1816, February, 19"
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Idols of Heathen Nations"]
     region: ["Pacific"]
     location: ["'Otaheite' [Tahiti]",  "New Zealand [Aoteaoroa]"]
@@ -186,7 +186,7 @@ object_list:
       - id: cat-1-17
   - id: "cat-1826-p.18"
     title: "Page 18 - Case F"
-    date: "19 Feb 1816"
+    date: "1816, February, 19"
     object type: ["Idols of Heathen Nations"]
     region: ["Pacific"]
     location: ["'Otaheite' [Tahiti]"]
@@ -196,7 +196,7 @@ object_list:
       - id: cat-1-18
   - id: "cat-1826-p.19"
     title: "Page 19 - Case F"
-    date: 19 Feb 1816
+    date: "1816, February, 19"
     object type: ["Idols of Heathen Nations"]
     region: ["Pacific"]
     location: ["Rurutu", "Ra'iatea",  "Rarotonga", "Cook Islands",  "'Maute' [Ma'uke, Cook Islands]"]
@@ -366,7 +366,7 @@ object_list:
       - id: cat-1-35
   - id: "cat-1826-p.36"
     title: "Page 36 - Case H"
-    date: "16 Feb 1818"
+    date: "1818, February, 16"
     object type: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils",  "Publication"]
     region: ["Americas",  "India",  "Middle East",  "South East Asia"]
     location: ["Java [Indonesia]",  "Berbice [Guyana]", "Persia [Iran]", "Turkey" ]
@@ -389,7 +389,7 @@ object_list:
     date: 
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Pacific"]
-    location: ["'Otaheite' [Tahiti]",  "Marquesas Islands", "'Lattakoo' [Dithakong or Maruping, Northern Cape, South Africa]", "South Africa"]"]
+    location: ["'Otaheite' [Tahiti]",  "Marquesas Islands", "'Lattakoo' [Dithakong or Maruping, Northern Cape, South Africa]", "South Africa"]
     named people: ["John Robinson (American Sailor)"]
     tnail: figures/cat-1826/Thumbnails/cat-1-38_thumb.jpg
     figure:
@@ -436,7 +436,7 @@ object_list:
       - id: cat-1-42
   - id: "cat-1826-p.43"
     title: "Page 43 - Case H & On Top of Case H"
-    date: "May 19, 1823"
+    date: "1823, May, 19"
     object type: ["Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa"]
     location: ["Kurreechane [Kaditshwene, North West, South Africa]", "Bethelsdorp [Eastern Cape, South Africa]", "'Coranna Country' [Northern Cape, South Africa]",  "'Cedar Mountains' [Cedarberg, Northern Cape, South Africa]", "'Buck's Fountain, in the Wild Bushmen's country' [Karoo, Northern Cape, South Africa]", "South Africa"]
