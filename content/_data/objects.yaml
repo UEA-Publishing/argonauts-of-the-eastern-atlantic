@@ -69,7 +69,7 @@ object_list:
     date: 
     object type: ["Specimens in Natural History",  "Manufactures, Domestic Utensils"]
     region: ["Africa",  "South East Asia",  "Pacific"]
-    location: ["Cape of Good Hope",  "Torrid zone in Asia",  "Otaheite", "South Africa"]
+    location: ["Cape Colony",  "'Torrid zone in Asia' [SE Asia]",  "Otaheite [Tahiti]", "South Africa"]
     named people: ["John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-6_thumb.jpg
     figure:
@@ -79,7 +79,7 @@ object_list:
     date: "July 1823"
     object type: ["Specimens in Natural History",  "Manufactures, Domestic Utensils"]
     region: ["Africa",  "Pacific"]
-    location: ["'Boschuana Country' [Northern Cape]",  "'Kamskatcha' Kamchatka",  "'Sandwich Islands' [Hawai'i]",  "'Lattakoo' [Dithakong or Maruping]", "South Africa"]
+    location: ["'Boschuana Country' [Northern Cape]",  "'Kamskatcha' [Kamchatka]",  "'Sandwich Islands' [Hawai'i]",  "'Lattakoo' [Dithakong or Maruping]", "South Africa"]
     named people: ["John Campbell",  "William Thom",  "Kgosi Mothibi (King of Lattakoo)",  "William Ellis"]
     tnail: figures/cat-1826/Thumbnails/cat-1-7_thumb.jpg
     figure:
@@ -89,7 +89,7 @@ object_list:
     date: 
     object type: ["Specimens in Natural History"]
     region: ["Africa",  "Middle East",  "Madagascar",  "Central Asia"]
-    location: ["Cape", "South Africa", "Siberia",  "'Barbary' [North Africa}]",  "Dauria & Siberia", "Madagascar"]
+    location: ["Cape Colony", "South Africa", "Siberia",  "'Barbary' [North Africa]",  "Dauria & Siberia", "Madagascar"]
     named people: ["William Thom"]
     tnail: figures/cat-1826/Thumbnails/cat-1-8_thumb.jpg
     figure:
@@ -99,7 +99,7 @@ object_list:
     date: 
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Americas",  "Pacific"]
-    location: ["North-west Coast of America",  "'Sandwich Islands' [Hawai'i]", "South Africa"]
+    location: ["Northwest Coast of America",  "'Sandwich Islands' [Hawai'i]", "South Africa"]
     named people: ["William Ellis"]
     tnail: figures/cat-1826/Thumbnails/cat-1-9_thumb.jpg
     figure:
@@ -109,7 +109,7 @@ object_list:
     date: 
     object type: ["Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
     region: ["Pacific"]
-    location: ["'High Island'", "'Sir Charles Landers Island'", "Raivavae, French Polynesia",  "Society Islands",  "'Oahu, Sandwich Island' [Hawai'i]","'Sandwich Islands' [Hawai'i]", "Rurutu"]
+    location: ["'High Island'", "'Sir Charles Landers Island'", "Raivavae, French Polynesia",  "Society Islands",  "'Oahu, Sandwich Island' [O'ahu Island, Hawai'i]","'Sandwich Islands' [Hawai'i]", "Rurutu"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-10_thumb.jpg
     figure:
