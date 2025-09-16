@@ -60,7 +60,7 @@ object_list:
     object type: ["Specimens in Natural History"]
     region: ["Africa"]
     location: ["Malareen river, Boschuana country"]
-    named people: ["Campbell"]
+    named people: ["John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-5_thumb.jpg
     figure:
       - id: cat-1-5
@@ -70,7 +70,7 @@ object_list:
     object type: ["Specimens in Natural History",  "Manufactures, Domestic Utensils"]
     region: ["Africa",  "South East Asia",  "Pacific"]
     location: ["Cape of Good Hope",  "Torrid zone in Asia",  "Tahiti"]
-    named people: [""]
+    named people: ["John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-6_thumb.jpg
     figure:
       - id: cat-1-6
@@ -80,7 +80,7 @@ object_list:
     object type: ["Specimens in Natural History",  "Manufactures, Domestic Utensils"]
     region: ["Africa",  "Pacific"]
     location: ["Boschuana Country",  "Kamskatcha",  "Hawaii",  "Dithakong"]
-    named people: ["Campbell",  "Dr Thom",  "Mr Campbell from King of Lattakoo",  "Rev. W. Ellis"]
+    named people: ["John Campbell",  "William Thom",  "Kgosi Mothibi (King of Lattakoo)",  "William Ellis"]
     tnail: figures/cat-1826/Thumbnails/cat-1-7_thumb.jpg
     figure:
       - id: cat-1-7
@@ -90,7 +90,7 @@ object_list:
     object type: ["Specimens in Natural History"]
     region: ["Africa",  "Middle East",  "Madagascar",  "Central Asia"]
     location: ["Cape",  "Siberia, Russia",  "Barbary",  "Dauria & Siberia"]
-    named people: ["Dr Thom"]
+    named people: ["William Thom"]
     tnail: figures/cat-1826/Thumbnails/cat-1-8_thumb.jpg
     figure:
       - id: cat-1-8
@@ -100,7 +100,7 @@ object_list:
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Americas",  "Pacific"]
     location: ["North-west Coast of America",  "Hawaii"]
-    named people: ["Mr. Ellis"]
+    named people: ["William Ellis"]
     tnail: figures/cat-1826/Thumbnails/cat-1-9_thumb.jpg
     figure:
       - id: cat-1-9
@@ -120,7 +120,7 @@ object_list:
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Pacific"]
     location: ["Society Islands",  "Rurutu",  "Hawaii",  "Kingdom of Mashow, 1200 miles north of Cape Town"]
-    named people: ["Mr Campbell",  "Mr. Ellis"]
+    named people: ["John Campbell",  "William Ellis"]
     tnail: figures/cat-1826/Thumbnails/cat-1-11_thumb.jpg
     figure:
       - id: cat-1-11
@@ -130,7 +130,7 @@ object_list:
     object type: ["Specimens in Natural History"]
     region: ["Africa"]
     location: ["Mashow Country, South Africa"]
-    named people: ["Mr Campbell"]
+    named people: ["John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-12_thumb.jpg
     figure:
       - id: cat-1-12
@@ -140,7 +140,7 @@ object_list:
     object type: ["Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa"]
     location: ["Griqua Country",  "Dithakong"]
-    named people: ["Mr Campbell"]
+    named people: ["John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-13_thumb.jpg
     figure:
       - id: cat-1-13
@@ -150,7 +150,7 @@ object_list:
     object type: ["Specimens in Natural History"]
     region: ["Africa",  "India",  "Pacific",  "South East Asia"]
     location: [""]
-    named people: ["Mr Campbell"]
+    named people: ["John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-14_thumb.jpg
     figure:
       - id: cat-1-14
@@ -160,7 +160,7 @@ object_list:
     object type: ["Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa"]
     location: ["Griqua Country, South Africa",  "Kurrichane (Marrootzee - Barotse)",  "Mashow"]
-    named people: ["Mr Campbell",  "Rev. Dr Phillip"]
+    named people: ["John Campbell",  "John Philip"]
     tnail: figures/cat-1826/Thumbnails/cat-1-15_thumb.jpg
     figure:
       - id: cat-1-15
@@ -220,7 +220,7 @@ object_list:
     object type: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
     region: ["Pacific"]
     location: ["Tahiti",  "Hawaii"]
-    named people: ["Mr Ellis",  "Rev. Rowland Hill"]
+    named people: ["William Ellis",  "Rowland Hill"]
     tnail: figures/cat-1826/Thumbnails/cat-1-21_thumb.jpg
     figure:
       - id: cat-1-21
@@ -230,7 +230,7 @@ object_list:
     object type: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
     region: ["Madagascar",  "Pacific"]
     location: ["Rurutu"]
-    named people: ["Governor Farquhar",  "A present from the King of Madagascar to Governor Farquhar"]
+    named people: ["Robert Townsend Farquhar (Governor of Mauritius 1810-1823)",  "Radama I (King of Madagascar 1810-1828)"]
     tnail: figures/cat-1826/Thumbnails/cat-1-22_thumb.jpg
     figure:
       - id: cat-1-22
@@ -240,7 +240,7 @@ object_list:
     object type: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
     region: [""]
     location: ["West Bengal, India"]
-    named people: ["Governor Farquhar",  "Joseph Vorkey of Madagascar"]
+    named people: ["Robert Townsend Farquhar (Governor of Mauritius 1810-1823)",  "Joseph Vorkey (Madagascar)"]
     tnail: figures/cat-1826/Thumbnails/cat-1-23_thumb.jpg
     figure:
       - id: cat-1-23
@@ -340,7 +340,7 @@ object_list:
     object type: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
     region: ["China"]
     location: [""]
-    named people: ["Dr. Morrisonos Chinese servant",  "The late Mrs Morrison"]
+    named people: ["Poon a Sam (Robert Morrison's servant)",  "Mary [Morton] Morrison (First wife of Robert Morrison)"]
     tnail: figures/cat-1826/Thumbnails/cat-1-33_thumb.jpg
     figure:
       - id: cat-1-33
@@ -360,7 +360,7 @@ object_list:
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Publication"]
     region: ["China"]
     location: [""]
-    named people: [" Poon a Sam, servant to Dr. Morrison"]
+    named people: ["Poon a Sam (Robert Morrison's servant)"]
     tnail: figures/cat-1826/Thumbnails/cat-1-35_thumb.jpg
     figure:
       - id: cat-1-35
@@ -370,7 +370,7 @@ object_list:
     object type: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils",  "Publication"]
     region: ["Americas",  "India",  "Middle East",  "South East Asia"]
     location: ["Java",  "Berbice"]
-    named people: ["Rev. John Wray"]
+    named people: ["John Wray"]
     tnail: figures/cat-1826/Thumbnails/cat-1-36_thumb.jpg
     figure:
       - id: cat-1-36
@@ -380,7 +380,7 @@ object_list:
     object type: ["Dresses",  "Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Americas",  "India"]
     location: [""]
-    named people: ["Rev. Mr Wray",  "Rev. D. Clarke"]
+    named people: ["John Wray",  "Rev. D. Clarke"]
     tnail: figures/cat-1826/Thumbnails/cat-1-37_thumb.jpg
     figure:
       - id: cat-1-37
@@ -450,7 +450,7 @@ object_list:
     object type: ["Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Americas",  "China",  "India",  "South East Asia"]
     location: ["Demerara, South America",  "Ambon Island",  "Moluccas, Indonesia"]
-    named people: ["Rev. Mr Wray",  "Rev. Mr Kam",  "Rev. J. Campbell"]
+    named people: ["John Wray",  "Joseph Kam",  "John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-44_thumb.jpg
     figure:
       - id: cat-1-44
@@ -460,7 +460,7 @@ object_list:
     object type: ["Manufactures, Domestic Utensils",  "Publication",  "Specimens in Natural History"]
     region: ["Africa",  "Europe",  "Pacific"]
     location: [""]
-    named people: ["Rev. Mr Sabine",  "Mr Campbell"]
+    named people: ["Rev. Mr Sabine",  "John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-45_thumb.jpg
     figure:
       - id: cat-1-45
@@ -470,7 +470,7 @@ object_list:
     object type: ["Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Pacific"]
     location: ["New Zealand",  "Dithakong",  "Tahiti"]
-    named people: ["Mrs Pirie of Clerkenwell",  "Rev. W. Ellis"]
+    named people: ["Mrs Pirie of Clerkenwell",  "William Ellis"]
     tnail: figures/cat-1826/Thumbnails/cat-1-46_thumb.jpg
     figure:
       - id: cat-1-46
