@@ -2,7 +2,7 @@ object_filters:
   - object type
   - region
   - location
-  - year
+  - date
   - named people
 
 object_display_order:
