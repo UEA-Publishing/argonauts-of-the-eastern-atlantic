@@ -125,7 +125,7 @@ object_list:
     figure:
       - id: cat-1-11
   - id: "cat-1826-p.12"
-    title: "Page 12 - Case D & on the top of Case D"
+    title: "Page 12 - Over Case D"
     date: May 1820
     object type: ["Specimens in Natural History"]
     region: ["Africa"]
@@ -215,17 +215,17 @@ object_list:
     figure:
       - id: cat-1-20
   - id: "cat-1826-p.21"
-    title: "Page 21 - Case F"
+    title: "Page 21 - Case F & Over Case F"
     date: 
     object type: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
     region: ["Pacific"]
     location: ["Tahiti",  "Hawaii"]
-    named people: ["Mr Ellis",  "Rev. Rowland Hill"]
+    named people: ["Mr. Ellis",  "Rev. Rowland Hill"]
     tnail: figures/cat-1826/Thumbnails/cat-1-21_thumb.jpg
     figure:
       - id: cat-1-21
   - id: "cat-1826-p.22"
-    title: "Page 22 - Over Case G"
+    title: "Page 22 - Case G"
     date: 
     object type: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
     region: ["Madagascar",  "Pacific"]
@@ -435,7 +435,7 @@ object_list:
     figure:
       - id: cat-1-42
   - id: "cat-1826-p.43"
-    title: "Page 43"
+    title: "Page 43 - Case H & On Top of Case H"
     date: May 19, 1823 [1813].
     object type: ["Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa"]
@@ -445,7 +445,7 @@ object_list:
     figure:
       - id: cat-1-43
   - id: "cat-1826-p.44"
-    title: "Page 44 - Case I"
+    title: "Page 44 - On Top of Case H & Case I"
     date: 
     object type: ["Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Americas",  "China",  "India",  "South East Asia"]
@@ -455,7 +455,7 @@ object_list:
     figure:
       - id: cat-1-44
   - id: "cat-1826-p.45"
-    title: "Page 45 -Case I & Over Case I"
+    title: "Page 45 - Over Case I & Three Glass Cases"
     date: 
     object type: ["Manufactures, Domestic Utensils",  "Publication",  "Specimens in Natural History"]
     region: ["Africa",  "Europe",  "Pacific"]
@@ -465,7 +465,7 @@ object_list:
     figure:
       - id: cat-1-45
   - id: "cat-1826-p.46"
-    title: "Page 46 - Case 1 in Centre of Room, Case 2 in Centre of Room and Case Case G"
+    title: "Page 46 - Three Glass Cases in the Centre of the Room"
     date: 
     object type: ["Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Pacific"]
@@ -475,7 +475,7 @@ object_list:
     figure:
       - id: cat-1-46
   - id: "cat-1826-p.47"
-    title: "Page 47"
+    title: "Page 47 - Three Glass Cases in the Centre of the Room & Form of a Bequest"
     date: 
     object type: ["Manufactures, Domestic Utensils",  "Publication"]
     region: ["China",  "Europe"]
@@ -484,3 +484,4 @@ object_list:
     tnail: figures/cat-1826/Thumbnails/cat-1-47_thumb.jpg
     figure:
       - id: cat-1-47
+
