@@ -72,7 +72,7 @@ object_list:
       - id: cat-1-5
   - id: "cat-1826-p.6"
     title: "Page 6 - Case A continued & Over Case A"
-    date: 
+    date: "1813, July"
     object type: ["Specimens in Natural History",  "Manufactures, Domestic Utensils"]
     region: ["Africa",  "South East Asia",  "Pacific"]
     location: ["Cape Colony [Western Cape, South Africa]",  "Torrid zone in Asia [SE Asia]",  "Otaheite [Tahiti, French Polynesia]", ]
@@ -119,7 +119,7 @@ object_list:
     date: 
     object type: ["Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
     region: ["Pacific"]
-    location: ["High Island", "Sir Charles Landers Island [Mai'ao, French Polynesia]", "Ra'ivavae, [French Polynesia]",  "Society Islands [French Polynesia]",  "Oahu, Sandwich Island [O'ahu Island, Hawai'i, USA]","Sandwich Islands [Hawai'i, USA]", "Rurutu [French Polynesia]"]
+    location: ["High Island [Ra'ivavae, French Polynesia]", "Sir Charles Landers Island [Mai'ao, French Polynesia]",  "Society Islands [French Polynesia]",  "Oahu, Sandwich Island [O'ahu Island, Hawai'i, USA]","Sandwich Islands [Hawai'i, USA]", "Rurutu [French Polynesia]"]
     contemporary country: ["French Polynesia", "USA"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-10_thumb.jpg
@@ -138,10 +138,10 @@ object_list:
       - id: cat-1-11
   - id: "cat-1826-p.12"
     title: "Page 12 - Case D & on the top of Case D"
-    date: "1820, May"
+    date: "1820, May 19"
     object type: ["Specimens in Natural History"]
     region: ["Africa"]
-    location: ["Mashow country [Capital of the Ratlou Barolong]"]
+    location: ["Mashow country [Capital of the Ratlou Barolong, South Africa]"]
     contemporary country: ["South Africa"]
     named people: ["John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-12_thumb.jpg
@@ -174,7 +174,7 @@ object_list:
     date: "1814, July, 31"
     object type: ["Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa"]
-    location: ["Griqua Country [Northern Cape, South Africa]", "South Africa",  "Kurrichane [Kaditshwene, North West, South Africa]", "Mashow country [Capital of the Ratlou Barolong, South Africa]"]
+    location: ["Griqua Country [Northern Cape, South Africa]", "South Africa",  "Kurrichane / Kurreechane [Kaditshwene, North West, South Africa]", "Mashow country [Capital of the Ratlou Barolong, South Africa]"]
     contemporary country: ["South Africa"]
     named people: ["John Campbell",  "John Philip"]
     tnail: figures/cat-1826/Thumbnails/cat-1-15_thumb.jpg
@@ -185,7 +185,7 @@ object_list:
     date: 
     object type: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
     region: ["Africa",  "Pacific"]
-    location: ["Kurrichane [Kaditshwene, North West, South Africa]",  "South Africa", "New Zealand [Aoteaoroa]",  "Maute [Ma'uke, Cook Islands]",  "Rarotonga", "Cook Islands"]
+    location: ["Kurrichane / Kurreechane [Kaditshwene, North West, South Africa]",  "South Africa", "New Zealand [Aoteaoroa]",  "Maute [Ma'uke, Cook Islands]",  "Rarotonga [Cook Islands]"]
     contemporary country: ["South Africa", "New Zealand", "Cook Islands" ]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-16_thumb.jpg
@@ -218,7 +218,7 @@ object_list:
     date: "1816, February, 19"
     object type: ["Idols of Heathen Nations"]
     region: ["Pacific"]
-    location: ["Rurutu [French Polynesia]", "Ra'iatea [French Polynesia]",  "Rarotonga", "Cook Islands",  "Maute [Ma'uke, Cook Islands]"]
+    location: ["Rurutu [French Polynesia]", "Raiatea [Ra'iatea, French Polynesia]",  "Rarotonga", "Maute [Ma'uke, Cook Islands]"]
     contemporary country: ["Cook Islands", "French Polynesia"]
     named people: ["Pomare II 'King of Otaheite'"]
     tnail: figures/cat-1826/Thumbnails/cat-1-19_thumb.jpg
@@ -229,7 +229,7 @@ object_list:
     date: 
     object type: ["Idols of Heathen Nations"]
     region: ["Pacific"]
-    location: ["Metiaro [Miti'aro, Cook Islands]", "Maute [Ma'uke, Cook Islands]",  "Raiatea [Ra'iatea, French Polynesia]",  "Rurutu [French Polynesia]", "Natipaki", "Nukunoni", "Aitutaki [Cook Islands]",  "Orutanga [Arutanga, Aitutaki, Cook Islands]",]
+    location: ["Metiaro [Miti'aro, Cook Islands]", "Maute [Ma'uke, Cook Islands]",  "Raiatea [Ra'iatea, French Polynesia]",  "Rurutu [French Polynesia]", "Natipaki", "Nukunoni", "Aitutaki [Cook Islands]",  "Orutanga [Arutanga, Aitutaki, Cook Islands]"]
     contemporary country: ["Cook Islands", "French Polynesia"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-20_thumb.jpg
@@ -251,7 +251,7 @@ object_list:
     date: 
     object type: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
     region: ["Madagascar",  "Pacific"]
-    location: ["Rurutu, [French Polynesia]"]
+    location: ["Rurutu [French Polynesia]"]
     contemporary country: ["French Polynesia", "Madagascar"]
     named people: ["Robert Townsend Farquhar (Governor of Mauritius 1810-1823)",  "Radama I (King of Madagascar 1810-1828)"]
     tnail: figures/cat-1826/Thumbnails/cat-1-22_thumb.jpg
@@ -471,7 +471,7 @@ object_list:
     date: 
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa"]
-    location: ["Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Pacaltsdorp (Hooge Kraal) [Western Cape, South Africa]", "the Moravian Settlement [Genadendal, Western Cape, South Africa]", "South Africa",  "Bethelsdorp [Eastern Cape, South Africa]"]
+    location: ["Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Pacaltsdorp (Hooge Kraal) [Western Cape, South Africa]", "Moravian Settlement [Genadendal, Western Cape, South Africa]", "South Africa",  "Bethelsdorp [Eastern Cape, South Africa]"]
     contemporary country: ["South Africa"]
     named people: ["Johannes Kicherer", "Johannes Theodosius Van der Kemp"]
     tnail: figures/cat-1826/Thumbnails/cat-1-42_thumb.jpg
@@ -482,7 +482,7 @@ object_list:
     date: "1823, May, 19"
     object type: ["Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa"]
-    location: ["Kurreechane [Kaditshwene, North West, South Africa]", "Bethelsdorp [Eastern Cape, South Africa]", "Coranna Country [Northern Cape, South Africa]",  "Cedar Mountains [Cedarberg, Northern Cape, South Africa]", "Buck's Fountain, in the Wild Bushmen's country [Karoo, Northern Cape, South Africa]"]
+    location: ["Kurrichane / Kurreechane [Kaditshwene, North West, South Africa]", "Bethelsdorp [Eastern Cape, South Africa]", "Coranna Country [Northern Cape, South Africa]",  "Cedar Mountains [Cedarberg, Western Cape, South Africa]", "Buck's Fountain, in the Wild Bushmen's country [Karoo, Northern Cape, South Africa]"]
     contemporary country: ["South Africa"]
     named people: ["John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-43_thumb.jpg
