@@ -1,6 +1,7 @@
 object_filters:
   - object type
   - region
+  - contemporary country
   - location
   - date
   - named people
@@ -20,6 +21,7 @@ object_list:
     object type: [""]
     region: [""]
     location: [""]
+    contemporary country: [""]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-11_thumb_thumb.jpg
     figure:
@@ -30,6 +32,7 @@ object_list:
     object type: [""]
     region: [""]
     location: [""]
+    contemporary country: [""]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-2_thumb.jpg
     figure:
@@ -40,6 +43,7 @@ object_list:
     object type: [""]
     region: [""]
     location: [""]
+    contemporary country: [""]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-3_thumb.jpg
     figure:
@@ -50,6 +54,7 @@ object_list:
     object type: [""]
     region: [""]
     location: [""]
+    contemporary country: [""]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-4_thumb.jpg
     figure:
@@ -59,7 +64,8 @@ object_list:
     date: "1813, July"
     object type: ["Specimens in Natural History"]
     region: ["Africa"]
-    location: ["'Malalareen' [Harts] River, South Africa", "'Boschuana Country' [Northern Cape, South Africa]" ,"South Africa"]
+    location: ["Malalareen River [Harts River, South Africa]", "Boschuana Country [Northern Cape, South Africa]"]
+    contemporary country: ["South Africa"]
     named people: ["John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-5_thumb.jpg
     figure:
@@ -69,7 +75,8 @@ object_list:
     date: 
     object type: ["Specimens in Natural History",  "Manufactures, Domestic Utensils"]
     region: ["Africa",  "South East Asia",  "Pacific"]
-    location: ["Cape Colony [Western Cape, South Africa]",  "'Torrid zone in Asia' [SE Asia]",  "Otaheite [Tahiti]", "South Africa"]
+    location: ["Cape Colony [Western Cape, South Africa]",  "Torrid zone in Asia [SE Asia]",  "Otaheite [Tahiti, French Polynesia]", ]
+    contemporary country: ["South Africa", "French Polynesia"]
     named people: ["John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-6_thumb.jpg
     figure:
@@ -79,7 +86,8 @@ object_list:
     date: "1823, July"
     object type: ["Specimens in Natural History",  "Manufactures, Domestic Utensils"]
     region: ["Africa",  "Pacific"]
-    location: ["'Boschuana Country' [Northern Cape, South Africa]",  "'Kamskatcha' [Kamchatka]",  "'Sandwich Islands' [Hawai'i]",  "'Lattakoo' [Dithakong or Maruping, Northern Cape, South Africa]", "South Africa"]
+    location: ["Boschuana Country [Northern Cape, South Africa]",  "Kamskatcha [Kamchatka Peninsula, Russia]",  "Sandwich Islands [Hawai'i, USA]",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]", "South Africa"]
+    contemporary country: ["South Africa", "USA", "Russia"]
     named people: ["John Campbell",  "William Thom",  "Kgosi Mothibi (King of Lattakoo)",  "William Ellis"]
     tnail: figures/cat-1826/Thumbnails/cat-1-7_thumb.jpg
     figure:
@@ -89,7 +97,8 @@ object_list:
     date: 
     object type: ["Specimens in Natural History"]
     region: ["Africa",  "Middle East",  "Madagascar",  "Central Asia"]
-    location: ["Cape Colony [Western Cape, South Africa]", "South Africa", "Siberia",  "'Barbary' [North Africa]",  "Dauria & Siberia [Russia]", "Madagascar"]
+    location: ["Cape Colony [Western Cape, South Africa]", "South Africa", " Dauria and Siberia [Russia]",  "Barbary [North Africa]",  "Dauria & Siberia [Russia]", "Madagascar"]
+    contemporary country: ["South Africa", "Russia", "Madagascar"]
     named people: ["William Thom"]
     tnail: figures/cat-1826/Thumbnails/cat-1-8_thumb.jpg
     figure:
@@ -99,7 +108,8 @@ object_list:
     date: 
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Americas",  "Pacific"]
-    location: ["Northwest Coast of America",  "'Sandwich Islands' [Hawai'i]", "South Africa"]
+    location: ["Northwest Coast of America",  "Sandwich Islands [Hawai'i, USA]", ]
+    contemporary country: ["South Africa", "USA"]
     named people: ["William Ellis"]
     tnail: figures/cat-1826/Thumbnails/cat-1-9_thumb.jpg
     figure:
@@ -109,7 +119,8 @@ object_list:
     date: 
     object type: ["Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
     region: ["Pacific"]
-    location: ["'High Island'", "'Sir Charles Landers Island' [Mai'ao, French Polynesia]", "Ra'ivavae, French Polynesia",  "Society Islands",  "'Oahu, Sandwich Island' [O'ahu Island, Hawai'i]","'Sandwich Islands' [Hawai'i]", "Rurutu [French Polynesia]"]
+    location: ["High Island", "Sir Charles Landers Island [Mai'ao, French Polynesia]", "Ra'ivavae, [French Polynesia]",  "Society Islands [French Polynesia]",  "Oahu, Sandwich Island [O'ahu Island, Hawai'i, USA]","Sandwich Islands [Hawai'i, USA]", "Rurutu [French Polynesia]"]
+    contemporary country: ["French Polynesia", "USA"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-10_thumb.jpg
     figure:
@@ -119,7 +130,8 @@ object_list:
     date: "1820, May, 19"
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Pacific"]
-    location: ["Society Islands",  "Rurutu",  "'Sandwich Islands' [Hawai'i]",  "'Mashow country' [Capital of the Ratlou , South Africa]", "South Africa"]
+    location: ["Society Islands [French Polynesia]",  "Rurutu [French Polynesia]",  "Sandwich Islands [Hawai'i, USA]",  "Mashow country [Capital of the Ratlou Barolong, South Africa]"]
+    contemporary country: ["South Africa", "French Polynesia", "USA"]
     named people: ["John Campbell",  "William Ellis"]
     tnail: figures/cat-1826/Thumbnails/cat-1-11_thumb.jpg
     figure:
@@ -129,7 +141,8 @@ object_list:
     date: "1820, May"
     object type: ["Specimens in Natural History"]
     region: ["Africa"]
-    location: ["'Mashow country' [Capital of the Ratlou Barolong]", "South Africa"]
+    location: ["Mashow country [Capital of the Ratlou Barolong]"]
+    contemporary country: ["South Africa"]
     named people: ["John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-12_thumb.jpg
     figure:
@@ -139,7 +152,8 @@ object_list:
     date: 
     object type: ["Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa"]
-    location: ["'Griqua Country' [Northern Cape, South Africa]",  "'Lattakoo' [Dithakong or Maruping, Northern Cape, South Africa]", "South Africa"]
+    location: ["Griqua Country [Northern Cape, South Africa]",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]"]
+    contemporary country: ["South Africa"]
     named people: ["John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-13_thumb.jpg
     figure:
@@ -150,6 +164,7 @@ object_list:
     object type: ["Specimens in Natural History"]
     region: ["Africa",  "India",  "Pacific",  "South East Asia"]
     location: ["Indian Ocean", "South Africa"]
+    contemporary country: ["South Africa"]
     named people: ["John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-14_thumb.jpg
     figure:
@@ -159,7 +174,8 @@ object_list:
     date: "1814, July, 31"
     object type: ["Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa"]
-    location: ["'Griqua Country' [Northern Cape, South Africa]", "South Africa",  "Kurrichane [Kaditshwene, North West, South Africa]", "'Mashow country' [Capital of the Ratlou Barolong]"]
+    location: ["Griqua Country [Northern Cape, South Africa]", "South Africa",  "Kurrichane [Kaditshwene, North West, South Africa]", "Mashow country [Capital of the Ratlou Barolong, South Africa]"]
+    contemporary country: ["South Africa"]
     named people: ["John Campbell",  "John Philip"]
     tnail: figures/cat-1826/Thumbnails/cat-1-15_thumb.jpg
     figure:
@@ -169,7 +185,8 @@ object_list:
     date: 
     object type: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
     region: ["Africa",  "Pacific"]
-    location: ["Kurrichane [Kaditshwene, North West, South Africa]",  "South Africa", "New Zealand [Aoteaoroa]",  "'Maute' [Ma'uke, Cook Islands]",  "Rarotonga", "Cook Islands"]
+    location: ["Kurrichane [Kaditshwene, North West, South Africa]",  "South Africa", "New Zealand [Aoteaoroa]",  "Maute [Ma'uke, Cook Islands]",  "Rarotonga", "Cook Islands"]
+    contemporary country: ["South Africa", "New Zealand", "Cook Islands" ]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-16_thumb.jpg
     figure:
@@ -179,7 +196,8 @@ object_list:
     date: "1816, February, 19"
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Idols of Heathen Nations"]
     region: ["Pacific"]
-    location: ["'Otaheite' [Tahiti]",  "New Zealand [Aoteaoroa]"]
+    location: ["Otaheite [Tahiti, French Polynesia]",  "New Zealand [Aoteaoroa]"]
+    contemporary country: ["Cook Islands", "French Polynesia", "New Zealand"]
     named people: ["Pomare II 'King of Otaheite'"]
     tnail: figures/cat-1826/Thumbnails/cat-1-17_thumb.jpg
     figure:
@@ -189,8 +207,9 @@ object_list:
     date: "1816, February, 19"
     object type: ["Idols of Heathen Nations"]
     region: ["Pacific"]
-    location: ["'Otaheite' [Tahiti]"]
-    named people: ["Pomare II 'King of Otaheite'", "'Viaratoa' [Pomare I]"]
+    location: ["Otaheite [Tahiti, French Polynesia]"]
+    contemporary country: ["French Polynesia"]
+    named people: ["Pomare II 'King of Otaheite'", "Viaratoa [Pomare I]"]
     tnail: figures/cat-1826/Thumbnails/cat-1-18_thumb.jpg
     figure:
       - id: cat-1-18
@@ -199,7 +218,8 @@ object_list:
     date: "1816, February, 19"
     object type: ["Idols of Heathen Nations"]
     region: ["Pacific"]
-    location: ["Rurutu", "Ra'iatea",  "Rarotonga", "Cook Islands",  "'Maute' [Ma'uke, Cook Islands]"]
+    location: ["Rurutu [French Polynesia]", "Ra'iatea [French Polynesia]",  "Rarotonga", "Cook Islands",  "Maute [Ma'uke, Cook Islands]"]
+    contemporary country: ["Cook Islands", "French Polynesia"]
     named people: ["Pomare II 'King of Otaheite'"]
     tnail: figures/cat-1826/Thumbnails/cat-1-19_thumb.jpg
     figure:
@@ -209,7 +229,8 @@ object_list:
     date: 
     object type: ["Idols of Heathen Nations"]
     region: ["Pacific"]
-    location: ["'Metiaro' [Miti'aro, Cook Islands]", "Cook Islands",  "'Maute' [Ma'uke, Cook Islands]",  "Ra'iatea",  "Rurutu", "'Natipaki'", "'Nukunoni'", "Aitutaki, Cook Islands",  "'Orutanga [Arutanga, Aitutaki, Cook Islands]'",]
+    location: ["Metiaro [Miti'aro, Cook Islands]", "Maute [Ma'uke, Cook Islands]",  "Raiatea [Ra'iatea, French Polynesia]",  "Rurutu [French Polynesia]", "Natipaki", "Nukunoni", "Aitutaki [Cook Islands]",  "Orutanga [Arutanga, Aitutaki, Cook Islands]",]
+    contemporary country: ["Cook Islands", "French Polynesia"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-20_thumb.jpg
     figure:
@@ -219,7 +240,8 @@ object_list:
     date: 
     object type: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
     region: ["Pacific"]
-    location: ["'Otaheite' [Tahiti]",  "Hawai'i (Large Island)", "'Sandwich Islands' [Hawai'i]",]
+    location: ["Otaheite [Tahiti, French Polynesia]",  "Hawai'i (Large Island) [Hawai'i, USA]", "Sandwich Islands [Hawai'i, USA]",]
+    contemporary country: ["French Polynesia", "USA"]
     named people: ["William Ellis",  "Rowland Hill"]
     tnail: figures/cat-1826/Thumbnails/cat-1-21_thumb.jpg
     figure:
@@ -229,7 +251,8 @@ object_list:
     date: 
     object type: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
     region: ["Madagascar",  "Pacific"]
-    location: ["Rurutu"]
+    location: ["Rurutu, [French Polynesia]"]
+    contemporary country: ["French Polynesia", "Madagascar"]
     named people: ["Robert Townsend Farquhar (Governor of Mauritius 1810-1823)",  "Radama I (King of Madagascar 1810-1828)"]
     tnail: figures/cat-1826/Thumbnails/cat-1-22_thumb.jpg
     figure:
@@ -239,7 +262,8 @@ object_list:
     date: 
     object type: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
     region: ["Madagascar", "India", "Americas"]
-    location: ["'Bengal [India]'"]
+    location: ["Bengal [India]"]
+    contemporary country: ["India", "Madagascar"]
     named people: ["Robert Townsend Farquhar (Governor of Mauritius 1810-1823)",  "Joseph Vorkey (of Madagascar)"]
     tnail: figures/cat-1826/Thumbnails/cat-1-23_thumb.jpg
     figure:
@@ -249,7 +273,8 @@ object_list:
     date: 
     object type: ["Idols of Heathen Nations"]
     region: ["India"]
-    location: ["'Travancore' [, India]"]
+    location: ["Travancore [Trivandrum, India]"]
+    contemporary country: ["India"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-24_thumb.jpg
     figure:
@@ -260,6 +285,7 @@ object_list:
     object type: ["Idols of Heathen Nations"]
     region: ["India"]
     location: [""]
+    contemporary country: ["India"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-25_thumb.jpg
     figure:
@@ -270,6 +296,7 @@ object_list:
     object type: ["Idols of Heathen Nations"]
     region: ["India"]
     location: [""]
+    contemporary country: ["India"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-26_thumb.jpg
     figure:
@@ -280,6 +307,7 @@ object_list:
     object type: ["Idols of Heathen Nations"]
     region: ["India"]
     location: [""]
+    contemporary country: ["India"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-27_thumb.jpg
     figure:
@@ -289,7 +317,8 @@ object_list:
     date: 
     object type: ["Idols of Heathen Nations"]
     region: ["India"]
-    location: ["'Cuddapah' [Kadapa, India]",  "'Rangoon' [Yangon, Myanmar]"]
+    location: ["Cuddapah [Kadapa, India]",  "Rangoon [Yangon, Myanmar]"]
+    contemporary country: ["India", "Myanmar"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-28_thumb.jpg
     figure:
@@ -299,7 +328,8 @@ object_list:
     date: 
     object type: ["Idols of Heathen Nations"]
     region: ["India"]
-    location: ["'Rangoon' [Yango, Myanmar]"]
+    location: ["Rangoon [Yangon, Myanmar]"]
+    contemporary country: ["Myanmar"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-29_thumb.jpg
     figure:
@@ -309,7 +339,8 @@ object_list:
     date: 
     object type: ["Idols of Heathen Nations"]
     region: ["India"]
-    location: ["'Rangoon' [Yango, Myanmar]"]
+    location: ["Rangoon [Yangon, Myanmar]"]
+    contemporary country: ["Myanmar"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-30_thumb.jpg
     figure:
@@ -319,7 +350,8 @@ object_list:
     date: 
     object type: ["Idols of Heathen Nations"]
     region: ["India"]
-    location: ["'Mysore' [, India]"]
+    location: ["Mysore [Mysuru, India]"]
+    contemporary country: [India]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-31_thumb.jpg
     figure:
@@ -330,6 +362,7 @@ object_list:
     object type: ["Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
     region: ["China"]
     location: [""]
+    contemporary country: ["China"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-32_thumb.jpg
     figure:
@@ -340,6 +373,7 @@ object_list:
     object type: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
     region: ["China"]
     location: [""]
+    contemporary country: ["China"]
     named people: ["Poon a Sam (Robert Morrison's servant)", "Robert Morrison",  "Mary [Morton] Morrison (First wife of Robert Morrison)"]
     tnail: figures/cat-1826/Thumbnails/cat-1-33_thumb.jpg
     figure:
@@ -350,6 +384,7 @@ object_list:
     object type: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils",  "Publication"]
     region: ["China"]
     location: [""]
+    contemporary country: ["China"]
     named people: ["Robert Morrison"]
     tnail: figures/cat-1826/Thumbnails/cat-1-34_thumb.jpg
     figure:
@@ -359,8 +394,9 @@ object_list:
     date: 
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Publication"]
     region: ["China"]
-    location: ["Malacca"]
-    named people: ["Poon a Sam (Robert Morrison's servant)", "Robert Morrison", "William Milne", "'Emperor Kang-Hi' [Kangxi]"]
+    location: ["Malacca [Malaysia]"]
+    contemporary country: ["Malaysia"]
+    named people: ["Poon a Sam (Robert Morrison's servant)", "Robert Morrison", "William Milne", "Emperor Kang-Hi [Kangxi]"]
     tnail: figures/cat-1826/Thumbnails/cat-1-35_thumb.jpg
     figure:
       - id: cat-1-35
@@ -370,6 +406,7 @@ object_list:
     object type: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils",  "Publication"]
     region: ["Americas",  "India",  "Middle East",  "South East Asia"]
     location: ["Java [Indonesia]",  "Berbice [Guyana]", "Persia [Iran]", "Turkey" ]
+    contemporary country: ["Indonesia", "Guyana", "Iran", "Turkey"]
     named people: ["John Wray"]
     tnail: figures/cat-1826/Thumbnails/cat-1-36_thumb.jpg
     figure:
@@ -380,6 +417,7 @@ object_list:
     object type: ["Dresses",  "Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Americas",  "India"]
     location: ["North America", "South America", "West Indies", "South Africa"]
+    contemporary country: ["South Africa", "Guyana"]
     named people: ["John Wray",  "Rev. D. Clarke"]
     tnail: figures/cat-1826/Thumbnails/cat-1-37_thumb.jpg
     figure:
@@ -389,7 +427,8 @@ object_list:
     date: 
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Pacific"]
-    location: ["'Otaheite' [Tahiti]",  "Marquesas Islands", "'Lattakoo' [Dithakong or Maruping, Northern Cape, South Africa]", "South Africa"]
+    location: ["Otaheite [Tahiti, French Polynesia]",  "Marquesas Islands [French Polynesia]", "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]", "South Africa"]
+    contemporary country: ["French Polynesia", "South Africa"]
     named people: ["John Robinson (American Sailor)"]
     tnail: figures/cat-1826/Thumbnails/cat-1-38_thumb.jpg
     figure:
@@ -399,7 +438,8 @@ object_list:
     date: 
     object type: ["Dresses",  "Manufactures, Domestic Utensils"]
     region: ["Africa"]
-    location: ["'Lattakoo' [Dithakong or Maruping, Northern Cape, South Africa]", "South Africa",  "Congo River [Central Africa]",  "Bethelsdorp [Eastern Cape, South Africa]"]
+    location: ["Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]", "South Africa",  "Congo River [Central Africa]",  "Bethelsdorp [Eastern Cape, South Africa]"]
+    contemporary country: ["South Africa", "Democratic Republic of Congo"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-39_thumb.jpg
     figure:
@@ -409,7 +449,8 @@ object_list:
     date: 
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa"]
-    location: ["'Mashow country' [Capital of the Ratlou Barolong]",  "'Lattakoo' [Dithakong or Maruping, Northern Cape, South Africa]",  "South Africa"]
+    location: ["Mashow country [Capital of the Ratlou Barolong, South Africa]",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]"]
+    contemporary country: ["South Africa"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-40_thumb.jpg
     figure:
@@ -420,6 +461,7 @@ object_list:
     object type: ["Dresses",  "Specimens in Natural History"]
     region: ["Africa"]
     location: ["South Africa"]
+    contemporary country: ["South Africa"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-41_thumb.jpg
     figure:
@@ -429,7 +471,8 @@ object_list:
     date: 
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa"]
-    location: ["'Lattakoo' [Dithakong or Maruping, Northern Cape, South Africa]",  "Pacaltsdorp [Hooge Kraal]", "'the Moravian Settlement' [Genadendal]", "South Africa",  "Bethelsdorp [Eastern Cape, South Africa]"]
+    location: ["Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Pacaltsdorp (Hooge Kraal) [Western Cape, South Africa]", "the Moravian Settlement [Genadendal, Western Cape, South Africa]", "South Africa",  "Bethelsdorp [Eastern Cape, South Africa]"]
+    contemporary country: ["South Africa"]
     named people: ["Johannes Kicherer", "Johannes Theodosius Van der Kemp"]
     tnail: figures/cat-1826/Thumbnails/cat-1-42_thumb.jpg
     figure:
@@ -439,7 +482,8 @@ object_list:
     date: "1823, May, 19"
     object type: ["Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa"]
-    location: ["Kurreechane [Kaditshwene, North West, South Africa]", "Bethelsdorp [Eastern Cape, South Africa]", "'Coranna Country' [Northern Cape, South Africa]",  "'Cedar Mountains' [Cedarberg, Northern Cape, South Africa]", "'Buck's Fountain, in the Wild Bushmen's country' [Karoo, Northern Cape, South Africa]", "South Africa"]
+    location: ["Kurreechane [Kaditshwene, North West, South Africa]", "Bethelsdorp [Eastern Cape, South Africa]", "Coranna Country [Northern Cape, South Africa]",  "Cedar Mountains [Cedarberg, Northern Cape, South Africa]", "Buck's Fountain, in the Wild Bushmen's country [Karoo, Northern Cape, South Africa]"]
+    contemporary country: ["South Africa"]
     named people: ["John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-43_thumb.jpg
     figure:
@@ -449,7 +493,8 @@ object_list:
     date: 
     object type: ["Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Americas",  "China",  "India",  "South East Asia"]
-    location: ["Demerara [Guyana]", "Indian Ocean", "South America",  "'Amboyna' [Ambon Island, Indonesia]",  "'Molucca Islands' [Moluccas, Indonesia]", "South Africa"]
+    location: ["Demerara [Guyana]", "Indian Ocean", "South America",  "Amboyna [Ambon Island, Indonesia]",  "Molucca Islands [Moluccas, Indonesia]", "South Africa"]
+    contemporary country: ["Guyana", "Indonesia", "South Africa"]
     named people: ["John Wray",  "Joseph Kam",  "John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-44_thumb.jpg
     figure:
@@ -460,6 +505,7 @@ object_list:
     object type: ["Manufactures, Domestic Utensils",  "Publication",  "Specimens in Natural History"]
     region: ["Africa",  "Europe",  "Pacific", "Americas"]
     location: ["South Africa"]
+    contemporary country: ["South Africa"]
     named people: ["Rev. Mr Sabine",  "John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-45_thumb.jpg
     figure:
@@ -469,7 +515,8 @@ object_list:
     date: 
     object type: ["Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Pacific"]
-    location: ["New Zealand [Aoteaoroa]",  "'Lattakoo' [Dithakong or Maruping, Northern Cape, South Africa, Northern Cape, South Africa]",  "'Otaheite' [Tahiti]", "South Africa"]
+    location: ["New Zealand [Aoteaoroa]",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Otaheite [Tahiti, French Polynesia]"]
+    contemporary country: ["New Zealand", "South Africa", "French Polynesia"]
     named people: ["Mrs Pirie of Clerkenwell",  "William Ellis"]
     tnail: figures/cat-1826/Thumbnails/cat-1-46_thumb.jpg
     figure:
@@ -480,6 +527,7 @@ object_list:
     object type: ["Manufactures, Domestic Utensils",  "Publication"]
     region: ["China",  "Europe"]
     location: [""]
+    contemporary country: ["China"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-47_thumb.jpg
     figure:

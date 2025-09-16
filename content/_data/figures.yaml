@@ -13,13 +13,13 @@ figure_list:
     credit: "Frazer, James George. 1911. The golden bough . a study in comparative religion. London. Macmillan"
     alt: "A collection of twelve hardcover volumes of The Golden Bough by Sir James George Frazer, featuring a cream-colored dust jacket."
   - id: "fig-intro-part-1-3"
-    src: figures/introduction/intro-part-1-3.jpg
+    src: figures/introduction/intro-part-1-3.png
     label: "fig-intro-part-1-3"
     caption: "Ulysses by James Joyce, first edition published in 1922"
     credit: ""
     alt: "A worn copy of Ulysses by James Joyce, featuring a blue cover with white lettering, resting on a flat surface."
   - id: "fig-intro-part-1-4"
-    src: figures/introduction/intro-part-1-4.png
+    src: figures/introduction/intro-part-1-4.jpg
     label: "fig-intro-part-1-4"
     caption: "Bronislaw Malinowski in his tent in the Trobriands"
     credit: ""
@@ -43,7 +43,7 @@ figure_list:
     credit: "British Museum 20122037.1"
     alt: "Close-up of a decorative textile featuring circular coral and shell beads, strung together with dark thread on a blue fabric base."
   - id: "fig-intro-part-1-8"
-    src: figures/introduction/intro-part-1-8.jpg
+    src: figures/introduction/intro-part-1-8.png
     label: "fig-intro-part-1-8"
     caption: "Three stranded cord"
     credit: ""
