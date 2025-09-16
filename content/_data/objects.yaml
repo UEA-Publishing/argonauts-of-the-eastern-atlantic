@@ -86,7 +86,7 @@ object_list:
     date: "1823, July"
     object type: ["Specimens in Natural History",  "Manufactures, Domestic Utensils"]
     region: ["Africa",  "Pacific"]
-    location: ["Boschuana Country [Northern Cape, South Africa]",  "Kamskatcha [Kamchatka Peninsula, Russia]",  "Sandwich Islands [Hawai'i, USA]",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]", "South Africa"]
+    location: ["Boschuana Country [Northern Cape, South Africa]",  "Kamskatcha [Kamchatka Peninsula, Russia]",  "Sandwich Islands [Hawai'i, USA]",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]"]
     contemporary country: ["South Africa", "USA", "Russia"]
     named people: ["John Campbell",  "William Thom",  "Kgosi Mothibi (King of Lattakoo)",  "William Ellis"]
     tnail: figures/cat-1826/Thumbnails/cat-1-7_thumb.jpg
@@ -97,7 +97,7 @@ object_list:
     date: 
     object type: ["Specimens in Natural History"]
     region: ["Africa",  "Middle East",  "Madagascar",  "Central Asia"]
-    location: ["Cape Colony [Western Cape, South Africa]", "South Africa", " Dauria and Siberia [Russia]",  "Barbary [North Africa]",  "Dauria & Siberia [Russia]", "Madagascar"]
+    location: ["Cape Colony [Western Cape, South Africa]", " Dauria and Siberia [Russia]",  "Barbary [North Africa]",  "Dauria & Siberia [Russia]"]
     contemporary country: ["South Africa", "Russia", "Madagascar"]
     named people: ["William Thom"]
     tnail: figures/cat-1826/Thumbnails/cat-1-8_thumb.jpg
@@ -163,7 +163,7 @@ object_list:
     date: 
     object type: ["Specimens in Natural History"]
     region: ["Africa",  "India",  "Pacific",  "South East Asia"]
-    location: ["Indian Ocean", "South Africa"]
+    location: ["Indian Ocean"]
     contemporary country: ["South Africa"]
     named people: ["John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-14_thumb.jpg
@@ -174,7 +174,7 @@ object_list:
     date: "1814, July, 31"
     object type: ["Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa"]
-    location: ["Griqua Country [Northern Cape, South Africa]", "South Africa",  "Kurrichane / Kurreechane [Kaditshwene, North West, South Africa]", "Mashow country [Capital of the Ratlou Barolong, South Africa]"]
+    location: ["Griqua Country [Northern Cape, South Africa]",  "Kurrichane / Kurreechane [Kaditshwene, North West, South Africa]", "Mashow country [Capital of the Ratlou Barolong, South Africa]"]
     contemporary country: ["South Africa"]
     named people: ["John Campbell",  "John Philip"]
     tnail: figures/cat-1826/Thumbnails/cat-1-15_thumb.jpg
@@ -185,7 +185,7 @@ object_list:
     date: 
     object type: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
     region: ["Africa",  "Pacific"]
-    location: ["Kurrichane / Kurreechane [Kaditshwene, North West, South Africa]",  "South Africa", "New Zealand [Aoteaoroa]",  "Maute [Ma'uke, Cook Islands]",  "Rarotonga [Cook Islands]"]
+    location: ["Kurrichane / Kurreechane [Kaditshwene, North West, South Africa]", "New Zealand [Aoteaoroa]",  "Maute [Ma'uke, Cook Islands]",  "Rarotonga [Cook Islands]"]
     contemporary country: ["South Africa", "New Zealand", "Cook Islands" ]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-16_thumb.jpg
@@ -218,7 +218,7 @@ object_list:
     date: "1816, February, 19"
     object type: ["Idols of Heathen Nations"]
     region: ["Pacific"]
-    location: ["Rurutu [French Polynesia]", "Raiatea [Ra'iatea, French Polynesia]",  "Rarotonga", "Maute [Ma'uke, Cook Islands]"]
+    location: ["Rurutu [French Polynesia]", "Raiatea [Ra'iatea, French Polynesia]",  "Rarotonga [Cook Islands]", "Maute [Ma'uke, Cook Islands]"]
     contemporary country: ["Cook Islands", "French Polynesia"]
     named people: ["Pomare II 'King of Otaheite'"]
     tnail: figures/cat-1826/Thumbnails/cat-1-19_thumb.jpg
@@ -416,7 +416,7 @@ object_list:
     date: 
     object type: ["Dresses",  "Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Americas",  "India"]
-    location: ["North America", "South America", "West Indies", "South Africa"]
+    location: ["North America", "South America", "West Indies"]
     contemporary country: ["South Africa", "Guyana"]
     named people: ["John Wray",  "Rev. D. Clarke"]
     tnail: figures/cat-1826/Thumbnails/cat-1-37_thumb.jpg
@@ -427,7 +427,7 @@ object_list:
     date: 
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Pacific"]
-    location: ["Otaheite [Tahiti, French Polynesia]",  "Marquesas Islands [French Polynesia]", "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]", "South Africa"]
+    location: ["Otaheite [Tahiti, French Polynesia]",  "Marquesas Islands [French Polynesia]", "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]"]
     contemporary country: ["French Polynesia", "South Africa"]
     named people: ["John Robinson (American Sailor)"]
     tnail: figures/cat-1826/Thumbnails/cat-1-38_thumb.jpg
@@ -438,7 +438,7 @@ object_list:
     date: 
     object type: ["Dresses",  "Manufactures, Domestic Utensils"]
     region: ["Africa"]
-    location: ["Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]", "South Africa",  "Congo River [Central Africa]",  "Bethelsdorp [Eastern Cape, South Africa]"]
+    location: ["Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Congo River [Central Africa]",  "Bethelsdorp [Eastern Cape, South Africa]"]
     contemporary country: ["South Africa", "Democratic Republic of Congo"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-39_thumb.jpg
@@ -460,7 +460,7 @@ object_list:
     date: 
     object type: ["Dresses",  "Specimens in Natural History"]
     region: ["Africa"]
-    location: ["South Africa"]
+    location: []
     contemporary country: ["South Africa"]
     named people: [""]
     tnail: figures/cat-1826/Thumbnails/cat-1-41_thumb.jpg
@@ -471,7 +471,7 @@ object_list:
     date: 
     object type: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa"]
-    location: ["Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Pacaltsdorp (Hooge Kraal) [Western Cape, South Africa]", "Moravian Settlement [Genadendal, Western Cape, South Africa]", "South Africa",  "Bethelsdorp [Eastern Cape, South Africa]"]
+    location: ["Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Pacaltsdorp (Hooge Kraal) [Western Cape, South Africa]", "Moravian Settlement [Genadendal, Western Cape, South Africa]",  "Bethelsdorp [Eastern Cape, South Africa]"]
     contemporary country: ["South Africa"]
     named people: ["Johannes Kicherer", "Johannes Theodosius Van der Kemp"]
     tnail: figures/cat-1826/Thumbnails/cat-1-42_thumb.jpg
@@ -493,7 +493,7 @@ object_list:
     date: 
     object type: ["Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     region: ["Africa",  "Americas",  "China",  "India",  "South East Asia"]
-    location: ["Demerara [Guyana]", "Indian Ocean", "South America",  "Amboyna [Ambon Island, Indonesia]",  "Molucca Islands [Moluccas, Indonesia]", "South Africa"]
+    location: ["Demerara [Guyana]", "Indian Ocean", "South America",  "Amboyna [Ambon Island, Indonesia]",  "Molucca Islands [Moluccas, Indonesia]"]
     contemporary country: ["Guyana", "Indonesia", "South Africa"]
     named people: ["John Wray",  "Joseph Kam",  "John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-44_thumb.jpg
@@ -504,7 +504,7 @@ object_list:
     date: 
     object type: ["Manufactures, Domestic Utensils",  "Publication",  "Specimens in Natural History"]
     region: ["Africa",  "Europe",  "Pacific", "Americas"]
-    location: ["South Africa"]
+    location: []
     contemporary country: ["South Africa"]
     named people: ["Rev. Mr Sabine",  "John Campbell"]
     tnail: figures/cat-1826/Thumbnails/cat-1-45_thumb.jpg
@@ -532,4 +532,3 @@ object_list:
     tnail: figures/cat-1826/Thumbnails/cat-1-47_thumb.jpg
     figure:
       - id: cat-1-47
-
