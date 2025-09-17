@@ -7,7 +7,12 @@ object_filters:
   - named people
 
 object_display_order:
+  - object type
   - region
+  - contemporary country
+  - location
+  - date
+  - named people
 
 object_card:
   - title
@@ -23,7 +28,7 @@ object_list:
     location: [""]
     contemporary country: [""]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-11_thumb_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-11_thumb_thumb.jpg
     figure:
       - id: cat-1-1
   - id: "cat-1826-p.2"
@@ -34,7 +39,7 @@ object_list:
     location: [""]
     contemporary country: [""]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-2_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-2_thumb.jpg
     figure:
       - id: cat-1-2
   - id: "cat-1826-p.3"
@@ -45,7 +50,7 @@ object_list:
     location: [""]
     contemporary country: [""]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-3_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-3_thumb.jpg
     figure:
       - id: cat-1-3
   - id: "cat-1826-p.4"
@@ -56,7 +61,7 @@ object_list:
     location: [""]
     contemporary country: [""]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-4_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-4_thumb.jpg
     figure:
       - id: cat-1-4
   - id: "cat-1826-p.5"
@@ -67,7 +72,7 @@ object_list:
     location: ["Malalareen River [Harts River, South Africa]", "Boschuana Country [Northern Cape, South Africa]"]
     contemporary country: ["South Africa"]
     named people: ["John Campbell"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-5_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-5_thumb.jpg
     figure:
       - id: cat-1-5
   - id: "cat-1826-p.6"
@@ -78,7 +83,7 @@ object_list:
     location: ["Cape Colony [Western Cape, South Africa]",  "Torrid zone in Asia [SE Asia]",  "Otaheite [Tahiti, French Polynesia]", ]
     contemporary country: ["South Africa", "French Polynesia"]
     named people: ["John Campbell"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-6_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-6_thumb.jpg
     figure:
       - id: cat-1-6
   - id: "cat-1826-p.7"
@@ -89,7 +94,7 @@ object_list:
     location: ["Boschuana Country [Northern Cape, South Africa]",  "Kamskatcha [Kamchatka Peninsula, Russia]",  "Sandwich Islands [Hawai'i, USA]",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]"]
     contemporary country: ["South Africa", "USA", "Russia"]
     named people: ["John Campbell",  "William Thom",  "Kgosi Mothibi (King of Lattakoo)",  "William Ellis"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-7_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-7_thumb.jpg
     figure:
       - id: cat-1-7
   - id: "cat-1826-p.8"
@@ -100,7 +105,7 @@ object_list:
     location: ["Cape Colony [Western Cape, South Africa]", " Dauria and Siberia [Russia]",  "Barbary [North Africa]",  "Dauria & Siberia [Russia]"]
     contemporary country: ["South Africa", "Russia", "Madagascar"]
     named people: ["William Thom"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-8_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-8_thumb.jpg
     figure:
       - id: cat-1-8
   - id: "cat-1826-p.9"
@@ -111,7 +116,7 @@ object_list:
     location: ["Northwest Coast of America",  "Sandwich Islands [Hawai'i, USA]", ]
     contemporary country: ["South Africa", "USA"]
     named people: ["William Ellis"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-9_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-9_thumb.jpg
     figure:
       - id: cat-1-9
   - id: "cat-1826-p.10"
@@ -122,7 +127,7 @@ object_list:
     location: ["High Island [Ra'ivavae, French Polynesia]", "Sir Charles Landers Island [Mai'ao, French Polynesia]",  "Society Islands [French Polynesia]",  "Oahu, Sandwich Island [O'ahu Island, Hawai'i, USA]","Sandwich Islands [Hawai'i, USA]", "Rurutu [French Polynesia]"]
     contemporary country: ["French Polynesia", "USA"]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-10_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-10_thumb.jpg
     figure:
       - id: cat-1-10
   - id: "cat-1826-p.11"
@@ -133,7 +138,7 @@ object_list:
     location: ["Society Islands [French Polynesia]",  "Rurutu [French Polynesia]",  "Sandwich Islands [Hawai'i, USA]",  "Mashow country [Capital of the Ratlou Barolong, South Africa]"]
     contemporary country: ["South Africa", "French Polynesia", "USA"]
     named people: ["John Campbell",  "William Ellis"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-11_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-11_thumb.jpg
     figure:
       - id: cat-1-11
   - id: "cat-1826-p.12"
@@ -144,7 +149,7 @@ object_list:
     location: ["Mashow country [Capital of the Ratlou Barolong, South Africa]"]
     contemporary country: ["South Africa"]
     named people: ["John Campbell"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-12_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-12_thumb.jpg
     figure:
       - id: cat-1-12
   - id: "cat-1826-p.13"
@@ -155,7 +160,7 @@ object_list:
     location: ["Griqua Country [Northern Cape, South Africa]",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]"]
     contemporary country: ["South Africa"]
     named people: ["John Campbell"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-13_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-13_thumb.jpg
     figure:
       - id: cat-1-13
   - id: "cat-1826-p.14"
@@ -166,7 +171,7 @@ object_list:
     location: ["Indian Ocean"]
     contemporary country: ["South Africa"]
     named people: ["John Campbell"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-14_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-14_thumb.jpg
     figure:
       - id: cat-1-14
   - id: "cat-1826-p.15"
@@ -177,7 +182,7 @@ object_list:
     location: ["Griqua Country [Northern Cape, South Africa]",  "Kurrichane / Kurreechane [Kaditshwene, North West, South Africa]", "Mashow country [Capital of the Ratlou Barolong, South Africa]"]
     contemporary country: ["South Africa"]
     named people: ["John Campbell",  "John Philip"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-15_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-15_thumb.jpg
     figure:
       - id: cat-1-15
   - id: "cat-1826-p.16"
@@ -188,7 +193,7 @@ object_list:
     location: ["Kurrichane / Kurreechane [Kaditshwene, North West, South Africa]", "New Zealand [Aoteaoroa]",  "Maute [Ma'uke, Cook Islands]",  "Rarotonga [Cook Islands]"]
     contemporary country: ["South Africa", "New Zealand", "Cook Islands" ]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-16_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-16_thumb.jpg
     figure:
       - id: cat-1-16
   - id: "cat-1826-p.17"
@@ -199,7 +204,7 @@ object_list:
     location: ["Otaheite [Tahiti, French Polynesia]",  "New Zealand [Aoteaoroa]"]
     contemporary country: ["Cook Islands", "French Polynesia", "New Zealand"]
     named people: ["Pomare II 'King of Otaheite'"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-17_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-17_thumb.jpg
     figure:
       - id: cat-1-17
   - id: "cat-1826-p.18"
@@ -209,19 +214,19 @@ object_list:
     region: ["Pacific"]
     location: ["Otaheite [Tahiti, French Polynesia]"]
     contemporary country: ["French Polynesia"]
-    named people: ["Pomare II 'King of Otaheite'", "Viaratoa [Pomare I]"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-18_thumb.jpg
+    named people: ["Pomare II 'King of Otaheite'", "Pomare I 'Viaratoa'"]
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-18_thumb.jpg
     figure:
       - id: cat-1-18
   - id: "cat-1826-p.19"
     title: "Page 19 - Case F"
-    date: "1816, February, 19"
+    date: ["1816, February, 19", "1812, February, 19"]
     object type: ["Idols of Heathen Nations"]
     region: ["Pacific"]
     location: ["Rurutu [French Polynesia]", "Raiatea [Ra'iatea, French Polynesia]",  "Rarotonga [Cook Islands]", "Maute [Ma'uke, Cook Islands]"]
     contemporary country: ["Cook Islands", "French Polynesia"]
     named people: ["Pomare II 'King of Otaheite'"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-19_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-19_thumb.jpg
     figure:
       - id: cat-1-19
   - id: "cat-1826-p.20"
@@ -232,7 +237,7 @@ object_list:
     location: ["Metiaro [Miti'aro, Cook Islands]", "Maute [Ma'uke, Cook Islands]",  "Raiatea [Ra'iatea, French Polynesia]",  "Rurutu [French Polynesia]", "Natipaki", "Nukunoni", "Aitutaki [Cook Islands]",  "Orutanga [Arutanga, Aitutaki, Cook Islands]"]
     contemporary country: ["Cook Islands", "French Polynesia"]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-20_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-20_thumb.jpg
     figure:
       - id: cat-1-20
   - id: "cat-1826-p.21"
@@ -243,7 +248,7 @@ object_list:
     location: ["Otaheite [Tahiti, French Polynesia]",  "Hawai'i (Large Island) [Hawai'i, USA]", "Sandwich Islands [Hawai'i, USA]",]
     contemporary country: ["French Polynesia", "USA"]
     named people: ["William Ellis",  "Rowland Hill"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-21_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-21_thumb.jpg
     figure:
       - id: cat-1-21
   - id: "cat-1826-p.22"
@@ -254,7 +259,7 @@ object_list:
     location: ["Rurutu [French Polynesia]"]
     contemporary country: ["French Polynesia", "Madagascar"]
     named people: ["Robert Townsend Farquhar (Governor of Mauritius 1810-1823)",  "Radama I (King of Madagascar 1810-1828)"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-22_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-22_thumb.jpg
     figure:
       - id: cat-1-22
   - id: "cat-1826-p.23"
@@ -265,7 +270,7 @@ object_list:
     location: ["Bengal [India]"]
     contemporary country: ["India", "Madagascar"]
     named people: ["Robert Townsend Farquhar (Governor of Mauritius 1810-1823)",  "Joseph Vorkey (of Madagascar)"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-23_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-23_thumb.jpg
     figure:
       - id: cat-1-23
   - id: "cat-1826-p.24"
@@ -276,7 +281,7 @@ object_list:
     location: ["Travancore [Trivandrum, India]"]
     contemporary country: ["India"]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-24_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-24_thumb.jpg
     figure:
       - id: cat-1-24
   - id: "cat-1826-p.25"
@@ -287,7 +292,7 @@ object_list:
     location: [""]
     contemporary country: ["India"]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-25_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-25_thumb.jpg
     figure:
       - id: cat-1-25
   - id: "cat-1826-p.26"
@@ -298,7 +303,7 @@ object_list:
     location: [""]
     contemporary country: ["India"]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-26_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-26_thumb.jpg
     figure:
       - id: cat-1-26
   - id: "cat-1826-p.27"
@@ -309,7 +314,7 @@ object_list:
     location: [""]
     contemporary country: ["India"]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-27_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-27_thumb.jpg
     figure:
       - id: cat-1-27
   - id: "cat-1826-p.28"
@@ -320,7 +325,7 @@ object_list:
     location: ["Cuddapah [Kadapa, India]",  "Rangoon [Yangon, Myanmar]"]
     contemporary country: ["India", "Myanmar"]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-28_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-28_thumb.jpg
     figure:
       - id: cat-1-28
   - id: "cat-1826-p.29"
@@ -331,7 +336,7 @@ object_list:
     location: ["Rangoon [Yangon, Myanmar]"]
     contemporary country: ["Myanmar"]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-29_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-29_thumb.jpg
     figure:
       - id: cat-1-29
   - id: "cat-1826-p.30"
@@ -342,7 +347,7 @@ object_list:
     location: ["Rangoon [Yangon, Myanmar]"]
     contemporary country: ["Myanmar"]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-30_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-30_thumb.jpg
     figure:
       - id: cat-1-30
   - id: "cat-1826-p.31"
@@ -353,7 +358,7 @@ object_list:
     location: ["Mysore [Mysuru, India]"]
     contemporary country: [India]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-31_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-31_thumb.jpg
     figure:
       - id: cat-1-31
   - id: "cat-1826-p.32"
@@ -364,7 +369,7 @@ object_list:
     location: [""]
     contemporary country: ["China"]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-32_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-32_thumb.jpg
     figure:
       - id: cat-1-32
   - id: "cat-1826-p.33"
@@ -375,7 +380,7 @@ object_list:
     location: [""]
     contemporary country: ["China"]
     named people: ["Poon a Sam (Robert Morrison's servant)", "Robert Morrison",  "Mary [Morton] Morrison (First wife of Robert Morrison)"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-33_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-33_thumb.jpg
     figure:
       - id: cat-1-33
   - id: "cat-1826-p.34"
@@ -386,7 +391,7 @@ object_list:
     location: [""]
     contemporary country: ["China"]
     named people: ["Robert Morrison"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-34_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-34_thumb.jpg
     figure:
       - id: cat-1-34
   - id: "cat-1826-p.35"
@@ -397,7 +402,7 @@ object_list:
     location: ["Malacca [Malaysia]"]
     contemporary country: ["Malaysia"]
     named people: ["Poon a Sam (Robert Morrison's servant)", "Robert Morrison", "William Milne", "Emperor Kang-Hi [Kangxi]"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-35_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-35_thumb.jpg
     figure:
       - id: cat-1-35
   - id: "cat-1826-p.36"
@@ -408,7 +413,7 @@ object_list:
     location: ["Java [Indonesia]",  "Berbice [Guyana]", "Persia [Iran]", "Turkey" ]
     contemporary country: ["Indonesia", "Guyana", "Iran", "Turkey"]
     named people: ["John Wray"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-36_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-36_thumb.jpg
     figure:
       - id: cat-1-36
   - id: "cat-1826-p.37"
@@ -419,7 +424,7 @@ object_list:
     location: ["North America", "South America", "West Indies"]
     contemporary country: ["South Africa", "Guyana"]
     named people: ["John Wray",  "Rev. D. Clarke"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-37_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-37_thumb.jpg
     figure:
       - id: cat-1-37
   - id: "cat-1826-p.38"
@@ -430,7 +435,7 @@ object_list:
     location: ["Otaheite [Tahiti, French Polynesia]",  "Marquesas Islands [French Polynesia]", "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]"]
     contemporary country: ["French Polynesia", "South Africa"]
     named people: ["John Robinson (American Sailor)"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-38_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-38_thumb.jpg
     figure:
       - id: cat-1-38
   - id: "cat-1826-p.39"
@@ -441,7 +446,7 @@ object_list:
     location: ["Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Congo River [Central Africa]",  "Bethelsdorp [Eastern Cape, South Africa]"]
     contemporary country: ["South Africa", "Democratic Republic of Congo"]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-39_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-39_thumb.jpg
     figure:
       - id: cat-1-39
   - id: "cat-1826-p.40"
@@ -452,7 +457,7 @@ object_list:
     location: ["Mashow country [Capital of the Ratlou Barolong, South Africa]",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]"]
     contemporary country: ["South Africa"]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-40_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-40_thumb.jpg
     figure:
       - id: cat-1-40
   - id: "cat-1826-p.41"
@@ -463,7 +468,7 @@ object_list:
     location: []
     contemporary country: ["South Africa"]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-41_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-41_thumb.jpg
     figure:
       - id: cat-1-41
   - id: "cat-1826-p.42"
@@ -474,7 +479,7 @@ object_list:
     location: ["Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Pacaltsdorp (Hooge Kraal) [Western Cape, South Africa]", "Moravian Settlement [Genadendal, Western Cape, South Africa]",  "Bethelsdorp [Eastern Cape, South Africa]"]
     contemporary country: ["South Africa"]
     named people: ["Johannes Kicherer", "Johannes Theodosius Van der Kemp"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-42_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-42_thumb.jpg
     figure:
       - id: cat-1-42
   - id: "cat-1826-p.43"
@@ -485,7 +490,7 @@ object_list:
     location: ["Kurrichane / Kurreechane [Kaditshwene, North West, South Africa]", "Bethelsdorp [Eastern Cape, South Africa]", "Coranna Country [Northern Cape, South Africa]",  "Cedar Mountains [Cedarberg, Western Cape, South Africa]", "Buck's Fountain, in the Wild Bushmen's country [Karoo, Northern Cape, South Africa]"]
     contemporary country: ["South Africa"]
     named people: ["John Campbell"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-43_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-43_thumb.jpg
     figure:
       - id: cat-1-43
   - id: "cat-1826-p.44"
@@ -496,7 +501,7 @@ object_list:
     location: ["Demerara [Guyana]", "Indian Ocean", "South America",  "Amboyna [Ambon Island, Indonesia]",  "Molucca Islands [Moluccas, Indonesia]"]
     contemporary country: ["Guyana", "Indonesia", "South Africa"]
     named people: ["John Wray",  "Joseph Kam",  "John Campbell"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-44_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-44_thumb.jpg
     figure:
       - id: cat-1-44
   - id: "cat-1826-p.45"
@@ -507,7 +512,7 @@ object_list:
     location: []
     contemporary country: ["South Africa"]
     named people: ["Rev. Mr Sabine",  "John Campbell"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-45_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-45_thumb.jpg
     figure:
       - id: cat-1-45
   - id: "cat-1826-p.46"
@@ -518,7 +523,7 @@ object_list:
     location: ["New Zealand [Aoteaoroa]",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Otaheite [Tahiti, French Polynesia]"]
     contemporary country: ["New Zealand", "South Africa", "French Polynesia"]
     named people: ["Mrs Pirie of Clerkenwell",  "William Ellis"]
-    tnail: figures/cat-1826/Thumbnails/cat-1-46_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-46_thumb.jpg
     figure:
       - id: cat-1-46
   - id: "cat-1826-p.47"
@@ -529,6 +534,6 @@ object_list:
     location: [""]
     contemporary country: ["China"]
     named people: [""]
-    tnail: figures/cat-1826/Thumbnails/cat-1-47_thumb.jpg
+    thumbnail: figures/cat-1826/Thumbnails/cat-1-47_thumb.jpg
     figure:
       - id: cat-1-47
