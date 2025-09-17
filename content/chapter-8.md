@@ -1,6 +1,6 @@
 ---
-label: 26 June 1823
-title: Old Lattakoo
+label: 8
+title: 26 June 1823, Old Lattakoo
 subtitle: 
 layout: splash
 order: 37

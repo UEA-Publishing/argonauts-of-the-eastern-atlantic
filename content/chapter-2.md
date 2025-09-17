@@ -1,6 +1,6 @@
 ---
-label: 21 November 1803
-title: Scots Church
+label: 2
+title: 21 November 1803, Scots Church
 subtitle: 
 layout: splash
 order: 31

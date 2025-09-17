@@ -1,6 +1,6 @@
 ---
-label: 21 May 1825
-title: Bahtabah
+label: 10
+title: 21 May 1825, Bahtabah
 subtitle: 
 layout: splash
 order: 39

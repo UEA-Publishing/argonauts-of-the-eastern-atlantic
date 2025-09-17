@@ -7,8 +7,7 @@ object_filters:
   - date
   
 object_display_order:
-  - locations
-  - named people
+- locations
 
 object_card:
   - title

@@ -1,6 +1,6 @@
 ---
-label: 31 July 1814
-title: Klaarwater
+label: 3
+title: 31 July 1814, Klaarwater
 subtitle: 
 layout: splash
 order: 32

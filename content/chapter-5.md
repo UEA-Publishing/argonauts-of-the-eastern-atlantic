@@ -1,6 +1,6 @@
 ---
-label: June 1819
-title: Le Resouvenir
+label: 5
+title: June 1819, Le Resouvenir
 subtitle: 
 layout: splash
 order: 34

@@ -1,6 +1,6 @@
 ---
-label: 16 March 1797
-title: Matavai Bay
+label: 1
+title: 16 March 1797, Matavai Bay
 subtitle:
 layout: splash
 order: 30

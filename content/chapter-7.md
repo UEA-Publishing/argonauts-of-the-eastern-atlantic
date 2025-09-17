@@ -1,6 +1,6 @@
 ---
-label: 31 March 1822
-title: Kealekekua Bay
+label: 7
+title: 31 March 1822, Kealekekua Bay
 subtitle: 
 layout: splash
 order: 36

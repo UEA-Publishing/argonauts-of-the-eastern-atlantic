@@ -1,6 +1,6 @@
 ---
-label: 23 July 1825
-title: Bangalore
+label: 11
+title: 23 July 1825, Bangalore
 subtitle:
 layout: splash
 order: 40

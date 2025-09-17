@@ -1,6 +1,6 @@
 ---
-label: September 1819
-title: Calcutta
+label: 6
+title: September 1819, Calcutta
 subtitle: 
 layout: splash
 order: 35

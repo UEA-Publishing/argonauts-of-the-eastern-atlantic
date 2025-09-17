@@ -1,6 +1,6 @@
 ---
-label: 31 October 1816
-title: Parramatta
+label: 4
+title: 31 October 1816, Parramatta
 subtitle: 
 layout: splash
 order: 33

@@ -1,6 +1,6 @@
 ---
-label: 13 May 1824
-title: Queen Street Chapel
+label: 9
+title: 13 May 1824, Queen Street Chapel
 subtitle: 
 layout: splash
 order: 38
