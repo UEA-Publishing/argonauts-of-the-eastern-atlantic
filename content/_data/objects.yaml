@@ -6,14 +6,9 @@ object_filters:
   - named people
   - date
   
-
 object_display_order:
-  - regions
   - locations
-  - countries
-  - artefact types
   - named people
-  - date
 
 object_card:
   - title
@@ -91,7 +86,7 @@ object_list:
     title: "Page 7 - Case B & Top of Case B"
     date: "1823, July"
     artefact types: ["Specimens in Natural History",  "Manufactures, Domestic Utensils"]
-    regions: ["Africa",  "Pacific"]
+    regions: ["Africa",  "Pacific", "Central Asia"]
     locations: ["Boschuana Country [Northern Cape, South Africa]",  "Kamskatcha [Kamchatka Peninsula, Russia]",  "Sandwich Islands [Hawai'i, USA]",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]"]
     countries: ["South Africa", "USA", "Russia"]
     named people: ["John Campbell",  "William Thom",  "Kgosi Mothibi (King of Lattakoo)",  "William Ellis"]
@@ -103,7 +98,7 @@ object_list:
     date: 
     artefact types: ["Specimens in Natural History"]
     regions: ["Africa",  "Middle East",  "Madagascar",  "Central Asia"]
-    locations: ["Cape Colony [Western Cape, South Africa]", " Dauria and Siberia [Russia]",  "Barbary [North Africa]",  "Dauria & Siberia [Russia]"]
+    locations: ["Cape Colony [Western Cape, South Africa]", "Siberia [Russia]",  "Barbary [North Africa]",  "Dauria [Dauriya, Russia]"]
     countries: ["South Africa", "Russia", "Madagascar"]
     named people: ["William Thom"]
     thumbnail: figures/cat-1826/Thumbnails/cat-1-8_thumb.jpg
@@ -132,18 +127,18 @@ object_list:
     figure:
       - id: cat-1-10
   - id: "cat-1826-p.11"
-    title: "Page 11 - Case D"
+    title: "Page 11 - Case D & 'Over Case D'"
     date: "1820, May, 19"
     artefact types: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     regions: ["Africa",  "Pacific"]
-    locations: ["Society Islands [French Polynesia]",  "Rurutu [French Polynesia]",  "Sandwich Islands [Hawai'i, USA]",  "Mashow country [Capital of the Ratlou Barolong, South Africa]"]
+    locations: ["Society Islands [French Polynesia]", "Island of Hawaii [Large Island, Hawai'i, USA]",  "Rurutu [French Polynesia]",  "Sandwich Islands [Hawai'i, USA]",  "Mashow country [Capital of the Ratlou Barolong, South Africa]"]
     countries: ["South Africa", "French Polynesia", "USA"]
     named people: ["John Campbell",  "William Ellis"]
     thumbnail: figures/cat-1826/Thumbnails/cat-1-11_thumb.jpg
     figure:
       - id: cat-1-11
   - id: "cat-1826-p.12"
-    title: "Page 12 - Case D & on the top of Case D"
+    title: "Page 12 - 'Over Case D'"
     date: "1820, May 19"
     artefact types: ["Specimens in Natural History"]
     regions: ["Africa"]
@@ -154,7 +149,7 @@ object_list:
     figure:
       - id: cat-1-12
   - id: "cat-1826-p.13"
-    title: "Page 13 - Over the doors & Case E"
+    title: "Page 13 - 'Over the Doors' & Case E"
     date: 
     artefact types: ["Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     regions: ["Africa"]
@@ -165,18 +160,18 @@ object_list:
     figure:
       - id: cat-1-13
   - id: "cat-1826-p.14"
-    title: "Page 14 - Case E & Over the Case E"
+    title: "Page 14 - Case E & 'Over the Case E'"
     date: 
     artefact types: ["Specimens in Natural History"]
     regions: ["Africa",  "India",  "Pacific",  "South East Asia"]
     locations: ["Indian Ocean"]
-    countries: ["South Africa"]
+    countries: ["South Africa", "India"]
     named people: ["John Campbell"]
     thumbnail: figures/cat-1826/Thumbnails/cat-1-14_thumb.jpg
     figure:
       - id: cat-1-14
   - id: "cat-1826-p.15"
-    title: "Page 15 - Centre of the Room & On the Rails"
+    title: "Page 15 - 'Centre of the Room' & 'On the Rails'"
     date: "1814, July, 31"
     artefact types: ["Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     regions: ["Africa"]
@@ -187,13 +182,13 @@ object_list:
     figure:
       - id: cat-1-15
   - id: "cat-1826-p.16"
-    title: "Page 16 - On the Rails & Case F"
+    title: "Page 16 - 'On the Rails' & Case F"
     date: 
     artefact types: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
     regions: ["Africa",  "Pacific"]
     locations: ["Kurrichane / Kurreechane [Kaditshwene, North West, South Africa]", "New Zealand [Aoteaoroa]",  "Maute [Ma'uke, Cook Islands]",  "Rarotonga [Cook Islands]"]
     countries: ["South Africa", "New Zealand", "Cook Islands" ]
-    named people: [""]
+    named people: ["John Campbell"]
     thumbnail: figures/cat-1826/Thumbnails/cat-1-16_thumb.jpg
     figure:
       - id: cat-1-16
@@ -242,18 +237,18 @@ object_list:
     figure:
       - id: cat-1-20
   - id: "cat-1826-p.21"
-    title: "Page 21 - Case F & Over Case F"
+    title: "Page 21 - Case F & 'Over the Case"
     date: 
     artefact types: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils"]
     regions: ["Pacific"]
-    locations: ["Otaheite [Tahiti, French Polynesia]",  "Hawai'i (Large Island) [Hawai'i, USA]", "Sandwich Islands [Hawai'i, USA]",]
-    countries: ["French Polynesia", "USA"]
+    locations: ["Otaheite [Tahiti, French Polynesia]",  "Island of Hawaii [Large Island, Hawai'i, USA]", "Sandwich Islands [Hawai'i, USA]",]
+    countries: ["French Polynesia", "USA", "New Zealand"]
     named people: ["William Ellis",  "Rowland Hill"]
     thumbnail: figures/cat-1826/Thumbnails/cat-1-21_thumb.jpg
     figure:
       - id: cat-1-21
   - id: "cat-1826-p.22"
-    title: "Page 22 - Case G"
+    title: "Page 22 - 'Over Case F' & Case G"
     date: 
     artefact types: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
     regions: ["Madagascar",  "Pacific"]
@@ -264,7 +259,7 @@ object_list:
     figure:
       - id: cat-1-22
   - id: "cat-1826-p.23"
-    title: "Page 23 -  Case G & Case H"
+    title: "Page 23 -  Case G, 'Opposite Case G' & Case H"
     date: 
     artefact types: ["Dresses",  "Idols of Heathen Nations",  "Manufactures, Domestic Utensils"]
     regions: ["Madagascar", "India", "Americas"]
@@ -358,7 +353,7 @@ object_list:
     regions: ["India"]
     locations: ["Mysore [Mysuru, India]"]
     countries: [India]
-    named people: [""]
+    named people: ["William Ward"]
     thumbnail: figures/cat-1826/Thumbnails/cat-1-31_thumb.jpg
     figure:
       - id: cat-1-31
@@ -412,8 +407,8 @@ object_list:
     artefact types: ["Dresses",  "Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils",  "Publication"]
     regions: ["Americas",  "India",  "Middle East",  "South East Asia"]
     locations: ["Java [Indonesia]",  "Berbice [Guyana]", "Persia [Iran]", "Turkey" ]
-    countries: ["Indonesia", "Guyana", "Iran", "Turkey"]
-    named people: ["John Wray"]
+    countries: ["India", "Indonesia", "Guyana", "Iran", "Turkey"]
+    named people: ["John Wray", "Isaac Watts"]
     thumbnail: figures/cat-1826/Thumbnails/cat-1-36_thumb.jpg
     figure:
       - id: cat-1-36
@@ -444,7 +439,7 @@ object_list:
     date: 
     artefact types: ["Dresses",  "Manufactures, Domestic Utensils"]
     regions: ["Africa"]
-    locations: ["Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Congo River [Central Africa]",  "Bethelsdorp [Eastern Cape, South Africa]"]
+    locations: ["Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "River Congo [Central Africa]",  "Bethelsdorp [Eastern Cape, South Africa]"]
     countries: ["South Africa", "Democratic Republic of Congo"]
     named people: [""]
     thumbnail: figures/cat-1826/Thumbnails/cat-1-39_thumb.jpg
@@ -455,9 +450,9 @@ object_list:
     date: 
     artefact types: ["Dresses",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     regions: ["Africa"]
-    locations: ["Mashow country [Capital of the Ratlou Barolong, South Africa]",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]"]
+    locations: ["Mashow country [Capital of the Ratlou Barolong, South Africa]", "Coranna Country [Northern Cape, South Africa]", "Kurrichane / Kurreechane [Kaditshwene, North West, South Africa]", "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]"]
     countries: ["South Africa"]
-    named people: [""]
+    named people: ["John Campbell"]
     thumbnail: figures/cat-1826/Thumbnails/cat-1-40_thumb.jpg
     figure:
       - id: cat-1-40
@@ -468,7 +463,7 @@ object_list:
     regions: ["Africa"]
     locations: []
     countries: ["South Africa"]
-    named people: [""]
+    named people: ["Johannes Kicherer", "Johannes Theodosius Van der Kemp"]
     thumbnail: figures/cat-1826/Thumbnails/cat-1-41_thumb.jpg
     figure:
       - id: cat-1-41
@@ -479,12 +474,12 @@ object_list:
     regions: ["Africa"]
     locations: ["Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Pacaltsdorp (Hooge Kraal) [Western Cape, South Africa]", "Moravian Settlement [Genadendal, Western Cape, South Africa]",  "Bethelsdorp [Eastern Cape, South Africa]"]
     countries: ["South Africa"]
-    named people: ["Johannes Kicherer", "Johannes Theodosius Van der Kemp"]
+    named people: []
     thumbnail: figures/cat-1826/Thumbnails/cat-1-42_thumb.jpg
     figure:
       - id: cat-1-42
   - id: "cat-1826-p.43"
-    title: "Page 43 - Case H & On Top of Case H"
+    title: "Page 43 - Case H & 'On Top of Case H'"
     date: "1823, May, 19"
     artefact types: ["Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     regions: ["Africa"]
@@ -495,7 +490,7 @@ object_list:
     figure:
       - id: cat-1-43
   - id: "cat-1826-p.44"
-    title: "Page 44 - On Top of Case H & Case I"
+    title: "Page 44 - 'On Top of Case H' & Case I"
     date: 
     artefact types: ["Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     regions: ["Africa",  "Americas",  "China",  "India",  "South East Asia"]
@@ -506,7 +501,7 @@ object_list:
     figure:
       - id: cat-1-44
   - id: "cat-1826-p.45"
-    title: "Page 45 - Over Case I & Three Glass Cases"
+    title: "Page 45 - 'Over Case I' & 'Three Glass Cases'"
     date: 
     artefact types: ["Manufactures, Domestic Utensils",  "Publication",  "Specimens in Natural History"]
     regions: ["Africa",  "Europe",  "Pacific", "Americas"]
@@ -517,18 +512,18 @@ object_list:
     figure:
       - id: cat-1-45
   - id: "cat-1826-p.46"
-    title: "Page 46 - Three Glass Cases in the Centre of the Room"
+    title: "Page 46 - 'On the other side' & 'In the same Room"
     date: 
     artefact types: ["Idols of Heathen Nations",  "Instruments of War",  "Manufactures, Domestic Utensils",  "Specimens in Natural History"]
     regions: ["Africa",  "Pacific"]
-    locations: ["New Zealand [Aoteaoroa]",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Otaheite [Tahiti, French Polynesia]"]
-    countries: ["New Zealand", "South Africa", "French Polynesia"]
+    locations: ["New Zealand [Aoteaoroa]",  "Lattakoo [Dithakong or Maruping, Northern Cape, South Africa]",  "Otaheite [Tahiti, French Polynesia]", "Island of Hawaii [Large Island, Hawai'i, USA]"]
+    countries: ["New Zealand", "South Africa", "French Polynesia", "USA"]
     named people: ["Mrs Pirie of Clerkenwell",  "William Ellis"]
     thumbnail: figures/cat-1826/Thumbnails/cat-1-46_thumb.jpg
     figure:
       - id: cat-1-46
   - id: "cat-1826-p.47"
-    title: "Page 47 - Three Glass Cases in the Centre of the Room & Form of a Bequest"
+    title: "Page 47 - 'In the same Room' & 'Form of a Bequest'"
     date: 
     artefact types: ["Manufactures, Domestic Utensils",  "Publication"]
     regions: ["China",  "Europe"]
