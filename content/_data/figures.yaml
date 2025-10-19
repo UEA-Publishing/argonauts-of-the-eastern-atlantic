@@ -109,10 +109,10 @@ figure_list:
     credit: "© The Trustees of the British Museum (1868,0808.3151)"
     alt: "A historical scene depicting a ritual with participants, traditional huts, palm trees, and a display of skulls in a tropical setting."
   - id: "fig-c1-10"
-    src: figures/part-1/1/c1-10.png
+    src: figures/part-1/1/c1-10.jpg
     label: "Figure 10"
-    caption: "Map of Cook's Three Voyages showing the location of Tahiti at the centre of the Pacific Ocean"
-    credit: "With thanks to Astrofella"
+    caption: "Map showing Cook's Three Voyages, with the location of Tahiti and Hawai'i near the centre of the Pacific Ocean"
+    credit: "Produced in Google Maps (location data supplied by the Mariners' Museum and Park)"
     alt: "Map illustrating Captain James Cook's Pacific voyages, detailing routes taken by the Endeavour and Resolution ships between 1768-1779."
   - id: "fig-c1-11"
     src: figures/part-1/1/c1-11.jpg
