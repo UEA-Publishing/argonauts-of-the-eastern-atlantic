@@ -37,11 +37,11 @@ Disrupting what Ann-Laura Stoler has called familiar stories with predictable pl
 
 A couple of weeks before the gallery opening in Greenwich, I left my job as a curator at the [Museum of Archaeology & Anthropology](https://maa.cam.ac.uk/) in Cambridge. The collection there includes a number of historic artefacts collected during Cook’s voyages that remain celebrities within the collection. Regularly visited by researchers and loaned for exhibitions around the world, their carbon footprint was significantly higher than mine in most of the years I worked at the museum, and in the anniversary year of 2018 in particular.
 
-{% figure "fig-c1-5" 'is-pulled-left' %}
+{% figure "fig-c1-5" %}
 
 Greenwich’s Pacific Encounters gallery is framed by Cook’s voyages, showcasing the dramatic oil paintings of William Hodges, a young theatre scene painter who accompanied Cook on his second voyage from 1772 to 1775. Hodges was a romantic who depicted Tahiti as a latter-day Eden in the paintings he completed after his return to London, paid for by the British Admiralty.
 
-{% figure "fig-c1-6" 'is-pulled-right' %}
+{% figure "fig-c1-6" %}
 
  Hodges made a number of paintings of Matavai Bay and experimented with how to present this landscape – a natural paradise, untouched by European influence, or alternatively a backdrop against which to contrast the sailing vessels, forms of dress and buildings of one island people with that of another.
 
@@ -147,9 +147,9 @@ Thomas Penn allegedly hired three men to run on a prepared trail, one of whom ma
 
 The image of a peaceful treaty and grant of land, painted nearly 90 years later, was a piece of idealistic propaganda that glossed a more complex history of exploitation, expropriation and violence which followed this hopeful initial moment. [^11]
 
-Like _Penn’s Treaty with the Indians_, the _Cession of Matavai_ is a charter painting, depicting a moment of Christian good faith, while at the same time staking a claim to land, as well as a glorious imagined future. Unlike West’s painting, it was made very soon after the events it depicted. The _Duff_ arrived home in July 1798, and by the end of April 1799 _the Cession of Matavai_ was on display at the Royal Academy in London.
+Like _Penn’s Treaty with the Indians_, the _Cession of Matavai_ is a charter painting, depicting a moment of Christian good faith, while at the same time staking a claim to land, as well as a glorious imagined future. Unlike West’s painting, it was made very soon after the events it depicted. The _Duff_ arrived home in July 1798, and by the end of April 1799 _the Cession of Matavai_ was on display at the Royal Academy. In the same year, an illustrated account of her first _Missionary Voyage_ was published in London.
 
-Looking back from our contemporary vantage point, two and a quarter centuries in the future, we can ask how the future anticipated by the painting actually unfolded. How do we now remember British overseas missionary activity of the nineteenth and twentieth centuries? How far and how quickly did it depart from its initial ideals?
+Looking back from our contemporary vantage point, two and a quarter centuries later, we can ask how the future anticipated by the painting actually unfolded. How do we now remember British overseas missionary activity of the nineteenth and twentieth centuries? How far and how quickly did it depart from its initial ideals?
 
 On 6 March 1798, a year after the missionaries' arrival, Tahiti was visited by the Nautilus, a trading vessel from Macao. Missionary efforts to prevent the Captain supplying weapons and gunpowder to the Tahitians angered Tu, engaged in his own campaign of expansion and conquest enabled by his access to European weaponry. In fear of possible reprisals, most of the missionaries, their wives and children left Tahiti on the Nautilus, bound for Port Jackson, as Sydney, Australia, was known at the time.
 
@@ -165,7 +165,7 @@ Only in August 1799, after the Royal Academy exhibition had closed, did news rea
 
 The remaining missionaries rapidly discovered that although they had been allowed to stay and to eat food produced at Matavai Bay, they were definitely not regarded as owners of the land.
 
-The mismatch between the imagery, created in London, and the reality, experienced in Tahiti, could not have been starker as the eighteenth century drew to a close. Nevertheless, in century that followed, missionary activity would become increasingly central to British understandings of, and engagements with, other parts of the world.
+The mismatch between the imagery, created in London, and the reality, experienced in Tahiti, could not have been starker as the eighteenth century drew to a close. Nevertheless, in the century that followed, missionary activity would become increasingly central to British understandings of, and engagements with, other parts of the world.
 
 {% backmatter %}
 
