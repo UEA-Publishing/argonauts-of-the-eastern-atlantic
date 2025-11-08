@@ -1,5 +1,5 @@
 ---
-label: 5
+label: Scene 5
 title: June 1819, Le Resouvenir
 subtitle: 
 layout: splash

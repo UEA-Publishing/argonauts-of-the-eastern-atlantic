@@ -1,5 +1,5 @@
 ---
-label: 3
+label: Scene 3
 title: 31 July 1814, Klaarwater
 subtitle: 
 layout: splash

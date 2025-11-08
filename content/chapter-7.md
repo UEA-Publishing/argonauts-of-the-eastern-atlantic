@@ -1,5 +1,5 @@
 ---
-label: 7
+label: Scene 7
 title: 31 March 1822, Kealekekua Bay
 subtitle: 
 layout: splash

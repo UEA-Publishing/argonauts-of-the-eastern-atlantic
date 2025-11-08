@@ -1,5 +1,5 @@
 ---
-label: 8
+label: Scene 8
 title: 26 June 1823, Old Lattakoo
 subtitle: 
 layout: splash

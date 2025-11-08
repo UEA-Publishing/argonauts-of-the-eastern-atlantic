@@ -1,5 +1,5 @@
 ---
-label: 4
+label: Scene 4
 title: 31 October 1816, Parramatta
 subtitle: 
 layout: splash

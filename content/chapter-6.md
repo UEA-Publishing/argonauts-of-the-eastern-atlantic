@@ -1,5 +1,5 @@
 ---
-label: 6
+label: Scene 6
 title: September 1819, Calcutta
 subtitle: 
 layout: splash

@@ -1,5 +1,5 @@
 ---
-label: 9
+label: Scene 9
 title: 13 May 1824, Queen Street Chapel
 subtitle: 
 layout: splash

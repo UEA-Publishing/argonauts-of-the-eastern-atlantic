@@ -1,5 +1,5 @@
 ---
-label: 1
+label: Scene 1
 title: 16 March 1797, Matavai Bay
 subtitle:
 layout: splash

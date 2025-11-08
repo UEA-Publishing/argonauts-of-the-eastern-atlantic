@@ -1,5 +1,5 @@
 ---
-label: 11
+label: Scene 11
 title: 23 July 1825, Bangalore
 subtitle:
 layout: splash

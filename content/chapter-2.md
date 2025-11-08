@@ -1,5 +1,5 @@
 ---
-label: 2
+label: Scene 2
 title: 21 November 1803, Scots Church
 subtitle: 
 layout: splash
