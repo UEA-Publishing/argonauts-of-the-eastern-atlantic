@@ -52,7 +52,7 @@ contributor:
     last_name: Wingfield
     title: Associate Professor in the Arts of Africa
     affiliation: University of East Anglia
-    bio: "With degrees in Archaeology & Anthropology as well as Material Anthropology and Museum Ethnography from the University of Oxford, Chris completed his PhD on the Museum of the London Missionary Society at the Department of Theology and Religion, University of Birmingham. Over the past two decades he has worked as a researcher at the Pitt Rivers Museum in Oxford, as a curator at Birmingham Museum & Art Gallery and the Museum of Archaeology & Anthropology in Cambridge, as well as at the Open University as an Associate Lecturer. Since 2018 he has worked at the Sainsbury Research Unit for the Arts of Africa, Oceania and the Americas at the University of East Anglia."
+    bio: "With degrees in Archaeology & Anthropology as well as Material Anthropology and Museum Ethnography from the University of Oxford, Chris completed his PhD on 'the Moving Objects of the London Missionary Society' at the Department of Theology and Religion, University of Birmingham. Over the past two decades he has worked as a researcher at the Pitt Rivers Museum in Oxford, as a curator at Birmingham Museum & Art Gallery and the Museum of Archaeology & Anthropology in Cambridge, as well as at the Open University. Since 2018 he has worked at the Sainsbury Research Unit for the Arts of Africa, Oceania and the Americas at the University of East Anglia."
     url: https://www.sainsburyresearchunit.org/chris-wingfield
     image: contributors/Sepia_CW.jpg
 
@@ -73,10 +73,10 @@ license:
 # ------------------------------------------------------------------------------
 
 resource_link:
-  - type: footer-link
-    name: About
-    link_relation: about
-    url: /about/
+ - type: footer-link
+   name: About
+   link_relation: about
+   url: /about/
  # - type: footer-link
   #  name: Privacy Policy
   #  link_relation: privacy-policy
