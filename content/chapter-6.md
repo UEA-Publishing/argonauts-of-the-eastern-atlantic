@@ -248,7 +248,7 @@ missionarysketch00lond/page/n40/mode/1up [retrieved 15.07.22].
 
 [^33]: Richards, Marilyn and Peter Hughes. 2005. Rammohum Roy, Dictionary of Unitarian & Universalist Biography, https://uudb.org/articles/rajarammohunroy.html [retrieved 15.07.22].
 
-[^34]: Together with Roy and Dwarkanath Tagore, Adam founded the Calcutta Unitarian Committee in 1821.⁠  In 1828, Roy left the Unitarians to establish Brahmo Samaj, a Hindu version of Unitarianism, based on the Vedas. In 1829 he journeyed to England to lobby for a law to be passed by the British parliament against Sati or widow burning. Roy became a supporter of the 1832 Reform Bill, hoping that Britain might succeed in ‘banishing corruption and selfish interests from public proceedings’ but sadly became ill and died in Bristol where he was buried in 1833.
+[^34]: Together with Roy and Dwarkanath Tagore, Adam founded the Calcutta Unitarian Committee in 1821.  In 1828, Roy left the Unitarians to establish Brahmo Samaj, a Hindu version of Unitarianism, based on the Vedas. In 1829 he journeyed to England to lobby for a law to be passed by the British parliament against Sati or widow burning. Roy became a supporter of the 1832 Reform Bill, hoping that Britain might succeed in ‘banishing corruption and selfish interests from public proceedings’ but sadly became ill and died in Bristol where he was buried in 1833.
 
 [^35]: 1826. Catalogue of the Missionary Museum, Austin Friar’s, including specimens in natural history… idols … dresses, etc. London. British Library General Reference Collection 4766.e.19(2.)
 
