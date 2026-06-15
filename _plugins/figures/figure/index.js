@@ -22,6 +22,12 @@ module.exports = class Figure {
       } else if (this.typstFile) {
         // Handle Typst files here
         // ... code to handle Typst files ...
+      } else if (this.pandocFile) {
+        // Handle Pandoc files here
+        // ... code to handle Pandoc files ...
+      } else if (this.quireFile) {
+        // Handle Quire files here
+        // ... code to handle Quire files ...
       }
 
       if (this.annotations && this.annotations.length > 0) {
