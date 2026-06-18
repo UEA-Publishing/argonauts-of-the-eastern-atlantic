@@ -240,15 +240,22 @@ html {
         }
 
         ul {
+          list-style: none;
           li {
             margin-left: 1em;
-            &::marker {
+            &:before {
               @if $theme == classic {
-                content: "✦ ";
+                content: "✦";
               } @else {
-                content: "◆ ";
+                content: "◆";
               }
               font-size: 0.875rem;
+              display: block;
+              float: left;
+              width: 1em;
+              margin-left: -1.3em;
+              box-sizing: border-box;
+              vertical-align: text-top;
             }
           }
         }
