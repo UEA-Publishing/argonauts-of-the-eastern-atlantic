@@ -46,3 +46,16 @@ thumbs.db
 #Public
 public
 .aider*
+
+# Typst PDF pipeline (local only, not part of web/EPUB build)
+typst/
+_plugins/build-and-exit.js
+_plugins/transforms/outputs/pdf/analyze-layout.js
+_plugins/transforms/outputs/pdf/analyze-text-reflow.js
+CLAUDE.md
+*.pdf
+*.epub
+
+# Personal notes
+NH\ Refs/
+aider-delegation-prep.md
