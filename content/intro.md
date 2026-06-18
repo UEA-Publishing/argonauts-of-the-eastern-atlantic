@@ -40,6 +40,7 @@ The Golden Bough_ was also a significant influence on Joyce (as well as T.S. Eli
 Although Malinowski presented his work as inaugurating something of a revolution in Anthropology, his approach was significantly shaped by his engagement with Frazer, providing at the very least an explanation for the title of his book. In the same way that Conrad’s _Heart of Darkness_ is structured around the story of a European’s voyage to the interior of the African continent, where he comes to dominate and rule, Malinowski’s account, while ostensibly about the Kula, also emphasises his own heroic role as an ethnographer who gains an understanding of the operation of Kula that is essentially superior to that of those who participate in it. This is an anthropological version of ‘the hero’s journey’ myth – explored by Joseph Campbell’s 1949 book, _The Hero with a Thousand Faces_ (a major influence on George Lucas’ Star Wars franchise and not unrelated to what Teju Cole, in 2012, called ‘the White-Saviour Industrial complex’).
 
 {% figure "fig-intro-part-1-4" 'is-pulled-right' %}
+
 {% figure "fig-intro-part-1-5" 'is-pulled-right' %}
 
 Across the literary and artistic manifestations of modernism, a common theme is the European appropriation and of ‘the primitive’ in order to refresh or renew the artistic and intellectual traditions of Europe. It was not uncommon for mid-century Europeans to see themselves as the ones who ‘really’ understood artistic or ceremonial practices in other parts of world. Although twentieth-century Social Anthropology has long been recognised as a modernist form of _Writing Culture_ (Clifford and Marcus 1986), the fact is that _Argonauts of the Western Pacific_ is still widely regarded as an exemplary ethnographic text.
@@ -89,8 +90,8 @@ In constructing his own account, Peel worried about ‘how to simplify a complic
 It is striking that in setting out his vision of the history of human thought, Frazer (1911, 307-8) constructed a similar material metaphor:
 
 >_A web of three different threads – the black thread of magic, the red thread of religion, and the white thread of science, if under science we may include those simple truths drawn from the observation of nature…_
-
-_Could we survey the web of thought from the beginning, we should probably perceive it to be at first a chequer of black and white… But carry your eye further along the fabric and you will remark that, while the black thread and white chequer still run through it, there rests on the middle portion of the web, where religion has entered most deeply into its texture, a dark crimson stain…_
+>
+>_Could we survey the web of thought from the beginning, we should probably perceive it to be at first a chequer of black and white… But carry your eye further along the fabric and you will remark that, while the black thread and white chequer still run through it, there rests on the middle portion of the web, where religion has entered most deeply into its texture, a dark crimson stain…_
 
 In constructing an artefactual history of the London Missionary Society, my ambition is similarly to construct a narrative out of multiple interlocking strands, coming in and out of conjunction with one another in different ways at different times.
 

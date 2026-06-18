@@ -45,6 +45,18 @@ module.exports = function(eleventyConfig, collections, content) {
    * Removes preceding slashes from asset paths
    * @param {HTMLElement} element 
    */
+  /**
+   * Replace background-image hero elements with visible <img> for epub readers
+   */
+  const transformHeroImages = (element) => {
+    const heros = element.querySelectorAll('.quire-page__header.hero, .quire-cover__overlay')
+    heros.forEach((item) => {
+      item.style.backgroundImage = ''
+      const hiddenImg = item.querySelector('img.visually-hidden')
+      if (hiddenImg) hiddenImg.remove()
+    })
+  }
+
   const transformPaths = (element) => {
     const images = element.querySelectorAll('img')
     const links = element.querySelectorAll('a')
@@ -164,6 +176,7 @@ module.exports = function(eleventyConfig, collections, content) {
     linkElement.setAttribute('href', `${filename(index, collections.epub[index])}${hash}`)
   })
 
+  transformHeroImages(body)
   transformPaths(body)
 
   /**
@@ -179,6 +192,10 @@ module.exports = function(eleventyConfig, collections, content) {
   const item = {
     encodingFormat: 'application/xhtml+xml',
     url: outputFilename
+  }
+
+  if (page.data.epub_position) {
+    item.epub_position = page.data.epub_position
   }
 
   const pageHasSvgContent = !!body.querySelector('svg')

@@ -195,8 +195,8 @@ window.customElements.define('objects-catalog', class extends HTMLElement {
     this.filterSelectElements.forEach((element) => {
       element.addEventListener('change', this.onFilterChange);
     });
-    this.applyButton.addEventListener('click', this.onApplyFilters);
-    this.resetButton.addEventListener('click', this.onResetFilters);
+    if (this.applyButton) this.applyButton.addEventListener('click', this.onApplyFilters);
+    if (this.resetButton) this.resetButton.addEventListener('click', this.onResetFilters);
     if (window.location.search) {
       const searchParams = new URLSearchParams(window.location.search);
       for (const [key, value] of searchParams.entries()) {
@@ -335,7 +335,7 @@ const classes = [
 ];
 window.addEventListener('load', () => {
   const element = document.querySelector('.object-filters');
-  element.classList.add(...classes);
+  if (element) element.classList.add(...classes);
 });
 </script>
 <style>

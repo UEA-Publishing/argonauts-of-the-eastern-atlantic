@@ -76,7 +76,7 @@ resource_link:
  - type: footer-link
    name: About
    link_relation: about
-   url: /about/
+   url: http://openaccess.ueapublishingproject.com
  # - type: footer-link
   #  name: Privacy Policy
   #  link_relation: privacy-policy
@@ -121,4 +121,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: static-cover.jpg
+promo_image: cover.jpg

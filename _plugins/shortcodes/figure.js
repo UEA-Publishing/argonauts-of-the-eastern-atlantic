@@ -5,6 +5,21 @@ const logger = chalkFactory('shortcodes:figure')
 
 const FETCH_PRIORITY_THRESHOLD = 2
 
+// Maps screen placement classes to print placement classes.
+// Print classes are appended alongside screen classes so screen CSS is unaffected.
+// Print stylesheet (print.scss) responds to print-* classes.
+// Authors can also pass print-* classes directly in markdown to override the mapping.
+const SCREEN_TO_PRINT_CLASS = {
+  'is-pulled-right':       'print-float-right',
+  'is-pulled-right-align': 'print-float-right',
+  'is-pulled-right-50':    'print-float-right-half',
+  'is-pulled-left':        'print-float-left',
+  'is-pulled-left-align':  'print-float-left',
+  'is-pulled-left-50':     'print-float-left-half',
+  'is-pulled-full-both':   'print-span',
+  'is-pulled-both-50':     'print-span',
+}
+
 /**
  * Render an HTML <figure> element
  *
@@ -33,6 +48,18 @@ module.exports = function (eleventyConfig) {
 
   return async function (id, classes=[]) {
     classes = typeof classes === 'string' ? [classes] : classes
+
+    // Append print class for any recognised screen placement class, unless
+    // the author has already included a print-* class directly.
+    // Classes may arrive as a single space-separated string — split before lookup.
+    const allTokens = classes.flatMap(c => c.split(/\s+/))
+    const hasPrintClass = allTokens.some(t => t.startsWith('print-'))
+    if (!hasPrintClass) {
+      const printClasses = allTokens
+        .map(t => SCREEN_TO_PRINT_CLASS[t])
+        .filter(Boolean)
+      classes = [...classes, ...printClasses]
+    }
 
     /**
      * Merge figures.yaml data and additional params

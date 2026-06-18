@@ -35,7 +35,10 @@
     "prepublishOnly": "npm run test",
     "preserve": "npm run clean",
     "serve": "cross-env ELEVENTY_ENV=production eleventy --serve",
-    "test": "node --test"
+    "test": "node --test",
+    "vivpipe:build": "node _plugins/build-and-exit.js",
+    "vivpipe": "del-cli _site/figure-heights.json && npm run vivpipe:build && (cd _site && vivliostyle build pdf.html -o ../test.pdf) && node _plugins/transforms/outputs/pdf/analyze-layout.js && npm run vivpipe:build && (cd _site && vivliostyle build pdf.html -o ../test.pdf)",
+    "vivpipe:refine": "node _plugins/transforms/outputs/pdf/analyze-layout.js && npm run vivpipe:build && (cd _site && vivliostyle build pdf.html -o ../test.pdf)"
   },
   "imports": {
     "#root/*": "./*",
@@ -90,6 +93,7 @@
     "mime-types": "^2.1.35",
     "module-alias": "^2.2.2",
     "path": "^0.12.7",
+    "pdfjs-dist": "^5.7.284",
     "prettier": "^3.0.0-alpha.4",
     "remove-markdown": "^0.5.0",
     "rollup-plugin-copy": "^3.4.0",

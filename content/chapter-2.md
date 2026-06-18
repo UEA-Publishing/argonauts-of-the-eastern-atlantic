@@ -5,15 +5,13 @@ subtitle:
 layout: splash
 order: 31
 image: figures/covers/c2-cover.jpg
-classes:
-  - page-one
 # page_pdf_output: true
 ---
 > ##### The Revd. Mr Kicherer, Mary, John, Martha
 
 {% figure "fig-c2-1" %}
 
-[_The Cession of Matavai_](https://argonauts2022.net/?p=43), together with the lavishly produced account of [the voyage of the _Duff_](https://archive.org/details/b28758110/page/n4/mode/1up?view=theater), capture the ambition of supporters of the Missionary Society at the end of the eighteenth century. Their high production cost, however, makes them unlike most of the images and texts circulated by the London Missionary Society during the nineteenth century. Image and text came together in the missionary periodical, some of the most widely circulated publications of the entire century.[^1] The focus of this chapter is an early image, printed to be bound opposite the title page of the [_Evangelical Magazine_](https://www.google.co.uk/books/edition/The_Evangelical_Magazine/4hsEAAAAQAAJ?hl=en&gbpv=1&dq=evangelical+magazine+1804&pg=PA329&printsec=frontcover) in January 1804.
+The [_Cession of Matavai_](https://argonauts2022.net/?p=43), together with the lavishly produced account of [the voyage of the _Duff_](https://archive.org/details/b28758110/page/n4/mode/1up?view=theater), capture the ambition of supporters of the Missionary Society at the end of the eighteenth century. Their high production cost, however, makes them unlike most of the images and texts circulated by the London Missionary Society during the nineteenth century. Image and text came together in the missionary periodical, some of the most widely circulated publications of the entire century.[^1] The focus of this chapter is an early image, printed to be bound opposite the title page of the [_Evangelical Magazine_](https://www.google.co.uk/books/edition/The_Evangelical_Magazine/4hsEAAAAQAAJ?hl=en&gbpv=1&dq=evangelical+magazine+1804&pg=PA329&printsec=frontcover) in January 1804.
 
 {% figure "fig-c2-2" %}
 
@@ -232,7 +230,7 @@ In 1806, less than three years after Mary, John and Martha visited London, and j
 
 {% backmatter %}
 
-## **Notes**
+## Notes
 
 [^1]: Jensz, Felicity, and Hanna Acke. “The Form and Function of Nineteenth-Century Missionary Periodicals: Introduction.” _Church History_ 82, no. 2 (2013): 368-73. <https://doi.org/10.1017/s0009640713000036>.  
 

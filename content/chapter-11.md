@@ -5,10 +5,14 @@ subtitle:
 layout: splash
 order: 40
 image: figures/covers/c11-cover.jpg
-classes:
-  - page-one
 # page_pdf_output: true
 ---
+
+<style>
+[data-page-id="page-chapter-11"] .quire-page__header.hero-image .hero-body .label,
+[data-page-id="page-chapter-11"] .quire-page__header.hero-image .hero-body .quire-page__header__title { color: #000; }
+[data-page-id="page-chapter-11"] .quire-page__header.hero-image .hero-body .label { border-color: #fff; }
+</style>
 
 {% figure "fig-c11-1" %}
 

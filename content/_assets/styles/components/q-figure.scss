@@ -21,12 +21,6 @@
 // overwrite bulma
 .content .q-figure {
   text-align: unset;
-  &:not(:last-child) {
-    margin-bottom: 2rem;
-  }
-  &:not(:first-child) {
-    margin-top: 2rem;
-  }
 }
 
 .q-figure {
@@ -36,16 +30,16 @@
     margin-top: 0.5em;
     margin-left: 0;
     margin-right: 0;
-    @if $theme == modern {
-      border-top: 1px solid $accent-color;
-      border-bottom: 1px solid $accent-color;
-      padding: 1rem 0;
-    } @else {
-      // figures shouldn't have borders or padding in 'classic' theme
-      // transparent border is to get around a bug with paged.js output
-      border-top: 1px solid transparent;
-      border-bottom: 1px solid transparent;
-      padding: 0;
+    @media screen {
+      @if $theme == modern {
+        border-top: 1px solid $accent-color;
+        border-bottom: 1px solid $accent-color;
+        padding: 1rem 0;
+      } @else {
+        border-top: 1px solid transparent;
+        border-bottom: 1px solid transparent;
+        padding: 0;
+      }
     }
   }
 
@@ -154,9 +148,12 @@
   }
 
   .content figure &__caption {
+    font-family: $quire-headings-font;
     font-size: 0.75em;
     line-height: 1.5;
     margin-top: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
     font-style: normal;
     text-align: left;
     color: background-color-text($content-background-color);
@@ -172,9 +169,10 @@
   &__label {
     display: inline-block;
     height: 0;
+    font-family: $quire-headings-font;
     font-weight: 700;
     line-height: 0;
-    margin-right: .5rem;
+    margin-right: 0;
     a {
       @if $theme == classic {
         color: background-color-text-classic($content-background-color);
@@ -343,6 +341,278 @@
     }
   }
 
+  // -------------------------------------------------------------------------
+  // Extended bleed figure types (types 4–9)
+  // Half-container width: ($desktop + 1.25 * $gap) * 0.5 = 360px
+  // Full bleed per side:  50vw - 360px + 2.75rem
+  // -------------------------------------------------------------------------
+
+  // Type 4: float right, 75% wide, 25% bleeds into right margin
+  &.is-pulled-right-50 {
+    @media screen {
+      float: right;
+      margin-right: 0;
+      margin-left: 1em;
+      margin-top: 0.75em;
+      margin-bottom: 1em;
+    }
+
+    @media screen and (min-width: $desktop) {
+      width: 75%;
+      margin-right: -25%;
+    }
+
+    @media screen and (min-width: $tablet) and (max-width: $desktop) {
+      width: 50%;
+    }
+
+    @media screen and (max-width: $tablet) {
+      float: none;
+      width: 100%;
+      margin: 0 0 1em 0;
+    }
+  }
+
+  // Type 5: float left, 75% wide, 25% bleeds into left margin
+  &.is-pulled-left-50 {
+    @media screen {
+      float: left;
+      margin-left: 0;
+      margin-right: 1em;
+      margin-top: 0.75em;
+      margin-bottom: 1em;
+    }
+
+    @media screen and (min-width: $desktop) {
+      width: 75%;
+      margin-left: -25%;
+    }
+
+    @media screen and (min-width: $tablet) and (max-width: $desktop) {
+      width: 50%;
+    }
+
+    @media screen and (max-width: $tablet) {
+      float: none;
+      width: 100%;
+      margin: 0 0 1em 0;
+    }
+  }
+
+  // Type 6: full column, bleeds equally into both margins (half of type 7/8 bleed per side)
+  &.is-pulled-both-50 {
+    @media screen and (min-width: $desktop) {
+      clear: both;
+      width: calc(100% + 50vw - #{($desktop + 1.25 * $gap) * 0.5} + 2.75rem);
+      margin-left: calc(-25vw + #{($desktop + 1.25 * $gap) * 0.25} - 1.375rem);
+      margin-right: calc(-25vw + #{($desktop + 1.25 * $gap) * 0.25} - 1.375rem);
+
+      .q-figure__caption {
+        padding-left: calc(25vw - #{($desktop + 1.25 * $gap) * 0.25} + 1.375rem + 0.5rem);
+        padding-right: calc(25vw - #{($desktop + 1.25 * $gap) * 0.25} + 1.375rem + 0.5rem);
+      }
+    }
+  }
+
+  // Type 6a: float right, right edge at viewport right, ~half viewport wide
+  &.is-pulled-right-align {
+    @media screen {
+      float: right;
+      margin-left: 1em;
+      margin-top: 0.75em;
+      margin-bottom: 1em;
+      margin-right: 0;
+    }
+
+    @media screen and (min-width: $desktop) {
+      width: calc(25vw + #{($desktop + 1.25 * $gap) * 0.25} - 1.125rem);
+      margin-right: calc(-25vw + #{($desktop + 1.25 * $gap) * 0.25} - 1.375rem);
+    }
+
+    @media screen and (min-width: $tablet) and (max-width: $desktop) {
+      width: 50%;
+      margin-right: 0;
+    }
+
+    @media screen and (max-width: $tablet) {
+      float: none;
+      width: 100%;
+      margin: 0 0 1em 0;
+    }
+  }
+
+  // Type 6b: float left, left edge aligned with is-pulled-both-50
+  &.is-pulled-left-align {
+    @media screen {
+      float: left;
+      margin-right: 1em;
+      margin-top: 0.75em;
+      margin-bottom: 1em;
+      margin-left: 0;
+    }
+
+    @media screen and (min-width: $desktop) {
+      width: calc(25vw + #{($desktop + 1.25 * $gap) * 0.25} - 1.125rem);
+      margin-left: calc(-25vw + #{($desktop + 1.25 * $gap) * 0.25} - 1.375rem);
+    }
+
+    @media screen and (min-width: $tablet) and (max-width: $desktop) {
+      width: 50%;
+      margin-left: 0;
+    }
+
+    @media screen and (max-width: $tablet) {
+      float: none;
+      width: 100%;
+      margin: 0 0 1em 0;
+    }
+  }
+
+  // Type 7: left edge at column left, right edge at viewport right
+  &.is-pulled-full-right {
+    @media screen and (min-width: $desktop) {
+      clear: both;
+      width: calc(100% + 50vw - #{($desktop + 1.25 * $gap) * 0.5} + 2.75rem);
+      margin-right: calc(-50vw + #{($desktop + 1.25 * $gap) * 0.5} - 2.75rem);
+
+      .q-figure__caption {
+        padding-right: calc(50vw - #{($desktop + 1.25 * $gap) * 0.5} + 2.75rem + 0.5rem);
+      }
+    }
+  }
+
+  // Type 8: right edge at column right, left edge at viewport left
+  &.is-pulled-full-left {
+    @media screen and (min-width: $desktop) {
+      clear: both;
+      width: calc(100% + 50vw - #{($desktop + 1.25 * $gap) * 0.5} + 2.75rem);
+      margin-left: calc(-50vw + #{($desktop + 1.25 * $gap) * 0.5} - 2.75rem);
+
+      .q-figure__caption {
+        padding-left: calc(50vw - #{($desktop + 1.25 * $gap) * 0.5} + 2.75rem + 0.5rem);
+      }
+    }
+  }
+
+  // Type 9: full viewport width, centred
+  &.is-pulled-full-both {
+    @media screen and (min-width: $desktop) {
+      clear: both;
+      width: 100vw;
+      margin-left: calc(-50vw + #{($desktop + 1.25 * $gap) * 0.5} - 2.75rem);
+
+      .q-figure__caption {
+        padding-left: calc(50vw - #{($desktop + 1.25 * $gap) * 0.5} + 2.75rem + 0.5rem);
+        padding-right: calc(50vw - #{($desktop + 1.25 * $gap) * 0.5} + 2.75rem + 0.5rem);
+      }
+    }
+  }
+
+  // Caption below image, right-aligned
+  &.has-caption-below-right {
+    @media screen and (min-width: $desktop) {
+      .q-figure__caption {
+        text-align: right;
+      }
+
+      .q-figure__label {
+        height: auto;
+        line-height: inherit;
+        display: block;
+      }
+
+      .q-figure__modal-link {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 0.25rem;
+      }
+
+      .q-figure__label-text { order: -1; }
+
+      .q-figure__label-icon { margin-left: 0; }
+    }
+  }
+
+  // Caption below image, left-aligned (mirror of above)
+  &.has-caption-below-left {
+    @media screen and (min-width: $desktop) {
+      .q-figure__caption {
+        text-align: left;
+      }
+
+      .q-figure__label {
+        height: auto;
+        line-height: inherit;
+        display: block;
+      }
+    }
+  }
+
+  // Caption in left gutter, top-aligned
+  &.has-caption-left {
+    @media screen and (min-width: 1280px) {
+      position: relative;
+
+      .q-figure__caption {
+        position: absolute;
+        top: calc(1rem + 1px);
+        right: calc(100% + 1rem);
+        width: calc((50vw - #{($desktop + 1.25 * $gap) * 0.5} + 2.75rem - 1.5rem) * 0.2);
+        padding-left: 0;
+        padding-right: 0;
+        margin-top: 0;
+        text-align: right;
+      }
+
+      .q-figure__label {
+        height: auto;
+        line-height: inherit;
+        display: block;
+      }
+
+      .q-figure__modal-link {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 0.25rem;
+      }
+
+      .q-figure__label-text {
+        order: -1;
+      }
+
+      .q-figure__label-icon {
+        margin-left: 0;
+      }
+    }
+  }
+
+  // Caption in right gutter, top-aligned
+  &.has-caption-right {
+    @media screen and (min-width: 1280px) {
+      position: relative;
+
+      .q-figure__caption {
+        position: absolute;
+        top: calc(1rem + 1px);
+        left: calc(100% + 1rem);
+        width: calc((50vw - #{($desktop + 1.25 * $gap) * 0.5} + 2.75rem - 1.5rem) * 0.2);
+        padding-left: 0;
+        padding-right: 0;
+        margin-top: 0;
+      }
+
+      .q-figure__label {
+        height: auto;
+        line-height: inherit;
+        display: block;
+      }
+    }
+  }
+
   &--group {
     &__row {
       display: flex;
@@ -453,10 +723,6 @@
   }
 
   @media print {
-    column-span: none;
-    -webkit-column-break-inside: avoid;
-    page-break-inside: avoid;
-    break-inside: avoid;
   }
 }
 

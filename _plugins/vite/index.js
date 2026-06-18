@@ -30,7 +30,7 @@ module.exports = function (eleventyConfig, { directoryConfig, publication }) {
       },
       build: {
         assetsDir: '_assets',
-        emptyOutDir: process.env.ELEVENTY_ENV !== 'production',
+        emptyOutDir: false,
         manifest: true,
         mode: 'production',
         outDir: outputDir,
@@ -79,6 +79,9 @@ module.exports = function (eleventyConfig, { directoryConfig, publication }) {
        * Set to false to prevent Vite from clearing the terminal screen
        * and have Vite logging messages rendered alongside Eleventy output.
        */
+      optimizeDeps: {
+        entries: []
+      },
       clearScreen: false,
       /**
        * @see https://vitejs.dev/config/#server-host

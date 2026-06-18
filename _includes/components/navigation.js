@@ -119,6 +119,9 @@ module.exports = function(eleventyConfig) {
         </a>
         <nav class="quire-navbar-controls">
           <div class="quire-navbar-controls__left">
+            <a href="${home}" class="quire-navbar-logo" aria-label="Home">
+              <img src="/_assets/images/UPP-Logo.png" alt="Publisher logo" />
+            </a>
             <button
               class="quire-navbar-button search-button"
               aria-controls="quire-search"

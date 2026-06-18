@@ -4,7 +4,6 @@ classes:
   - half-title-page
 order: 2
 outputs:
-  - epub
   - pdf
 toc: false
 ---

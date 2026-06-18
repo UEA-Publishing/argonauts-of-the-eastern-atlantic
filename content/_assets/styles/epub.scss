@@ -413,6 +413,34 @@ section.level1 {
   }
 }
 
+// hero section: title-only display (no image in epub)
+.quire-page__header.hero,
+.quire-cover__hero {
+  text-align: center;
+  padding: 3em 1em;
+  .quire-page__header__title,
+  .title {
+    text-align: center;
+  }
+  .label {
+    display: block;
+    margin-bottom: 0.5em;
+  }
+}
+
+// author note: own page after title
+.author-note {
+  break-before: page;
+  page-break-before: always;
+}
+
+// force first figure in a hero-page chapter to start a fresh page,
+// keeping any epigraph blockquote with the title
+.quire-page__header.hero + .section .content > figure:first-of-type {
+  break-before: page;
+  page-break-before: always;
+}
+
 // chapter label
 .label {
   margin: 0 auto .75em;

@@ -5,8 +5,6 @@ subtitle:
 layout: splash
 order: 37
 image: figures/covers/c8-cover.jpg
-classes:
-  - page-one
 # page_pdf_output: true
 ---
 

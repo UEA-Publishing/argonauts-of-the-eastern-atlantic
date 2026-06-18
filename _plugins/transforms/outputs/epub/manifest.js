@@ -144,7 +144,12 @@ module.exports = (eleventyConfig) => {
     id: isbn,
     languages: language,
     publisher: publisherNameAndLocations(),
-    readingOrder: readingOrder.sort(sortByKeys(['url'])),
+    readingOrder: (() => {
+      const sorted = readingOrder.sort(sortByKeys(['url']))
+      const pinned = sorted.filter(({ epub_position }) => epub_position === 'last')
+      const rest = sorted.filter(({ epub_position }) => epub_position !== 'last')
+      return [...rest, ...pinned].map(({ epub_position, ...item }) => item)
+    })(),
     resources: resources,
     rights: copyright,
     title: pubTitle(),

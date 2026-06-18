@@ -21,6 +21,9 @@
     {% if forloop.first == true %}
       {{ page.svgElements }}
     {% endif %}
+    {% if page.heroSectionElement %}
+      {{ page.heroSectionElement }}
+    {% endif %}
     {{ page.sectionElement }}
   {% endfor %}
 

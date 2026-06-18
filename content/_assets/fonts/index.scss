@@ -57,6 +57,194 @@ $assets-dir: "/_assets/" !default;
 }
 
 ////
+// GT Pressura
+// Licensed font — files in content/_assets/fonts/
+//
+@font-face {
+  font-family: "GT Pressura";
+  src: font("GT-Pressura-Light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GT Pressura";
+  src: font("GT-Pressura-Light-Italic.otf") format("opentype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "GT Pressura";
+  src: font("GT-Pressura-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GT Pressura";
+  src: font("GT-Pressura-Regular-Italic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "GT Pressura";
+  src: font("GT-Pressura-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GT Pressura";
+  src: font("GT-Pressura-Bold-Italic.otf") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: font("GT-Pressura-Mono-Light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: font("GT-Pressura-Mono-Light-Italic.otf") format("opentype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: font("GT-Pressura-Mono-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: font("GT-Pressura-Mono-Regular-Italic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: font("GT-Pressura-Mono-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: font("GT-Pressura-Mono-Bold-Italic.otf") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+////
+// Arnhem
+// Licensed font — files in content/_assets/fonts/
+//
+// Arnhem-Blond Regular
+@font-face {
+  font-family: "Arnhem-Blond";
+  src: font("Arnhem-Blond.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+// Arnhem-Blond Italic
+@font-face {
+  font-family: "Arnhem-Blond";
+  src: font("Arnhem-BlondItalic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+// Arnhem Pro Blond Regular
+@font-face {
+  font-family: "Arnhem Pro";
+  src: font("ArnhemPro-Blond.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+// Arnhem Pro Blond Italic
+@font-face {
+  font-family: "Arnhem Pro";
+  src: font("ArnhemPro-BlondItalic.otf") format("opentype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+// Arnhem Pro Normal Regular
+@font-face {
+  font-family: "Arnhem Pro";
+  src: font("ArnhemPro-Normal.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+// Arnhem Pro Normal Italic
+@font-face {
+  font-family: "Arnhem Pro";
+  src: font("ArnhemPro-NormalItalic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+// Arnhem Pro SemiBold
+@font-face {
+  font-family: "Arnhem Pro";
+  src: font("ArnhemPro-SemiBold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+// Arnhem Pro SemiBold Italic
+@font-face {
+  font-family: "Arnhem Pro";
+  src: font("ArnhemPro-SemiBoldItalic.otf") format("opentype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+// Arnhem Pro Bold
+@font-face {
+  font-family: "Arnhem Pro";
+  src: font("ArnhemPro-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+// Arnhem Pro Bold Italic
+@font-face {
+  font-family: "Arnhem Pro";
+  src: font("ArnhemPro-BoldItalic.otf") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+// Arnhem Pro Black
+@font-face {
+  font-family: "Arnhem Pro";
+  src: font("ArnhemPro-Black.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+// Arnhem Pro Black Italic
+@font-face {
+  font-family: "Arnhem Pro";
+  src: font("ArnhemPro-BlackItalic.otf") format("opentype");
+  font-weight: 900;
+  font-style: italic;
+}
+
+////
 // Noto Serif
 // https://github.com/googlei18n/noto-fonts
 // Open Font License 1.1 (https://scripts.sil.org/OFL)

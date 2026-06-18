@@ -5,8 +5,6 @@ subtitle:
 layout: splash
 order: 33
 image: figures/covers/c4-cover.jpg
-classes:
-  - page-one
 # page_pdf_output: true
 ---
 
@@ -194,7 +192,7 @@ Such confidence that the ‘idols are no more’ seems strange in retrospect, wh
 
 {% backmatter %}
 
-### **Notes
+## Notes
 
 [^1]: Memoir of Mrs Mary Ellis, Crocker & Brewster, 1836. p.45
 

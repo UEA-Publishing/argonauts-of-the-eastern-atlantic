@@ -1,10 +1,8 @@
 require('module-alias/register')
 
-const copy = require('rollup-plugin-copy')
 const fs = require('fs-extra')
 const packageJSON = require('./package.json');
 const path = require('path')
-const scss = require('rollup-plugin-scss')
 
 const chalkFactory = require('~lib/chalk')
 

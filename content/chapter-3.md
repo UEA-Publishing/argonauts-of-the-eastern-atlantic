@@ -5,8 +5,6 @@ subtitle:
 layout: splash
 order: 32
 image: figures/covers/c3-cover.jpg
-classes:
-  - page-one
 # page_pdf_output: true
 ---
 {% figure "fig-c3-1" %}

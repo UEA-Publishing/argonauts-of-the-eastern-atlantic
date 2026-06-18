@@ -5,10 +5,15 @@ subtitle:
 layout: splash
 order: 39
 image: figures/covers/c10-cover.jpg
-classes:
-  - page-one
 # page_pdf_output: true
 ---
+
+<style>
+[data-page-id="page-chapter-10"] .quire-page__header.hero-image .hero-body .label,
+[data-page-id="page-chapter-10"] .quire-page__header.hero-image .hero-body .quire-page__header__title { color: #000; }
+[data-page-id="page-chapter-10"] .quire-page__header.hero-image .hero-body .label { border-color: #fff; }
+</style>
+
 {% figure "fig-c10-1" %}
 
 Visiting Chicago’s Field Museum in June 2010 to see items purchased from the London Missionary Society’s museum by Captain A.W.F. Fuller during the mid-twentieth century, I was surprised to encounter a number of Australian artefacts – four spears and a club. Having briefly worked on a project in northern Australia in 2003, I knew missionaries played a significant part in Australian history, but associated this with other missionary societies and other places.

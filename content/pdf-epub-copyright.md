@@ -4,7 +4,6 @@ order: 5
 classes:
   - copyright-page
 outputs:
-  - epub
   - pdf
 toc: false
 ---
