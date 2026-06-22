@@ -42,7 +42,7 @@ In early July of that year, with the Gospel of Luke printed in Tahitian and boun
 
 By 1822, the Church at Huahine was well established and intent on sending its own missionaries to resume the aborted mission to the Marquesas Islands, a thousand miles to the north-east. A religious meeting ofaround 1200 people in the island’s large chapel selected two volunteers. Auna, a nobleman and former priest of Raiatea, now a deacon of the Huahine church, volunteered to take the ‘good word of God’ – _parau maitai nate atua_ – together with his wife, who the congregation agreed would teach the women ‘to make their own dresses, plait straw bonnets’ in order ‘to clothe themselves decently’.[^5] The assembly then called on Mattatore, another nobleman, to accompany them, together with his wife.
 
-{% figure "fig-c7-4" %}
+{% figure "fig-c7-4" 'is-pulled-right' %}
 
 Captain Kent of the _Mermaid_ agreed to provide the volunteers with free passage, either on his way to Hawai’i or on the return voyage. Auna, Mattatore and their wives were accompanied by William Ellis, as well as Daniel Tyerman and George Bennet, who were visiting Huahine at the time, together with their ‘personal servants’, engaged at Huahine (including one named Purahah).[^6]
 
@@ -54,7 +54,7 @@ The Directors were apparently more concerned with ‘the occupations and habits 
 
 >Both Mr G and the Directors of the Missionary Society appeared to have wrong views on the subject. They thought as the people had embraced Christianity, they would at once see the propriety of productive plans of industry that might be proposed to them and at once adopt all that might be proposed advantageous from the circumstances of climate &c such as the Culture of the sugar Cane, Cotton, Coffee &c and Mr G having been in the West Indies, and witnessing the cheapness of labour by means of negroes thought the natives of these islands might be induced to labour in the same way. But he soon found he had free and independent people to deal with, and the more of command and authority he used toward them, the less they were disposed to obey.[^8]
 
-{% figure "fig-c7-5" %}
+{% figure "fig-c7-5" 'is-pulled-right' %}
 
 In August 1819, after an unsuccessful and ultimately unproductive year, Gyles left with his family for Australia. Undeterred, in May 1821, the Directors despatched two further missionary artisans and their families to Tahiti along with Tyerman, Bennet and another missionary recruit with all the equipment for spinning and weaving cotton in a British whaling ship. As well as a crew of 35 and a surgeon, the passengers also included a 25 year old Tahitian who had been baptised with the name Robert.[^9]
 
@@ -68,7 +68,7 @@ After leaving Huahine, north-easterly winds saw the _Mermaid_ bypass the Marques
 
 The first Hawaiian to meet the party at Kawaihae Bay was John Adams Kuakini, Royal Governor of Hawai’i, the largest island in the archipelago, and younger brother of the Queen Regent Ka’ahumanu. Kuakini, who had learned English from Americans visitors and adopted the name of the second American President, was dressed in a jacket and trousers.
 
-{% figure "fig-c7-7" %}
+{% figure "fig-c7-7" 'is-pulled-right' %}
 
 The following day, the _Mermaid_ was visited by a number of more ordinary Hawaiians in canoes, described by Tyerman and Bennet as ‘very scantily attired, and very slovenly in their manners’.[^12] When the deputation went ashore the following day, they encountered women wearing’no covering except a slight cloth about their loins’ but some were ‘superbly tattooed’.[^13]
 
@@ -95,7 +95,7 @@ When dining with Kuakini and Young, it was proposed tha tWilliam Ellis be pronou
 {% figure "fig-c7-8" %}
 
 
-{% figure "fig-c7-9" %}
+{% figure "fig-c7-9" 'is-pulled-right' %}
 
 Conversion seems to have meant different things to different people. In most cases change was expressed through the adoption, but at times also the construction, of new kinds of artefacts. Kamehameha I evidently wanted a ship, complete with guns, to make him the equal of the European leaders who had visited the islands since the time of Captain Cook. John Adams Kuakini adopted modern dress and took an American name, just as other high status Hawaiians wore items of imported clothing.
 
@@ -117,9 +117,9 @@ We might dismiss the concerns of European missionaries with ‘scantily clad’ 
 
 This concern with wrapping and marking the body, also expressed through tattooing, aligns in certain ways with missionary preoccupations with dress as an indicator of modesty and respectability. The marking of status and rank through forms of dress was common to both Atlantic and Pacific societies, and it seems that clothing, cloth but also paper, formed a zone of recognition where common values could be negotiated and established.
 
-{% figure "fig-c7-10" %}
+{% figure "fig-c7-10" 'is-pulled-right' %}
 
-{% figure "fig-c7-11" %}
+{% figure "fig-c7-11" 'is-pulled-right' %}
 
 {% figure "fig-c7-12" %}
 
@@ -149,7 +149,7 @@ Tyerman and Bennet were told that Liholiho’s decision to overturn the existing
 
 {% figure "fig-c7-14" %}
 
-{% figure "fig-c7-15" %}
+{% figure "fig-c7-15" 'is-pulled-right' %}
 
 Other ‘modernists’ such as John Adams Kuakini found that despite offering 40 sacrificial pigs when directed to do so by priests, he did not recover from his illness. Even Kamehameha I, towards the end of his reign, evidently refused to cast a large herd of pigs into the sea to appease the angry spirit that the priests told him was responsible for volcanic eruptions on Hawai’i.
 
@@ -283,7 +283,7 @@ Given that many have been identified on stylistic grounds as Hawaiian, it seems 
 {% figure "fig-c7-26" %}
 
 
-{% figure "fig-c7-27" %}
+{% figure "fig-c7-27" 'is-pulled-right' %}
 
 
 {% figure "fig-c7-28" %}
@@ -298,7 +298,7 @@ Given that many have been identified on stylistic grounds as Hawaiian, it seems 
 {% figure "fig-c7-31" %}
 
 
-{% figure "fig-c7-32" %}
+{% figure "fig-c7-32" 'is-pulled-right' %}
 
 
 {% backmatter %}

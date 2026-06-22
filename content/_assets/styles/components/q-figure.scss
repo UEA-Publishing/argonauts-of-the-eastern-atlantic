@@ -31,15 +31,9 @@
     margin-left: 0;
     margin-right: 0;
     @media screen {
-      @if $theme == modern {
-        border-top: 1px solid $accent-color;
-        border-bottom: 1px solid $accent-color;
-        padding: 1rem 0;
-      } @else {
-        border-top: 1px solid transparent;
-        border-bottom: 1px solid transparent;
-        padding: 0;
-      }
+      border-top: none;
+      border-bottom: none;
+      padding: 0;
     }
   }
 

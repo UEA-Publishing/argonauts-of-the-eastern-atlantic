@@ -689,7 +689,7 @@ html {
         .label,
         .quire-page__header__title,
         .quire-page__header__contributor {
-          color: $white;
+          color: $upp-accent;
         }
         .quire-page__header__contributor {
           font-weight: 700;
@@ -724,13 +724,13 @@ html {
     background-color: transparent;
     .hero-body {
       .quire-page__header__title {
-        color: background-color-text-classic($secondary-background-color);
+        color: $upp-accent;
         @media print {
           color: background-color-text-classic($print-splash-color);
         }
       }
       .label {
-        color: background-color-text-classic($secondary-background-color);
+        color: $upp-accent;
         @media print {
           color: background-color-text-classic($print-splash-color);
         }

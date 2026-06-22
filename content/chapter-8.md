@@ -8,7 +8,7 @@ image: figures/covers/c8-cover.jpg
 # page_pdf_output: true
 ---
 
-{% figure "fig-c8-1" %}
+{% figure "fig-c8-1" 'is-pulled-right' %}
 
 Rumours of a ‘Goth-like army’ of fearsome ‘Mantatees’ ran through the Tswana towns of South Africa’s interior for months. Tales told of people from the southeast with long hair and dark skins wielding sickle-like weapons, terrifying many who heard them. At first Robert Moffat, a young Scottish missionary, dismissed these tales as ‘mere fabrications’, but over time evidence accumulated that the so-called ‘Mantatees’ were rather more than figments of the imagination.[^1]
 
@@ -33,7 +33,7 @@ Moffat and the only other European present, John Melvill, a former government su
 Spoils of battle were not confined to cattle, however, and Moffat noted that the path taken by the retreating enemy was ‘thickly strewed with karosses, victuals, utensils, ornaments, and weapons, which the Bechuanas eagerly gathered up’.[^9] If Moffat was merely a witness to these scenes of plunder, as his journal implies, how did a number of items apparently taken at the battle, including ‘a Mantatese apron’, find their way to the Missionary Museum in London, and from there to the British Museum where they remain today?
 
 
-{% figure "fig-c8-3" %}
+{% figure "fig-c8-3" 'is-pulled-right' %}
 
 The Battle of Dithakong has come to assume a central place in historical understandings of a period violence, disruption and significant population displacement that unfolded across the interior of southern Africa during the 1820s, known widely as the _mfecane_ or _difaqane_ (depending on which southern Bantu language grouping is preferred). Eyewitness accounts of the battle, provided by both Moffat and Melvill, as well as by George Thompson, a Cape Town merchant involved in run the up, though not at the battle itself, makes it one of the best documented conflicts of the period.
 
@@ -70,7 +70,7 @@ I also return to the artefacts that were associated with ‘the Mantatees’ at 
 
 Ambiguous and ambivalent, their digital images continue to bear witness to an event around which competing narratives continue to swirl. Perhaps in order to better assess the reliability of Robert Moffat’s account, we need to know a little about who he was and what he was doing at Dithakong in the first place.
 
-{% figure "fig-c8-7" %}
+{% figure "fig-c8-7" 'is-pulled-right' %}
 
 Born at Ormiston in Scotland in 1795, Moffat spent a period at sea as a cabin boy before being apprenticed to a gardener at the age of 14. Working at an estate in Cheshire, he became involved with the Methodist movement, ultimately coming under the influence of William Roby, minister of the Grosvenor Street Congregational Church in Manchester. Roby arranged for Moffat to be employed at a garden nursery in the city in 1816, while he prepared for life as a missionary.
 
@@ -84,7 +84,7 @@ The recently opened museum clearly served to reinforce, if not inspire, the comm
 
 Permission to leave the Colony was refused by the Governor, who was concerned that Griqua Town was becoming a place of refuge for servants and slaves fleeing the Colony, so Moffat lodged at a wine farm in Stellenbosch where he learned Dutch until he received permission to go to Namaqualand the following September.
 
-{% figure "fig-c8-9" %}
+{% figure "fig-c8-9" 'is-pulled-right' %}
 
 Moffat arrived at the kraal of Jäger Afrikaner (literally African Hunter) in late January 1818. A métis group of Khoe descent, much like the Griqua, Afrikaner’s people had a reputation as raiders and rustlers who traded cattle and ivory with the Colony from the lands beyond. Jager was an outlaw with a price on his head, having killed the white farmer by whom the group had originally been employed (and with whom they had engaged in raids).
 
@@ -112,7 +112,7 @@ They were visited at the home of Robert Hamilton by the King or Kgosi, Mothibi, 
 
 Campbell expressed his satisfaction that under the influence of James Read, Mothibi had ceased the system of commandoes to raid cattle from neighbouring groups, but Mothibi pointed out that without this source of income, he needed guns and gunpowder to hunt wild animals.[^28]
 
-{% figure "fig-c8-12" %}
+{% figure "fig-c8-12" 'is-pulled-right' %}
 
 When Campbell and Read departed on a journey to the North, visiting Dithakong as well as the substantial city of Kaditshwene – but also meeting Campbell’s old friend Cupido Kakkerlak then serving as a missionary to the Coranna – the Moffats stayed at Maruping to establish relationships at what would become their new station.
 
@@ -122,7 +122,7 @@ It was at in the course of attempting a journey of his own to the Tswana towns o
 
 On 13 June 1823, a _pitsho_ or parliament of armed men, assembled. One old man exhorted the crowd by telling them it was the pitsho of the missionary, and as such they should speak and act not like Batswana but like Makgoas (white people). The Makgoas, meanwhile, buried their possessions so that they could make a quick escape.[^31]
 
-{% figure "fig-c8-13" %}
+{% figure "fig-c8-13" 'is-pulled-right' %}
 
 Success in repelling the invading ‘Mantatees’ seems to have marked a significant material change for both the Moffat household, by then featuring two very young children, and the mission of which they formed a part. In a letter to Mary’s parents dated 23 July 1823, from Griqua Town less than a month after the battle, Robert Moffat declared that four of the ‘prisoners’ were ‘inmates’ of his family:
 

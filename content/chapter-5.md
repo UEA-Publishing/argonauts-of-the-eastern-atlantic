@@ -8,17 +8,11 @@ image: figures/covers/c5-cover.jpg
 # page_pdf_output: true
 ---
 
-<style>
-[data-page-id="page-chapter-5"] .quire-page__header.hero-image .hero-body .label,
-[data-page-id="page-chapter-5"] .quire-page__header.hero-image .hero-body .quire-page__header__title { color: #000; }
-[data-page-id="page-chapter-5"] .quire-page__header.hero-image .hero-body .label { border-color: #fff; }
-</style>
-
 {% figure "fig-c5-1" %}
 
 One response to the image of Pomare’s ‘family idols’ came in a letter from John Smith, a twenty-nine year old former biscuit maker who had been a missionary in Demerara for two years. He wrote from Le Resouvenir, a plantation clinging to the Atlantic coast at the edge of the Caribbean, that:
 
-{% figure "fig-c5-2" %}
+{% figure "fig-c5-2" 'is-pulled-right' %}
 
 >I have shown the negroes the pictures of the idols in the Missionary Sketches; and their opinion is, that they must have been made in secret; for, they say, if the people had seen the workmen make them, they could never have been so stupid as to pay them religious honours. They express the greatest compassion for those who are living in heathen darkness, and are evidently willing to do all in their power to assist in sending them the gospel.[^1] 
 
@@ -28,7 +22,7 @@ These were given material form of sorts by a magical rattle donated to the Missi
 >An instrument of incantation used by the Pehemen, either to drive away sickness or to inflict it. The natives tremble at the rattle as though the earth was opening to swallow them up, and would not dare to shake it except on special occasions. They will rattle it a whole night over a person who is ill, and at the same time sing their wild songs.
 Presented by the Rev. John Wray, Missionary, Berbice, 16 Feb. 1818
 
-{% figure "fig-c5-3" %}
+{% figure "fig-c5-3" 'is-pulled-right' %}
 
 Like the Cape, both Demerara and Berbice began as Dutch commercial colonies. British control was consolidated during the Napoleonic wars, so the British parliament’s 1807 Act for the Abolition of the Slave Trade prohibited the further importation of enslaved people from Africa.
 
@@ -67,14 +61,14 @@ Wray, however, had drawn attention to himself in London, where a major experimen
 
 In taking control of Berbice, the British Government had become responsible for 1100 'Crown slaves' and in April 1811, a Commission for Managing Crown Property in South America was appointed. This consisted of prominent humanitarians and abolitionists such as William Wilberforce and James Stephen, who appointed Zachary Macauley, former governor of Sierra Leone, as their secretary.
 
-{% figure "fig-c5-7" %}
+{% figure "fig-c5-7" 'is-pulled-right' %}
 
 Macauley wrote to Wray asking him to establish a mission to ‘Crown slaves’ in Berbice funded by the British Government, in order to advance their ‘intellectual and moral character’.[^10]
 Interpreting this as a divine calling, Wray took on the charge. He preached a final sermon at Le Resouvenir in June 1813 and took his family up the coast to New Amsterdam in Berbice, still a largely Dutch-speaking colony.
 ‘Crown slaves’ were to be protected from the whip, provided with task-based allocations of work and not given tasks that could be undertaken by animals or machines. They were also to be allowed a day a fortnight to cultivate their gardens, freeing time for church on Sundays.
 It must have been with a degree of hopefulness that Wray joined this experiment, although he was ultimately to clash with the Commission’s agents in Berbice – its managers regularly provoked Wray, impregnating his servants and withholding his pay – as well as successive Governors (Bentinck was appointed to Berbice in 1814, following his removal from Demerara).[^11] 
 
-{% figure "fig-c5-8" %}
+{% figure "fig-c5-8" 'is-pulled-right' %}
 
 It was in Berbice that Wray became increasingly concerned with the specifics of religious practices among the enslaved.[^12]  In an interview during 1813, Joe, accused of Obeah at the Crown plantation of Dageraad, told Wray that he was not an Obeah man, but did have supernatural powers to counteract Obeah by rites and incantations which he learned from ‘good spirits’.[^13]  
 
@@ -93,7 +87,7 @@ Alternative forms of authority were nevertheless viewed with suspicion, and six 
 
 Following the defeat of Napoleon in 1815 and the establishment of peace in Europe, the Crown estates and the majority of ‘Crown slaves’ were returned to the Society of Berbice in July 1816.
 
-{% figure "fig-c5-9" %}
+{% figure "fig-c5-9" 'is-pulled-right' %}
 
 Wray remained in the colony, but his focus shifted to 300 or so enslaved artisans retained by the Crown, as well as the free residents of New Amsterdam. He continued to visit congregations at the former Crown estates, just as he made regular visits back to Le Resouvenir. It was presumably on one of these visits that Wray came to hear of the mistreatment of America, a woman from the Sandvoort estate.[^18]
 
@@ -112,7 +106,7 @@ While the description in the 1823 museum catalogue suggested the rattle was used
 While Wray’s interview with Joe mentions images and instruments made from feathers and hair, it does not refer to rattles. Shaman’s rattles, frequently made from hollowed gourds, are, however, a feature of the ceremonial practices of the indigenous peoples of the region, with whom Wray had also been in contact.
 As early as December 1811, Wray wrote to London about a visit to Georgetown, the capital of Demerara, by an indigenous group, expressing an ambition to establish a mission among them.[^21]  
 
-{% figure "fig-c5-11" %}
+{% figure "fig-c5-11" 'is-pulled-right' %}
 
 {% figure "fig-c5-12" %}
 
@@ -144,7 +138,7 @@ The number 515 relates to a catalogue produced for a large missionary exhibition
 >Un Péhi secoué sur les malades pour leur guérison.
 >PEHI, an instrument of Obiah, or incantations, used by the Pehemen, either to drive away sickness, or to inflict it. The natives would not dare to shake it, except on special occasions. They would rattle it all night over a person who was ill, and at the same time sing their wild song. Presented by the Rev. John Wray, Missionary, Berbice, 1818
 
-{% figure "fig-c5-14" %}
+{% figure "fig-c5-14" 'is-pulled-right' %}
 
 While the description as ‘very dreadful to the negroes’ was apparently removed from the text of the later museum catalogue, it nevertheless still referred to the rattle as ‘an instrument of Obiah’. This may suggest that from a missionary perspective there was a degree of equivalence between the healing practices of the enslaved people of African descent, and the indigenous people of Guyana.
 In 1913, the colonial administrator and keen amateur anthropologist Walter E Roth, then commissioner of the Pomeroon District in British Guiana, published _An Enquiry into the Animism and Folk-lore of the Guiana Indians_. On page 330 he included a line drawing of a rattle, very similar in form to that in the British Museum, which he captioned _Piai’s rattle_.
@@ -165,7 +159,7 @@ When I contacted Peter Riviere to ask whether he could help me to make sense of 
 
 The rattle then, was not unlike the ‘Idol Gods’ sent from Tahiti by Pomare as a token of conversion, and actually seems to have arrived at the Missionary Museum in London before the long-delayed parcel from the Pacific. It has not retained the same notoriety, illustrated by the fact that its association with Wray and the early mission to Guyana was forgotten at the British Museum.
 
-{% figure "fig-c5-15" %}
+{% figure "fig-c5-15" 'is-pulled-right' %}
 
 What has been most widely remembered about Wray and Smith’s early mission in Guyana occurred in the years after the rattle’s arrival in London.
 

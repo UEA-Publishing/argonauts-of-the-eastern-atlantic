@@ -72,7 +72,7 @@ During the month-long journey, Campbell formed an attachment to his companions, 
 
 The mission at Bethelsdorp was a rare place where Khoekhoen could live a fairly independent life within the colony, apart from when pressed to serve in the Cape Regiment – the majority of Khoekhoe not living at missions were forced to work as farm labourers. Vocational training seems to have been a strand at the mission, and William Corner, a Black missionary from Demerara, a Dutch colony in the Caribbean, had been training carpentry apprentices for around a year when Campbell arrived.
 
-{% figure "fig-c3-5" %}
+{% figure "fig-c3-5" 'is-pulled-right' %}
 
 One of these was Jan Tzatzoe, son of a Xhosa chief of the amaNtinde lineage, who would go on to play a key role in the expansion of Christianity in South Africa. Tzatzoe presented Campbell with a wooden box he had made in the cabinet maker’s style ‘for containing any varieties I might happen to obtain higher up in Africa’.[^11]
 
@@ -94,7 +94,7 @@ It was the 30 Khoekhoen in the party, however, including two who had originally 
 
 Arriving at Graaf-Reinet at the end of April, Campbell met [Kicherer, Martha, Mary and John](https://argonauts2022.net/2-the-revd-mr-kicherer-mary-john-and-martha/), but also William Burchell, a young botanist and collector who travelled in the interior of South Africa between June 1811 and April 1815.
 
-{% figure "fig-c3-7" %}
+{% figure "fig-c3-7" 'is-pulled-right' %}
 {% figure "fig-c3-8" %}
 
 Writing to his mother, just before he set off from Cape Town, Burchell declared:
@@ -127,9 +127,9 @@ The settlement was dominated at the time by the Kok and Barends families, fugiti
 
 A mission had been established at Kok’s kraal in 1802, but relocated along with the people to Klaarwater shortly afterwards. By 1813 Campbell recorded a population of around 1300 Griquas, with another 1300 Corannas (another mixed Khoekhoen group) under their protection.
 
-{% figure "fig-c3-9" %}
+{% figure "fig-c3-9" 'is-pulled-right' %}
 
-{% figure "fig-c3-10" %}
+{% figure "fig-c3-10" 'is-pulled-right' %}
 
 {% figure "fig-c3-11" %}
 
@@ -153,9 +153,9 @@ Early in 1815, Campbell published an account of his journey – the frontispiece
 
 {% figure "fig-c3-12" %}
 
-{% figure "fig-c3-13" %}
+{% figure "fig-c3-13" 'is-pulled-right' %}
 
-{% figure "fig-c3-14" %}
+{% figure "fig-c3-14" 'is-pulled-right' %}
 
 The caption refers to the 'waggons &c' pictured 'on the Banks of the Great or Orange River'. While the landscape, and particularly the oxen, appear almost European, there is an element of the image that make it clear Campbell must be in Africa – the giraffe grazing on a tree in the background. This is an echo of the giraffe that Le Vaillant had himself depicted alongside for his own frontispiece a quarter century earlier.
 
@@ -185,7 +185,7 @@ Soon afterwards ‘London’ was appended to the Missionary Society’s official
 
 In September 1817, following his return to London, William Burchell presented 43 animals skins, including a pair of giraffes, not to the Missionary Museum but to the British Museum. Upset by the way in which the skins were subsequently neglected and allowed to decay, he complained and a number were eventually prepared for display.
 
-{% figure "fig-c3-16" %}
+{% figure "fig-c3-16" 'is-pulled-right' %}
 
 {% figure "fig-c3-17" %}
 

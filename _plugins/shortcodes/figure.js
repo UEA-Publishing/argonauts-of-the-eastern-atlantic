@@ -73,7 +73,7 @@ module.exports = function (eleventyConfig) {
     this.page.figures ||= []
     this.page.figures.push(figure)
 
-    // Pass a lazyload parameter for use in downstream components  
+    // Pass a lazyload parameter for use in downstream components
     const position = ( this.page.figures ?? [] ).length - 1
     const lazyLoading = position < FETCH_PRIORITY_THRESHOLD ? 'eager' : 'lazy'
 

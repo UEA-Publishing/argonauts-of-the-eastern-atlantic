@@ -153,7 +153,7 @@ Looking back from our contemporary vantage point, two and a quarter centuries la
 
 On 6 March 1798, a year after the missionaries' arrival, Tahiti was visited by the Nautilus, a trading vessel from Macao. Missionary efforts to prevent the Captain supplying weapons and gunpowder to the Tahitians angered Tu, engaged in his own campaign of expansion and conquest enabled by his access to European weaponry. In fear of possible reprisals, most of the missionaries, their wives and children left Tahiti on the Nautilus, bound for Port Jackson, as Sydney, Australia, was known at the time.
 
-{% figure "fig-c1-17" %}
+{% figure "fig-c1-17" 'is-pulled-right' %}
 
 Before the _Duff_ arrived back in London, the mission to Tahiti had been reduced to a carpenter, a bricklayer, a cooper, three ministers and a minister's wife. In late 1798, a second shipload of missionaries set sail for Tahiti in the _Duff_, but the ship was captured by a French privateer near Rio de Janeiro, and the crew and missionaries offloaded at Montevideo, Uruguay.
 

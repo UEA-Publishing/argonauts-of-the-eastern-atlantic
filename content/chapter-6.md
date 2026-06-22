@@ -8,7 +8,7 @@ image: figures/covers/c6-cover.jpg
 # page_pdf_output: true
 ---
 
-{% figure "fig-c6-1" %}
+{% figure "fig-c6-1" 'is-pulled-right' %}
 
 In September 1819, shortly after the ‘principal idol’ sent by Pomare II from Tahiti was conveyed around a Chapel in Falmouth, Cornwall, the _Missionary Chronicle_ reported the arrival in London of further additions to the Missionary Museum. Sent by the Rev. Henry Townley as a gift from the Bengal Auxiliary Missionary Society, they were described as:
 > Twenty-two models of Hindoo deities, (carved in wood, about a foot in height, and painted) such as are ordinarily manufactured in that idolatrous country. Prints taken from these are intended to be given in the Missionary Sketches, accompanied by explanations from the Rev. Mr. Ward’s History of the Literature and the Religion of the Hindoos.[^1]
@@ -20,7 +20,7 @@ Abbreviated descriptions of each God, summarising Ward’s text, were given on t
 
 These conjunctions of artefact, image and text illustrate the strong connections between items sent to the Missionary Museum and the images and texts that appeared in missionary publications. It seems likely that Townley, like John Smith in Demerara, had seen the early issues of _Missionary Sketches_ from 1818, featuring the Trimurti from Elephanta, Mantis the Soothsayer from South Africa, and the Family Idols of Pomare from Tahiti. A fairly recent arrival in India, Townley had been sent to Calcutta by the Missionary Society’s Directors in 1816.
 
-{% figure "fig-c6-2" %}
+{% figure "fig-c6-2" 'is-pulled-right' %}
 
 The Rev. Mr. Ward, on the other hand, was William Ward, something of a veteran with nearly two decades of experience working for the Baptist Missionary Society in India. In the aftermath of the French Revolution, non-conformist churches in Britain had been associated with political radicalism, and the official line of the East India Company prohibited their missionaries from operating in areas it controlled. Sympathetic Company officials, however, had turned a blind eye to the activities of William Carey, the original Baptist missionary, after he arrived in India in 1793, particularly when he was officially employed on an indigo plantation.[^4] 
 
@@ -32,7 +32,7 @@ When Governor Wellesley established Fort William College in Calcutta in 1801, it
 
 The first volume of Ward’s _Account of the Writings, Religion, and Manners of the Hindoos including Translations from their Principal Works_ was printed at the Mission Press in Serampore in 1806, with the fourth volume completed in 1811, just before a fire destroyed the print works (Ward 1811). A second edition, 'carefully abridged and greatly improved', was printed between 1815 and 1818 under the title _A View of the History, Literature, and Religion of the Hindoos_, with a third edition printed in Britain by the Baptist Missionary Society between 1817 and 1820.
 
-{% figure "fig-c6-3" %}
+{% figure "fig-c6-3" 'is-pulled-right' %}
 
 A compendium of Indian religious texts printed in English, alongside descriptions of Hindu practice, Ward provided British evangelicals with an accessible guide to ‘the religion of the Hindoos‘. Even before the arrival in London of Townley’s ‘models’, Ward’s text had been used to compile a description that accompanied an image of Ganesh that was printed in the _Evangelical Magazine and Missionary Chronicle_ in March 1818. 
 
@@ -40,7 +40,7 @@ It was noted that many Hindus kept a small metal image of the god in their house
 
 > The superstitious regard paid by these blind idolaters to a senseless image, may put to shame many who are better informed, and who call themselves Christians, but who live practically “without God in the world”; who never acknowledge the Creator and Preserver; and who daily go out and return home, amidst a thousand dangers, without seeking his guidance or protection.[^9] 
 
-{% figure "fig-c6-4" %}
+{% figure "fig-c6-4" 'is-pulled-right' %}
 
 The London Missionary Society sent their first missionary to India in 1798. Arriving five years after William Carey, also without an official licence, Nathaniel Forsyth preached in and around Calcutta with the tacit support of Company officials. With minimal financial assistance from the Society in London, he found Calcutta expensive and lived for a time on a boat, until appointed minister of the Dutch church at Chinsurah (Hugli-Chuchura) in West Bengal.[^10]
 
@@ -54,7 +54,7 @@ Evangelical networks across the British Isles were mobilised in a campaign that 
 
 > the Duty of this country, to promote the interests and happiness of the native inhabitants of the British dominions in India, and that such measures ought to be adopted as may tend to the introduction among them of useful knowledge, and of religious and moral improvement. That in the furtherance of the above objects, sufficient facilities shall be afforded by law, to persons desirous of going to, and remaining in India, for the purpose of accomplishing those benevolent designs.[^16] 
 
-{% figure "fig-c6-5" %}
+{% figure "fig-c6-5" 'is-pulled-right' %}
 
 One of the major consequences of this clause was the establishment of schools across India, including for girls, supported financially by the East India Company—the Rev. Robert May of the London Missionary Society established 30 schools, educating nearly 3000 children including 700 sons of Brahmins in and around Chinsurah between 1812 and 1816.[^17] The exterior, interior and plan view of one of these schools was depicted on the cover of _Missionary Sketches_ in October 1820, a year after the cover had featured Townley’s ‘Hindoo Idols’.[^18]
 
@@ -83,13 +83,13 @@ Buchanan’s reference to Moloch connected Jagannath to the Old Testament book o
 
 In the years that followed, the front cover of _Missionary Sketches_ featured further Indian gods, with commentary supplied by Ward. In July 1820, an image of 'Kalee, the black goddess of India' included a description of the animal sacrifices Ward witnessed at a festival in Calcutta:
 
-{% figure "fig-c6-6" %}
+{% figure "fig-c6-6" 'is-pulled-right' %}
 
 > Never did I see men so eagerly enter into the shedding of blood; the place literally swam with blood. The bleating of the animals, the numbers slain and the ferocity of the people employed actually made me unwell; and I returned about midnight, filled with horror and indignation.[^25]
 
 In January 1821, the cover featured a representation of 'Doorga, a principal goddess of the Hindoos' based on a drawing made and purchased at Chinsurah along with a number of others, distinctive in that:
 
-{% figure "fig-c6-8" %}
+{% figure "fig-c6-8" 'is-pulled-right' %}
 
 
 > all the lines by which the figures are delineated are composed of the name of the idol, in the Bengalee character, many thousand times repeated. The ornaments (here omitted) which are very profuse and not inelegant, are formed in the same manner.[^26]
@@ -109,9 +109,9 @@ Sick persons, whose death is hastened on the banks of the Ganges: 500
 
 Although not given a number, the body of the text listed another cause of death: ‘by the wheels of the idol Juggernaut’.
 
-{% figure "fig-c6-9" %}
+{% figure "fig-c6-9" 'is-pulled-right' %}
 
-{% figure "fig-c6-10" %}
+{% figure "fig-c6-10" 'is-pulled-right' %}
 
 In April 1822, the cover of _Missionary Sketches_ once again featured an image of Juggernaut, as well as diagrammatic representations of Boloram and Sabattra, his siblings.
 
@@ -131,11 +131,11 @@ Readers were provided with a history of the city, including an account of Englis
 
 The London Missionary Society’s grant of 1000 Rupees a year to support the School Society was noted, with the implication that schools and chapels would rapidly replace temples of idol worship across India.
 
-{% figure "fig-c6-11" %}
+{% figure "fig-c6-11" 'is-pulled-right' %}
 
 While the missionary critique of India and its religious institutions was frequently harsh and intemperate, it is striking that it seems to have induced a response from Indian intellectuals.
 
-{% figure "fig-c6-12" %}
+{% figure "fig-c6-12" 'is-pulled-right' %}
 
 Ram Ram Basu, who worked with Carey from the 1790s onwards and never converted to Christianity, nevertheless argued for the reform of Hinduism based on the Vedas. He even wrote a Bengali text about Jesus Christ, _Christabibaranamrta_, in 1803.
 
@@ -160,15 +160,15 @@ Although they appear in nineteenth century images, such as that depicting the ca
 
 The closest I have come is a somewhat damaged painted clay figure of Jagganath held by the Pitt Rivers Museum in Oxford (1910.62.84). Made from clay rather than wood, it has a different, less waisted, shape to the image located at the centre of the cover of _Missionary Sketches_ in October 1819.
 
-{% figure "fig-c6-13" %}
+{% figure "fig-c6-13" 'is-pulled-right' %}
 
-{% figure "fig-c6-14" %}
+{% figure "fig-c6-14" 'is-pulled-right' %}
 
 It therefore seems more likely to be one of the numerous other representations of Jagganath associated with the London Missionary Society, including some that found their way into a case chiefly featuring images of the Buddha in 1860.
 
 The Pitt Rivers Museum Jagganath appears to best match a black and white photograph, published in 1899 that includes a miniature model of Jagganath’s car.
 
-{% figure "fig-c6-15" %}
+{% figure "fig-c6-15" 'is-pulled-right' %}
 
 Juggernaut—’the Moloch of Hindoostan’— clearly continued to haunt both missionary imagery and missionary imaginations until the very end of the nineteenth century.
 

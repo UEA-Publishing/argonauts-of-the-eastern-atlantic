@@ -29,7 +29,7 @@ The tensions between Christ’s spiritual message and the practical arrangements
 
 John the Baptist lived in the desert on locusts and honey, preparing the way for Jesus, but was also Kicherer’s own first name, but is missing from the inscription in favour of his titles “the Revd. Mr”.
 
-{% figure "fig-c2-3" %}
+{% figure "fig-c2-3" 'is-pulled-right' %}
 
 One surviving copy of this image, published online by the Ephemera Society, includes a hand-written pencil note that states:
 
@@ -53,7 +53,7 @@ Missionary shareholders were effectively members of the society who subscribed a
 
 In 1803, however, a new publishing venture began, _Transactions of the Missionary Society_, which made an edited selection of the Society’s correspondence with missionaries available in print – just over 500 pages were included in volume one.
 
-{% figure "fig-c2-5" %}
+{% figure "fig-c2-5" 'is-pulled-right' %}
 
 The first volume told the Society’s story from the establishment in 1795 until the end of 1802. This was prefaced by an introduction that connected this to a longer history of missionary activity stretching back to ‘the great Apostle’, Jesus Christ himself.[^8] The account acknowledged the conditions provided by the Roman Empire for the missionary journeys of Paul, and readers were expected to understand that the British Empire offered similar opportunities. The expansion of Christianity alongside Spanish and Portuguese empires was briefly described, though it was made clear that Protestants would have done a better job.
 
@@ -95,7 +95,7 @@ The historian Nigel Penn has called the eighteenth century northern border zone 
 
 The central institution of this expanding frontier was the commando, an armed band of farmers of Dutch descent, accompanied by their Khoe servants, who assembled for mutual self-defence. The commando had a great deal in common with what became the ‘posse’ in the American West later in the century, and then as now, when groups of armed and frightened men rode out seeking justice, seemingly defensive actions frequently became offensive actions.
 
-{% figure "fig-c2-8" %}
+{% figure "fig-c2-8" 'is-pulled-right' %}
 
 While the Cape’s cattle and sheep-herding Khoe peoples had much in common with the similarly pastoralist Dutch frontier farmers, known as _trekboers_, the San (a Khoe term meaning forager) or as they were widely known in the colony ‘Bushmen’, pursued a way of life that depended predominantly on wild foods. This put them into conflict with the new arrivals, whose stock consumed the limited supply of water and grass on which wild animals also depended. In addition, and perhaps more significantly, large numbers of these wild animals were killed by the guns of horse-riding incomers.
 
@@ -121,7 +121,7 @@ In early 1799, despite the departure of Governor Macartney on health grounds, Vi
 
 _T’Karoe,  T’abekom_ and _T’zijib_ agreed to go to Cape Town following a presentation of gifts that included livestock, beads, knives, tobacco, mirrors, flints and tinder-boxes. According to Van der Kemp, they had been interested by Visser’s prayers and hymns, and wanted to know more about the settlers’ God. It is likely that they had also heard about the Moravian mission at Bavian’s Kloof (now Genadendaal) which had been reestablished in 1792 and was rapidly becoming a refuge for dispossessed Khoe within the colony.
 
-{% figure "fig-c2-11" %}
+{% figure "fig-c2-11" 'is-pulled-right' %}
 
 {% figure "fig-c2-12" %}
 
@@ -141,7 +141,7 @@ His letter to the Directors following his return in March suggests he was deeply
 
 As a relatively young man of , he was strongly tempted to accept the offer of a post as minister to one of the settler communities in the colony. In addition, while Kicherer had been in the Cape, ‘Vigilant’, having killed ‘Orlam’ in a fight, attempted to help himself to the mission’s sheep.
 
-{% figure "fig-c2-13" %}
+{% figure "fig-c2-13" 'is-pulled-right' %}
 
 When Kramer tried to stop him ‘Vigilant’ lunged at him with a knife, but a young San woman threw her _kaross_, or fur cloak, between the quarrelling men, saving his life. Despite his apparent initial enthusiasm for the missionaries, ‘Vigilant’ later told a local farmer who arrested him that he couldn’t abide the Dutch living in his country.
 
@@ -154,7 +154,7 @@ In May 1801, less than two years after commencing the mission, Kicherer led his 
 
 It is with a letter from William Anderson dated 6 December 1801 describing this seeming abandonment of the mission to the San that the first volume of _Transactions_ ends its account of work on the northern frontier of the Cape Colony, although quite a bit of space was also given to Van der Kemp’s attempts to establish a mission among Xhosa-speakers further East.
 
-{% figure "fig-c2-14" %}
+{% figure "fig-c2-14" 'is-pulled-right' %}
 
 In contrast to the youthful Kicherer’s relative obscurity in the first volume of the _Transactions of the Missionary Society_, the title page of its second volume, published in 1804, announced in capital letters that it included The Rev. Mr. Kicherer’s _Narrative of His Mission to the Hottentots and Boschemen_.
 
@@ -170,7 +170,7 @@ Having witnessed responses to the San he had taken to Cape Town, Kicherer’s co
 
 According to a preface in the _Transactions_, Mary, John and Martha’s desire to go to Europe was prompted by allegations made within the colony that the religion they were taught by missionaries was not the same as that of European Christians.
 
-{% figure "fig-c2-15" %}
+{% figure "fig-c2-15" 'is-pulled-right' %}
 
 The celebrity status their presence provided Kicherer, however, induced the Directors to ask him to write an account, to literally put his name on the front page of their magazine and to commission an image of the Zak River mission based on his sketch. Kicherer became the hero of the story and while his account may not have exactly glorified his missionary work in South Africa over the previous four years, it certainly cast it in the best possible light for European readers.
 
@@ -194,7 +194,7 @@ Within Kicherer’s account there are, however, hints of the endemic murderous v
 
 Those who travelled to Cape Town were struck with dread and dismay when they saw men hung in chains for atrocious crimes, as well as when they witnessed a public execution, although Kicherer attempted to make these things object lessons in European justice as an ordinance of God.
 
-{% figure "fig-c2-17" %}
+{% figure "fig-c2-17" 'is-pulled-right' %}
 
 Naming and clothing emerge as central themes in Kicherer’s account. He describes how he gave names to the San who joined the mission, and wrote these across their shoulders in chalk. When they approached him, the first thing they did was turn to show him their backs. His regular trips to the Cape seem to have been motivated, at least partly, by attempts to get hold of European style clothes to dress his congregation, to replace the sheep skins he described as ‘filthy karosses’.
 

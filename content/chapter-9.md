@@ -8,7 +8,7 @@ image: figures/covers/c9-cover.jpg
 # page_pdf_output: true
 ---
 
-{% figure "fig-c9-1" %}
+{% figure "fig-c9-1" 'is-pulled-right' %}
 
 Many of those attending the thirtieth anniversary meeting of the London Missionary Society were deeply concerned about news, recently received, concerning the death of their missionary John Smith, following the Demerara rebellion (Chapter 5). The Rev. Dr. David Bogue, however, directed the meeting’s attention to the achievements of two of his former students, Dr Robert Morrison and Dr William Milne, who had recently produced a translation of the Bible into Chinese:
 
@@ -26,9 +26,9 @@ _At that period I was considered a Lay-Missionary, – a sort of mathematician s
 
 Morrison then presented a copy of the Bible along with ‘a copy of the Chinese and English Dictionary’ to the assembled London Missionary Society.[^5] Morrison was clear that ultimate credit for his achievements rested with God. Nevertheless, the success of his mission to China, and particularly his production of the Dictionary, suggest credit was also owed to Britain’s premier joint-stock company, the East India Company, with which he formed a strategic alliance.
 
-{% figure "fig-c9-2" %}
+{% figure "fig-c9-2" 'is-pulled-right' %}
 
-{% figure "fig-c9-3" %}
+{% figure "fig-c9-3" 'is-pulled-right' %}
 
 Morrison arrived back in London in March 1824, stopping briefly at Cape Town on his way from China, where he met Robert Moffat (another of Bogue’s former students), presumably with his ‘Mantatee’ captives (Chapter 8). Morrison was himself accompanied on the journey by a Chinese servant, ‘Poon a Sam’, referred to by Bogue in his speech as ‘a Christian Chinese whom we are delighted to see amongst us this day’.[^6] Intriguingly, the _Catalogue of the Missionary Museum,_ printed two years later in 1826, lists a number of items presented by ‘A Sam’ including a pair of shoes, Chinese combs and a brush, two curiously carved coconut cups, as well as the Chinese cup used by Morrison.[^7]
 
@@ -46,9 +46,9 @@ Perhaps this ordering reflects the arrangement of the volumes on the shelf, with
 
 While the Bible translation was funded by the London Missionary Society, with contributions from the British and Foreign Bible Society (established by a similarly non-denominational group of evangelicals in 1804), the three-volume 4,826 page dictionary, printed in six parts between 1815 and 1823, was funded exclusively by the East India Company, to the tune of over £10,000.[^10] Given that the East India Company was officially opposed to the operation of Christian missionaries, as potentially disruptive to trade, how was Morrison able to serve these two masters?
 
-{% figure "fig-c9-4" %}
+{% figure "fig-c9-4" 'is-pulled-right' %}
 
-{% figure "fig-c9-5" %}
+{% figure "fig-c9-5" 'is-pulled-right' %}
 
 {% figure "fig-c9-6" %}
 
@@ -116,9 +116,9 @@ Indeed, during the second half of 1816, Morrison accompanied a British diplomati
 
 By early 1817, the mission press at Malacca had printed 9000 copies of the New Testament. In June of that year, the Ultra Ganges Mission was reinforced by the arrival a Walter Henry Medhurst, an experienced young printer from London. While work on Bible translation was strengthened by the establishment of a printing workshop at Milne’s mission at Malacca, work on the dictionary in Canton was slowed when its types were seized by Chinese authorities when one of the workmen took a sheet of the Dictionary to the Chinese District Magistrate. When the Viceroy of Canton ordered that foreigners should not assist foreigners in printing the Chinese language, Thoms has to work with Portuguese workmen at Macao to cut Chinese characters for the Dictionary.[^26]
 
-{% figure "fig-c9-11" %}
+{% figure "fig-c9-11" 'is-pulled-right' %}
 
-{% figure "fig-c9-12" %}
+{% figure "fig-c9-12" 'is-pulled-right' %}
 
 {% figure "fig-c9-13" %}
 
@@ -152,7 +152,7 @@ Morrison’s Dictionary was also nearing completion, with Part III printed in 18
 
 In January 1823 Morrison travelled to Malacca where he visited the Anglo-Chinese College for the first time. The following month he went to the recently established East India Company settlement at Singapore, where he discussed relocating the college with Sir Stamford Raffles.[^35] Back in London, Morrison’s long-term correspondent and supporter, Sir George Staunton, was in the process of setting up an Oriental Library and Museum, as part of the establishment of an Asiatic Society in London.[^36]
 
-{% figure "fig-c9-15" %}
+{% figure "fig-c9-15" 'is-pulled-right' %}
 
 {% figure "fig-c9-16" %}
 
@@ -162,7 +162,7 @@ With his Dictionary and Bible translation printed, Morrison finally seems to hav
 
 The East India Company agreed to pay Morrison half his salary while in Britain, and he arranged to visit family in Newcastle before returning to London for the annual meetings of the London Missionary Society, the Bible Society and the Religious Tract Society in May, together with his son, [John Robert Morrison](https://en.wikipedia.org/wiki/John_Robert_Morrison). He then toured France, Ireland and Scotland, as well the major English towns, speaking at missionary meetings, as well as meeting European sinologists.
 
-{% figure "fig-c9-17" %}
+{% figure "fig-c9-17" 'is-pulled-right' %}
 
 When Morrison’s ‘Chinese Library and curiosities’ finally cleared customs in June 1824, they were transferred to the London Missionary Society headquarters, where a catalogue was prepared by his servant, A Sam.[^40] Morrison attempted to negotiate with the Universities of Oxford and Cambridge to establish a professorship in Chinese language as a condition of the gift of his library, but was ultimately unsuccessful. As a result, in 1825, he attempted to establish a ‘Universal Language Institution’ in London, a collaboration between the London, Church, Baptist and Wesleyan Missionary Societies. Morrison offered a three-month course of lectures in Chinese to prospective missionaries while Rev. Henry Townley, having recently returned from Calcutta (Chapter 6), gave lectures in Bengali.[^41]
 

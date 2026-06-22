@@ -8,12 +8,6 @@ image: figures/covers/c10-cover.jpg
 # page_pdf_output: true
 ---
 
-<style>
-[data-page-id="page-chapter-10"] .quire-page__header.hero-image .hero-body .label,
-[data-page-id="page-chapter-10"] .quire-page__header.hero-image .hero-body .quire-page__header__title { color: #000; }
-[data-page-id="page-chapter-10"] .quire-page__header.hero-image .hero-body .label { border-color: #fff; }
-</style>
-
 {% figure "fig-c10-1" %}
 
 Visiting Chicago’s Field Museum in June 2010 to see items purchased from the London Missionary Society’s museum by Captain A.W.F. Fuller during the mid-twentieth century, I was surprised to encounter a number of Australian artefacts – four spears and a club. Having briefly worked on a project in northern Australia in 2003, I knew missionaries played a significant part in Australian history, but associated this with other missionary societies and other places.
@@ -36,7 +30,7 @@ Following the death of Pomare II in December 1821, a regency was established –
 
 At the end of October 1823 they went to Mo’orea for six weeks before travelling to Raivavae in the Austral Islands, where they visited newly constructed chapels and witnessed the baptism of 52 people, following which they were presented with a large quantity of bark cloth.[^9] Visiting neighbouring Tubuai in early 1824, they saw more people baptised, despite the island suffering an epidemic disease and having only received Tahitian teachers 18 months earlier.[^10] Returning to Rurutu, where they stopped on their way back from Hawai’i, they attended a church service at which 31 people were baptised. Arriving back at Mo’orea in mid-January and Tahiti in February, Tyerman and Bennet participated in the first Tahitian parliament to include representatives of the common people, convened to consider and adopt a new code of laws. Henry Nott, the Society’s senior missionary, had prepared the laws and presided over the meeting.[^11]
 
-{% figure "fig-c10-4" %}
+{% figure "fig-c10-4" 'is-pulled-right' %}
 
 {% figure "fig-c10-5" %}
 
@@ -52,7 +46,7 @@ When Captain John Dibbs attempted to clear the deck, one of the visiting Māori 
 
 Eventually this tension broke when the ship’s boat returned, carrying William White from the Wesleyan mission at Kaeo, together with Te Ara, Principal Chief of Ngati Ura, who defused the situation. Te Ara had himself served on European ships, and his whipping on the _Boyd_ as a crew member is understood to have led to a revenge attack that saw the entire crew killed in Whangaroa Bay, 15 years earlier. Leaving Te Ara on board to ensure the ship’s safety, Tyerman and Bennet visited the mission station, hopeful that the transformations they had seen in Tahiti would soon come to New Zealand. This, however, was something to be overseen by the Wesleyans, as well as the Anglican Church Missionary Society (CMS) who had established a mission at the Bay of Islands a decade earlier, under the oversight of the Rev. Samuel Marsden, Anglican Chaplain at New South Wales.
 
-{% figure "fig-c10-7" %}
+{% figure "fig-c10-7" 'is-pulled-right' %}
 
 {% figure "fig-c10-8" %}
 
@@ -132,11 +126,11 @@ _It may be said, with truth, respecting the Aborigines of this land, – treat t
 
 Although Threlkeld continued his language work while attempting to defend his expenditure, he was informed by a letter he received in December 1828 that the LMS Directors had decided to abandon the mission. They even subsequently instructed Samuel Marsden to place an advertisement in the Sydney Gazette, which declared that the London Missionary Society was discontinuing the Mission at Lake Macquarie, as well as their connection with Threlkeld. Ultimately, the new Governor of the colony, Darling, agreed to support Threlkeld’s mission, although it was relocated to land Threlkeld was granted in a personal capacity on the other side of Lake Macquarie. It became known as the Ebenezer Mission and continued until 1841.
 
-{% figure "fig-c10-15" %}
+{% figure "fig-c10-15" 'is-pulled-right' %}
 
-{% figure "fig-c10-16" %}
+{% figure "fig-c10-16" 'is-pulled-right' %}
 
-{% figure "fig-c10-17" %}
+{% figure "fig-c10-17" 'is-pulled-right' %}
 
 Was the club, now at the Field Museum in Chicago, collected by Threlkeld during the short years the London Missionary Society supported his mission at Bahtabah? Threlkeld had been actively involved in collecting for the Missionary Museum in the Society Islands, so it is likely he would have continued collecting things in New South Wales. Much later, in 1851, he even took an active part in organising a missionary exhibition in Sydney.[^42] The ‘Tur Rursna’ does not appear in the earliest surviving _Catalogue of the Missionary Museum_, but given the long journey between London and New South Wales, it could have arrived soon after the catalogue was published in 1826.
 
@@ -194,11 +188,11 @@ It seems likely that _Tur Rursna_ as it appears in the catalogue of the Missiona
 
 Threlkeld’s _Reminiscences_ suggest that the club now at Chicago’s Field Museum is not in fact a _Tur-rur-ma_, since it clearly has a handle at one end. Neither does it appear to be a _Yir-ra_, or wooden sword, since its angular profile is unlike the image he identifies as one, nor is it like other early examples recently identified in British museum collections.[^53] While we may never definitively know the ultimate origins of this artefact, we can be fairly certain that these words, translations from a living and spoken Aboriginal language into a written form, arose from the friendship Biraban established with Threlkeld on 21 May 1825.
 
-{% figure "fig-c10-20" %}
+{% figure "fig-c10-20" 'is-pulled-right' %}
 
-{% figure "fig-c10-21" %}
+{% figure "fig-c10-21" 'is-pulled-right' %}
 
-{% figure "fig-c10-22" %}
+{% figure "fig-c10-22" 'is-pulled-right' %}
 
 Acknowledgements
 

@@ -8,13 +8,7 @@ image: figures/covers/c11-cover.jpg
 # page_pdf_output: true
 ---
 
-<style>
-[data-page-id="page-chapter-11"] .quire-page__header.hero-image .hero-body .label,
-[data-page-id="page-chapter-11"] .quire-page__header.hero-image .hero-body .quire-page__header__title { color: #000; }
-[data-page-id="page-chapter-11"] .quire-page__header.hero-image .hero-body .label { border-color: #fff; }
-</style>
-
-{% figure "fig-c11-1" %}
+{% figure "fig-c11-1" 'is-pulled-right' %}
 
 The caption from which this chapter takes its title comes from the final page of the ‘EAST INDIES’ section of the Missionary Museum catalogue, printed in London in 1826.[^1] The section begins with descriptions of 21 ‘models of HINDOO DEITIES’, sent from Calcutta by Henry Townley in 1819 (Chapter 6).[^2] This caption, however, doesn’t describe an Indian god, but rather a key figure in Christian, or at least Catholic religious art: the Virgin Mary with the infant Jesus.
 
@@ -24,7 +18,7 @@ Writing about missionary encounters in the Dutch East Indies, now Indonesia, Web
 
 In many ways it is the Virgin Mary and Child, among all the artefacts listed in the 1826 catalogue, that allows us to unpack the fundamental problem that the London Missionary Society had with ‘idols’ – objects that formed a focus for acts of religious worship – and the reasons these became a dominant focus for missionary collecting during the middle of the nineteenth century.
 
-{% figure "fig-c11-2" %}
+{% figure "fig-c11-2" 'is-pulled-right' %}
 
 Following the re-opening of the Missionary Museum at Austin Friars in August 1824, the considerable costs of ‘building the museum’ (£417) generated concern within the Society.[^4] Should funds raised to support overseas missionary work be used to enable the preservation and display of artefacts in London? Writing from Raiatea in the Pacific on 20 November 1823, the missionaries Lancelot Threlkeld ([Chapter 10](https://argonauts2022.net/10-two-of-the-tur-rursna/)) and John Williams ([Chapter 12](https://argonauts2022.net/12-a-gigantic-idol/)) declared as part of their appeal for a missionary ship:
 
@@ -74,7 +68,7 @@ The means of grace received in the British Isles by ancestors, generations previ
 
 {% figure "fig-c11-3" %}
 
-{% figure "fig-c11-4" %}
+{% figure "fig-c11-4" 'is-pulled-right' %}
 
 Keane’s moral narrative of modernity is briefly set out here in grand historical terms for an assumed audience of British Christians – ‘our’ ancestors were vassals of ignorance and superstition but by the grace of God ‘we’ have reached a state of liberation that creates an obligation to liberate others still bound by these same chains.
 
@@ -136,11 +130,11 @@ Red shows ‘Idols’, dominating the Indian collections in particular, Blue sho
 
 Here Green shows ‘Natural History’ and Red shows ‘Idols’ but other colours are allocated to the other categories listed on the Catalogue’s title page (Dresses, Manufactures & Domestic Utensils, Instruments of War), while an additional category has been added for ‘Publications’, which demonstrates how significant these were as part of the collection from China.
 
-{% figure "fig-c11-8" %}
+{% figure "fig-c11-8" 'is-pulled-right' %}
 
 {% figure "fig-c11-9" %}
 
-{% figure "fig-c11-10" %}
+{% figure "fig-c11-10" 'is-pulled-right' %}
 
 Two lines, one thick, mark an ending of sorts for the ‘EAST INDIES’ section of the _Catalogue of the Missionary Museum_, but in the remaining space of the page follows the description with which this chapter began:
 
@@ -168,7 +162,7 @@ The letter, written at Bangalore in July 1825, and printed in the _Missionary Ch
 
 Five years previously they had talked with Joshua, an Indian convert connected to the London Missionary Society, which led them to question Catholic practice. The elder of the two was, according to the account given, flogged by the priest for his impertinence – an example of what the letter refers to ‘the carnal weapons of Antichrist’.[^35]
 
-{% figure "fig-c11-12" %}
+{% figure "fig-c11-12" 'is-pulled-right' %}
 
 Visited in April 1824 by another Indian convert, John, who had recently been baptised at Bangalore, the elder brother wrote to Flavel, asking for a meeting. Flavel told the European missionaries that when he arrived in Mysore, the Catholic congregation had been commanded by the priest not to speak to him, who described him as ‘the greatest devil he had known among the Protestants’.[^36]
 
@@ -188,7 +182,7 @@ According to the letter signed by the three European missionaries, this was:
 
 _the plain unvarnished tale of the conversion of these two men from the errors and superstitions of the Church of Rome, to the profession of the truth as it is in Jesus_.[^40]
 
-{% figure "fig-c11-13" %}
+{% figure "fig-c11-13" 'is-pulled-right' %}
 
 Here, at last, was an ‘idol’ unambiguously ‘given up by former worshippers, from a full conviction of the folly and sin of idolatry’ in the East Indies section of the catalogue of the Missionary Museum. Rather than being a Hindu _murti_ or Buddharūpa, however, it was an image of the Virgin Mary. It may have been given up through ‘a conviction derived from the ministry of the Gospel by the Missionaries’ although these Missionaries were not Europeans, but fairly recent Indian converts.
 
@@ -213,7 +207,7 @@ The letter ends its account of the dialogue by stating that it was an imperfect 
 
 It is significant that both letters sent from Bangalore in 1825 end by outlining plans for Mysore College, a seminary that was intended to bring ‘forward pious native youth for the ministry of the gospel’.[^45] The degree to which the London Missionary Society would support and embrace local Christian teachers, such as Samuel Flavel, would become a defining question for the Directors of the London Missionary Society, back in London.[^46]
 
-{% figure "fig-c11-14" %}
+{% figure "fig-c11-14" 'is-pulled-right' %}
 
 Acknowledgements
 

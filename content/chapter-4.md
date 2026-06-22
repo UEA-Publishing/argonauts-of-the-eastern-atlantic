@@ -8,11 +8,11 @@ image: figures/covers/c4-cover.jpg
 # page_pdf_output: true
 ---
 
-{% figure "fig-c4-1" %}
+{% figure "fig-c4-1" 'is-pulled-right' %}
 
 William Ellis was only twenty-one years old when he arrived at Port Jackson, Australia, in late July 1816. He had left England on a Sunday morning, six months earlier, along with 187 convicts, a third of whom were younger than he was.
 
-{% figure "fig-c4-2" %}
+{% figure "fig-c4-2" 'is-pulled-right' %}
 
 Ellis had been a junior gardener when he read the letters sent by his pastor, [John Campbell, from South Africa](https://argonauts2022.net/the-giraffe/). Yearning to become a missionary, he trained for a year, was ordained and then married – the risks of sending unmarried missionaries into the world having now been recognised.
 
@@ -38,7 +38,7 @@ News of these ‘Idol Gods’ reached London in early 1818. An announcement in F
 
 In April the Missionary Society initiated a new quarterly publication, _Missionary Sketches_, _for the use of weekly and monthly contributors to the Missionary Society._ Each issue consisted of a single folded sheet, the front cover given over to a large printed illustration.
 
-{% figure "fig-c4-3" %}
+{% figure "fig-c4-3" 'is-pulled-right' %}
 
 Unfortunately, the first issue had to report that the ‘Idol Gods’ had still not arrived, but that ‘correct sketches’ of them would be presented to readers if they did. As a result, the cover showed an ancient Trimurti sculpture from the Elephanta caves in Mumbai Harbour, India, with Brahma, Shiva and Vishnu presented as a three-headed being, suggestive of the form of the Christian Trinity.[^7]
 
@@ -48,7 +48,7 @@ In the sermon that opened this meeting, the Rev. Ralph Wardlaw from Glasgow prea
 
 > Now, while Paul waited for them at Athens, his spirit was stirred in him, when he saw the city wholly given to idolatry.
 
-{% figure "fig-c4-4" %}
+{% figure "fig-c4-4" 'is-pulled-right' %}
 
 Wardlaw proposed that ‘the contemplation of the idolatries of the Heathen’ should keep alive and stimulate the missionary spirit, inspiring indignant grief at the dishonour done to God, amazement at human weakness, abhorrence of human impiety, as well as compassion for human wretchedness.
 
@@ -70,7 +70,7 @@ For evangelicals at the time, the answer was divine Grace. A missionary hymn sun
 
 {% figure "fig-c4-5" %}
 
-{% figure "fig-c4-6" %}
+{% figure "fig-c4-6" 'is-pulled-right' %}
 
 From our perspective, two centuries later, however, it seems necessary to attempt to understand something of what had happened in Tahiti during those two decades, and the motivations that guided Pomare’s actions.
 
@@ -126,7 +126,7 @@ Whether the events in Tahiti during 1815 were related to the eruption of Mount T
 
 Pomare’s restraint in exerting retribution following his victory, including offering respectful burial to enemies killed in battle, seems to have persuaded his erstwhile enemies to accept his overlordship as a Christian king. Following the victory, Pomare set about destroying ‘gods’ and maraes, but also building churches as new places of worship.
 
-{% figure "fig-c4-10" %}
+{% figure "fig-c4-10" 'is-pulled-right' %}
 
 {% figure "fig-c4-11" %}
 
@@ -136,9 +136,9 @@ The picture that emerges is one of religious and societal transformation in whic
 
 {% figure "fig-c4-12" %}
 
-{% figure "fig-c4-13" %}
+{% figure "fig-c4-13" 'is-pulled-right' %}
 
-{% figure "fig-c4-14" %}
+{% figure "fig-c4-14" 'is-pulled-right' %}
 
 {% figure "fig-c4-15" %}
 
